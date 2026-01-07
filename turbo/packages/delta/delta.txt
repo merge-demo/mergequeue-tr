@@ -7181,7 +7181,6 @@ detaching
 denarcotization
 diaphorase
 diemaking
-detaches
 dicast
 dynamis
 demijohns
@@ -11933,6 +11932,7 @@ disembarks
 dentifrices
 degum
 decrease
+detaches
 dyable
 deliberation
 deutovum

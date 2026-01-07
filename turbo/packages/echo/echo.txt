@@ -2679,7 +2679,6 @@ expectorating
 excitors
 enmesh
 enduros
-electrotherapy
 electrotheraputic
 emyds
 elaeopten
@@ -11265,6 +11264,7 @@ enmass
 eschewal
 exterrestrial
 evaporability
+electrotherapy
 emanating
 enwrapped
 ectoplasy
