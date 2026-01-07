@@ -4761,7 +4761,6 @@ falconers
 flagelliform
 fever
 folie
-flagellula
 flickeringly
 fauve
 filigrain
@@ -5714,6 +5713,7 @@ ferulas
 frontis
 farced
 fleuronnee
+flagellula
 fungous
 fuzzball
 frontlessly
