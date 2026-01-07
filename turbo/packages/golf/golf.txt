@@ -373,6 +373,7 @@ gildedness
 gantlets
 gley
 graphed
+galletas
 gasogenic
 graphium
 gorefish
@@ -7077,7 +7078,6 @@ gentiledom
 gercrow
 grottos
 glossorrhaphy
-galletas
 grassmen
 gregorianist
 germanist
