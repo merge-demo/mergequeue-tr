@@ -1611,6 +1611,7 @@ faniente
 favouring
 footroom
 floriage
+fraters
 flappier
 frijol
 fervescence
@@ -2647,7 +2648,6 @@ fluocerite
 frumpling
 ferrumination
 fluviatic
-fraters
 feedings
 fainaigue
 froufrou
