@@ -3766,7 +3766,6 @@ fissurella
 filming
 firnification
 flannelling
-frugivora
 formativeness
 fortranh
 fiberware
@@ -6375,6 +6374,7 @@ funiliform
 finick
 fetichic
 farinas
+frugivora
 ferinely
 fluoroform
 fricasseing
