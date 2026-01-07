@@ -4992,6 +4992,7 @@ escalop
 encapsule
 enfoncee
 erogeneity
+eutaxies
 epithelioblastoma
 endogastric
 emblazonment
@@ -10988,7 +10989,6 @@ excavates
 eurybenthic
 endeared
 etacist
-eutaxies
 eusynchite
 eurycephalic
 epiglot

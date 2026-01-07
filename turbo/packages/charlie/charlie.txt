@@ -5505,7 +5505,6 @@ calico
 cameralistic
 codgers
 catabatic
-catabibazon
 catabolically
 chickenheartedly
 cabler
@@ -14595,6 +14594,7 @@ complemental
 crosby
 cystofibroma
 cystogenesis
+catabibazon
 cystogram
 cystoid
 cystoidea
