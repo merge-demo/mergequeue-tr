@@ -4512,7 +4512,6 @@ forslake
 flooded
 fountainhead
 fructify
-famille
 fortread
 finickiest
 fissirostrate
@@ -7291,6 +7290,7 @@ flubdubbery
 furled
 forelock
 fopperies
+famille
 fopperly
 fraternized
 formaldoxime
