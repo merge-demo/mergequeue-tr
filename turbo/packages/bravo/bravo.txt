@@ -607,7 +607,6 @@ bacteremic
 bacteriaceae
 bacteriaemia
 brobdingnagian
-brooched
 baggyrinkle
 bactericide
 beethoven
@@ -15325,6 +15324,7 @@ bicarinate
 browsed
 bolomen
 bohawn
+brooched
 bechalk
 booth
 boarship
