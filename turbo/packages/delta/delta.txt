@@ -3767,7 +3767,6 @@ disgracia
 drillable
 dynamites
 distrain
-deice
 donning
 disseizoress
 defibrillation
@@ -6648,6 +6647,7 @@ disembodiments
 dustrags
 deserved
 disesteemer
+deice
 deservers
 dollmaker
 droplight
