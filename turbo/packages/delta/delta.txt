@@ -4823,7 +4823,6 @@ dimmedness
 diestrum
 dognapers
 durableness
-demonise
 dactyliotheca
 dodlet
 deaneries
@@ -12638,6 +12637,7 @@ deseed
 dibble
 disembodying
 diskelion
+demonise
 downers
 dysury
 desmocytoma
