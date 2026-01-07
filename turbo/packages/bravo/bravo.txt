@@ -6698,7 +6698,6 @@ bathmotropic
 brontosaurus
 berm
 berme
-bossiest
 bathe
 bologna
 bermensch
@@ -9889,6 +9888,7 @@ bitser
 bitsy
 birled
 bioscope
+bossiest
 bestialist
 brotherly
 bitstock

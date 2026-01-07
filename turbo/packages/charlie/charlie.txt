@@ -2707,7 +2707,6 @@ catostomus
 cankerfret
 compiles
 calcemia
-cankery
 cannoneering
 cankerroot
 cauponize
@@ -27708,6 +27707,7 @@ credibleness
 cowlitz
 caramoussal
 cuppy
+cankery
 cowman
 connumeration
 convected
