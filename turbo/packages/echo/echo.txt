@@ -4887,6 +4887,7 @@ erythroneocytosis
 encumbrous
 evolves
 eyednesses
+errancy
 enterocoelic
 exsanguination
 electrodialysis
@@ -9043,7 +9044,6 @@ electromyographic
 eurychoric
 erythroblastic
 extrafoliaceous
-errancy
 electrocardiographs
 evaginating
 euchring
