@@ -1989,7 +1989,6 @@ diced
 dermatoma
 drover
 demyelinate
-dominated
 deflection
 descloizite
 decadary
@@ -5966,6 +5965,7 @@ domajigger
 diamagnetize
 diagrammitically
 depthlessness
+dominated
 diobols
 demonetization
 dacite
