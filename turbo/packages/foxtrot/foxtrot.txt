@@ -2981,6 +2981,7 @@ frothing
 fy
 fiacres
 fetichry
+fusser
 firelit
 fiance
 fleeciness
@@ -4517,7 +4518,6 @@ famille
 fortread
 finickiest
 fissirostrate
-fusser
 fissura
 frugal
 forwardsearch
