@@ -6883,6 +6883,7 @@ desolation
 darkness
 dryhouse
 didymium
+drunks
 dependents
 dognap
 discolors
@@ -9561,7 +9562,6 @@ dignitarian
 demophoon
 doubloons
 dignities
-drunks
 dignotion
 dependants
 desmitis
