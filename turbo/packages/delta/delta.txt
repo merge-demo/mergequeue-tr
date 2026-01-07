@@ -11767,7 +11767,6 @@ dowering
 default
 dined
 dermutation
-discretion
 discretional
 delivering
 discretive
@@ -14155,6 +14154,7 @@ dona
 decedent
 disulphate
 dislocatedly
+discretion
 depursement
 desulfurated
 decrepit
