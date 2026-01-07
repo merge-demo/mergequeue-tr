@@ -2717,7 +2717,6 @@ genip
 gilbertese
 genyplasty
 glashan
-globularness
 glandule
 gravitons
 gamey
@@ -2855,6 +2854,7 @@ graafian
 gruel
 geatas
 genuflecting
+globularness
 gaberdine
 guildship
 gratifier
