@@ -2256,7 +2256,6 @@ endothys
 electricize
 emphasizes
 electriferous
-energumen
 epilating
 extortions
 elongated
@@ -8926,6 +8925,7 @@ ergomaniac
 eragrostis
 electrophori
 eyers
+energumen
 ergostat
 eddie
 entelam
