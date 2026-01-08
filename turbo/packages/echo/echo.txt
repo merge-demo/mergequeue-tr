@@ -2217,6 +2217,7 @@ elect
 epitheliulia
 electary
 engrailing
+ephemeron
 enthraldom
 emotionist
 elysee
@@ -5915,7 +5916,6 @@ enharden
 eurytopicity
 exoenzymic
 embuskin
-ephemeron
 exclave
 esophagogastrostomy
 eftest
