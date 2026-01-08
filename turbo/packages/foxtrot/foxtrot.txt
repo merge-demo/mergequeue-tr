@@ -2789,6 +2789,7 @@ forgift
 fistulized
 forbearer
 ftncmd
+forewish
 foxtailed
 fotch
 filao
@@ -11454,7 +11455,6 @@ flap
 furrowing
 forletting
 furrowlike
-forewish
 fiction
 furcately
 fissury
