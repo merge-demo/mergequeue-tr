@@ -1023,7 +1023,6 @@ flatboats
 finalists
 farinometer
 farinose
-founce
 flannelly
 flourishing
 farinosel
@@ -3793,6 +3792,7 @@ foxer
 filmstrips
 filo
 filose
+founce
 ferrier
 furnitureless
 foreflap
