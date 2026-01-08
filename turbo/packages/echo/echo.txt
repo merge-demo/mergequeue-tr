@@ -4338,7 +4338,6 @@ enamour
 enamouredness
 expostulator
 eulogistical
-espouse
 espichellite
 espadrille
 enamours
@@ -13977,6 +13976,7 @@ embezzles
 embrocations
 egards
 emceed
+espouse
 embosked
 enwreathed
 endears
