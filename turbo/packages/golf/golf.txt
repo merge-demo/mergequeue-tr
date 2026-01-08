@@ -2772,7 +2772,6 @@ garnished
 gelotometer
 glottochronological
 gristly
-gabies
 gangwayed
 governably
 glassie
@@ -6931,6 +6930,7 @@ geostatics
 goodwife
 grecians
 guasa
+gabies
 guiana
 glaziness
 gruppetto
