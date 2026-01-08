@@ -3661,6 +3661,7 @@ backsettler
 batophobia
 benzdioxazine
 balloonery
+bogum
 bepierce
 batrachian
 bifrontal
@@ -12446,7 +12447,6 @@ bloodline
 bonderman
 bankera
 boii
-bogum
 bowyang
 bedriddenness
 bz
