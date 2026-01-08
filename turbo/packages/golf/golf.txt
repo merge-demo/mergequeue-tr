@@ -6223,7 +6223,6 @@ gastroenteroanastomosis
 gowkedly
 galactosan
 goatsbeard
-guestimate
 gavotting
 galloway
 glue
@@ -6868,6 +6867,7 @@ glis
 gannet
 glibly
 goodenia
+guestimate
 gestated
 gatling
 guyed
