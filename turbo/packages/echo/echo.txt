@@ -11721,6 +11721,7 @@ eglateres
 examinant
 eschewer
 enscrolled
+exceptless
 examinatory
 estrepe
 endochrome
@@ -13424,7 +13425,6 @@ exploring
 ensnaringly
 enraptured
 exploitable
-exceptless
 expressional
 erupted
 eikones
