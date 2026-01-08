@@ -6520,6 +6520,7 @@ endostosis
 ephyra
 exactly
 extratension
+endlichite
 entail
 entomophthora
 exponentials
@@ -6604,7 +6605,6 @@ egyptianism
 expulsatory
 eructed
 execrate
-endlichite
 easterliness
 enteroepiplocele
 eudemonistical

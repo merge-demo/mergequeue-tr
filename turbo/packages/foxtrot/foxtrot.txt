@@ -638,7 +638,6 @@ flyways
 fulgurite
 falsity
 faltboat
-flugelmen
 faltere
 flavored
 frequenter
@@ -1754,6 +1753,7 @@ forejudgment
 feldspathoidal
 forehent
 fashioning
+flugelmen
 fusels
 fusobacterium
 fireworms
