@@ -2945,6 +2945,7 @@ evolute
 endoplast
 etrogim
 encamped
+endothrix
 eliminant
 ennoblers
 ethid
@@ -9900,7 +9901,6 @@ estimable
 empiricists
 electrobiologically
 electrologist
-endothrix
 estimate
 eerily
 eluders
