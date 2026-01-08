@@ -90,7 +90,6 @@ bulwarks
 baldachins
 babhan
 balafo
-bestraddling
 barkened
 beastliest
 bespout
@@ -11222,6 +11221,7 @@ boththridia
 bereavers
 bloopers
 bloops
+bestraddling
 blooth
 blosmy
 biglandular
