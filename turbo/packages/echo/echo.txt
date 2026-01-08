@@ -6427,7 +6427,6 @@ exceptioner
 exarchy
 exhalants
 eastering
-egestion
 exsanguinate
 egbert
 eastern
@@ -6691,6 +6690,7 @@ enterprise
 exploitations
 elongations
 enterprize
+egestion
 expertising
 entosclerite
 eulogiser
