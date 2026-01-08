@@ -939,7 +939,6 @@ fourchite
 fortunateness
 forms
 fanfishes
-flightless
 faxing
 fosterer
 fleecers
@@ -1619,6 +1618,7 @@ flannel
 fawkener
 fraischeur
 funfair
+flightless
 favoredly
 fawned
 fretize
