@@ -8751,6 +8751,7 @@ chaplaincies
 chaplains
 curiboca
 crackup
+congruist
 carpocapsa
 cognitives
 chapless
@@ -22365,7 +22366,6 @@ congruency
 congruent
 coempted
 congruism
-congruist
 congruity
 congruously
 congruousness
