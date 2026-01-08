@@ -992,7 +992,6 @@ euphonism
 educationary
 escargot
 edemas
-exinite
 exclaimingly
 eldership
 epilabra
@@ -4733,6 +4732,7 @@ emeerates
 enclasps
 emptings
 ericaceae
+exinite
 erotesis
 enclaves
 entrepreneurs
