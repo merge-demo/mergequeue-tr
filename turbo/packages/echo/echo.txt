@@ -6280,6 +6280,7 @@ enduring
 estaminets
 exspoliation
 electroengrave
+exauthorize
 embolectomies
 enrober
 enrive
@@ -13494,7 +13495,6 @@ enterparlance
 epidural
 episiorrhagia
 exsanguinating
-exauthorize
 exposing
 ethmoidal
 eudaemonic
