@@ -2338,7 +2338,6 @@ encore
 encomia
 evenlong
 electrocataphoresis
-equison
 ephedrine
 electrochronometric
 enfroward
@@ -5203,6 +5202,7 @@ ectobatic
 electromagnetic
 eluviums
 exitus
+equison
 elusive
 endolysin
 eparchy
