@@ -21838,7 +21838,6 @@ cronstedtite
 connivery
 calcium
 claithes
-confabulator
 cassian
 cytopharynges
 calypter
@@ -23971,6 +23970,7 @@ conveyors
 creamsacs
 campanili
 chamaesiphon
+confabulator
 convenances
 convene
 comedically
