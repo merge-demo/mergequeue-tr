@@ -883,6 +883,7 @@ forold
 flyaways
 faventine
 flamfew
+forcepses
 fulmars
 fingerlet
 furfooz
@@ -8115,7 +8116,6 @@ featurette
 fuchsias
 fanegadas
 fundmonger
-forcepses
 forevers
 fingerberry
 foregate
