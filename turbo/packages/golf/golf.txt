@@ -9207,7 +9207,6 @@ gibberosity
 grippleness
 grazier
 gryllotalpa
-glassworker
 griqualander
 geminis
 gleaning
@@ -10559,6 +10558,7 @@ gyneocracy
 gallivanter
 gatewaymen
 grasset
+glassworker
 gunmetal
 guacico
 guebre
