@@ -13059,6 +13059,7 @@ cusks
 ceibos
 charming
 cybernation
+coccogoneae
 cybernetic
 cybernetical
 cybernetically
@@ -17596,7 +17597,6 @@ cayennes
 culrage
 coccochromatic
 coccogone
-coccogoneae
 concyclically
 coccoidal
 coccolite
