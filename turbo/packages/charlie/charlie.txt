@@ -9314,7 +9314,6 @@ calodaemon
 catagmatic
 chaukidari
 castrate
-chullo
 chaulmaugra
 chaulmoogra
 choralist
@@ -27179,6 +27178,7 @@ cellulipetal
 candidating
 calcines
 countertype
+chullo
 cooter
 classisms
 countertouch
