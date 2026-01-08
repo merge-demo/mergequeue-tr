@@ -3540,6 +3540,7 @@ captainry
 captainship
 counterpetition
 communistically
+chatchkas
 chaotically
 chemicked
 concordat
@@ -18382,7 +18383,6 @@ countergambit
 cognised
 creepy
 cesarian
-chatchkas
 chirimoya
 clypeal
 compactedness
