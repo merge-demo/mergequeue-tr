@@ -8417,6 +8417,7 @@ chamm
 chamma
 chammy
 citellus
+contemperature
 crookeder
 checkerboarded
 confiscator
@@ -13756,7 +13757,6 @@ cascavel
 creationist
 codification
 cogences
-contemperature
 chroniclers
 cantons
 crestfallen
