@@ -5714,6 +5714,7 @@ countersignal
 catawampous
 catawamptiously
 cenogenetically
+chromatophobia
 catberry
 catbirds
 copyist
@@ -12361,7 +12362,6 @@ chromatophile
 chromatophilic
 changemaker
 chromatophilous
-chromatophobia
 chromatophore
 carpel
 chromatophoric
