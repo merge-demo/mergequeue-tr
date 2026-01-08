@@ -386,6 +386,7 @@ diluents
 daimiote
 defension
 deployable
+diphtheria
 didunculus
 disembargoing
 dimmet
@@ -10442,7 +10443,6 @@ distortion
 dister
 droits
 denaturate
-diphtheria
 diphtherian
 dogberrydom
 dewiest
