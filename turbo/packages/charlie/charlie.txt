@@ -13094,7 +13094,6 @@ cooner
 cotys
 catstone
 cycadofilicales
-cycadofilices
 commonsensibly
 cannikins
 cycadophyta
@@ -20044,6 +20043,7 @@ chemurgies
 cadmus
 commensally
 campodeid
+cycadofilices
 commensals
 chamosite
 commensurability
