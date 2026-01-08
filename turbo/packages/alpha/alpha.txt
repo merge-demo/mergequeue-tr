@@ -4073,7 +4073,6 @@ admit
 allowanced
 anisosthenic
 aldrin
-admits
 admittance
 admitted
 agitpunkt
@@ -6280,6 +6279,7 @@ agral
 adiposities
 agramed
 afterpeak
+admits
 agrammatism
 authorized
 agrammatologia
