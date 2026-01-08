@@ -1520,6 +1520,7 @@ bichromated
 bezel
 basted
 batterdock
+brandishes
 ballads
 balete
 baralipton
@@ -1956,7 +1957,6 @@ bagnio
 balances
 bandstring
 bathymetric
-brandishes
 bigeye
 believes
 bosquets
