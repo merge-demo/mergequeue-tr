@@ -5385,7 +5385,6 @@ frigefact
 futurity
 fleabiting
 fledgeling
-fiendhead
 foxfinger
 firs
 freed
@@ -8680,6 +8679,7 @@ flotage
 fizzing
 filii
 fourness
+fiendhead
 frightsome
 fogydom
 faith
