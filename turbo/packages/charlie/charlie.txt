@@ -8789,6 +8789,7 @@ camelot
 cloudless
 conceptualisation
 chaptalize
+chemosynthetic
 cymbalaria
 chapter
 canonries
@@ -9886,7 +9887,6 @@ contrabassoon
 chemoresistance
 chemoserotherapy
 chemosynthesis
-chemosynthetic
 chemosmoses
 chemosmotic
 consumptible
