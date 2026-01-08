@@ -3742,7 +3742,6 @@ desiredness
 dehorning
 disconcertingly
 developers
-disour
 dehorns
 decaudate
 doughlike
@@ -15706,6 +15705,7 @@ diadermic
 doucet
 doria
 demiturned
+disour
 disgig
 dacryocystocele
 doricism
