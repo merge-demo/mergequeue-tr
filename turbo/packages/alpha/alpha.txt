@@ -2493,6 +2493,7 @@ avile
 acocantherin
 and
 awaredom
+awaft
 acockbill
 alcoholizable
 antireduction
@@ -5006,7 +5007,6 @@ aerophane
 appease
 assumptions
 abnormalist
-awaft
 accentuable
 avigate
 abv
