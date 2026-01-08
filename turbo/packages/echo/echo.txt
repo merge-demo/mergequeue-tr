@@ -2415,6 +2415,7 @@ empeople
 entophytal
 espinel
 eucalyptography
+enfoul
 erythematous
 euphausid
 epitaxial
@@ -12276,7 +12277,6 @@ embodier
 evocatrix
 everlasting
 eggplant
-enfoul
 exemplificator
 egypt
 exemplified
