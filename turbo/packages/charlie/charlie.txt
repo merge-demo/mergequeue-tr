@@ -10399,7 +10399,6 @@ chiffoniers
 cochlear
 cooncan
 cementing
-cryptometer
 chiffonnieres
 conchinin
 chiffons
@@ -28297,6 +28296,7 @@ comatik
 craterkin
 chromites
 craterless
+cryptometer
 craterlet
 craterlike
 covariance

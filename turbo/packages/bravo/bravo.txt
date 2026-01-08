@@ -14514,6 +14514,7 @@ branchiomeric
 branchellion
 blattoidea
 babroot
+baedeker
 beadle
 branchiae
 bradyglossia
@@ -14961,7 +14962,6 @@ blash
 bewrap
 brevi
 blastful
-baedeker
 breastwood
 beset
 brisses
