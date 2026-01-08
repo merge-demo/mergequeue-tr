@@ -3126,6 +3126,7 @@ cenotaphies
 cyclophrenia
 cyclopes
 capacitor
+cytinus
 chalker
 catercornerways
 clone
@@ -29985,7 +29986,6 @@ calydon
 craniotomies
 choromania
 crotaphite
-cytinus
 crotaphitic
 crotaphytus
 crotch

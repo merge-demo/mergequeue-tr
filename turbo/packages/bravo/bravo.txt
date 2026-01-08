@@ -2857,7 +2857,6 @@ binaurally
 bawrel
 bioscopies
 bullionist
-buttonmold
 barbery
 barrabora
 barrack
@@ -10055,6 +10054,7 @@ byzantinize
 barmecide
 bottlemaking
 brasser
+buttonmold
 blamability
 bilander
 boomerang
