@@ -1056,7 +1056,6 @@ geriatrics
 gentles
 gastrectomy
 gossamer
-gashed
 garvock
 gerardias
 gorgonin
@@ -8462,6 +8461,7 @@ garancine
 goatishness
 gorily
 grinnie
+gashed
 galactonic
 gratulation
 globefish
