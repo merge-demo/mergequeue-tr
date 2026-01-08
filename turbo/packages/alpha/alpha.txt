@@ -22073,7 +22073,6 @@ automanipulation
 alveolotomy
 anus
 acclamatory
-astartidae
 actings
 archaicism
 asyngamic
@@ -24666,6 +24665,7 @@ adventureship
 adenoiditis
 achaemenidae
 avenida
+astartidae
 aveniform
 astatic
 anacamptic
