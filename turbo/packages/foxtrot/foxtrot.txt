@@ -5064,7 +5064,6 @@ flareless
 fibromyectomy
 frother
 fuss
-flanders
 flirtational
 felter
 forvay
@@ -6929,6 +6928,7 @@ fauna
 firepink
 finjan
 fluidifying
+flanders
 fruitfully
 floriated
 folliculitis
