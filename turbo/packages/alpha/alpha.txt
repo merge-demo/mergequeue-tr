@@ -597,7 +597,6 @@ abode
 aryballus
 auricularly
 archbishoprics
-autoeducation
 arisen
 algonquians
 antarctic
@@ -12688,6 +12687,7 @@ angarep
 anticryptically
 ajivika
 angarias
+autoeducation
 abanet
 aeronomist
 arpeggiation
