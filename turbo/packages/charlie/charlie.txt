@@ -18869,7 +18869,6 @@ colyonic
 coliphage
 colyone
 colipuncture
-coliseum
 chancelor
 colossus
 charlatanship
@@ -21213,6 +21212,7 @@ chiropractors
 conceptualism
 conceptualist
 choreographing
+coliseum
 contrasted
 cricoidectomy
 cananaean
