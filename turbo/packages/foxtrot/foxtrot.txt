@@ -965,6 +965,7 @@ forkers
 formalizer
 fillagreed
 fardage
+ferriages
 farded
 foyers
 forride
@@ -1059,7 +1060,6 @@ furriery
 flustration
 fiberboard
 fids
-ferriages
 frontons
 farrage
 ferroelectricity
