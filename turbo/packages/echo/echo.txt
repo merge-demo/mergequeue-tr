@@ -5611,6 +5611,7 @@ eneuch
 emigated
 epicist
 episiostenosis
+endostoma
 entyloma
 emus
 energistic
@@ -12611,7 +12612,6 @@ exocrines
 emanative
 epitonium
 ectethmoid
-endostoma
 enriches
 effectualness
 epigenetically
