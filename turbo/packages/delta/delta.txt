@@ -3033,6 +3033,7 @@ diluent
 deerfly
 diazoate
 deerfood
+decalobate
 deservings
 dragonfish
 disestablishment
@@ -8341,7 +8342,6 @@ duchies
 dialed
 depredation
 disvouch
-decalobate
 dyed
 dromed
 decigrams
