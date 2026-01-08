@@ -3440,7 +3440,6 @@ glaucosis
 glorioles
 gamont
 gesithcundman
-gesling
 gudrun
 gymkhanas
 gretel
@@ -4835,6 +4834,7 @@ glaciates
 gladiator
 grabbiest
 guatemalan
+gesling
 grooviest
 gummiferous
 gladiatorial
