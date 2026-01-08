@@ -1078,7 +1078,6 @@ gambesons
 gentlewomanhood
 gipsology
 gomphiasis
-gradus
 gasserian
 grays
 glossic
@@ -5034,6 +5033,7 @@ gassy
 gapped
 glandulousness
 groused
+gradus
 goalkeeper
 golconda
 gecarcinus
