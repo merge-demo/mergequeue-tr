@@ -4818,7 +4818,6 @@ freedwomen
 formidolous
 fructiparous
 feasting
-fascicular
 furnishing
 fodder
 foliums
@@ -10042,6 +10041,7 @@ faddish
 fait
 featherhead
 flabbiest
+fascicular
 feloniously
 familistical
 fascinated

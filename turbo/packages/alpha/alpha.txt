@@ -2472,6 +2472,7 @@ amphisbaenidae
 acme
 acquiring
 articulata
+anticlinal
 americana
 adipic
 acnemia
@@ -5258,7 +5259,6 @@ ampitheater
 attackable
 anapterygotous
 alingual
-anticlinal
 anapophysial
 ammonifier
 affine
