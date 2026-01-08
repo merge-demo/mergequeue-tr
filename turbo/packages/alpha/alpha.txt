@@ -2599,7 +2599,6 @@ acpt
 acridinic
 acquaint
 acquaintanceship
-antilift
 acidophilus
 acquisible
 aggeration
@@ -8792,6 +8791,7 @@ anukabiet
 allionia
 ayu
 allyou
+antilift
 aluminography
 allis
 aristocrat

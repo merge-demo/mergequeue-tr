@@ -6496,7 +6496,6 @@ entocyst
 enlivens
 erubescence
 excludable
-englerophoenix
 estimative
 execration
 ephemeric
@@ -11466,6 +11465,7 @@ earned
 evidences
 ethereous
 eutechnics
+englerophoenix
 ecphonesis
 escargatoire
 eucharis
