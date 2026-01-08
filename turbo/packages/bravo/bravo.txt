@@ -478,7 +478,6 @@ backspaces
 blepharocera
 backspacing
 beedged
-beestings
 brubu
 broomier
 backspang
@@ -4991,6 +4990,7 @@ beermaker
 beermaking
 beermonger
 bumpoff
+beestings
 beefers
 bouchon
 bombycilla
