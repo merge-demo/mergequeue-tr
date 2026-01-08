@@ -1849,7 +1849,6 @@ febrific
 feloid
 febrile
 forrue
-fcs
 fibrinogenically
 fluidizer
 farthermore
@@ -3856,6 +3855,7 @@ forewoman
 fieldball
 firmnesses
 frizzles
+fcs
 fanglomerate
 figurings
 farleu
