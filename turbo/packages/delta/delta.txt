@@ -10285,7 +10285,6 @@ dionysiac
 dionysiacally
 dionysus
 dirigibles
-diastrophy
 dionize
 dioon
 dependability
@@ -14706,6 +14705,7 @@ diaristic
 discommission
 dibrach
 despumate
+diastrophy
 doats
 dhurrie
 dirking
