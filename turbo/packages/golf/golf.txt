@@ -5478,7 +5478,6 @@ goodyera
 goldilocks
 glisten
 guttering
-glimmery
 gigeria
 glisteringly
 gorblimy
@@ -10514,6 +10513,7 @@ galipots
 goladar
 girl
 geometrina
+glimmery
 geodesical
 gratiola
 gibs
