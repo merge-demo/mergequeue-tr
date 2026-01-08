@@ -3592,6 +3592,7 @@ entamoeba
 encyclopaediac
 effusive
 equivalents
+encanker
 enchainement
 ensuable
 eyeliner
@@ -9109,7 +9110,6 @@ exponential
 equipollent
 epicolic
 euryalae
-encanker
 electroencephalographic
 ethinyl
 exsection
