@@ -546,6 +546,7 @@ deaccessions
 dovyalis
 deliber
 dao
+distemperer
 damagers
 damalic
 dextrorotation
@@ -3344,7 +3345,6 @@ duddery
 destiny
 domesticable
 datiscoside
-distemperer
 downweight
 dicot
 dayment
