@@ -776,6 +776,7 @@ clock
 carbostyril
 cuish
 cartouches
+composer
 centenionales
 caginess
 caginesses
@@ -20845,7 +20846,6 @@ composant
 cryptoclastic
 cacocholia
 canst
-composer
 composita
 chromous
 composite
