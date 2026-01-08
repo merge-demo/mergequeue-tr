@@ -60,7 +60,6 @@ gatherum
 gibbon
 glauconia
 griller
-gluemaking
 gamboler
 gogga
 gonidiophore
@@ -5790,6 +5789,7 @@ goniometer
 globoid
 geobotanically
 garblers
+gluemaking
 granitize
 gosling
 gratters
