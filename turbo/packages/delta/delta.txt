@@ -4635,7 +4635,6 @@ dismantle
 demisuit
 dumminess
 dithyrambos
-diphthongous
 denoted
 dimissory
 disproved
@@ -17064,6 +17063,7 @@ dactyliographer
 dribbles
 dosers
 disthroning
+diphthongous
 divisory
 diaconus
 dismally
