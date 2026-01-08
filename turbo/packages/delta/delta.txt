@@ -14027,6 +14027,7 @@ depreciatingly
 diddling
 depasturation
 dehydrocorticosterone
+diaphanoscope
 distraite
 door
 distraught
@@ -18374,7 +18375,6 @@ downloaded
 duodenocholecystostomy
 duodenocholedochotomy
 depolishing
-diaphanoscope
 decency
 desecrating
 dreamish
