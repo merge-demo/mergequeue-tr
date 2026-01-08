@@ -3702,7 +3702,6 @@ dinumeration
 dowlas
 dehydrochlorinate
 doketism
-daytale
 drabble
 drepanoid
 didact
@@ -8181,6 +8180,7 @@ diaconal
 disenorm
 dauby
 diaconica
+daytale
 depotentiation
 dragooning
 deputable
