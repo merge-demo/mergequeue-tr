@@ -1249,6 +1249,7 @@ forevouch
 femalize
 footwall
 fatuate
+footles
 fearful
 flatten
 filmdom
@@ -7916,7 +7917,6 @@ forgivenesses
 foreshadowed
 featherman
 flammivomous
-footles
 fishhold
 freshing
 forslow
