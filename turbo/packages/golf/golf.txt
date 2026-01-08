@@ -521,7 +521,6 @@ glissandos
 growthful
 guruship
 grooty
-guaranteers
 gaieties
 guinde
 gigsman
@@ -5142,6 +5141,7 @@ glazers
 geldant
 grouch
 gibus
+guaranteers
 gnostology
 gingham
 gantsl
