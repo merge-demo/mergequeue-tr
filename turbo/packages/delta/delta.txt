@@ -2645,7 +2645,6 @@ decommission
 decommissioned
 discriminably
 decian
-dozers
 deepens
 discernably
 decompensating
@@ -12286,6 +12285,7 @@ desynchronize
 diphosphate
 diaconia
 delineates
+dozers
 daredevilism
 dormy
 dictynidae
