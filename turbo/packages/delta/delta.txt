@@ -172,6 +172,7 @@ didromies
 degami
 daedalic
 diminish
+durns
 deedier
 diphenylmethane
 drachmai
@@ -12721,7 +12722,6 @@ diphenol
 dishonesty
 deindividualization
 domicilement
-durns
 dyslysin
 disoxidate
 diazotizing
