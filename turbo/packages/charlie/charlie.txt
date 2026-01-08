@@ -8624,7 +8624,6 @@ channelize
 crumber
 corresponder
 celosias
-channelized
 commiseration
 chitlins
 chibol
@@ -25934,6 +25933,7 @@ civilisational
 coercion
 cortin
 collaborativeness
+channelized
 cinerary
 cortina
 cortinarius
