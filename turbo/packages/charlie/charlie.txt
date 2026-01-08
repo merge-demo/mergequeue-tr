@@ -14624,7 +14624,6 @@ campodeiform
 cystophora
 calumet
 cystophore
-cistophorus
 coadjustment
 cystophotography
 coxier
@@ -29566,6 +29565,7 @@ cultivatable
 cabals
 chopine
 colubriformia
+cistophorus
 critiqued
 critize
 cosmic
