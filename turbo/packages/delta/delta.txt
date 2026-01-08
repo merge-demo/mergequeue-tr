@@ -3399,7 +3399,6 @@ disadorn
 donet
 deflector
 dichlorvos
-devitrifying
 deflesh
 deflexibility
 dysgenics
@@ -9320,6 +9319,7 @@ disorders
 dif
 dodos
 dactylography
+devitrifying
 diffame
 dietted
 detracts
