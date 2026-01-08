@@ -6368,7 +6368,6 @@ causidical
 causon
 counterassurance
 caustical
-caustically
 causticism
 chamaeleo
 celticism
@@ -24005,6 +24004,7 @@ conventional
 cutlassfish
 conventionalised
 conoscope
+caustically
 comatous
 cadmide
 conventionalising
