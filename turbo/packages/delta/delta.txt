@@ -6133,7 +6133,6 @@ dichromatism
 drumloid
 ducatoon
 deregulatory
-dowsabels
 destructivism
 dereistic
 derelicts
@@ -10989,6 +10988,7 @@ defiers
 deboistness
 diasystem
 disaligned
+dowsabels
 disalliege
 deoxidization
 dodona
