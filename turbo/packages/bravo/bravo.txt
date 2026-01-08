@@ -6831,6 +6831,7 @@ bipartizan
 bubbling
 brachycephalic
 besan
+bluffable
 bescab
 blepharoplast
 belout
@@ -11492,7 +11493,6 @@ bedoctor
 baccalaurean
 bluewoods
 billposter
-bluffable
 blicky
 bialveolar
 baraca

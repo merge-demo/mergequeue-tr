@@ -6174,6 +6174,7 @@ fluavile
 flubbed
 feudum
 foreread
+fala
 feloniously
 fairgoing
 flaxes
@@ -8726,7 +8727,6 @@ fortuitous
 furrieries
 flote
 faussebraie
-fala
 featheriest
 fortunes
 faintise
