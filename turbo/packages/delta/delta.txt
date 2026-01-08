@@ -4565,7 +4565,6 @@ depths
 disusing
 detected
 digitigrade
-decretal
 demiox
 dharmasmriti
 disenthrall
@@ -10120,6 +10119,7 @@ dawson
 disaffiliations
 dynes
 ductilized
+decretal
 deminatured
 dinetic
 dinette

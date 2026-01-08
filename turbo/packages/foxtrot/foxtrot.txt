@@ -6699,6 +6699,7 @@ feast
 fellowships
 forelegs
 fogon
+flunks
 fogproof
 frugally
 forstand
@@ -8784,7 +8785,6 @@ firry
 flashtube
 frustula
 feoffing
-flunks
 favorably
 falcinellus
 frailes
