@@ -3326,7 +3326,6 @@ cirripede
 cowgram
 connivant
 celli
-colleri
 capo
 chaufers
 coughweed
@@ -19234,6 +19233,7 @@ cuidado
 coloenteritis
 closefitting
 colog
+colleri
 choel
 colognes
 cologs
