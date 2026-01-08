@@ -266,7 +266,6 @@ gambrelled
 guao
 gemless
 glaires
-gizmo
 glyph
 gumminess
 grapta
@@ -2281,6 +2280,7 @@ globelike
 graben
 germanophilist
 garance
+gizmo
 geissoloma
 geissolomataceae
 geissospermine
