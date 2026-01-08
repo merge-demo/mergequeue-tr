@@ -6964,6 +6964,7 @@ formylation
 franks
 foetus
 foments
+frustule
 fussiness
 fortuity
 fordless
@@ -8915,7 +8916,6 @@ filosus
 faultfinder
 funambulist
 fuddling
-frustule
 footsoreness
 fanmaking
 fourre
