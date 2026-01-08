@@ -2792,6 +2792,7 @@ ftncmd
 foxtailed
 fotch
 filao
+fubby
 fimbriation
 frazzles
 filace
@@ -7617,7 +7618,6 @@ filling
 falces
 fools
 faluns
-fubby
 fatiscent
 forefield
 factitiousness
