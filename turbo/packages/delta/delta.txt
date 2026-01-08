@@ -8286,6 +8286,7 @@ diagrams
 dentin
 db
 dracontian
+drolly
 dispossess
 droob
 dissimile
@@ -14177,7 +14178,6 @@ disorientates
 dolesman
 diastatically
 dermatomic
-drolly
 download
 disunites
 duffs
