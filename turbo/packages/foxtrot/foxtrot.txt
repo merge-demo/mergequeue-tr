@@ -345,7 +345,6 @@ fixers
 failingness
 facultative
 foresound
-floss
 frogleg
 flacian
 formulariser
@@ -6866,6 +6865,7 @@ finance
 failing
 frustratingly
 flaggings
+floss
 figurist
 feline
 feretrum
