@@ -2396,6 +2396,7 @@ dimercuric
 decyl
 deciles
 decylic
+durst
 dorsiparous
 deciliter
 druidry
@@ -7046,7 +7047,6 @@ driveable
 dessous
 devall
 doodad
-durst
 destabilization
 doolie
 difficultly
