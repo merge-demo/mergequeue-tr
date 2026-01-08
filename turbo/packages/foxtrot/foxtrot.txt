@@ -1992,7 +1992,6 @@ fitched
 flossflower
 fortunel
 floative
-fayed
 fissipeds
 fogging
 fedora
@@ -5117,6 +5116,7 @@ fawns
 fructure
 flasker
 furless
+fayed
 fastuousness
 foretooth
 floccular
