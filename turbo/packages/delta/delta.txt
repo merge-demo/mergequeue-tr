@@ -4646,6 +4646,7 @@ disintoxicate
 demythologization
 diplomatize
 demythologizer
+dislimning
 duodecimal
 discretionally
 dees
@@ -11807,7 +11808,6 @@ dogma
 defiler
 discruciate
 dived
-dislimning
 damascenine
 devonport
 dujan

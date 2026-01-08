@@ -2658,7 +2658,6 @@ gloriosity
 gangliectomy
 gourde
 grubstaker
-gervas
 gardening
 gardeviance
 gibbles
@@ -3155,6 +3154,7 @@ gelasian
 germanophobe
 ghostship
 gnomon
+gervas
 gutturalizing
 gramoches
 gypsywort
