@@ -7280,7 +7280,6 @@ glowbird
 gallophobe
 gerated
 gastraeadae
-glandular
 gooky
 goofing
 gamostelic
@@ -9286,6 +9285,7 @@ gunj
 guidebook
 gi
 geodynamicist
+glandular
 grapeline
 girnel
 gallowglass
