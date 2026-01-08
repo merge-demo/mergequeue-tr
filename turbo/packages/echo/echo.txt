@@ -2045,6 +2045,7 @@ enantiopathia
 extravenate
 encampments
 enthusiasm
+eyehook
 embalm
 enterocinesia
 elaphurus
@@ -8839,7 +8840,6 @@ ethoxy
 ethnobotanist
 effleurage
 erd
-eyehook
 eagers
 erechtheum
 enthalpy
