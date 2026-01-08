@@ -11117,7 +11117,6 @@ disattaint
 disattune
 defiling
 diplomacy
-dysautonomia
 disguster
 disavail
 dayroom
@@ -11480,6 +11479,7 @@ demiparallel
 deepened
 demimondaines
 dado
+dysautonomia
 dullhead
 dwarfy
 discomedusae
