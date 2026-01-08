@@ -3683,7 +3683,6 @@ artist
 axiation
 acuating
 anureses
-arrant
 assurge
 adenosine
 abepithymia
@@ -4018,6 +4017,7 @@ adminicular
 accounted
 adminiculation
 attical
+arrant
 accessioning
 acetaldehyde
 anitinstitutionalism
