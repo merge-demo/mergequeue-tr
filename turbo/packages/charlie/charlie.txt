@@ -13825,7 +13825,6 @@ catalysis
 cingle
 cauchemar
 cingula
-chazzan
 chorei
 chronogenetic
 cheapie
@@ -26197,6 +26196,7 @@ cascrome
 catalecta
 cantharidism
 calabazilla
+chazzan
 cancriform
 clinchingness
 chanceman
