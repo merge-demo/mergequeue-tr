@@ -2473,7 +2473,6 @@ gonopodial
 gemmology
 globality
 gnathidium
-glabrate
 girt
 gillflirt
 geoisotherm
@@ -6473,6 +6472,7 @@ gangrenate
 gapeworms
 gurry
 glycols
+glabrate
 grit
 guirlande
 graduatical
