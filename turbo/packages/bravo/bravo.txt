@@ -4059,6 +4059,7 @@ bakuba
 bedolt
 brisure
 bumperette
+bucko
 blanch
 bannerets
 becolme
@@ -16721,7 +16722,6 @@ baklavas
 bankbooks
 bleached
 bodycheck
-bucko
 buckoes
 baronetise
 balaam
