@@ -1309,6 +1309,7 @@ caliber
 compulsatory
 calibers
 colunar
+conelet
 calibrated
 calibrater
 calibrates
@@ -20474,7 +20475,6 @@ comparting
 compartition
 chained
 cacaxte
-conelet
 crownmaker
 compartmentalization
 celliferous
