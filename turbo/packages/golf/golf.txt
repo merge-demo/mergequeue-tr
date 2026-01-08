@@ -3355,7 +3355,6 @@ gessamine
 gonfanons
 gluside
 gibbar
-guttiferal
 germinations
 gallicolae
 gools
@@ -6572,6 +6571,7 @@ groyne
 goulan
 ghostwrite
 gingivolabial
+guttiferal
 gruis
 gawkiest
 geldesprung
