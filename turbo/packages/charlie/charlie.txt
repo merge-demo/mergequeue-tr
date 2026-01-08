@@ -1363,7 +1363,6 @@ cahiz
 calycles
 calycli
 cormophytic
-configurate
 calycocarpum
 calicoes
 concur
@@ -9051,6 +9050,7 @@ charmless
 charmlessly
 clodlike
 charmonium
+configurate
 charms
 charneco
 charnockite
