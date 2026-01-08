@@ -13278,7 +13278,6 @@ empierce
 endophragm
 estranger
 englishable
-evict
 eponymize
 ensheath
 epignathous
@@ -13310,6 +13309,7 @@ extracosmic
 extogenous
 estella
 encephalodialysis
+evict
 educts
 explosimeter
 exembryonate
