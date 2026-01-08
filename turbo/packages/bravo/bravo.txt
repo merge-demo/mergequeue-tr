@@ -10615,6 +10615,7 @@ bestial
 bohemia
 blaunner
 brokenness
+bedlamism
 blawing
 bidery
 blawn
@@ -10948,7 +10949,6 @@ barth
 bourrees
 blinkard
 blesbuck
-bedlamism
 blinkards
 benedictionary
 bowses
