@@ -19185,6 +19185,7 @@ conjunctives
 clitterclatter
 collotypic
 cental
+cebian
 clay
 classifier
 collum
@@ -25424,7 +25425,6 @@ cohert
 cornrick
 cornrow
 cornstalks
-cebian
 cornstarch
 crystallographers
 cornstone
