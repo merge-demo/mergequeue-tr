@@ -7743,6 +7743,7 @@ certainty
 certhia
 caryatidic
 cfi
+claviceps
 certifiability
 categorematic
 cellarway
@@ -15677,7 +15678,6 @@ chirres
 clavy
 clavicembalist
 clavicembalo
-claviceps
 caiarara
 cartage
 clavichord
