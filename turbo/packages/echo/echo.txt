@@ -359,7 +359,6 @@ eyestone
 erethistic
 eeler
 enthroned
-eavesdropping
 equimolar
 eightvos
 exosseous
@@ -11632,6 +11631,7 @@ ew
 exacerbatingly
 expulses
 enddamaged
+eavesdropping
 exactable
 exactas
 ergastoplasm
