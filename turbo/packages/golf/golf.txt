@@ -4790,7 +4790,6 @@ gravidly
 gainfulness
 glaciered
 gages
-gifted
 gadi
 gein
 grapewort
@@ -7786,6 +7785,7 @@ girnal
 glacial
 gunung
 grainiest
+gifted
 gipseian
 gaucie
 greeny
