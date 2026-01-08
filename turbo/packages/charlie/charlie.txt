@@ -6031,7 +6031,6 @@ catholicisation
 choreographs
 catholicised
 catholicist
-chaitya
 coprolagnist
 catholicity
 condole
@@ -13938,6 +13937,7 @@ cinquefoil
 corporature
 cinquefoiled
 cinquefoils
+chaitya
 cacographer
 cinquepace
 cinter

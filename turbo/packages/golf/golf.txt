@@ -4316,7 +4316,6 @@ gingerness
 guestimated
 greing
 griping
-gouging
 gurgulio
 graphy
 gingersnaps
@@ -6068,6 +6067,7 @@ gnathostomata
 gastrocnemial
 gypsography
 gph
+gouging
 gnats
 glutaeous
 gorbit
