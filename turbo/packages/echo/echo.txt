@@ -4955,6 +4955,7 @@ epineurial
 enthronise
 exigenter
 entoplastron
+exsanguious
 endeavourer
 encouragement
 endeavouring
@@ -8035,7 +8036,6 @@ emigating
 epipanies
 expectorations
 endovasculitis
-exsanguious
 euthenist
 equuleus
 encoop
