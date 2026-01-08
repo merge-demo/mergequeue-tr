@@ -4912,6 +4912,7 @@ forsooth
 foppishly
 fourteens
 flamen
+fuzziness
 flamandization
 firefanged
 funneling
@@ -8692,7 +8693,6 @@ fibroids
 favellidium
 fortifiers
 flaxwench
-fuzziness
 frumpish
 fosset
 fid
