@@ -921,7 +921,6 @@ cholesterosis
 cakavci
 cakchikel
 cushily
-caker
 cakette
 chaptalization
 cakewalked
@@ -16584,6 +16583,7 @@ cardinality
 chapeaus
 catacomb
 circumoesophagal
+caker
 crooner
 cosponsorships
 circut
