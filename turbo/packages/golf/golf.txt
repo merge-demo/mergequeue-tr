@@ -6140,7 +6140,6 @@ gardy
 grumpish
 gnapweed
 gallification
-grammar
 gowiddie
 goblinry
 generalizing
@@ -9462,6 +9461,7 @@ gaseously
 griffonne
 gabled
 glandulosity
+grammar
 genitalial
 glycose
 gladiate
