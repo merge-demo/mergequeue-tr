@@ -1223,7 +1223,6 @@ bakli
 baymen
 boches
 biscot
-bearhide
 balloting
 bakra
 bruchus
@@ -9773,6 +9772,7 @@ bistort
 bedarkened
 bistorts
 beetlehead
+bearhide
 bistred
 beknights
 bradylexia
