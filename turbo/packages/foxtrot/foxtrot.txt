@@ -6812,7 +6812,6 @@ florula
 fragmentizer
 foretold
 fasces
-fructifier
 forger
 foliaged
 firetower
@@ -11438,6 +11437,7 @@ fiducially
 fluviose
 falteringly
 furrily
+fructifier
 frigage
 frostless
 fathoms
