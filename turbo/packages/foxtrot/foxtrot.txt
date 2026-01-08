@@ -5640,7 +5640,6 @@ fumet
 fermium
 fawe
 fragility
-frumenties
 fibrine
 freckles
 funeration
@@ -10348,6 +10347,7 @@ flatmate
 footgeld
 frontogenesis
 ferrocalcite
+frumenties
 fleing
 feigning
 foxgloves
