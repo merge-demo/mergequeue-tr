@@ -15256,7 +15256,6 @@ colters
 clamminess
 clarets
 clamming
-colpotomies
 clammyweed
 clamored
 clamorer
@@ -18181,6 +18180,7 @@ coeval
 camorrist
 coevalness
 carboline
+colpotomies
 coevolution
 coimplicate
 calumniousness
