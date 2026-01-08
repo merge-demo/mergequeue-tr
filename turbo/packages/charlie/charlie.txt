@@ -17587,7 +17587,6 @@ coccyodynia
 coccionella
 cephalothoracopagus
 coccyx
-coccyxes
 coccyzus
 cocco
 changar
@@ -26290,6 +26289,7 @@ costmaries
 counterdemonstrator
 costoabdominal
 collegianer
+coccyxes
 cultured
 costoapical
 carmel
