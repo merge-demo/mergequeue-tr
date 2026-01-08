@@ -6307,6 +6307,7 @@ besodden
 brigalow
 battens
 balourdise
+barracuda
 benzalacetophenone
 bonum
 bakupari
@@ -12854,7 +12855,6 @@ biestings
 boardbill
 beefcake
 boomtowns
-barracuda
 boon
 brevifoliate
 bibliog
