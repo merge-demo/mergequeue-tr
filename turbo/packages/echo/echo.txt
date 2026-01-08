@@ -11114,7 +11114,6 @@ enwreathing
 eiderdown
 erotetic
 euthycomi
-exploitable
 enol
 exsiliency
 euthytatic
@@ -13423,6 +13422,7 @@ expressio
 exploring
 ensnaringly
 enraptured
+exploitable
 exceptless
 expressional
 erupted
