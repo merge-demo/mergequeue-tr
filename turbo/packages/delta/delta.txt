@@ -8588,7 +8588,6 @@ digressionary
 devourer
 diapirs
 diaplases
-disk
 deprived
 dinosaurian
 destroying
@@ -11837,6 +11836,7 @@ dislikable
 deplumed
 donatively
 dbl
+disk
 dissociableness
 discurtain
 discusses

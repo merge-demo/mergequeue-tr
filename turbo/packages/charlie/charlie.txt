@@ -7369,7 +7369,6 @@ cyclostylar
 cephalometric
 clysis
 cephalonasal
-cephalopathy
 cephalopharyngeal
 cephalophyma
 cephalophine
@@ -26619,6 +26618,7 @@ councilman
 councilmanic
 councilmen
 conjunctionally
+cephalopathy
 carbomycin
 cognise
 coked
