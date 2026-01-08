@@ -4929,7 +4929,6 @@ exencephalic
 ectocoelic
 eyelight
 emporetic
-eurytomid
 emulsifiers
 earnestful
 eyries
@@ -6947,6 +6946,7 @@ enantiomorphy
 elicitate
 embrocado
 entraining
+eurytomid
 entrainment
 entrains
 emissaryship
