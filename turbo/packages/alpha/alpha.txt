@@ -5469,7 +5469,6 @@ afterlife
 alepine
 absorbs
 actinophone
-afterbirth
 antiutilitarian
 atmospheres
 afterblow
@@ -25176,6 +25175,7 @@ axoid
 amphiscii
 axoidean
 almonry
+afterbirth
 agist
 acidifiable
 anthropomantist
