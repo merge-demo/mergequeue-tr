@@ -21537,7 +21537,6 @@ cupromanganese
 concubinary
 coeducation
 concubinarian
-chatelaine
 carpenteria
 conchinine
 concubine
@@ -21914,6 +21913,7 @@ confessant
 confessary
 coelomopore
 cornfield
+chatelaine
 clubrooms
 confessedly
 confesses
