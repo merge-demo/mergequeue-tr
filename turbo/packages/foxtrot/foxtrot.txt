@@ -1317,7 +1317,6 @@ fluoridised
 flookan
 flout
 functionality
-fallowness
 frictionally
 fabulize
 fineleaf
@@ -7604,6 +7603,7 @@ feminised
 fester
 fabular
 funfest
+fallowness
 foolhardy
 flaxy
 flashlights
