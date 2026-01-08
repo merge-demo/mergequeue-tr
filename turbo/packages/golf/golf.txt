@@ -6234,6 +6234,7 @@ greats
 gormandizing
 gregorianizer
 gob
+ghole
 greediness
 gadslid
 gobber
@@ -10773,7 +10774,6 @@ glycyl
 gutt
 gunny
 gerenuk
-ghole
 genialness
 gonadectomy
 gresil
