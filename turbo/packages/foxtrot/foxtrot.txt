@@ -5571,7 +5571,6 @@ fiords
 ferfel
 flickermouse
 flannelmouthed
-flowery
 furbearer
 froebelist
 fanaticized
@@ -8856,6 +8855,7 @@ frotted
 fogger
 finesse
 franticness
+flowery
 fervorless
 foulder
 fiberizer
