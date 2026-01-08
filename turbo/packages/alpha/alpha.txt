@@ -430,7 +430,6 @@ aridness
 aureus
 anomiidae
 abying
-arendalite
 abilao
 abilitable
 ability
@@ -12375,6 +12374,7 @@ andevo
 asphyxiant
 assisi
 andian
+arendalite
 automatable
 andine
 angakut
