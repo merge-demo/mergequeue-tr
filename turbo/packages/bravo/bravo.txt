@@ -3261,7 +3261,6 @@ backoff
 blushfulness
 basilicate
 basilicock
-basilics
 bohairic
 basilidian
 bursitises
@@ -8761,6 +8760,7 @@ binaries
 betuckered
 bulginess
 berghaan
+basilics
 binaural
 blow
 binbashi
