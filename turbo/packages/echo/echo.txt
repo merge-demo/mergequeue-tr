@@ -7645,7 +7645,6 @@ exocrine
 ellachick
 exhumations
 eccentricities
-elapse
 eoliths
 enterohelcosis
 epiparodos
@@ -8660,6 +8659,7 @@ equilibriums
 etherialization
 equimodal
 eunomia
+elapse
 espantoon
 encirclements
 erythrogonium
