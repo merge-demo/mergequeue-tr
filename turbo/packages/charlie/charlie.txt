@@ -3142,7 +3142,6 @@ craterid
 cristatella
 carbogelatin
 cape
-chequerboard
 capeadores
 capelan
 chromid
@@ -16095,6 +16094,7 @@ cliffs
 creators
 calamints
 cliffside
+chequerboard
 cliffsman
 cliffweed
 clift
