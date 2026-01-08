@@ -12333,7 +12333,6 @@ chromatin
 caucasoids
 chromatype
 chromatist
-chemotic
 coracohyoid
 cholent
 crack
@@ -16236,6 +16235,7 @@ cornerman
 calcutta
 compagination
 clinohumite
+chemotic
 childermas
 constringency
 contraindicate
