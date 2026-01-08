@@ -5925,6 +5925,7 @@ catfish
 catfoot
 catfooted
 chhatri
+cedarn
 catgut
 chancellorism
 cath
@@ -13539,7 +13540,6 @@ cymation
 curtsies
 confricamenta
 compensation
-cedarn
 centricality
 cymbalist
 crapshooting
