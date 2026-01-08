@@ -20844,7 +20844,6 @@ composable
 composant
 cryptoclastic
 cacocholia
-canst
 composita
 chromous
 composite
@@ -29696,6 +29695,7 @@ croisette
 cambiform
 croissant
 croissante
+canst
 crojack
 carousingly
 complimented
