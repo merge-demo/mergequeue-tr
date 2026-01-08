@@ -2173,7 +2173,6 @@ camphoryl
 corgi
 camphoroyl
 clerkliest
-camporee
 camphorone
 camphorweed
 camphorwood
@@ -7005,6 +7004,7 @@ cutlips
 censure
 censureless
 coexecutant
+camporee
 coddling
 calcarium
 caecitis

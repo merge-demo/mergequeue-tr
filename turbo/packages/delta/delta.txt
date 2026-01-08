@@ -8784,7 +8784,6 @@ diffident
 dung
 deeryard
 diazoimide
-dyschroia
 disembowel
 dixieland
 doggies
@@ -17908,6 +17907,7 @@ duenas
 duenesses
 disserted
 diddles
+dyschroia
 duennas
 datable
 dissonous
