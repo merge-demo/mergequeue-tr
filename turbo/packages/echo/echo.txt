@@ -6357,6 +6357,7 @@ enshield
 evolution
 endostitis
 eloquently
+extrauterine
 ebbed
 eavesdrip
 episcopize
@@ -14180,7 +14181,6 @@ exultingly
 eisteddfod
 empyromancy
 eebree
-extrauterine
 exesion
 eyght
 excogitative
