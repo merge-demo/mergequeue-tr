@@ -7670,7 +7670,6 @@ bezants
 bezazzes
 bilk
 becloaking
-brahmany
 boe
 butterflyer
 blackflies
@@ -16128,6 +16127,7 @@ brumalia
 baluster
 boskiest
 brookier
+brahmany
 brookite
 beneficient
 barbarianized
