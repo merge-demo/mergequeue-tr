@@ -1951,6 +1951,7 @@ beacon
 beseechment
 broadly
 bisection
+bewhisker
 bagnio
 balances
 bandstring
@@ -7570,7 +7571,6 @@ bastardize
 bloodripe
 begiggle
 barnacle
-bewhisker
 biplicate
 bleater
 burele
