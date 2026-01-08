@@ -6486,7 +6486,6 @@ brachiopodist
 betelgeuse
 bepicture
 bugology
-banxring
 bepiece
 bepile
 bolshie
@@ -12210,6 +12209,7 @@ bargir
 besit
 brevis
 bacchides
+banxring
 broomcorn
 brimstone
 blamable
