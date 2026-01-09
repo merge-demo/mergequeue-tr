@@ -6428,7 +6428,6 @@ eastering
 exsanguinate
 egbert
 eastern
-epithetician
 equatorial
 epeirogenetic
 ecophene
@@ -9507,6 +9506,7 @@ eulogia
 electrolithotrity
 eczematoid
 entach
+epithetician
 escout
 enstore
 es
