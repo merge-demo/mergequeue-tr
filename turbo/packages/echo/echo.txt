@@ -3439,6 +3439,7 @@ eventide
 embellisher
 embellishers
 eutelegenic
+endiadem
 encheason
 enchained
 encolden
@@ -8359,7 +8360,6 @@ educative
 excitomotory
 estivated
 exclusory
-endiadem
 epithyme
 extacie
 eumoiriety
