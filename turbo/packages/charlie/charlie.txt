@@ -893,7 +893,6 @@ cucularis
 cazibi
 cajeput
 correligionist
-climaxes
 cajeputole
 cajeputs
 census
@@ -20891,6 +20890,7 @@ chives
 compaginate
 compradore
 comprecation
+climaxes
 compregnate
 coart
 cosmognosis
