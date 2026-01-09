@@ -8734,7 +8734,6 @@ geraniaceous
 gismo
 groundenell
 grubby
-gambit
 glucosuric
 garrets
 games
@@ -9640,6 +9639,7 @@ grudging
 gonosphere
 geraniols
 garmenting
+gambit
 gladeye
 gratton
 gyroidally
