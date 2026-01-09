@@ -682,7 +682,6 @@ bicorne
 bombo
 bungey
 biannual
-begall
 bronchiolitis
 bathyesthesia
 baculine
@@ -5166,6 +5165,7 @@ bashment
 bazookas
 beroidae
 befoulment
+begall
 biacuminate
 befraught
 befreight

@@ -1994,6 +1994,7 @@ drover
 demyelinate
 deflection
 descloizite
+disbenchment
 decadary
 dimethylcarbinol
 depaysee
@@ -6203,7 +6204,6 @@ dithyramb
 degrades
 drabness
 dipsades
-disbenchment
 dactylopodite
 dermanaplasty
 dermapterous
