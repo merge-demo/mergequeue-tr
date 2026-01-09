@@ -7742,7 +7742,6 @@ disembarrass
 dram
 dysarthrosis
 deintellectualize
-defoliage
 devise
 dayton
 domiciliary
@@ -16531,6 +16530,7 @@ diesinker
 disinterred
 dallop
 dendrodont
+defoliage
 dacryops
 disarchbishop
 draftsman
