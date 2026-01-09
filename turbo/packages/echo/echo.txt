@@ -4164,7 +4164,6 @@ encallow
 euterpe
 extraessentially
 exchangeable
-ephedra
 emphasizing
 emporeutic
 enaliosaur
@@ -7360,6 +7359,7 @@ elsin
 epeeist
 embue
 exstipulate
+ephedra
 epeiric
 exciseman
 enunciate
