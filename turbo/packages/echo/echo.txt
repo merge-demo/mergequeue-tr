@@ -1091,6 +1091,7 @@ extempory
 epeisodion
 esterification
 elatrometer
+equipartition
 electrotypes
 epicaridea
 epitrichial
@@ -2764,7 +2765,6 @@ eurithermophilic
 excecate
 elytrous
 eutropic
-equipartition
 epidiplosis
 eighteenmo
 economicalness
