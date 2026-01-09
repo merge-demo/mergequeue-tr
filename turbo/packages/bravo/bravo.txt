@@ -6773,7 +6773,6 @@ bitterbur
 beaut
 buhls
 barytosulphate
-badian
 bookery
 bersagliere
 brittles
@@ -18397,6 +18396,7 @@ brachygrapher
 buzzingly
 bothlike
 bubber
+badian
 buttes
 bespring
 benzoins
