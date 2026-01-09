@@ -8392,7 +8392,6 @@ calyciferous
 comport
 chambrays
 chambranle
-confected
 counterattractively
 chamecephaly
 chamecephalic
@@ -12033,6 +12032,7 @@ chortosterol
 chaunters
 champlev
 choruses
+confected
 chorusing
 chanceries
 crisp
