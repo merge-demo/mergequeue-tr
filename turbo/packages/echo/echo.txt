@@ -8841,7 +8841,6 @@ effleurage
 erd
 eagers
 erechtheum
-enthalpy
 erechtites
 euphemist
 exomologesis
@@ -9567,6 +9566,7 @@ euchromatic
 embarrassed
 eskimoized
 electrolysed
+enthalpy
 embeam
 eupatoriaceous
 earls
