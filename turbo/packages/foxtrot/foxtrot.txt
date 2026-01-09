@@ -1842,7 +1842,6 @@ foreign
 febricant
 frilly
 frictions
-fore
 feastless
 febrific
 feloid
@@ -4854,6 +4853,7 @@ fixes
 firmhearted
 frondiferous
 fetching
+fore
 factuality
 fabricational
 funks
