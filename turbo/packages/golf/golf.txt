@@ -367,7 +367,6 @@ gingerin
 grade
 gilet
 gildedness
-gantlets
 gley
 graphed
 gasogenic
@@ -5470,6 +5469,7 @@ gluttery
 glyster
 galumphed
 gablet
+gantlets
 grande
 ganoids
 gimmer
