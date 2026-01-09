@@ -12886,7 +12886,6 @@ angle
 arenarious
 annalism
 angled
-argenol
 apostil
 archencephalic
 anglehook
@@ -24477,6 +24476,7 @@ astragals
 autotoxic
 autotransformer
 archeologically
+argenol
 attemperately
 aetheric
 anglo
