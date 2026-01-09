@@ -6155,7 +6155,6 @@ evolvent
 enneagonal
 etymologizable
 enrolling
-endorachis
 enigua
 elephantiac
 enneagons
@@ -9963,6 +9962,7 @@ eschars
 ennew
 ecclesiae
 estrin
+endorachis
 elk
 estrums
 extrospection
