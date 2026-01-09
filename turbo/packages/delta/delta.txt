@@ -3857,6 +3857,7 @@ dannemorite
 deathfully
 doer
 deirid
+disembosom
 deis
 deisidaimonia
 disquieting
@@ -5636,7 +5637,6 @@ dissidence
 devilized
 dynamite
 distracts
-disembosom
 disaugment
 discommodate
 dispiritedness
