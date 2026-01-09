@@ -2508,7 +2508,6 @@ candidnesses
 chrismatine
 crawlie
 cantorial
-countermands
 coasters
 candies
 candying
@@ -14727,6 +14726,7 @@ culler
 coursy
 cowering
 cityfied
+countermands
 citifying
 cityfolk
 churned
