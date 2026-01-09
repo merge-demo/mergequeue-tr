@@ -1654,6 +1654,7 @@ gastrocnemii
 groten
 gaffed
 granulometric
+goldurned
 goldarned
 gardeen
 gryphon
@@ -8185,7 +8186,6 @@ grim
 gem
 grapes
 grapeskin
-goldurned
 galenical
 grapestalk
 groomling
