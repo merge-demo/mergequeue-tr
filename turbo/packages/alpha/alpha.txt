@@ -2076,7 +2076,6 @@ aches
 achesoun
 acheulean
 accustoms
-acumens
 achy
 absconds
 airtime
@@ -20703,6 +20702,7 @@ acetometer
 ayurvedas
 axiolitic
 articulacy
+acumens
 aleuroscope
 anoa
 actinons
