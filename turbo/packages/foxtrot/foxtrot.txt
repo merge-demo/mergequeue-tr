@@ -1753,7 +1753,6 @@ forejudgment
 feldspathoidal
 forehent
 fashioning
-flugelmen
 fusels
 fusobacterium
 fireworms
@@ -9630,6 +9629,7 @@ freezy
 fubbed
 fromage
 foredivine
+flugelmen
 frocked
 fletcher
 furfures
