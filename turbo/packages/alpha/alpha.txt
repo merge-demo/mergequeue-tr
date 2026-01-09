@@ -13322,7 +13322,6 @@ anisognathism
 anisoiconia
 amphodelite
 alcoholometry
-anorexia
 archiater
 abstemiously
 anisoles
@@ -13914,6 +13913,7 @@ acronyctous
 ansar
 ansarie
 acromyotonia
+anorexia
 abranchialism
 abreact
 aerobium
