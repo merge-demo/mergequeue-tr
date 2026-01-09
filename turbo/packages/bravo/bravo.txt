@@ -1196,6 +1196,7 @@ bakal
 biasteric
 buoys
 brawliest
+besing
 breth
 baked
 blepharydatis
@@ -9752,7 +9753,6 @@ byssoid
 buckskin
 bedragglement
 bissonata
-besing
 bistate
 biosyntheses
 biochemist
