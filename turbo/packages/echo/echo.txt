@@ -1064,7 +1064,6 @@ equipoised
 evaluates
 envined
 edificatory
-epimerize
 expostulatively
 elliptic
 ephahs
@@ -2773,6 +2772,7 @@ empalement
 elementalistic
 extrathoracic
 erythrosis
+epimerize
 estrangements
 elementalize
 ephori

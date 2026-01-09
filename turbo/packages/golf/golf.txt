@@ -497,7 +497,6 @@ gess
 gadding
 gasifiers
 grunions
-geochronological
 girkin
 gravimetrical
 gelatin
@@ -10723,6 +10722,7 @@ graphometric
 gox
 gussets
 gloms
+geochronological
 gairfish
 gassers
 gaddi
