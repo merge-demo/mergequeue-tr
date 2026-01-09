@@ -12832,7 +12832,6 @@ basiliscine
 blink
 barnabite
 bioprecipitation
-blizzardous
 barthite
 birdbrains
 boomslang
@@ -17949,6 +17948,7 @@ bangle
 bedsides
 breezes
 bowwows
+blizzardous
 belga
 bushwack
 bonewood
