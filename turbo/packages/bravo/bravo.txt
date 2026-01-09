@@ -13229,7 +13229,6 @@ boastful
 bructeri
 baromacrometer
 brislings
-bankshall
 bossed
 boanergean
 bosselation
@@ -15973,6 +15972,7 @@ brontoscopy
 bronchioli
 bronchiospasm
 bronchitic
+bankshall
 bronchitis
 bethrall
 birota
