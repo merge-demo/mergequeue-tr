@@ -1532,7 +1532,6 @@ baronetised
 blacktopping
 banks
 beeherd
-burger
 bersiamite
 bulbiform
 bdl
@@ -13836,6 +13835,7 @@ broadtail
 burkite
 broadhead
 bedded
+burger
 blenniid
 baas
 balaustine
