@@ -10509,7 +10509,6 @@ calcaneocuboid
 connexity
 chiliahedron
 chiliarchia
-chiliast
 commuting
 comprehend
 chakar
@@ -30554,6 +30553,7 @@ contraprops
 cubitale
 caninal
 cubitalia
+chiliast
 concentering
 cubiti
 cubitiere
