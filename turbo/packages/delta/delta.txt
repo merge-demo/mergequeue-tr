@@ -4498,6 +4498,7 @@ demifigure
 disinflated
 downdraught
 donmeh
+debentureholder
 detroiter
 demigauntlet
 doting
@@ -17135,7 +17136,6 @@ defiladed
 dharana
 diffusibility
 divagations
-debentureholder
 dipodies
 dryly
 discrediting
