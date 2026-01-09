@@ -3684,7 +3684,6 @@ batt
 buisson
 bobadilism
 bammed
-brotulidae
 bagwomen
 befrilled
 bisabol
@@ -7238,6 +7237,7 @@ boondock
 bestrown
 bathochromatic
 barbarity
+brotulidae
 ballplayers
 bimanual
 bipartible
