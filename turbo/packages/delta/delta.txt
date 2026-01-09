@@ -67,7 +67,6 @@ dacryosyrinx
 deglamorized
 down
 demonological
-dactylar
 doggerelizer
 dactylically
 disputants
@@ -6036,6 +6035,7 @@ deselecting
 demolitionary
 deputes
 damiana
+dactylar
 disacknowledgement
 doughbelly
 doover
