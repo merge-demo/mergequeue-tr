@@ -158,6 +158,7 @@ cablet
 cabling
 contentiousness
 campmaster
+canakins
 copellidine
 carbonizable
 cabob
@@ -2299,7 +2300,6 @@ commonwealth
 cubitoplantar
 cytopahgous
 canakin
-canakins
 canal
 clerks
 cookeys
