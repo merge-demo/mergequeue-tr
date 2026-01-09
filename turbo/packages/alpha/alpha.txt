@@ -1444,6 +1444,7 @@ acclaimer
 afterwrist
 acclamator
 arrowheaded
+allelism
 acclimatable
 acclimatement
 attires
@@ -8676,7 +8677,6 @@ allocution
 anemology
 alleleu
 allelic
-allelism
 axonemal
 argyrite
 almes
