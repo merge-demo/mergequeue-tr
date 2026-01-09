@@ -4807,6 +4807,7 @@ flinthead
 franchisers
 fleay
 fainer
+fantail
 foil
 finlet
 festinately
@@ -8423,7 +8424,6 @@ felonsetter
 febronian
 fique
 flaucht
-fantail
 fathercraft
 fidelia
 fescues
