@@ -10383,7 +10383,6 @@ chivalric
 countertendencies
 chieftains
 cracknels
-chiefty
 chiel
 coapts
 column
@@ -26077,6 +26076,7 @@ chasuble
 cosymmedian
 compurgator
 cosinage
+chiefty
 cosine
 culverineer
 cynognathus
