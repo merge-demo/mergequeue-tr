@@ -4112,7 +4112,6 @@ grapsidae
 grundy
 geochronology
 gnawing
-gregarian
 gringo
 gnars
 gymnasts
@@ -10844,6 +10843,7 @@ guzul
 genotypical
 gasworker
 grailer
+gregarian
 gymnasiarch
 genesiurgic
 galianes
