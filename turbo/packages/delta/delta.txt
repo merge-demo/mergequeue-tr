@@ -7008,7 +7008,6 @@ dendrocolaptidae
 diversiflorous
 decadence
 deterrents
-deface
 despondence
 despondencies
 despondentness
@@ -7077,6 +7076,7 @@ dermophyte
 duncan
 disincentive
 destinism
+deface
 dockyardman
 decretion
 deriv
