@@ -1014,7 +1014,6 @@ glissette
 glossed
 gordunite
 ganga
-gangamopteris
 givers
 gangava
 groundward
@@ -4948,6 +4947,7 @@ guariba
 glandered
 global
 genially
+gangamopteris
 gangliest
 gateage
 graunt
