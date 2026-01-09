@@ -1148,7 +1148,6 @@ florulas
 facials
 fiberization
 frumety
-feroher
 fidelis
 flax
 fatally
@@ -9539,6 +9538,7 @@ forwalk
 foolmonger
 fluorid
 fogginess
+feroher
 filliped
 flatette
 figureless
