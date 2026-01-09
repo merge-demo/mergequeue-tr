@@ -2486,7 +2486,6 @@ elaeometer
 ecosphere
 epicanthic
 exterminative
-electrokinetics
 elasticum
 electroless
 exsecants
@@ -4718,6 +4717,7 @@ erythrodegenerative
 eelware
 exalbuminose
 encist
+electrokinetics
 electralize
 exponentially
 encysting

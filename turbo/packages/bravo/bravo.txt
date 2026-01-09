@@ -8910,7 +8910,6 @@ bowser
 blissfulness
 barbarousness
 biocoenotic
-biodegradability
 biodegradable
 becassocked
 beleap
@@ -10355,6 +10354,7 @@ beamsman
 boston
 battlefield
 bespirit
+biodegradability
 blamelessly
 bedplates
 blamers
