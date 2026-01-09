@@ -6234,7 +6234,6 @@ corbel
 corticifugal
 caudebeck
 caudex
-caudices
 cassolette
 cystiferous
 calanthe
@@ -26193,6 +26192,7 @@ cosmozoic
 chrysididae
 cascrome
 catalecta
+caudices
 cantharidism
 calabazilla
 chazzan
