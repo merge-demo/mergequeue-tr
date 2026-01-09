@@ -3127,6 +3127,7 @@ abstractness
 archigonocyte
 ascendance
 antimonous
+authorised
 action
 albiflorous
 allotrophic
@@ -23931,7 +23932,6 @@ amphibologism
 authorhood
 acaridae
 admonishing
-authorised
 arrhythmous
 assumer
 adenoidal
