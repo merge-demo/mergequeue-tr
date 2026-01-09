@@ -8156,7 +8156,6 @@ blossomed
 bivalencies
 bloodbird
 bateaux
-bieldy
 brawlier
 bossa
 bellicoseness
@@ -13865,6 +13864,7 @@ beadiest
 bowyer
 bejape
 bowyers
+bieldy
 birches
 bedrite
 bowing
