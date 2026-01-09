@@ -918,6 +918,7 @@ faquir
 farad
 faradaic
 filleted
+foaling
 fluorometer
 flamed
 feel
@@ -6562,7 +6563,6 @@ fluorhydric
 fortuitist
 flyboats
 falconiform
-foaling
 franseria
 friary
 flunkeyism
