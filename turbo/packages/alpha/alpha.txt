@@ -14960,6 +14960,7 @@ asphaltum
 anticlogging
 averroism
 anticoagulant
+autocoprophagous
 anticoagulation
 anticoagulative
 acariasis
@@ -15879,7 +15880,6 @@ antipode
 antimensia
 anchorwise
 antipodic
-autocoprophagous
 argufied
 antipoetical
 antipolar

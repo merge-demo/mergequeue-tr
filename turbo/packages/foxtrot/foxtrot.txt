@@ -1710,6 +1710,7 @@ forestep
 fasciolariidae
 flourless
 foodservices
+finestiller
 faviform
 feasibly
 fashionmonger
@@ -11619,7 +11620,6 @@ fibrous
 fylgja
 fosite
 funestal
-finestiller
 forehew
 fustigatory
 fumy
