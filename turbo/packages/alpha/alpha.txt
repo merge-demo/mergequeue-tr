@@ -10619,6 +10619,7 @@ aminated
 amygdule
 affirmative
 amigos
+appertaining
 amiidae
 amyl
 ainu
@@ -10676,7 +10677,6 @@ accusator
 amylom
 aquarid
 amyloplast
-appertaining
 amyloplastid
 antichronism
 adenase
