@@ -6993,6 +6993,7 @@ flexions
 fichtean
 filla
 functor
+fungite
 frison
 frittered
 fondues
@@ -10369,7 +10370,6 @@ formatting
 frontierless
 fireproofness
 farmyards
-fungite
 flusterment
 fibroplasia
 foundlings
