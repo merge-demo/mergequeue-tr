@@ -1864,7 +1864,6 @@ clabularia
 camball
 cambarus
 cambered
-croc
 chamfrain
 consociate
 cambia
@@ -4716,6 +4715,7 @@ conchometry
 catty
 caddow
 compatibles
+croc
 cyathi
 costalgia
 chapmen
