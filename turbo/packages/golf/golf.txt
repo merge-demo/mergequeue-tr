@@ -1797,7 +1797,6 @@ granodioritic
 gangwaymen
 gatehouses
 grueler
-gastrotomic
 gulsach
 glycine
 gastrocolostomy
@@ -2456,6 +2455,7 @@ gromwells
 garbure
 gemote
 genouillere
+gastrotomic
 gemsbuck
 greasy
 gnomonology
