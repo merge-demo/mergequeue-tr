@@ -2852,6 +2852,7 @@ guildship
 gratifier
 guser
 gullish
+gygis
 genuflects
 glanduliform
 glossiphonidae
@@ -3794,7 +3795,6 @@ gaudily
 gastrophilist
 gouaree
 gaul
-gygis
 gibstaff
 greyhound
 gratefulness
