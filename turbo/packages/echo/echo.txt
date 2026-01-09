@@ -2775,7 +2775,6 @@ estrangements
 elementalize
 ephori
 elementaloid
-emperil
 essang
 encoronate
 eluded
@@ -8248,6 +8247,7 @@ epistena
 electrodiplomatic
 episternal
 entoloma
+emperil
 emaceration
 ecclesiologic
 erucic
