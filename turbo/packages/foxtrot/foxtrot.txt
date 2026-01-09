@@ -5413,7 +5413,6 @@ fault
 firstfruits
 finnip
 fleecy
-farolito
 flyblown
 forager
 fiendliness
@@ -8985,6 +8984,7 @@ fondling
 fasc
 foremistress
 fizelyite
+farolito
 feeling
 freakery
 flimflammer
