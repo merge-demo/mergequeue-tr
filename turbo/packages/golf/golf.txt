@@ -8801,7 +8801,6 @@ glacious
 greet
 gloves
 gadid
-gandhian
 glimpsers
 grandchildren
 gelatinochloride
@@ -10285,6 +10284,7 @@ gastrulating
 guitarists
 grossularite
 galvanomagnet
+gandhian
 gigantically
 gorges
 graying
