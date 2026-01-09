@@ -14598,7 +14598,6 @@ ambulatorial
 accreditee
 archegosaurus
 anthropophagist
-accoutred
 anthropophagite
 amoebous
 allophonic
@@ -16485,6 +16484,7 @@ anesthetically
 aphelinus
 acrochordidae
 anuretic
+accoutred
 anury
 arthrogenous
 arctoidea
