@@ -3756,7 +3756,6 @@ copunctal
 confusingly
 cephalomenia
 carbamyls
-carpodetus
 carbamine
 circumnutate
 circum
@@ -7748,6 +7747,7 @@ certifiable
 certificate
 certificated
 certificates
+carpodetus
 chincherinchees
 certifications
 chronotropism
