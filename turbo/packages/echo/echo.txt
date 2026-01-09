@@ -2555,6 +2555,7 @@ etrogs
 electron
 elastins
 exenteration
+erucic
 escapeful
 ethchlorvynol
 everest
@@ -8249,7 +8250,6 @@ entoloma
 emperil
 emaceration
 ecclesiologic
-erucic
 enjoying
 entozoa
 epigenist
