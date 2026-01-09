@@ -4743,6 +4743,7 @@ gelidly
 gametophyll
 goosegirl
 glene
+gilbertite
 gnathites
 gaullist
 gotta
@@ -7600,7 +7601,6 @@ gripsack
 gigolo
 gerenda
 garpike
-gilbertite
 gathic
 gubernacula
 glacialist
