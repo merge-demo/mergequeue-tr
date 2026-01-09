@@ -3335,6 +3335,7 @@ fluorescer
 fulmined
 fiedlerite
 fifth
+feist
 flooding
 fiel
 falconer
@@ -7994,7 +7995,6 @@ fissipedia
 foredeep
 forespencer
 fiz
-feist
 finicality
 fatbirds
 fontina
