@@ -9107,7 +9107,6 @@ eyrer
 equitangential
 expulse
 endoscopic
-exponential
 equipollent
 epicolic
 euryalae
@@ -12457,6 +12456,7 @@ emancipations
 exfiltrate
 equilibrial
 electrolysing
+exponential
 exhuming
 epifaunal
 enthronization
