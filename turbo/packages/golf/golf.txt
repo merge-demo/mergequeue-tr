@@ -140,7 +140,6 @@ granulize
 gageable
 glycolipide
 guerdonable
-geryonid
 guelf
 gadwalls
 gentlewomanly
@@ -10219,6 +10218,7 @@ gobbet
 gunless
 guillotinist
 glutaraldehyde
+geryonid
 gonophorous
 gastroptosis
 grape
