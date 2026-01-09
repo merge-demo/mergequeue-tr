@@ -54,7 +54,6 @@ dacryocyst
 dacryocystitis
 diarchial
 diseasefulness
-dacryocystoptosis
 dunder
 dacryocystosyringotomy
 derham
@@ -12123,6 +12122,7 @@ dorine
 discontent
 dynamoelectrical
 defuzing
+dacryocystoptosis
 disexcommunicate
 detrition
 decalin
