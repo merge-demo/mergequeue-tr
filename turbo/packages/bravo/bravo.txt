@@ -12483,7 +12483,6 @@ bather
 bagpiped
 bone
 bejaundice
-bonebreaker
 bifoliolate
 boned
 bonedry
@@ -14548,6 +14547,7 @@ branchiostoma
 biosociology
 branchiostomid
 bounciest
+bonebreaker
 branchiostomous
 branchireme
 branchless
