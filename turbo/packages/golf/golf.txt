@@ -2637,6 +2637,7 @@ glossosteresis
 geoagronomic
 geniality
 genetics
+graffito
 gastrolysis
 gudgeoned
 glow
@@ -5828,7 +5829,6 @@ gendarmes
 gruiformes
 guilds
 geroderma
-graffito
 glycolaldehyde
 gedact
 galvanoplastic

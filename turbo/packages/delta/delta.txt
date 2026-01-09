@@ -10150,7 +10150,6 @@ doater
 dinged
 directorate
 diploids
-daddle
 demihigh
 dingeing
 dorsoventrally
@@ -14414,6 +14413,7 @@ dishpans
 decrials
 diverse
 diversify
+daddle
 diversification
 disporous
 diarch
