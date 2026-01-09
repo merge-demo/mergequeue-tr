@@ -9281,7 +9281,6 @@ bonavist
 butler
 bantamweights
 becafico
-bipods
 botches
 bipolarity
 bipolarization
@@ -14097,6 +14096,7 @@ barytine
 boarders
 brachygraphical
 bikol
+bipods
 berlinite
 burkites
 behaviour
