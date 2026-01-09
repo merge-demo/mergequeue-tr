@@ -5674,7 +5674,6 @@ cataplasia
 conepate
 cataplasis
 cogwood
-capering
 cataplastic
 casten
 catapleiite
@@ -10571,6 +10570,7 @@ chilliest
 camelopardid
 characteriser
 chilling
+capering
 chillis
 consumerism
 calamariales
