@@ -5586,6 +5586,7 @@ depersonalized
 discipled
 deflated
 discouraging
+demicylinder
 deathwatches
 duddy
 dozy
@@ -7947,7 +7948,6 @@ dextran
 dextranase
 doublelunged
 disallowable
-demicylinder
 downsteepy
 diathermal
 decimeters
