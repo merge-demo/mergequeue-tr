@@ -7770,7 +7770,6 @@ bursarship
 balcon
 babylonian
 byronist
-bravure
 barytas
 buckeyed
 biacid
@@ -17721,6 +17720,7 @@ burner
 benempt
 billian
 bedlamize
+bravure
 blastophaga
 bemuzzled
 bott
