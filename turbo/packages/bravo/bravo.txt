@@ -5934,7 +5934,6 @@ berber
 brandenburgs
 biggety
 buffaloes
-beltane
 belauding
 bimetalic
 belter
@@ -9077,6 +9076,7 @@ brittlewort
 bidented
 brown
 bandagist
+beltane
 bicolours
 buzzwords
 biorhythm
