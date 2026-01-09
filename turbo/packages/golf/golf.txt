@@ -637,7 +637,6 @@ grottowork
 gardencraft
 glutathione
 gallomaniac
-gallon
 gonapophysis
 gonangial
 gabionage
@@ -10253,6 +10252,7 @@ getid
 grotianism
 gempylid
 gemelled
+gallon
 gutturalization
 groaningly
 galerie
