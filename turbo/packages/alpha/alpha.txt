@@ -15361,7 +15361,6 @@ autodecrements
 antispermotoxin
 amphicyon
 antihistaminic
-angiospermatous
 antidogmatism
 antipragmaticism
 attorning
@@ -17936,6 +17935,7 @@ appressorium
 abhorred
 appreteur
 atloidoaxoid
+angiospermatous
 akinetic
 atherogenic
 appreve

@@ -3462,7 +3462,6 @@ genoa
 gallanting
 glasgow
 gallophobia
-gourdlike
 gallous
 gentling
 griefful
@@ -5450,6 +5449,7 @@ grid
 gradines
 goodwillies
 gliridae
+gourdlike
 gasoline
 gasifier
 glirine
