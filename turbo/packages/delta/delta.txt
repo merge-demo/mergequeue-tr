@@ -11943,6 +11943,7 @@ disembocation
 domicils
 diesels
 disembodiment
+disloyalty
 deducer
 disembogued
 diarian
@@ -12769,7 +12770,6 @@ drawfiling
 donative
 disloyalist
 disloyally
-disloyalty
 decrepity
 downcomer
 doored
