@@ -7172,7 +7172,6 @@ biarticulated
 bacteriemia
 bernicles
 bestay
-buffoon
 bestamp
 bestand
 bestatued
@@ -9081,6 +9080,7 @@ buzzwords
 biorhythm
 butyrins
 biorhythmicity
+buffoon
 bevellers
 bacteriophagia
 bios
