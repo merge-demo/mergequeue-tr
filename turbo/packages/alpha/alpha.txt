@@ -13046,7 +13046,6 @@ antisimoniacal
 annihilable
 anharmonic
 abbreviating
-aluniferous
 aeroballistics
 arrowy
 agglomeratic
@@ -16756,6 +16755,7 @@ averse
 amylometer
 anterointerior
 accur
+aluniferous
 ametaboly
 anthophagy
 aciculums
