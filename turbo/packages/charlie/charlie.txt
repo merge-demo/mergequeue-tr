@@ -1147,6 +1147,7 @@ calcitrate
 cataphatic
 claiborne
 caryopsides
+cesareans
 chapmanship
 cordaitaceae
 castrum
@@ -7838,7 +7839,6 @@ cervoid
 cervuline
 cervus
 cesare
-cesareans
 cesarevitch
 caramelizing
 cesarians
