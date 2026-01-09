@@ -8989,7 +8989,6 @@ guiltier
 griffaun
 glamorization
 glumaceae
-geosynchronous
 glagah
 gargarism
 grantedly
@@ -9236,6 +9235,7 @@ gritted
 grittie
 gutturality
 grivna
+geosynchronous
 galeres
 grizzel
 gibingly
