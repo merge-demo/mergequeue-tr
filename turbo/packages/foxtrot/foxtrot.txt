@@ -5136,6 +5136,7 @@ frotteur
 frankfurter
 flavanone
 flambes
+fudge
 formicidae
 funambulism
 flatness
@@ -9912,7 +9913,6 @@ friezer
 fiercely
 feazing
 fossilated
-fudge
 fantoms
 fumatorium
 freckled
