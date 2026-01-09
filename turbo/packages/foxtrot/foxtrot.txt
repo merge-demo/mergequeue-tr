@@ -10385,6 +10385,7 @@ feedable
 feared
 frangipanis
 fatalist
+fuzzes
 friller
 forecatching
 flagmen
@@ -10591,7 +10592,6 @@ forwarn
 freakouts
 fibrination
 finement
-fuzzes
 fulgent
 fuddler
 foiling
