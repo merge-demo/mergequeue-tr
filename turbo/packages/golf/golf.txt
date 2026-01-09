@@ -2307,6 +2307,7 @@ gelant
 glyceric
 ganta
 granulation
+guardful
 graduates
 gelatinating
 greyfish
@@ -2460,7 +2461,6 @@ garbure
 gemote
 genouillere
 gemsbuck
-guardful
 greasy
 gnomonology
 gimble
