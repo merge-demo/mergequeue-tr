@@ -18704,7 +18704,6 @@ cokes
 cokewold
 cokie
 crystallology
-circumscribing
 cokuloris
 colaborer
 collectively
@@ -22911,6 +22910,7 @@ consideration
 considerations
 considerator
 copatain
+circumscribing
 chromatone
 chandi
 chordata
