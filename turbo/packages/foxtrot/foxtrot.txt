@@ -7276,7 +7276,6 @@ finchbacked
 forsaking
 fishyard
 fibulocalcaneal
-fidelity
 fishmonger
 fozy
 flavobacteria
@@ -9714,6 +9713,7 @@ frenchwomen
 frenetical
 fideicommissioner
 frigorifical
+fidelity
 forgathered
 flushing
 frenetically
