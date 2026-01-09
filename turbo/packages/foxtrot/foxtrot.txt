@@ -8627,7 +8627,6 @@ fourposters
 futharks
 feet
 fuzes
-finites
 forborn
 fytte
 farstepped
@@ -10173,6 +10172,7 @@ feebly
 farce
 foxchop
 fetologies
+finites
 furdel
 famines
 fending
