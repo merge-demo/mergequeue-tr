@@ -1961,7 +1961,6 @@ curbless
 cameral
 citizenship
 cameralism
-condominium
 cameralistics
 cameraman
 cameras
@@ -19726,6 +19725,7 @@ copaiva
 combined
 ctene
 concertinas
+condominium
 coprecipitation
 cations
 contorting
