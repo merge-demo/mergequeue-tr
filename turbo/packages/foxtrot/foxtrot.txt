@@ -3215,7 +3215,6 @@ flexionless
 fuchsone
 forefend
 festered
-falern
 forewarnings
 flinthearted
 flameholder
@@ -3358,6 +3357,7 @@ folily
 feeless
 foreyards
 fusilades
+falern
 fastigate
 forcut
 fopling
