@@ -10269,6 +10269,7 @@ fishful
 fratched
 frammit
 fibrinolysin
+fornent
 falernian
 furnishness
 folkmot
@@ -11237,7 +11238,6 @@ funky
 filter
 functional
 fylfot
-fornent
 fabiform
 fatherkin
 funkiness
