@@ -4268,6 +4268,7 @@ berbamine
 blattariae
 barest
 burman
+bifocals
 burgonet
 beaverism
 bistoury
@@ -7578,7 +7579,6 @@ bywalker
 brakeages
 bibliophage
 bewhiten
-bifocals
 bedrivel
 breed
 bewhore
