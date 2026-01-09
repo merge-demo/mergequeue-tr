@@ -5070,7 +5070,6 @@ bodger
 biloculine
 beferned
 befetished
-bandoline
 bilingual
 balefire
 biocatalyst
@@ -16519,6 +16518,7 @@ brusure
 broiders
 bentang
 branchlike
+bandoline
 brutalist
 brutalitarianism
 badgerweed
