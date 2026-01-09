@@ -1587,7 +1587,6 @@ accountant
 accountantship
 atacamenian
 agamogenetic
-accounter
 accounters
 agata
 audioemission
@@ -2761,6 +2760,7 @@ amnion
 artarin
 acrobates
 amontillado
+accounter
 acrobatical
 acrobatism
 actinotherapeutic
