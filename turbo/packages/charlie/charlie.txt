@@ -2457,7 +2457,6 @@ coacervation
 cancrid
 cruzeiro
 capelline
-cancrine
 cicatrix
 carpers
 coffeeberry
@@ -9722,6 +9721,7 @@ censer
 cheyneys
 cankeredly
 cimex
+cancrine
 chromotype
 cataphonics
 cheiranthus
