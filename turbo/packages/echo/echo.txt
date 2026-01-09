@@ -318,7 +318,6 @@ enticer
 enameling
 elfship
 euboic
-eastling
 embetter
 eruditionist
 escots
@@ -12593,6 +12592,7 @@ epsomite
 etymologist
 euphon
 ethion
+eastling
 excecation
 eunuchry
 exocoelar
