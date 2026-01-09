@@ -5537,7 +5537,6 @@ gorses
 graysbies
 grammel
 glucine
-glochidiate
 gallery
 grained
 goatskin
@@ -10683,6 +10682,7 @@ glaucomatous
 googol
 grippotoxin
 grayed
+glochidiate
 gurk
 gellants
 groundbird
