@@ -1706,6 +1706,7 @@ grassquit
 grooved
 glaciation
 gloated
+grows
 glaucin
 gussie
 goblinish
@@ -6412,7 +6413,6 @@ glossotherium
 gobiesocid
 geostrophic
 gymnocladus
-grows
 geegaws
 gentlemanliness
 gocart
