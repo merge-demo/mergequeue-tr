@@ -1373,7 +1373,6 @@ ginners
 garglers
 graplins
 glamorizer
-goneness
 glyoxylic
 ghastly
 glugglug
@@ -4014,6 +4013,7 @@ gesan
 greasier
 gilles
 gynostegium
+goneness
 gabendum
 genesic
 ginorite
