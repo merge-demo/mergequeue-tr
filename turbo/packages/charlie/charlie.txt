@@ -8631,6 +8631,7 @@ channelled
 channelling
 commiseratingly
 channelure
+contemptuous
 cestus
 chronoscope
 chansonette
@@ -23456,7 +23457,6 @@ contemptibleness
 contemptibly
 contempts
 cygnet
-contemptuous
 contemptuously
 cruelty
 cholecystocolotomy
