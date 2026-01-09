@@ -5768,6 +5768,7 @@ goosecap
 groovers
 galacaceae
 gangways
+gadflies
 goofiest
 garlicky
 gumhar
@@ -10038,7 +10039,6 @@ grandnephew
 gudge
 gospelers
 gonidiferous
-gadflies
 geomorphologist
 gondoliers
 ginn
