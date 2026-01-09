@@ -1036,7 +1036,6 @@ geodetician
 ganger
 guesten
 genthite
-gentlewomanliness
 germination
 geologer
 ginnle
@@ -7663,6 +7662,7 @@ geodynamics
 gyppery
 greenlet
 gleary
+gentlewomanliness
 gardeny
 grader
 grouseward
