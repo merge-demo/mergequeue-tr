@@ -4094,7 +4094,6 @@ gettysburg
 gargoyle
 glosts
 genetor
-gompholobium
 geoglossum
 gyropilot
 galaxiidae
@@ -8518,6 +8517,7 @@ goshdarn
 gramaphone
 gametophyte
 ganglioblast
+gompholobium
 gyrophoric
 gulden
 grecian
