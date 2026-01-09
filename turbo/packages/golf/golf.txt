@@ -5469,7 +5469,6 @@ gablet
 gantlets
 grande
 ganoids
-gimmer
 gentlemen
 goodyera
 goldilocks
@@ -6339,6 +6338,7 @@ gustables
 gorilline
 gofer
 gastrotrich
+gimmer
 given
 getspace
 goldspink

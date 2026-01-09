@@ -6695,6 +6695,7 @@ eulogiser
 ecrevisse
 epulis
 espundia
+epitaphic
 endamebiasis
 entertainingly
 electrophysics
@@ -14143,7 +14144,6 @@ entocuneiform
 excussion
 endearment
 entrails
-epitaphic
 evensongs
 extrachromosomal
 encomium
