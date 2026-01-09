@@ -4897,7 +4897,6 @@ gigger
 gradual
 growliness
 glaired
-geomaly
 gangway
 guvacoline
 gidyea
@@ -9934,6 +9933,7 @@ guitarfishes
 guardianship
 garb
 gumptions
+geomaly
 grilladed
 guarico
 gonidial
