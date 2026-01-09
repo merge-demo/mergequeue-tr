@@ -8677,7 +8677,6 @@ feteless
 fame
 faciendum
 forgive
-flotage
 fizzing
 filii
 fourness
@@ -9573,6 +9572,7 @@ finalism
 faqir
 foreseeability
 filipinize
+flotage
 fleeceable
 fdub
 fragmentitious
