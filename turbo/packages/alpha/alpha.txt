@@ -9633,6 +9633,7 @@ aluminate
 archicontinent
 absfarad
 abacaxi
+appall
 aluminide
 aluminiferous
 amarvel
@@ -16171,7 +16172,6 @@ alcedines
 abiotically
 antisiphon
 advenae
-appall
 aidable
 aviatorial
 adeps
