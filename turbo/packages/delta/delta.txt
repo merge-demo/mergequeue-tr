@@ -16668,7 +16668,6 @@ drains
 drageoir
 deponer
 dedifferentiate
-diplarthrous
 draintile
 debouchure
 duodiode
@@ -17536,6 +17535,7 @@ dorsibranchiate
 diencephalic
 druids
 dipterology
+diplarthrous
 dissimulations
 dellaring
 dielytra
