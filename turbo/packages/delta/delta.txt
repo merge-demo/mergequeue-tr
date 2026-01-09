@@ -6674,6 +6674,7 @@ deshabille
 dinitrophenol
 diplohedron
 downcurved
+derries
 desyatin
 deaconries
 dubonnets
@@ -15272,7 +15273,6 @@ desubstantiate
 dolomedes
 discovery
 dolomite
-derries
 dose
 dolomitic
 descriptives
