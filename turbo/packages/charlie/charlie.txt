@@ -13729,6 +13729,7 @@ cineaste
 convoke
 chlamydomonas
 cynegild
+crambid
 cubbyholes
 cinema
 cinemactic
@@ -14312,7 +14313,6 @@ circumsolar
 collow
 cocciferous
 circumspangle
-crambid
 crystalwort
 calorific
 cointers
