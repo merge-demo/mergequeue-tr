@@ -924,6 +924,7 @@ effatum
 ectrosyndactyly
 earring
 ectrotic
+excoction
 electrological
 efform
 endocardium
@@ -4548,7 +4549,6 @@ ee
 epidiorthosis
 escuela
 enodation
-excoction
 euphemized
 eleazar
 enchancement
