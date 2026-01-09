@@ -1472,7 +1472,6 @@ gasboat
 giddiness
 gaselier
 golet
-glissading
 gastrophilus
 gastric
 gisarme
@@ -5873,6 +5872,7 @@ glucoses
 glances
 glucoside
 goshawk
+glissading
 grandparents
 gestening
 galvaniser
