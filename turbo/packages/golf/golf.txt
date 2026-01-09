@@ -174,7 +174,6 @@ grandson
 glassworm
 goliardic
 gerontocratic
-gag
 gooseliver
 garoted
 glamour
@@ -6490,6 +6489,7 @@ galvanocautery
 golly
 gleanings
 glucolipine
+gag
 gamete
 grotian
 gyrant
