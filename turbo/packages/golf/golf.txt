@@ -258,7 +258,6 @@ groot
 gibbons
 gillers
 gainage
-griselda
 greenlandic
 geologizing
 ghostlike
@@ -10267,6 +10266,7 @@ guise
 galv
 garnel
 guestimating
+griselda
 gipsyhood
 gervase
 guarantorship
