@@ -634,7 +634,6 @@ gramineal
 geodetic
 gweducs
 grottowork
-gardencraft
 glutathione
 gallomaniac
 gonapophysis
@@ -6326,6 +6325,7 @@ groceries
 geotropism
 goety
 gummage
+gardencraft
 gymnolaemata
 gaels
 gloriosa
