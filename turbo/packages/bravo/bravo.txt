@@ -16565,6 +16565,7 @@ bleary
 brutishness
 brewed
 blockheadism
+blotched
 bandster
 bruzz
 bsf
@@ -17277,7 +17278,6 @@ batik
 baggies
 bumfuzzle
 baubles
-blotched
 beating
 burseed
 beman
