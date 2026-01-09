@@ -3459,7 +3459,6 @@ blepharopyorrhea
 badgerly
 bastions
 boughpot
-bef
 bastite
 brushfire
 brigade
@@ -12011,6 +12010,7 @@ bunkhouse
 biogens
 bohora
 benny
+bef
 brontogram
 bebop
 bombarded
