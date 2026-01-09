@@ -1019,7 +1019,6 @@ givers
 gangava
 groundward
 gynobase
-ghassanid
 gilse
 gurnetty
 granitizing
@@ -4856,6 +4855,7 @@ gimme
 grandstanding
 gladiola
 granatite
+ghassanid
 goldurns
 goatly
 gastroenteric
