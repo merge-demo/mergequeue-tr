@@ -3082,7 +3082,6 @@ bedspreads
 bakerite
 bestials
 brahman
-bacterization
 breachy
 barwal
 bannack
@@ -17520,6 +17519,7 @@ burdenless
 bakuninism
 blasty
 bacteriocyte
+bacterization
 bookrest
 burdenous
 bleep
