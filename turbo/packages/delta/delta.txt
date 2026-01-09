@@ -6702,7 +6702,6 @@ demikindred
 diacoustics
 dropforge
 desideration
-deoxidant
 desiderative
 drunkard
 disorganize
@@ -7750,6 +7749,7 @@ disembarrass
 dram
 dysarthrosis
 deintellectualize
+deoxidant
 devise
 dayton
 domiciliary
