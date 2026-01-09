@@ -1346,7 +1346,6 @@ daunters
 daffy
 dipentine
 demissive
-diploid
 draftsperson
 doggerelize
 dompt
@@ -11583,6 +11582,7 @@ dispeopling
 demophobe
 digester
 dunkle
+diploid
 dysoxidizable
 divulgator
 disposable
