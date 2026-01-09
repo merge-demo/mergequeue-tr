@@ -6778,7 +6778,6 @@ exasperate
 embryoniform
 entitatively
 entitle
-elixed
 evangelistarion
 enculturating
 eggheads
@@ -12662,6 +12661,7 @@ effusion
 exognathite
 expunges
 exornate
+elixed
 exogenetic
 enkolpion
 exometritis
