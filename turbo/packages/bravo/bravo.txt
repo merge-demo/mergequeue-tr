@@ -7822,6 +7822,7 @@ bicephalous
 bogman
 biface
 bark
+balconette
 bronzy
 bursautee
 bibble
@@ -16664,7 +16665,6 @@ baronies
 bucharest
 bunkoing
 burros
-balconette
 bught
 buck
 bayamo
