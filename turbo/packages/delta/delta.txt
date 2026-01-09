@@ -3272,7 +3272,6 @@ doublethought
 dominie
 departs
 defibrillated
-dominants
 dalles
 doty
 deteriority
@@ -4035,6 +4034,7 @@ disvantage
 delicate
 disposingly
 delicately
+dominants
 dermatomycosis
 denier
 darknesses

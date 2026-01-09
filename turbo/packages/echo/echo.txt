@@ -3742,7 +3742,6 @@ eolipile
 episiohematoma
 enwiden
 eulogizing
-eutaxitic
 etuvee
 embryoism
 embryon
@@ -12071,6 +12070,7 @@ expediate
 entrainer
 esselen
 enplanes
+eutaxitic
 epacridaceae
 excrementive
 extrasensory
