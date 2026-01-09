@@ -4296,6 +4296,7 @@ factive
 fet
 ferd
 flamethrower
+fruticous
 funditor
 fructiferousness
 fretworked
@@ -10767,7 +10768,6 @@ folles
 forweep
 farreation
 foils
-fruticous
 firstness
 fructiculose
 femme
