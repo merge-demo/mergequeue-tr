@@ -54,7 +54,6 @@ excursion
 escarped
 eremite
 exhibiter
-earldoms
 earless
 eyn
 excuss
@@ -5373,6 +5372,7 @@ enuresises
 executiveship
 erogeny
 extradotal
+earldoms
 eryhtrism
 endothecial
 equator
