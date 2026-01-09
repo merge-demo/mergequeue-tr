@@ -3200,7 +3200,6 @@ flotages
 fringiness
 foods
 fogman
-feloness
 floorshift
 firmisternous
 fougade
@@ -5043,6 +5042,7 @@ frsiket
 fowler
 fitches
 fluorescence
+feloness
 faky
 flapping
 folders
