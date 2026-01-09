@@ -9678,7 +9678,6 @@ erythroplastid
 esplanade
 enhancements
 elkhounds
-exsec
 explicability
 extortionist
 encounterers
@@ -14175,6 +14174,7 @@ ethane
 euspongia
 equalled
 envenomization
+exsec
 exulcerating
 eviction
 exultingly
