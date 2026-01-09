@@ -7249,6 +7249,7 @@ energetics
 eccaleobion
 ensealed
 eopalaeozoic
+eves
 egocentrically
 erysipelothrix
 eorhyolite
@@ -9021,7 +9022,6 @@ enterokinesia
 enormious
 erythemas
 earing
-eves
 eunuchized
 etiolize
 equiponderous
