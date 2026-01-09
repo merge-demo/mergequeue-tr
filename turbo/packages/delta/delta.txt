@@ -11462,6 +11462,7 @@ doest
 defalcations
 deads
 drivellers
+doffer
 discolorment
 discolouring
 discolourization
@@ -12434,7 +12435,6 @@ deciduate
 detrital
 dishumanize
 deipnodiplomatic
-doffer
 dimethylmethane
 dagon
 dishwasher
