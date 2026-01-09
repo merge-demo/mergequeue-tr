@@ -8051,7 +8051,6 @@ browband
 bicorn
 bourrelet
 blanque
-boatman
 buckbeans
 bluntness
 bicornate
@@ -8498,6 +8497,7 @@ bunging
 birminghamize
 bumble
 bifurcous
+boatman
 balsameaceae
 beaches
 bemusk
