@@ -1587,7 +1587,6 @@ fourstrand
 falsettist
 fibrinogen
 filespec
-floristic
 favorites
 furstone
 fadges
@@ -10942,6 +10941,7 @@ fess
 fulnesses
 flanconade
 forgetness
+floristic
 furfuran
 fusoid
 forewit
