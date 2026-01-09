@@ -2937,6 +2937,7 @@ acroterial
 aeons
 ablactation
 acrotism
+analytics
 acrotrophic
 airplay
 aesthetician
@@ -18597,7 +18598,6 @@ arales
 arbuscular
 arbust
 arbusta
-analytics
 arbutean
 anthropomorphite
 abrogates
