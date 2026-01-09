@@ -7108,6 +7108,7 @@ butterlike
 bespill
 bathygraphic
 bastardies
+burntness
 blurters
 butanolid
 besplatter
@@ -12484,7 +12485,6 @@ bdls
 burnewin
 betaines
 brawniness
-burntness
 bather
 bagpiped
 bone
