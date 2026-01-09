@@ -7650,6 +7650,7 @@ gopherwood
 gunsmithery
 graded
 gorgonlike
+ghostwriting
 gool
 gnathometer
 guachamaca
@@ -9592,7 +9593,6 @@ gemses
 gossipmonger
 gowns
 gr
-ghostwriting
 guzerat
 glaucophanization
 gallize
