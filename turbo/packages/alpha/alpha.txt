@@ -8563,6 +8563,7 @@ awns
 advisatory
 alkahestic
 admonishment
+atmological
 allantoidean
 allantoides
 allantoin
@@ -10119,7 +10120,6 @@ alumin
 acidyl
 antiluetic
 aspirin
-atmological
 aggadic
 archaeopithecus
 anaheim
