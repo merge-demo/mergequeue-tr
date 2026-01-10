@@ -6345,7 +6345,6 @@ gunmetals
 glucosone
 granolithic
 grouty
-geotectology
 gunarchy
 gossaniferous
 gog
@@ -7102,6 +7101,7 @@ gatter
 grottoed
 generalia
 gonothecae
+geotectology
 garnett
 gnathostomatous
 grundyism
