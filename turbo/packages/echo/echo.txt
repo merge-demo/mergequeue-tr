@@ -4405,6 +4405,7 @@ encapsuled
 enure
 encapsuling
 endurability
+empressment
 encaptivate
 essence
 expectorate
@@ -13904,7 +13905,6 @@ extragalactic
 enteraden
 extragastric
 elizabethan
-empressment
 epilimnial
 empanada
 extirpates
