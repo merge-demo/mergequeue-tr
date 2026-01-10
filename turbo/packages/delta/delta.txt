@@ -2309,6 +2309,7 @@ duckhunting
 decentralize
 dewatering
 decentralizing
+distributing
 daphne
 defensory
 dishwash
@@ -14059,7 +14060,6 @@ doocot
 dolichocephalic
 doggrel
 distributer
-distributing
 disacknowledgements
 dispace
 dialist
