@@ -18724,7 +18724,6 @@ archbishopry
 airmail
 archbishopric
 acroamata
-awhet
 archbotcher
 aretes
 alerts
@@ -25217,6 +25216,7 @@ anticked
 antienzymatic
 aficionada
 acoupe
+awhet
 aalii
 atrocha
 abscisse
