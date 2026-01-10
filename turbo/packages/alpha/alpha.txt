@@ -2528,6 +2528,7 @@ albumean
 abolitionists
 anchoretic
 aconative
+areasoner
 acondylose
 amicable
 artisan
@@ -19270,7 +19271,6 @@ amaranthus
 autotypes
 areal
 albified
-areasoner
 areca
 arecain
 angleworm

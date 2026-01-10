@@ -602,7 +602,6 @@ galactose
 galbulinae
 guaranian
 glockenspiels
-glossopalatine
 grandfathership
 grieben
 guineas
@@ -8027,6 +8026,7 @@ gasbags
 gustable
 greekess
 gentilize
+glossopalatine
 gasolinic
 gabby
 grayer
