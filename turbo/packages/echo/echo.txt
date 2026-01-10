@@ -2450,6 +2450,7 @@ ejulation
 epidemiologies
 engladden
 elutriate
+excommunicate
 elean
 emerges
 eches
@@ -10921,7 +10922,6 @@ eaglewood
 euploidies
 euphorically
 euphotide
-excommunicate
 esd
 euphues
 epipedometry
