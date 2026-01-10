@@ -12140,6 +12140,7 @@ excellencies
 ejam
 eloper
 ebonite
+elegiac
 ensorcerize
 erpetologist
 eg
@@ -12461,7 +12462,6 @@ exponential
 exhuming
 epifaunal
 enthronization
-elegiac
 enclosure
 exchequer
 entreaty
