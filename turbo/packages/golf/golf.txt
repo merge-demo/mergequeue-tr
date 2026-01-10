@@ -9867,7 +9867,6 @@ gagate
 ghoom
 glycerose
 guanize
-gamasid
 gifblaar
 graticulation
 genders
@@ -10115,6 +10114,7 @@ glia
 gipsyhead
 guffer
 glaziers
+gamasid
 guggle
 glottologic
 gaby
