@@ -12767,6 +12767,7 @@ chumship
 comdia
 chumships
 clonism
+carabineer
 cicindelidae
 curbing
 coelogastrula
@@ -28293,7 +28294,6 @@ cachet
 crossfiring
 conine
 cephalothoracic
-carabineer
 cabotages
 crateriform
 cratering
