@@ -24692,6 +24692,7 @@ coppersmithing
 copperware
 copperwing
 cladodes
+colletarium
 cruelest
 coppices
 crepehanger
@@ -29045,7 +29046,6 @@ cenatory
 criminologies
 criminologist
 carminic
-colletarium
 criminous
 conscribed
 criminously
