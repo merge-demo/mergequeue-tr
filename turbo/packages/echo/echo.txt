@@ -53,7 +53,6 @@ electroretinograph
 excursion
 escarped
 eremite
-exhibiter
 earless
 eyn
 excuss
@@ -3390,6 +3389,7 @@ ebullate
 exurbanite
 exacters
 eggplants
+exhibiter
 emphase
 egoist
 embargoes
