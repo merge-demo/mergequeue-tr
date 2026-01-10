@@ -2042,7 +2042,6 @@ fascicule
 flaunting
 forfouchten
 feisty
-fairyisms
 farl
 fops
 frothiness
@@ -4950,6 +4949,7 @@ flaminical
 fomenters
 flowcharting
 fintadores
+fairyisms
 frenulum
 forehinting
 flyway
