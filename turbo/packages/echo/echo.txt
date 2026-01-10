@@ -6216,7 +6216,6 @@ enolic
 explicableness
 etiologic
 enological
-enterclose
 execs
 ellipsoid
 erasure
@@ -13679,6 +13678,7 @@ enphytotic
 enramada
 endorsors
 erratum
+enterclose
 epistolizable
 exteriorness
 espec

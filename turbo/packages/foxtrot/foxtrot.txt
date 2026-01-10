@@ -5407,7 +5407,6 @@ fledgiest
 floatless
 foisonless
 fabian
-feasten
 forefigure
 furor
 flurt
@@ -9305,6 +9304,7 @@ fewmets
 fortuuned
 fromward
 ferromagnesian
+feasten
 frangulic
 forjudge
 flichter
