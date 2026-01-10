@@ -4637,7 +4637,6 @@ fivesome
 flaubertian
 flashproof
 famacide
-frivoling
 futharcs
 filmgoer
 faust
@@ -5238,6 +5237,7 @@ faugh
 foggage
 flavorsome
 falda
+frivoling
 fossilage
 fills
 fstore
