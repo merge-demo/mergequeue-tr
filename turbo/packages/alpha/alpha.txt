@@ -9950,7 +9950,6 @@ avoue
 alternator
 abandonee
 arachnoidean
-amaurosis
 alloy
 androeccia
 amaze
@@ -16594,6 +16593,7 @@ awakenment
 aparejos
 automaker
 antarctogaean
+amaurosis
 amygdale
 abusee
 accessibly
