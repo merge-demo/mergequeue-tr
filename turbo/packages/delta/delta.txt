@@ -5912,7 +5912,6 @@ depriment
 deprint
 depriorize
 disorderedness
-deprivable
 degrader
 departements
 dimethylnitrosamine
@@ -14139,6 +14138,7 @@ ducker
 disulfid
 derris
 diazotizable
+deprivable
 disulfide
 decasualised
 dipso
