@@ -6874,6 +6874,7 @@ extramarginal
 ey
 entomophila
 entomophobia
+ensue
 earwaxes
 esthesiography
 eucryptite
@@ -7387,7 +7388,6 @@ eelblennies
 epeirogenically
 erythrina
 electrolytical
-ensue
 exuviate
 encloses
 exonship
