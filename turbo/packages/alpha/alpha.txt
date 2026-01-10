@@ -3233,6 +3233,7 @@ antizymic
 archfire
 algerita
 ayond
+angiotasis
 anagramming
 acraze
 aculeae
@@ -12850,7 +12851,6 @@ ailantine
 aficionados
 assistant
 angiostrophy
-angiotasis
 aramaic
 angiotelectasia
 administerd
