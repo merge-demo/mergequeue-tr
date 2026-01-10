@@ -518,6 +518,7 @@ flavone
 fioretti
 firerooms
 frowny
+faultier
 foresense
 falco
 fermentive
@@ -2322,7 +2323,6 @@ foreimagine
 fconvert
 feoffer
 fiberous
-faultier
 falsetto
 feoffs
 fasciole
