@@ -9425,7 +9425,6 @@ endeavor
 expection
 electroretinographic
 enstool
-echeneid
 enantobiosis
 emulgens
 escaper
@@ -13142,6 +13141,7 @@ experimenter
 embellishing
 experimenters
 enheaven
+echeneid
 empyreuma
 ecesises
 effronted
