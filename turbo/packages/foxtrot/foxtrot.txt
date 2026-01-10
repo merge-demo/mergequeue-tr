@@ -4129,7 +4129,6 @@ freeheartedly
 fireback
 fumeuses
 frogleaf
-fusilading
 fulk
 felonry
 flexed
@@ -5741,6 +5740,7 @@ fragmentist
 frontate
 foge
 freckliness
+fusilading
 foehns
 finebent
 finings
