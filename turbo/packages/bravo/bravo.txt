@@ -3539,6 +3539,7 @@ blue
 batfishes
 biri
 batfowl
+bealing
 bassists
 bedust
 batfowls
@@ -12151,7 +12152,6 @@ bannition
 boldos
 basketball
 besmutch
-bealing
 boldu
 butterweed
 boled
