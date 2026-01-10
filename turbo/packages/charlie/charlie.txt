@@ -789,6 +789,7 @@ cahenslyism
 cahier
 corniche
 chunking
+capstan
 cristae
 completories
 cahincic
@@ -3493,7 +3494,6 @@ capsizing
 capernaitish
 capsomere
 capsomers
-capstan
 capstans
 capstone
 capsula

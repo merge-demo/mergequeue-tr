@@ -1224,6 +1224,7 @@ frigidity
 fenders
 flexural
 flinched
+furious
 fatuities
 feodatory
 freieslebenite
@@ -5682,7 +5683,6 @@ frasse
 fracturableness
 flipperling
 flawlessly
-furious
 flyproof
 flush
 flavins
