@@ -9874,7 +9874,6 @@ aberroscope
 aquashow
 ane
 adjudicating
-angleworm
 albumoid
 aponogeton
 antepreterit
@@ -19277,6 +19276,7 @@ albified
 areasoner
 areca
 arecain
+angleworm
 arecas
 atmolyzer
 automatonta
