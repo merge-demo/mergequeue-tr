@@ -2758,7 +2758,6 @@ acrostolia
 amebian
 amnion
 artarin
-acrobates
 amontillado
 accounter
 acrobatical
@@ -3186,6 +3185,7 @@ athapascan
 alagao
 alliterativeness
 actress
+acrobates
 ancylose
 ahs
 ahems
