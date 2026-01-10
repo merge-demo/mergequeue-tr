@@ -14266,7 +14266,6 @@ canalside
 circumnutated
 circumnutation
 cooperatively
-circumorbital
 circumpacific
 circulet
 ciliectomy
@@ -25395,6 +25394,7 @@ coarsish
 crotcheted
 cornicles
 corniculer
+circumorbital
 corniferous
 cornific
 circumlocutions
