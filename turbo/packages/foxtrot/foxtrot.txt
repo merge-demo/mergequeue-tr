@@ -2709,7 +2709,6 @@ fruitive
 flatteress
 funnier
 figpecker
-ficche
 fathomer
 fantasts
 fiefs
@@ -6872,6 +6871,7 @@ farmout
 farris
 febriferous
 flammeous
+ficche
 fitly
 fidepromission
 folklike
