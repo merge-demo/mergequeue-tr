@@ -3195,7 +3195,6 @@ feracious
 fusilade
 flutterers
 flavourer
-flotages
 fringiness
 foods
 fogman
@@ -4730,6 +4729,7 @@ flammiferous
 furloughing
 flagellariaceous
 fleecily
+flotages
 fasibitikite
 flagellatae
 footlike
