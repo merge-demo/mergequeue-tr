@@ -5700,7 +5700,6 @@ guttule
 ghillies
 glamberry
 gadroons
-glendale
 glossocele
 graian
 gaduin
@@ -10626,6 +10625,7 @@ gunsmithing
 grossification
 grank
 gunstocker
+glendale
 geronto
 girns
 glimmerous
