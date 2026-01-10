@@ -10637,7 +10637,6 @@ bicepses
 blusterous
 bluing
 backlands
-belemnite
 budgetful
 blazonment
 bouquet
@@ -13016,6 +13015,7 @@ bemeet
 borassus
 barouchet
 blether
+belemnite
 bacilliculture
 borboridae
 beslow
