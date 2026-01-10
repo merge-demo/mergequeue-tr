@@ -11357,6 +11357,7 @@ attaste
 antipeptone
 anticodon
 alloquy
+anchoveta
 anticreeper
 amphitrichate
 amphitropous
@@ -12262,7 +12263,6 @@ avars
 altingiaceae
 anchormen
 asthmatically
-anchoveta
 anchusa
 aphroditous
 aerogenesis
