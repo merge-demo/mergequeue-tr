@@ -2493,6 +2493,7 @@ gittith
 genderer
 grenado
 gnaeus
+ginnier
 giffgaff
 ghoulie
 graeme
@@ -3990,7 +3991,6 @@ gymnorhinal
 gouter
 gesticulates
 gansey
-ginnier
 gubbings
 gellert
 gastrogenous
