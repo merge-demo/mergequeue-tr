@@ -11934,6 +11934,7 @@ ananta
 astraea
 antimasquerade
 anticriticalness
+anticholagogue
 altarist
 anammonide
 achterveld
@@ -16342,7 +16343,6 @@ antitruster
 antituberculosis
 artophoria
 antituberculotic
-anticholagogue
 antitumoral
 affray
 amphoriloquy
