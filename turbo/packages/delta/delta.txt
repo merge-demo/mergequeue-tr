@@ -5651,7 +5651,6 @@ depilitant
 deplace
 dermatine
 damayanti
-devests
 dipl
 disrobe
 dentelliere
@@ -10747,6 +10746,7 @@ dipsomaniacs
 diestrual
 dipsopathy
 deutonephron
+devests
 daintiest
 dipstick
 diazotize
