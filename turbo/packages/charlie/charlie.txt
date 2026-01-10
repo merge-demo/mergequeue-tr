@@ -12777,7 +12777,6 @@ calcifies
 chunari
 chunder
 chung
-camassia
 chunga
 calomel
 computes
@@ -23709,6 +23708,7 @@ contraindications
 cologarithm
 contralateral
 crappers
+camassia
 conjunctural
 chessmen
 cothurned
