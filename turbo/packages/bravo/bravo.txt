@@ -3435,6 +3435,7 @@ biophysically
 boatshop
 bleaching
 belzebuth
+bedlamize
 bummers
 bastardry
 briny
@@ -17719,7 +17720,6 @@ burned
 burner
 benempt
 billian
-bedlamize
 bravure
 blastophaga
 bemuzzled
