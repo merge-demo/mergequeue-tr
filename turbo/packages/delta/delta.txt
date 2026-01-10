@@ -1296,7 +1296,6 @@ diphycercal
 dauber
 distinguishingly
 dauberies
-dramatic
 dumpings
 diastaltic
 decoloured
@@ -1721,6 +1720,7 @@ dispensations
 decostate
 defensibility
 deaspiration
+dramatic
 degree
 dihely
 depersonalization
