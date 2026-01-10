@@ -6759,7 +6759,6 @@ airbrushing
 amitabha
 airburst
 arresting
-angularity
 airbusses
 antibias
 axometer
@@ -12742,6 +12741,7 @@ allograft
 anger
 adiaphoresis
 acrasieae
+angularity
 adversifolious
 alvan
 alkalinizing
