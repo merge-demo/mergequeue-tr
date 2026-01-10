@@ -2025,6 +2025,7 @@ flosses
 feigns
 fidleys
 flitch
+furcraea
 farouche
 fourpounder
 ferngrower
@@ -7168,7 +7169,6 @@ fruitions
 footie
 footier
 frore
-furcraea
 flocoon
 formedon
 flection
