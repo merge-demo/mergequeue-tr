@@ -2755,6 +2755,7 @@ barolo
 bm
 benab
 bonneting
+bradykinesis
 bukeyef
 barology
 barolong
@@ -13282,7 +13283,6 @@ backlet
 botanica
 bandoleered
 bacteriologically
-bradykinesis
 balantidiasis
 bivaulted
 botanically
