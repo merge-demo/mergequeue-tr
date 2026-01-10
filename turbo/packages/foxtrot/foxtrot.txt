@@ -4543,6 +4543,7 @@ faciolingual
 fourth
 feudists
 frit
+fetidity
 futtocks
 forespoken
 feuder
@@ -6125,7 +6126,6 @@ fulminations
 fretish
 frondigerous
 frustration
-fetidity
 fantom
 frequented
 foredoor
