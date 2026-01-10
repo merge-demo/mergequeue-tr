@@ -2921,7 +2921,6 @@ electrocardiographically
 elfland
 entelodon
 encephalomeningitis
-elflocks
 encaustic
 endermic
 epiphyseolysis
@@ -12434,6 +12433,7 @@ effude
 epapillate
 elengely
 exigently
+elflocks
 exhilaratingly
 encasserole
 endite
