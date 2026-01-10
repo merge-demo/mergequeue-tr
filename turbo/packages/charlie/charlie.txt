@@ -9585,6 +9585,7 @@ chee
 cheecha
 ciceronism
 cheechaco
+circumscribes
 corrodent
 coutumier
 cheeful
@@ -25901,7 +25902,6 @@ corsy
 corsican
 chyak
 chokered
-circumscribes
 corsite
 corsos
 cancrivorous

@@ -2874,6 +2874,7 @@ gravediggers
 guddled
 gynospore
 gyromitra
+gossoons
 gedunk
 geobotanic
 grievants
@@ -5260,7 +5261,6 @@ genialize
 guardsmen
 guatemala
 gemitores
-gossoons
 glyoxilin
 glacialism
 granitical
