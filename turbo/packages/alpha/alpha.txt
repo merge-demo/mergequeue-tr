@@ -5318,6 +5318,7 @@ abranchian
 ambulante
 archoplasm
 agranulocytosis
+anat
 acceder
 applanate
 attaining
@@ -12116,7 +12117,6 @@ anastrophy
 advocator
 advisements
 activital
-anat
 anatase
 ardebs
 anatases
