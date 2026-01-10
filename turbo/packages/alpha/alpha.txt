@@ -1863,7 +1863,6 @@ antiphysic
 acervate
 acervulus
 abiezer
-anadyomene
 athlothete
 acestes
 acceleration
@@ -8595,6 +8594,7 @@ allegata
 allegations
 allegers
 anthophyllite
+anadyomene
 antiatheistical
 alleges
 abbreviately
