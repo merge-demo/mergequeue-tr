@@ -4720,6 +4720,7 @@ ganglander
 greenwood
 gadling
 gonimolobe
+gyric
 germanophobia
 gryphite
 goad
@@ -10655,7 +10656,6 @@ gurgitation
 gasolines
 gametogony
 gladius
-gyric
 goatsbane
 galp
 gazaboes
