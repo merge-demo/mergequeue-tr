@@ -3096,6 +3096,7 @@ extraparietal
 elm
 embarrassment
 educing
+enrobers
 epistolographist
 edgewise
 engrossers
@@ -6996,7 +6997,6 @@ eburnation
 eneas
 eustyle
 entrepreneur
-enrobers
 entrer
 entresols
 endocardial
