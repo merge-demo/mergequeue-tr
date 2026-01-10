@@ -3579,7 +3579,6 @@ encraal
 embossage
 embossed
 embossing
-emulsifications
 embossman
 esophagoplegia
 enchantery
@@ -11394,6 +11393,7 @@ eventualize
 eventually
 expansional
 eventuating
+emulsifications
 evictors
 effendi
 epileptogenous
