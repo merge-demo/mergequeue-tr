@@ -11956,6 +11956,7 @@ bogglers
 boggling
 bessarabian
 brinded
+bacteriosis
 bogyism
 bogyman
 broncobusters
@@ -15688,7 +15689,6 @@ bayonet
 burningly
 broadeners
 bribee
-bacteriosis
 bisulcated
 bosoming
 bauxitite
