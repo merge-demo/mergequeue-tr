@@ -1011,7 +1011,6 @@ factorability
 forweend
 flashes
 fluorapatite
-fluoborid
 feeblest
 forehook
 foglietto
@@ -1410,6 +1409,7 @@ fatsia
 formy
 fatsoes
 fancying
+fluoborid
 fermiums
 fusilly
 frequentage
