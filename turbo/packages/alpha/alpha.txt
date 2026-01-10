@@ -3096,7 +3096,6 @@ ascidian
 autorail
 actinopteri
 attemper
-accentuated
 ambling
 antechambers
 amsterdam
@@ -10053,6 +10052,7 @@ afrasia
 acquaints
 antagonizes
 ambisinister
+accentuated
 amblypodous
 ambit
 apriority
