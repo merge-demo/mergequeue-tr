@@ -3270,6 +3270,7 @@ babydom
 birder
 binormal
 bitumens
+bricken
 bolted
 basinal
 bushland
@@ -13470,7 +13471,6 @@ bradyseismism
 basementward
 bioxide
 bebouldered
-bricken
 bandoliered
 barbaloin
 blennotorrhea
