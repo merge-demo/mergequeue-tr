@@ -7642,6 +7642,7 @@ gaffes
 gaucy
 girdler
 gopherwood
+gibli
 gunsmithery
 graded
 gorgonlike
@@ -10800,7 +10801,6 @@ gewgawy
 granolite
 gibberella
 gabbroitic
-gibli
 guttlers
 gainly
 goblinism
