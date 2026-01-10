@@ -5510,6 +5510,7 @@ afterglow
 aftergrief
 aftergrowth
 antipathy
+auspicate
 acton
 argot
 aluco
@@ -14397,7 +14398,6 @@ apercus
 amianthium
 amoebic
 aguelike
-auspicate
 anthony
 analysation
 acrostically
