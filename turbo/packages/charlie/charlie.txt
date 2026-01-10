@@ -26228,7 +26228,6 @@ chandeliers
 cyanite
 cossaean
 cosse
-carnivority
 cosset
 controled
 cosseting
@@ -30475,6 +30474,7 @@ ctenostomata
 ctetology
 cto
 charcuteries
+carnivority
 carbo
 ctr
 comortgagee
