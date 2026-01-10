@@ -776,6 +776,7 @@ fibreboard
 footbridge
 fanciless
 foliicolous
+fathomer
 forestaff
 fandoms
 frivolized
@@ -2710,7 +2711,6 @@ fruitive
 flatteress
 funnier
 figpecker
-fathomer
 fantasts
 fiefs
 farcicalness
