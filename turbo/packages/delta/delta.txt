@@ -7561,7 +7561,6 @@ desilverization
 deuterosy
 drubber
 ducktail
-druidesses
 discs
 deuterotype
 deuterozooid
@@ -15893,6 +15892,7 @@ dossennus
 dressings
 decapodiform
 dosser
+druidesses
 dosseret
 dulcian
 dempster
