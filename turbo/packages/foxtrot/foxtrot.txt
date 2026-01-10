@@ -1097,7 +1097,6 @@ fleerish
 firehalls
 figulate
 forthcame
-flyings
 farruca
 farseer
 frenchwoman
@@ -10062,6 +10061,7 @@ footnotes
 fetalism
 flammability
 fellowed
+flyings
 friskin
 friskiness
 frisking
