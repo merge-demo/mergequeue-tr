@@ -6895,7 +6895,6 @@ discolors
 dahabiyeh
 deadliest
 deficit
-desorption
 drollist
 discomposes
 desoxalic
@@ -11923,6 +11922,7 @@ depthing
 doorba
 discompose
 dramatizes
+desorption
 downrange
 domes
 digestion
