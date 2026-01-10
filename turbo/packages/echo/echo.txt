@@ -3278,6 +3278,7 @@ equitist
 etymologising
 endoproct
 eugenols
+erethizon
 eperlan
 embattlement
 elapidae
@@ -11553,7 +11554,6 @@ evocator
 evoe
 ensilaging
 exoculating
-erethizon
 estrange
 endites
 evernia
