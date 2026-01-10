@@ -5028,7 +5028,6 @@ archboutefeu
 aeroscepsy
 achromatizing
 archaeology
-anciennete
 aurum
 altumal
 athletically
@@ -24310,6 +24309,7 @@ autophon
 aftertaste
 althaein
 ablepsy
+anciennete
 anthrasilicosis
 autophotoelectric
 autopilot
