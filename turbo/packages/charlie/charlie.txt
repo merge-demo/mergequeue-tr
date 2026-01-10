@@ -17457,6 +17457,7 @@ cobblers
 cobblership
 cobbles
 cobblestone
+ceratothecae
 clepsydras
 cobblestoned
 corollated
@@ -24208,7 +24209,6 @@ convolution
 convolutional
 convolutions
 convolve
-ceratothecae
 cringingly
 constructing
 communique
