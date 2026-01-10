@@ -1609,6 +1609,7 @@ gaunted
 giblet
 gastralgia
 gastreas
+gramper
 glaucosuria
 gyrinid
 glassteel
@@ -9115,7 +9116,6 @@ gracious
 grinning
 genoveva
 gildsmen
-gramper
 gillenia
 grammatically
 goading
