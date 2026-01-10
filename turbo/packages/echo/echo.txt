@@ -5436,7 +5436,6 @@ electronvolt
 ergotization
 endowment
 ectene
-excantation
 endpoints
 endrudge
 extrabulbar
@@ -10380,6 +10379,7 @@ excepter
 entropion
 ethnogeographer
 electrocataphoretic
+excantation
 explains
 eternize
 epiphenomenalist
