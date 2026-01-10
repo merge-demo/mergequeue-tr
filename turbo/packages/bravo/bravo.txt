@@ -2732,6 +2732,7 @@ brutalisation
 bogomile
 buoyantly
 branching
+bungos
 bienne
 blitum
 betrothals
@@ -17389,7 +17390,6 @@ bottles
 bejeled
 bungling
 bullit
-bungos
 bichromic
 bamboozler
 baetylic
