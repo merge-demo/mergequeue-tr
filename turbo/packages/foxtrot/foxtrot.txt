@@ -4898,6 +4898,7 @@ forbidal
 forebemoan
 fusee
 flidder
+freezes
 frogflower
 facetiously
 flatteringly
@@ -8046,7 +8047,6 @@ facetting
 folial
 forestful
 fellable
-freezes
 frigger
 forepost
 fessing
