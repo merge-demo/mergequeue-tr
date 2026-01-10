@@ -6353,7 +6353,6 @@ assertedly
 amoeba
 akhund
 anamorphote
-anecdotists
 ametrometer
 agriculturist
 aftergood
@@ -18401,6 +18400,7 @@ abattis
 anisometrope
 assembling
 androgynus
+anecdotists
 aramaism
 aramid
 appledrane
