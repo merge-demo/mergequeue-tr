@@ -4344,6 +4344,7 @@ feebler
 foraramina
 fylfots
 froppish
+footcloths
 foreacquaint
 fencer
 foreconceive
@@ -9828,7 +9829,6 @@ fricace
 fricandeaux
 fuliginously
 foozlers
-footcloths
 fluellen
 foredestine
 fortyfive
