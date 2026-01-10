@@ -3140,7 +3140,6 @@ downfolded
 defaults
 decked
 defaulture
-dayworker
 dialings
 doat
 defeasibility
@@ -16156,6 +16155,7 @@ deoxygenize
 drewite
 devisal
 dovening
+dayworker
 desireless
 deplasmolysis
 declassified
