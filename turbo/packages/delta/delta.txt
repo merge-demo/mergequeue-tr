@@ -5703,7 +5703,6 @@ deplumated
 disposes
 deemer
 deplumes
-dentation
 dewanee
 doliolum
 divergenge
@@ -7036,6 +7035,7 @@ despumation
 dealing
 desquamating
 desquamatory
+dentation
 decivilization
 dictum
 disregardfulness
