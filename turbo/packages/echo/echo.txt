@@ -2917,6 +2917,7 @@ enflamed
 electrocardiographically
 elfland
 entelodon
+encephalomeningitis
 elflocks
 encaustic
 endermic
@@ -13742,7 +13743,6 @@ ectosphere
 extincted
 enterostomies
 editable
-encephalomeningitis
 extinctions
 enantiopathic
 euphorbia
