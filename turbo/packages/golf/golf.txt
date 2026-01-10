@@ -4970,7 +4970,6 @@ gammed
 giulio
 gunhouse
 gynandrosporous
-goiabada
 glykopectic
 grotto
 galleypot
@@ -8678,6 +8677,7 @@ gawkishly
 goosing
 gree
 glean
+goiabada
 gismondite
 gutterling
 glacification
