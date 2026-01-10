@@ -917,6 +917,7 @@ efreet
 ensisternal
 equipping
 endowments
+empalers
 endorsements
 electrophoretic
 ectropion
@@ -3974,7 +3975,6 @@ empaistic
 exilarch
 embroglio
 empale
-empalers
 eyepit
 empall
 excurvation
