@@ -19920,6 +19920,7 @@ comitia
 comitial
 colortype
 comitium
+covalences
 cuscuses
 contrastimulus
 comitje
@@ -27472,7 +27473,6 @@ cuprous
 couxia
 citrous
 chronicity
-covalences
 covalency
 carpoptosis
 coriander
