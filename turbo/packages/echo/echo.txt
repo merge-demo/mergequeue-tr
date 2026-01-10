@@ -820,6 +820,7 @@ ectypography
 epitheton
 epop
 exulate
+embrittlement
 ectiris
 etamines
 ectocarpus
@@ -10966,7 +10967,6 @@ encoignure
 elevators
 equivocalness
 echiurid
-embrittlement
 echinus
 eperva
 euproctis
