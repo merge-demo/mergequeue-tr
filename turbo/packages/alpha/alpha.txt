@@ -723,7 +723,6 @@ atrede
 abradants
 anodendron
 aver
-alternize
 anglicized
 aptote
 animine
@@ -19442,6 +19441,7 @@ axonophorous
 apish
 antillean
 argentometry
+alternize
 aerocartography
 aday
 anchoritical
