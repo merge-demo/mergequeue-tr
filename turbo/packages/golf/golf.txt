@@ -3698,7 +3698,6 @@ gabbling
 gaugership
 grumpier
 ghostly
-gaura
 gnoses
 ghostwriter
 gnatoo
@@ -7347,6 +7346,7 @@ griffon
 glyoxime
 generalizers
 gomarite
+gaura
 germanous
 gleamier
 gamotropism
