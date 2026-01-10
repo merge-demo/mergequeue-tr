@@ -17027,7 +17027,6 @@ apocalypses
 apocalypst
 adhocracy
 apocalypt
-atavistic
 apocalyptic
 astragalocentral
 advantageous
@@ -17578,6 +17577,7 @@ aminobenzene
 arguteness
 albacea
 atavists
+atavistic
 ashlars
 alcedo
 acyrology
