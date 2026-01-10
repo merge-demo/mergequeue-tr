@@ -1886,6 +1886,7 @@ debones
 deafening
 dobies
 disablement
+dugout
 deborah
 daktylos
 deicate
@@ -12525,7 +12526,6 @@ dispractice
 dols
 dangerously
 decerns
-dugout
 disowning
 disinfecting
 denormalized
