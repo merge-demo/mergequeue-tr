@@ -2649,7 +2649,6 @@ bandusia
 bescorch
 batrachite
 beeth
-barlafumble
 blurred
 basilinna
 bescour
@@ -11073,6 +11072,7 @@ bruet
 bibberies
 boride
 bedwarfed
+barlafumble
 blockboard
 beblain
 bavaroy
