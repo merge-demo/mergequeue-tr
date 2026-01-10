@@ -167,7 +167,6 @@ guesthouse
 gingerroot
 guaiaretic
 gardenmaker
-geophagy
 graniticoline
 gunwhale
 grandson
@@ -5862,6 +5861,7 @@ gipsyweed
 glucoses
 glances
 glucoside
+geophagy
 goshawk
 glissading
 grandparents
