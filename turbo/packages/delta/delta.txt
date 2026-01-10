@@ -974,6 +974,7 @@ disjoints
 doughmen
 dare
 directcarving
+dorsipinal
 drosophila
 dared
 doodah
@@ -15816,7 +15817,6 @@ dorsimeson
 devolatilization
 disyllabize
 deducibly
-dorsipinal
 diablerie
 dorsocaudad
 dorsocentral
