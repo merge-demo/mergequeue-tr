@@ -525,7 +525,6 @@ astroite
 adenomatous
 ablations
 agnizes
-assarion
 ablatitious
 acephala
 ablatival
@@ -5110,6 +5109,7 @@ aestivate
 avocate
 aestivates
 azotite
+assarion
 admonisher
 accosting
 acquainting
