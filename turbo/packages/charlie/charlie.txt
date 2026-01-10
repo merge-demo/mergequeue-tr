@@ -930,7 +930,6 @@ chaptalization
 cakewalked
 cakewalker
 cakewalking
-caressant
 carnotite
 caky
 clientelage
@@ -2590,6 +2589,7 @@ canduc
 crepier
 camphires
 censuses
+caressant
 cyclotrons
 cheesing
 cliffing
