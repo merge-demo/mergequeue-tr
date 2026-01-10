@@ -3750,7 +3750,6 @@ adherents
 archetypally
 adherers
 antiphonon
-abbozzo
 aerophilately
 aeroscepsis
 accessorial
@@ -13324,6 +13323,7 @@ agglutinability
 autosome
 abobra
 anthelminthic
+abbozzo
 apoturmeric
 anisometric
 antimerger
