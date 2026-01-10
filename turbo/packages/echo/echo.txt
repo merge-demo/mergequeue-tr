@@ -819,7 +819,6 @@ extradecretal
 encrust
 ectypography
 epitheton
-entrecote
 epop
 exulate
 ectiris
@@ -2475,6 +2474,7 @@ eleve
 exegete
 ellipsoids
 eurythmical
+entrecote
 enstatite
 electrogasdynamics
 electroharmonic
