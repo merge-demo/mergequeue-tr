@@ -8125,7 +8125,6 @@ epicoelia
 encephalothlipsis
 electrovection
 enbibe
-embellish
 episarkine
 ethnology
 epiural
@@ -8874,6 +8873,7 @@ enterocystoma
 egregiousness
 endocellular
 eremitism
+embellish
 euploidy
 ecuelling
 epitheloid
