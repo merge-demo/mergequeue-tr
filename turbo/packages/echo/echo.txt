@@ -1048,6 +1048,7 @@ exterritorial
 enshrouded
 edgrow
 encephaloscope
+equiparate
 enormous
 ead
 ensanguining
@@ -3388,7 +3389,6 @@ ebullate
 exurbanite
 exacters
 eggplants
-equiparate
 emphase
 egoist
 embargoes
