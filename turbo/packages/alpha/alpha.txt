@@ -1769,7 +1769,6 @@ acedias
 abbreviature
 agalloch
 astigmia
-ammonitiferous
 agoniada
 aceldamas
 aquake
@@ -10795,6 +10794,7 @@ ancre
 antiagglutinating
 aged
 amiantuses
+ammonitiferous
 amyxorrhea
 architis
 amlikar
