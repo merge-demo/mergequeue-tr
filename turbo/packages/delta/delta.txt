@@ -9262,7 +9262,6 @@ deanathematize
 dedd
 diesters
 deflectable
-dearworth
 dromaeognathae
 diestock
 diestrous
@@ -11325,6 +11324,7 @@ discerpible
 discerpibleness
 downfield
 distrainee
+dearworth
 discerption
 difficulties
 diggers

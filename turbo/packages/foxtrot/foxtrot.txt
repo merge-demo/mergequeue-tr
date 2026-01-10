@@ -2376,6 +2376,7 @@ friendlier
 frondage
 feriation
 falsedad
+frilliness
 flinting
 flexors
 fricandeau
@@ -9996,7 +9997,6 @@ flenching
 frypans
 frillily
 falderal
-frilliness
 fen
 favourer
 florid
