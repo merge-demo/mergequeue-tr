@@ -845,7 +845,6 @@ bushelbasket
 bonelike
 bedene
 bouleversement
-baffs
 becomingly
 boltholes
 baft
@@ -1218,6 +1217,7 @@ bakes
 bakeshop
 bakie
 bicirrose
+baffs
 bakingly
 bakli
 baymen
