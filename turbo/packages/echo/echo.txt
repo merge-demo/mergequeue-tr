@@ -1774,7 +1774,6 @@ embankments
 electrification
 epiblemata
 encompasser
-enable
 estimates
 entresse
 eocene
@@ -1936,6 +1935,7 @@ erdvark
 elishah
 ejectively
 evehood
+enable
 enfierce
 estivation
 encompany
