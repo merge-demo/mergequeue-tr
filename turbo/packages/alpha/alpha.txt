@@ -18416,7 +18416,6 @@ asoak
 ankylotia
 arapahos
 azorian
-adversant
 awaiter
 anticensoriously
 autoecious
@@ -22089,6 +22088,7 @@ asteep
 asteism
 amplexicaudate
 aloddia
+adversant
 adaptably
 applier
 agastreae

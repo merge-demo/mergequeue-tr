@@ -13466,7 +13466,6 @@ baronethood
 bottoming
 betweenness
 balderdash
-benefic
 bradyseismism
 basementward
 bioxide
@@ -17087,6 +17086,7 @@ braggadocios
 baluga
 bitterhead
 bullboat
+benefic
 babylonite
 bullcomber
 bucentaur
