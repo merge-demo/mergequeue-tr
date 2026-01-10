@@ -8856,6 +8856,7 @@ bikinied
 bombycids
 boxtops
 bedchamber
+becafico
 bible
 binotonous
 baltimorean
@@ -9285,7 +9286,6 @@ bullterrier
 bonavist
 butler
 bantamweights
-becafico
 botches
 bipolarity
 bipolarization

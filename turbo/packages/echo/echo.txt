@@ -9975,6 +9975,7 @@ endorachis
 elk
 estrums
 extrospection
+eighteenmos
 englishize
 estuarial
 epagogic
@@ -11139,7 +11140,6 @@ entry
 enjambments
 encomy
 evacuant
-eighteenmos
 episome
 extipulate
 executing
