@@ -39,6 +39,7 @@ goodlike
 gabioned
 glutamate
 gmelina
+guestimate
 grawls
 grammes
 gabions
@@ -6856,7 +6857,6 @@ glis
 gannet
 glibly
 goodenia
-guestimate
 gestated
 gatling
 guyed
