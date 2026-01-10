@@ -9834,7 +9834,6 @@ ethnographist
 extincteur
 econometrician
 eatables
-entrance
 enanthema
 estats
 eternise
@@ -12592,6 +12591,7 @@ epsomite
 etymologist
 euphon
 ethion
+entrance
 eastling
 excecation
 eunuchry
