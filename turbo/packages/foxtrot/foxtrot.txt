@@ -5252,7 +5252,6 @@ fideicommissa
 frostbird
 fockle
 fabricable
-fomenter
 ferricyanate
 flavours
 fimbriate
@@ -9802,6 +9801,7 @@ fovilla
 freudian
 filthiness
 fluorenyl
+fomenter
 freddy
 fennoman
 freudist
