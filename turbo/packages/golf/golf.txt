@@ -1441,7 +1441,6 @@ gulfy
 grosgrained
 gainward
 glossarial
-gidjee
 germiparity
 garnishee
 glovemaker
@@ -6248,6 +6247,7 @@ gobble
 gowpen
 gierfalcon
 gobbled
+gidjee
 gothicizer
 gelatinised
 graecian
