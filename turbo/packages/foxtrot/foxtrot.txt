@@ -5493,6 +5493,7 @@ fanjets
 fiddlies
 faroelite
 fleshliness
+faradmeter
 faceteness
 flacker
 feminization
@@ -8344,7 +8345,6 @@ fumewort
 forcy
 familiars
 foveolated
-faradmeter
 forgot
 frontenis
 fightable
