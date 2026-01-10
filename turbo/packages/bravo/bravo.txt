@@ -6120,6 +6120,7 @@ biobibliographies
 babyolatry
 bendies
 bends
+bizen
 bendwise
 begay
 balaneutics
@@ -15124,7 +15125,6 @@ bunkered
 brevilingual
 bestirring
 besmearer
-bizen
 breviloquent
 blimp
 bushhammer

@@ -577,6 +577,7 @@ districted
 dropworm
 dambonitol
 derived
+decollate
 dialers
 decolonized
 daunch
@@ -8972,7 +8973,6 @@ duodenotomy
 depopulators
 digastric
 disincarceration
-decollate
 dismarry
 dorippid
 dicycly
