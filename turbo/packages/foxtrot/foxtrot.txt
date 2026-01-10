@@ -2293,7 +2293,6 @@ fanglement
 fistulana
 fatherlessness
 faunule
-fenestrato
 fifteenfold
 fondness
 fellowess
@@ -2927,6 +2926,7 @@ flukiness
 freezed
 foxberries
 fac
+fenestrato
 furloughs
 fungological
 froths
