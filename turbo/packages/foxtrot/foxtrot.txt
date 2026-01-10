@@ -1292,7 +1292,6 @@ foins
 footlocker
 fossoria
 fluctuous
-flarfishes
 feminophobe
 falconoid
 fatalists
@@ -9363,6 +9362,7 @@ flector
 frenchmen
 faffy
 footgears
+flarfishes
 firkins
 flatways
 fecal
