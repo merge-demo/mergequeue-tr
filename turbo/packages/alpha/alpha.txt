@@ -6066,7 +6066,6 @@ agitate
 agitated
 agitational
 aftosa
-agitations
 allorrhyhmia
 actor
 anorchism
@@ -11639,6 +11638,7 @@ atonal
 anaclastics
 asteriated
 andromede
+agitations
 agglutinationist
 araneina
 ammeline
