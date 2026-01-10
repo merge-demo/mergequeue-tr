@@ -2865,6 +2865,7 @@ fetterlock
 flatfish
 forewing
 foxship
+fw
 frisettes
 fantasize
 fogies
@@ -5490,7 +5491,6 @@ fiddlies
 faroelite
 fleshliness
 faceteness
-fw
 flacker
 feminization
 fleshmonger
