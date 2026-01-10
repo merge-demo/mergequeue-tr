@@ -15835,7 +15835,6 @@ crusilee
 coremaker
 cleche
 capacitance
-clechee
 constants
 cleck
 commune
@@ -19974,6 +19973,7 @@ cheery
 cofferlike
 commandry
 cachinnated
+clechee
 caudata
 commark
 croupal
