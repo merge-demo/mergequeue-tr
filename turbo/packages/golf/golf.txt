@@ -2697,6 +2697,7 @@ gaud
 gestae
 genyophrynidae
 granularity
+geroderma
 gingers
 gascoign
 geek
@@ -5820,7 +5821,6 @@ germanism
 gendarmes
 gruiformes
 guilds
-geroderma
 glycolaldehyde
 gedact
 galvanoplastic
