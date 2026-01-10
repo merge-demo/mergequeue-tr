@@ -8820,6 +8820,7 @@ brilliants
 binny
 bumpered
 beanbags
+bogeyman
 binnogue
 battel
 backstrap
@@ -11931,7 +11932,6 @@ bogbeans
 bordels
 bogberry
 baluchi
-bogeyman
 broommaker
 bloomiest
 branchiopneustic
