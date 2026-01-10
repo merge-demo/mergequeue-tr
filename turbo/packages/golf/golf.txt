@@ -1632,7 +1632,6 @@ geom
 greetingly
 groovier
 grousewards
-grosgrain
 garawi
 gumlikeness
 geode
@@ -8559,6 +8558,7 @@ glutton
 gravida
 gynecomasty
 garcons
+grosgrain
 ganoidal
 gitana
 grandada
