@@ -6123,7 +6123,6 @@ flouted
 fulminations
 fretish
 frondigerous
-foxfish
 frustration
 fetidity
 fantom
@@ -7408,6 +7407,7 @@ fawnlike
 fans
 firefang
 footmen
+foxfish
 ferrocerium
 forwarder
 fruitlet
