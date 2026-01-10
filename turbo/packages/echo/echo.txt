@@ -9488,6 +9488,7 @@ entocoel
 electives
 eliquation
 exsculp
+elytra
 electronic
 extroverted
 escortage
@@ -10366,7 +10367,6 @@ exhibitive
 ellagic
 eloign
 ethylamime
-elytra
 ethnopsychology
 enalite
 enthuses
