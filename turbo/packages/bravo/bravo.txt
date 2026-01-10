@@ -4401,6 +4401,7 @@ boordly
 bagne
 bounties
 breakwater
+balloter
 behoney
 bullshit
 beanweed
@@ -11623,7 +11624,6 @@ brachyural
 biunivocal
 barche
 boarspear
-balloter
 burns
 bevels
 bacauan
