@@ -6849,6 +6849,7 @@ dissention
 dryobalanops
 dragnet
 deadflat
+disvalues
 deltic
 domesticative
 derivative
@@ -7086,7 +7087,6 @@ demesmerize
 descriptiveness
 disorient
 desto
-disvalues
 darted
 damselfish
 destour
