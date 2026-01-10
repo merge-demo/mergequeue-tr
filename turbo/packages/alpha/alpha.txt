@@ -3044,6 +3044,7 @@ apercu
 actinometricy
 areche
 adelops
+aeronomer
 autochton
 agonia
 actinomycete
@@ -4969,7 +4970,6 @@ argentose
 agama
 anticipations
 aeronautical
-aeronomer
 amyliferous
 aumil
 aeronomical
