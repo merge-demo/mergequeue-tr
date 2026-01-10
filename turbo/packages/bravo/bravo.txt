@@ -9665,7 +9665,6 @@ bulleting
 bisimine
 breaches
 brabant
-becap
 bullish
 bisymmetry
 brandyman
@@ -15291,6 +15290,7 @@ bogomilian
 benting
 bridestake
 befoulier
+becap
 broodlet
 brainlessly
 barnlike

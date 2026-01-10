@@ -9581,7 +9581,6 @@ aworth
 accentuate
 atheism
 algorithmic
-autoionization
 antepileptic
 amuse
 antecommunion
@@ -23710,6 +23709,7 @@ articles
 auriphone
 auriphrygia
 auripigment
+autoionization
 aurir
 auriscalpia
 auriscopy
