@@ -6931,7 +6931,6 @@ cementwork
 cemetaries
 comate
 cemetery
-copesettic
 cemeterial
 cymoscope
 catchpenny
@@ -12966,6 +12965,7 @@ cyanoacetate
 cobenignity
 currencies
 cyanoaurate
+copesettic
 characeous
 cyanoauric
 cyanobenzene
