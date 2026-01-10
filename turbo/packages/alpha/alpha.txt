@@ -2508,7 +2508,6 @@ alabastrons
 amoebicidal
 acolyth
 aculei
-acolythate
 ardella
 autoserum
 austrasian
@@ -21733,6 +21732,7 @@ assentors
 acarocecidia
 asself
 ayyubid
+acolythate
 assembl
 assemblable
 assemblance
