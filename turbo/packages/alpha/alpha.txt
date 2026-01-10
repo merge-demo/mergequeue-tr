@@ -14334,7 +14334,6 @@ anthers
 anisopogonous
 aglossal
 aquosity
-arrestment
 aftergrass
 alkahests
 adrop
@@ -14644,6 +14643,7 @@ accolated
 animalities
 appet
 androsphinges
+arrestment
 antiaggressionist
 antienergistic
 arcus

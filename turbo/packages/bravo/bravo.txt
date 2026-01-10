@@ -2643,6 +2643,7 @@ birdhouses
 bilges
 botanise
 begirdle
+beckoningly
 barkless
 battening
 bandusia
@@ -4392,7 +4393,6 @@ beckoner
 buriat
 bedizened
 beati
-beckoningly
 balitao
 byward
 bourgeois
