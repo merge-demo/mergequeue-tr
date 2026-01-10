@@ -3562,7 +3562,6 @@ captivates
 captivatingly
 clowre
 classier
-captivative
 captive
 caucus
 calvarias
@@ -14844,6 +14843,7 @@ caperdewsie
 cytomegalovirus
 cytomere
 carefully
+captivative
 cytomicrosome
 citrated
 cordages
