@@ -5935,7 +5935,6 @@ frenchification
 frailly
 fivepins
 futileness
-frightening
 fallibility
 fortunite
 floodlit
@@ -9975,6 +9974,7 @@ fliest
 fairness
 fossilising
 frijole
+frightening
 footprint
 forewarner
 footpaths
