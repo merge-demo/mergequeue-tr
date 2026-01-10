@@ -5223,7 +5223,6 @@ fidfad
 factum
 fortemente
 fratcher
-flavoriness
 foremilks
 falangist
 faveoli
@@ -7592,6 +7591,7 @@ farrier
 fossula
 ferroglass
 fees
+flavoriness
 funipendulous
 formant
 fescenninity

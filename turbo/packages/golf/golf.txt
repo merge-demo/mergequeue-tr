@@ -13,7 +13,6 @@ gobi
 grasswork
 gratuities
 gabelles
-greedsome
 gledy
 grece
 genetous
@@ -3020,6 +3019,7 @@ gallicolous
 gulinula
 geminate
 guiding
+greedsome
 geomantically
 garnerage
 geoponics
