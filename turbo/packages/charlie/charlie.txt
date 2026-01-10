@@ -2625,6 +2625,7 @@ ciphonies
 cheeseflower
 cursaro
 coign
+certie
 camelopardel
 canes
 caprellidae
@@ -27510,7 +27511,6 @@ covey
 coveys
 covelline
 covellite
-certie
 conceptualistic
 corpus
 cocas
