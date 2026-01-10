@@ -4615,6 +4615,7 @@ gyppers
 griggles
 graphometer
 gastrodialysis
+gorst
 gaonic
 gasconade
 gummosis
@@ -7912,7 +7913,6 @@ graphitoidal
 granary
 greases
 glecoma
-gorst
 gunating
 gesith
 gaberloonie
