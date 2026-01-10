@@ -12244,7 +12244,6 @@ anchorages
 anchorlike
 archradical
 actinodermatitis
-anchoret
 aminish
 anchorets
 altruism
@@ -20062,6 +20061,7 @@ aromatics
 autochthonal
 adscripted
 aromatised
+anchoret
 aromatitae
 alcoholizing
 audad
