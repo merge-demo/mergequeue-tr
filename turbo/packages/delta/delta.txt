@@ -2259,7 +2259,6 @@ distractibility
 dustbox
 determinative
 decelerates
-dentolabial
 decembrist
 demnition
 decemcostate
@@ -8308,6 +8307,7 @@ diaguite
 dyak
 diaka
 despeed
+dentolabial
 dapper
 duskly
 diapausing
