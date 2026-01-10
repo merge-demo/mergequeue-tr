@@ -3943,7 +3943,6 @@ emolumental
 extemporiser
 evader
 enstate
-exportation
 emory
 exopathic
 escapologist
@@ -13041,6 +13040,7 @@ escoba
 emrode
 expatriated
 exhibiting
+exportation
 ebauchoir
 euhemerised
 epiperipheral
