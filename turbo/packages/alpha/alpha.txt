@@ -1178,6 +1178,7 @@ abbots
 alabastoi
 agalmatolite
 agonothetic
+alliterator
 acanthodei
 acoasma
 associationism
@@ -21601,7 +21602,6 @@ aspiree
 anhang
 aspirer
 aspirers
-alliterator
 abboccato
 archprotopope
 aprilesque
