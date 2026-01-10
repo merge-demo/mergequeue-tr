@@ -1727,7 +1727,6 @@ feastfully
 finny
 forayers
 fu
-fencibles
 felonies
 feastraw
 fledgling
@@ -2484,6 +2483,7 @@ funs
 fernshaw
 fordo
 forehatch
+fencibles
 feck
 flavic
 freightage
