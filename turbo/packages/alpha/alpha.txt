@@ -14508,7 +14508,6 @@ achenium
 animadverts
 addictiveness
 affrontedly
-anthropogeographical
 anthropoglot
 anthospermum
 anoplotheroid
@@ -20925,6 +20924,7 @@ alexandrianism
 ambulating
 alveolar
 acetifies
+anthropogeographical
 arthrogastra
 asbolane
 asbestoid
