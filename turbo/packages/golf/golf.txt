@@ -3836,6 +3836,7 @@ gell
 galanas
 giftwrapping
 gazeless
+gotten
 gorgonesque
 goats
 gushing
@@ -7512,7 +7513,6 @@ guessable
 glottalized
 gat
 governed
-gotten
 graecizing
 governesses
 galvanotonic
