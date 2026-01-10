@@ -5580,6 +5580,7 @@ fanaticized
 forefeel
 fossilation
 formulary
+fishtailing
 fuming
 fmt
 flyer
@@ -6349,7 +6350,6 @@ fluorane
 feuded
 francois
 florentium
-fishtailing
 fluorboric
 frugiferousness
 fluotitanate
