@@ -11064,7 +11064,6 @@ archegone
 acroblast
 assais
 amorphus
-amort
 amortizable
 algic
 assibilation
@@ -11737,6 +11736,7 @@ amigo
 anagap
 amos
 aerotechnics
+amort
 avoure
 appraisal
 anagyrine
