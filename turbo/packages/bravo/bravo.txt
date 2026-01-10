@@ -364,6 +364,7 @@ basichromatinic
 backflowing
 backframe
 backfriend
+bowable
 bottegas
 backgame
 backgammon
@@ -2603,7 +2604,6 @@ barytocelestite
 barytone
 barytons
 busing
-bowable
 bears
 brittlely
 barytophyllite
