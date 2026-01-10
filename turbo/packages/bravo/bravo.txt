@@ -13147,7 +13147,6 @@ barometrograph
 borrachio
 borrasca
 borreria
-bandoliered
 bonanzas
 borrowable
 barocyclonometer
@@ -13472,6 +13471,7 @@ basementward
 bioxide
 bebouldered
 bricken
+bandoliered
 barbaloin
 blennotorrhea
 brotherton
