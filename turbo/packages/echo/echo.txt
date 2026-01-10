@@ -5284,6 +5284,7 @@ elapsoidea
 earthshakingly
 esterellite
 efik
+etherealising
 enchest
 emulsionize
 engrafting
@@ -10836,7 +10837,6 @@ enoptromancy
 engine
 electrocuting
 execrates
-etherealising
 eupepticity
 eelfish
 eloigners
