@@ -511,6 +511,7 @@ graff
 galivants
 geneticism
 gleamiest
+galloped
 glissandos
 growthful
 guruship
@@ -983,7 +984,6 @@ grivet
 gilgamesh
 grouting
 gagmen
-galloped
 ganched
 gonotokont
 goner
