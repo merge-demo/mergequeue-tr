@@ -9149,6 +9149,7 @@ alman
 adenovirus
 arrowplate
 almander
+ammelin
 aeginetic
 almandines
 aldime
@@ -18981,7 +18982,6 @@ anthropophagistic
 achyranthes
 autoschediastically
 archmockery
-ammelin
 architectress
 architects
 awheft
