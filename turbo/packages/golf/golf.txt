@@ -1507,7 +1507,6 @@ gorlin
 gregarinidal
 grisounite
 grote
-genapping
 geratology
 gasman
 guilty
@@ -9468,6 +9467,7 @@ gossamery
 gae
 gonyaulax
 gernative
+genapping
 graceful
 guelphish
 grundlov
