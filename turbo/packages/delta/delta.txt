@@ -747,6 +747,7 @@ drabby
 dishabilitation
 dandie
 doubtless
+decastyle
 depeche
 dandier
 drybrained
@@ -3839,7 +3840,6 @@ dyspnoea
 deionize
 degraduation
 dopatta
-decastyle
 dephlegm
 distruss
 diomedeidae
