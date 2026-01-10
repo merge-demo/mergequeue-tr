@@ -10562,7 +10562,6 @@ alison
 amidoplastid
 amidoxyl
 australopithecinae
-anagrammatize
 amids
 apolarity
 aphids
@@ -15735,6 +15734,7 @@ antipastic
 antipastos
 aureolin
 archaeocyathus
+anagrammatize
 acromania
 anaesthesiologist
 antipathetic
