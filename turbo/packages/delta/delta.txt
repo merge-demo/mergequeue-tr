@@ -2492,7 +2492,6 @@ deckle
 dulls
 discal
 diatropism
-deferral
 duds
 dishonourary
 declaim
@@ -10517,6 +10516,7 @@ diplarthrism
 dilapidator
 decentest
 depressants
+deferral
 defoggers
 depectible
 diplacuses
