@@ -5605,7 +5605,6 @@ belaboring
 blisters
 brough
 bulletheaded
-battlement
 blepharal
 bewigs
 barbitone
@@ -16756,6 +16755,7 @@ butterwoman
 bumpity
 buckwheats
 brazilin
+battlement
 bemuddy
 bucolically
 bucolicism
