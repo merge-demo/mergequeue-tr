@@ -19787,6 +19787,7 @@ achroanthes
 abrogated
 ambystoma
 armadas
+assecure
 agrologies
 armadilla
 acetylide
@@ -21707,7 +21708,6 @@ asseal
 arad
 assecuration
 anagua
-assecure
 apician
 assecution
 amend
