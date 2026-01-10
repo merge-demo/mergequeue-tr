@@ -10535,7 +10535,6 @@ gunjah
 gaucheries
 genisaro
 glyceraldehyde
-granospherite
 gard
 gunk
 girdering
@@ -10845,6 +10844,7 @@ gasworker
 grailer
 gregarian
 gymnasiarch
+granospherite
 genesiurgic
 galianes
 gunneress
