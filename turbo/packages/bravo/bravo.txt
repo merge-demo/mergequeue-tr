@@ -7503,6 +7503,7 @@ bancales
 binned
 beneaped
 brachypodine
+burgul
 booteries
 blubbered
 beurre
@@ -14089,7 +14090,6 @@ biblicistic
 barracudas
 blase
 bidarkees
-burgul
 baring
 blusterously
 brachygnathia
