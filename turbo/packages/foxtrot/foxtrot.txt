@@ -689,6 +689,7 @@ floccing
 flannelmouths
 feathercut
 fairish
+fanciness
 featlier
 filmically
 flapper
@@ -10718,7 +10719,6 @@ forbare
 forecount
 forbore
 frumpishly
-fanciness
 foreyear
 follyer
 fructified
