@@ -5493,7 +5493,6 @@ greencoat
 gangling
 glob
 gestured
-gnetum
 graduand
 glucinum
 grumblers
@@ -9148,6 +9147,7 @@ gouldian
 glauconitization
 gripgrass
 grouchily
+gnetum
 grantsman
 gora
 gridding
