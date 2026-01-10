@@ -2394,7 +2394,6 @@ canc
 coffined
 canceled
 canceleer
-canceler
 cancellable
 contrasters
 cyprinidae
@@ -3486,6 +3485,7 @@ copesman
 competencies
 capsizal
 collars
+canceler
 culverkeys
 cheimaphobia
 crunt
