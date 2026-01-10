@@ -2181,7 +2181,6 @@ alqueire
 amyelotrophy
 achordata
 achorion
-anarya
 archpoet
 achillodynia
 achras
@@ -5164,6 +5163,7 @@ anelastic
 amourist
 accend
 avouching
+anarya
 amnioallantoic
 afd
 antireticular
