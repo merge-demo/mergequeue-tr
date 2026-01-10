@@ -11000,7 +11000,6 @@ dodona
 downbend
 doorframe
 disallow
-displaying
 dorneck
 disconformably
 dramatised
@@ -18665,6 +18664,7 @@ diligently
 dioptral
 danaide
 draffiest
+displaying
 dwalm
 dwarfer
 duckboat
