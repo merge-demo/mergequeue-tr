@@ -6694,7 +6694,6 @@ flame
 felted
 fogless
 frounced
-fogo
 frescoists
 fighters
 feast
@@ -9911,6 +9910,7 @@ fleabane
 formated
 feceris
 fortuitism
+fogo
 forsythias
 ferromagnetism
 furze
