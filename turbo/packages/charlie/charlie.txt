@@ -6800,6 +6800,7 @@ cella
 cellarage
 cellared
 chamoix
+choleraic
 cellaress
 chanceable
 caudal
@@ -25037,7 +25038,6 @@ chiliadic
 choppered
 cuprotungstite
 cordwainer
-choleraic
 catastrophes
 cloves
 corecipient
