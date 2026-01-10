@@ -13936,6 +13936,7 @@ barwing
 billete
 bostonese
 bowsie
+businesses
 bacteriuria
 boxful
 bleed
@@ -17993,7 +17994,6 @@ busily
 blastophthoria
 bleeze
 beguiler
-businesses
 beadeyes
 babbool
 bennel

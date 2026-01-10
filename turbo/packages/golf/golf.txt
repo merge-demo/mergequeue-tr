@@ -974,6 +974,7 @@ glist
 genomic
 gamostele
 glottogony
+genoise
 genetically
 gamp
 graysby
@@ -2732,7 +2733,6 @@ guillotine
 gunboats
 gaedelian
 grooms
-genoise
 gentiopicrin
 girths
 gorgers
