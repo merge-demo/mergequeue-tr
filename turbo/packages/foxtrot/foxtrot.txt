@@ -1501,7 +1501,6 @@ forebodingness
 forestology
 freebooters
 formamido
-fastens
 fermentatory
 fetchingly
 florizine
@@ -7691,6 +7690,7 @@ flexes
 firth
 firm
 fellmonger
+fastens
 fleawort
 fossa
 fidessa
