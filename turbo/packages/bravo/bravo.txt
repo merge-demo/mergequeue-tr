@@ -4585,6 +4585,7 @@ betrunk
 bicellular
 backjaw
 bedarkening
+brike
 bedaub
 ballplayer
 barks
@@ -6326,7 +6327,6 @@ biblic
 billbroking
 barrer
 butment
-brike
 baratte
 benzanthracene
 boxboard
