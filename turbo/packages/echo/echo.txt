@@ -567,6 +567,7 @@ excision
 esophagoscopy
 eurypelma
 eurythermic
+elementalism
 ecclesiastes
 electrostatically
 excommunicates
@@ -12196,7 +12197,6 @@ enflame
 entrechats
 emanated
 embrighten
-elementalism
 emerized
 excelse
 execratively
