@@ -4696,7 +4696,6 @@ egomania
 enmuffle
 entrammel
 ensuance
-economic
 englishism
 enciphering
 enrapture
@@ -11016,6 +11015,7 @@ excipuliform
 endosarcous
 eroses
 extravagant
+economic
 emolliate
 eurypterus
 emption
