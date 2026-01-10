@@ -9479,7 +9479,6 @@ epicism
 erythron
 egests
 exegetes
-eschrufe
 escopeta
 euphemistical
 evulgate
@@ -10824,6 +10823,7 @@ epilogues
 exochorda
 exsibilate
 echinid
+eschrufe
 extrusive
 expedients
 enthralling
