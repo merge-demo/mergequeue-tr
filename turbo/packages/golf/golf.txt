@@ -800,7 +800,6 @@ glycosidase
 gonydeal
 graf
 gimlet
-gambade
 garrotting
 gastroenteritic
 gambang
@@ -2068,6 +2067,7 @@ glossers
 gingkoes
 gnawer
 glorious
+gambade
 gader
 gaulin
 geleem
