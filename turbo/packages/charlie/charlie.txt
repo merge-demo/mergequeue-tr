@@ -8226,7 +8226,6 @@ chandam
 cellulomonas
 causewayed
 cercarias
-chalazoin
 candytuft
 charvet
 chalcanth
@@ -17944,6 +17943,7 @@ centrist
 ciborium
 clubwood
 circumvolving
+chalazoin
 coelentera
 cubicle
 cookshack
