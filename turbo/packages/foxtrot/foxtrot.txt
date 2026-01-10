@@ -202,7 +202,6 @@ folletage
 footstock
 freedwoman
 ferns
-fazenda
 factotum
 felsitic
 ferrihemoglobin
@@ -7502,6 +7501,7 @@ frostweed
 fibrosity
 flaser
 forsakers
+fazenda
 flentes
 fleshbrush
 frivoler
