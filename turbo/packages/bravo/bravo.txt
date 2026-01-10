@@ -558,6 +558,7 @@ bosniac
 balausta
 bunt
 baccharis
+bosks
 bandboxical
 bandies
 bib
@@ -11684,7 +11685,6 @@ bribability
 boattail
 byeworkman
 blazoners
-bosks
 boatward
 blackboys
 boatwright
