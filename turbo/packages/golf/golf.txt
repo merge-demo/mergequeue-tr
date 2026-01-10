@@ -6030,6 +6030,7 @@ gunate
 glasshouse
 geyerite
 grounds
+gedanite
 grungy
 grislier
 glovemen
@@ -9574,7 +9575,6 @@ gossiphood
 gujrati
 gerbe
 gowds
-gedanite
 gravimeters
 galley
 glandula
