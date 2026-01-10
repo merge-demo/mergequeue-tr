@@ -1748,7 +1748,6 @@ annerre
 accustomation
 armouring
 aground
-adelaster
 armpit
 accustomedly
 accustomizing
@@ -15892,6 +15891,7 @@ awkward
 antiportable
 aclemon
 adenoid
+adelaster
 acrophony
 abutter
 anglers
