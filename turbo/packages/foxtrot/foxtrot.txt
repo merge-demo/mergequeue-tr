@@ -4376,7 +4376,6 @@ floorshifts
 flagged
 frenums
 fishbowls
-flexive
 forky
 fisheyes
 forecomingness
@@ -10197,6 +10196,7 @@ filite
 floated
 footnote
 froggies
+flexive
 finale
 froggish
 forslack
