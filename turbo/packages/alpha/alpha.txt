@@ -16557,7 +16557,6 @@ aquation
 apabhramsa
 axletree
 appress
-acutorsion
 apache
 attained
 apadana
@@ -17319,6 +17318,7 @@ aposia
 aposiopesis
 aposiopetic
 americanize
+acutorsion
 arbalest
 acataposis
 anglicization
