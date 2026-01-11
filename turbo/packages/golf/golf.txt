@@ -6493,7 +6493,6 @@ grazing
 gymnasia
 groundage
 groundably
-gospelmonger
 gallivat
 goniatitoid
 glycogenosis
@@ -9617,6 +9616,7 @@ grubbery
 grintern
 garse
 glochidian
+gospelmonger
 ghanian
 griddling
 grubstakes
