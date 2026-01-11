@@ -1220,7 +1220,6 @@ dataries
 dendrium
 dorsomedial
 datasetname
-dithers
 datcha
 disparison
 disclamation
@@ -10218,6 +10217,7 @@ depute
 dealfishes
 donkeyish
 demulsibility
+dithers
 dinosauria
 dystomous
 defossion
