@@ -13897,7 +13897,6 @@ bowsman
 botanomancy
 bullionism
 bows
-bootlessness
 benzopyran
 bankroll
 bodkinwise
@@ -17582,6 +17581,7 @@ barons
 brightwork
 biltongue
 bervie
+bootlessness
 brushball
 bemol
 barbel

@@ -2098,7 +2098,6 @@ favorless
 fleshen
 frument
 fayence
-fermentate
 fluming
 feminist
 falcate
@@ -9898,6 +9897,7 @@ fines
 filamentose
 fogeater
 fevercup
+fermentate
 fenestrone
 formalizes
 fungistatic
