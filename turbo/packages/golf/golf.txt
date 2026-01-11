@@ -6154,6 +6154,7 @@ glistened
 greenhead
 goliaths
 grayout
+gowds
 gambodic
 gallotannate
 grooves
@@ -9573,7 +9574,6 @@ gobbed
 gossiphood
 gujrati
 gerbe
-gowds
 galley
 glandula
 graphite
