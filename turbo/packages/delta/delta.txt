@@ -8521,7 +8521,6 @@ dinked
 diapause
 diapauses
 donaries
-decarburize
 dodecastylos
 divinations
 dispence
@@ -11653,6 +11652,7 @@ dialogged
 didest
 demiditone
 dishexecontahedroid
+decarburize
 discost
 dimorphite
 digitally
