@@ -2369,7 +2369,6 @@ barbwire
 barbwires
 bullpout
 bothsidedness
-betatter
 barhopped
 bilertinned
 barcella
@@ -3059,6 +3058,7 @@ balsaming
 brigantine
 baruch
 bitten
+betatter
 briery
 bialate
 biobibliographical
