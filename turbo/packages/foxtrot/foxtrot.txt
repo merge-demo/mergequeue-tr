@@ -1270,6 +1270,7 @@ faecula
 forenoon
 fastidium
 faineants
+festers
 fibroblast
 formicide
 flabbergasts
@@ -6250,7 +6251,6 @@ forewisdom
 fingerwork
 frisian
 fluidist
-festers
 fluidized
 ferroconcrete
 firers
