@@ -2423,7 +2423,6 @@ apprehensibility
 adance
 apeptic
 azygos
-argemone
 afterfeed
 aftertime
 armoured
@@ -13222,6 +13221,7 @@ alienship
 animi
 anabiosis
 alchymy
+argemone
 acoustical
 archbeacon
 animikean

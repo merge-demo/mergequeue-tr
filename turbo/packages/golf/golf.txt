@@ -8087,7 +8087,6 @@ glomming
 groaning
 garigue
 gamiest
-garau
 gratulating
 gasteromycetes
 grievingly
@@ -10461,6 +10460,7 @@ goosy
 guimpe
 guanophore
 glossarially
+garau
 goatbrush
 gagor
 gonium
