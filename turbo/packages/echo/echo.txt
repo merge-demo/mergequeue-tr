@@ -4552,7 +4552,6 @@ embeggar
 earthmove
 erica
 enrol
-ee
 epidiorthosis
 escuela
 enodation
@@ -8490,6 +8489,7 @@ evangelistaries
 easterlies
 eprise
 epimorpha
+ee
 endures
 epsilons
 extravasate
