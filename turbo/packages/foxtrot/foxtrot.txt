@@ -7750,6 +7750,7 @@ fanbearer
 ferroprussic
 fractionize
 flyflower
+feasor
 flawed
 fabliau
 fondouk
@@ -11406,7 +11407,6 @@ fleurette
 filminess
 fechnerian
 flushboard
-feasor
 flocculose
 furniture
 flummoxing
