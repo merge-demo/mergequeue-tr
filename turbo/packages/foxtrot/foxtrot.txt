@@ -7737,7 +7737,6 @@ foremast
 fritters
 fidicula
 franciscanism
-fisticuffery
 favillous
 flabelliform
 forsaker
@@ -11476,6 +11475,7 @@ froggery
 formular
 fuzzle
 foothill
+fisticuffery
 ferrite
 foredescribe
 farms
