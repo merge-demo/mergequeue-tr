@@ -6778,6 +6778,7 @@ glutimate
 gonococci
 glossopharyngeus
 gratuitous
+granogabbro
 gregarinida
 gonococcocci
 gonopore
@@ -8181,7 +8182,6 @@ galenical
 grapestalk
 groomling
 galeodidae
-granogabbro
 grapevines
 gentlemanlike
 galwegian
