@@ -4945,7 +4945,6 @@ gangliest
 gateage
 graunt
 gantry
-grouselike
 gauging
 gymnospermal
 gallantize
@@ -6411,6 +6410,7 @@ giddypate
 girnie
 goburra
 glucidic
+grouselike
 gregorian
 grandeeship
 geneses
