@@ -13046,6 +13046,7 @@ agglomeratic
 anhedral
 anhelation
 anhelose
+amici
 anhemitonic
 aborting
 amulla
@@ -15955,7 +15956,6 @@ antimetropia
 acidimeter
 armill
 accidia
-amici
 arnut
 angloman
 appointor
