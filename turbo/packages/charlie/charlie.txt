@@ -21969,7 +21969,6 @@ configurationally
 configurations
 configurative
 configure
-configures
 coxcombry
 confinable
 confine
@@ -25070,6 +25069,7 @@ chlorinate
 coreidae
 californians
 chetif
+configures
 coreigns
 corejoice
 caryophyllene
