@@ -172,6 +172,7 @@ antepagments
 abave
 anaberoga
 allosematic
+anthracoid
 apagogical
 apoembryony
 autoschediaze
@@ -9080,7 +9081,6 @@ absterged
 alloxans
 arsenicalism
 alloxantin
-anthracoid
 alloxuraemia
 alloxuremia
 alveolary

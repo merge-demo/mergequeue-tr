@@ -168,6 +168,7 @@ farcialize
 formicaroid
 factionistism
 flips
+forswore
 flirtatious
 friborg
 fabulous
@@ -10349,7 +10350,6 @@ fidding
 formicaries
 fantoddish
 fibreware
-forswore
 flatmate
 footgeld
 frontogenesis
