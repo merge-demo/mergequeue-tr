@@ -2639,7 +2639,6 @@ deforce
 dispose
 decolors
 duopsonies
-decolouration
 daedalean
 denunciated
 dogmatism
@@ -4946,6 +4945,7 @@ dihdroxycholecalciferol
 dimethyltryptamine
 datos
 dissipate
+decolouration
 deified
 demotists
 duncedom
