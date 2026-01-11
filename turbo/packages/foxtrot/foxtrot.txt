@@ -4669,6 +4669,7 @@ fortitudes
 fixer
 freshhearted
 fixidity
+fauchard
 fixing
 flannelleaf
 fixt
@@ -10552,7 +10553,6 @@ fluky
 flatus
 furnaces
 fossilised
-fauchard
 featherier
 fieldpiece
 frowziest
