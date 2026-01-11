@@ -6052,7 +6052,6 @@ depressiveness
 deputizing
 degraders
 deonerate
-debriefed
 deaconal
 dilutent
 dermorhynchi
@@ -16751,6 +16750,7 @@ drats
 doughiest
 descry
 discomfortable
+debriefed
 dryinid
 dratting
 draught
