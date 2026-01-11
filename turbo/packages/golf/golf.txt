@@ -6289,7 +6289,6 @@ glossalgia
 geophysics
 gruneritization
 goblins
-goldenpert
 gallivanters
 gebang
 gardevisure
@@ -10070,6 +10069,7 @@ gainings
 gramophonically
 gymnoglossate
 guavina
+goldenpert
 guesser
 grainland
 gonads
