@@ -667,7 +667,6 @@ gastrojejunostomy
 galgulidae
 geropiga
 gravelish
-gangboard
 gamely
 gallows
 gonitis
@@ -7477,6 +7476,7 @@ greenleaf
 globulousness
 geostrategic
 gaet
+gangboard
 galilean
 gelatinizable
 gastromenia
