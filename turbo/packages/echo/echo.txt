@@ -1030,7 +1030,6 @@ eqpt
 edgar
 expatiatory
 edgeboned
-erected
 eringos
 eagerly
 exsheath
@@ -13524,6 +13523,7 @@ examine
 elephantous
 erotology
 exteriorization
+erected
 electrocauterization
 elbert
 earcap
