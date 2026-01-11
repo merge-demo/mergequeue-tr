@@ -1230,6 +1230,7 @@ gambler
 gladys
 gonakie
 grackles
+gad
 gloominess
 guana
 gammadia
@@ -5505,7 +5506,6 @@ gangplanks
 glycidol
 gorsier
 gowning
-gad
 grumbles
 gamecocks
 guardlike
