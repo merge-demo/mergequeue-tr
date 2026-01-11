@@ -887,7 +887,6 @@ ectosarc
 essoining
 exercises
 extensivity
-eschewing
 expeditionary
 enures
 emperies
@@ -5662,6 +5661,7 @@ estrangle
 eigenvalue
 epithi
 exhibitorial
+eschewing
 exquisitism
 enframed
 elaphebolion
