@@ -2966,7 +2966,6 @@ fissiparity
 fading
 fewterer
 francophil
-flatworm
 fewtrils
 follower
 francium
@@ -6924,6 +6923,7 @@ folliculated
 fauna
 firepink
 finjan
+flatworm
 fluidifying
 flanders
 fruitfully
