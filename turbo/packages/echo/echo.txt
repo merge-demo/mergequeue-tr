@@ -6502,7 +6502,6 @@ execration
 ephemeric
 englishes
 ephemeris
-egomaniacal
 enrollment
 ectosphenoid
 essayists
@@ -10350,6 +10349,7 @@ electroplaque
 ethnographer
 existently
 euornithic
+egomaniacal
 ethnohistoric
 equinox
 elephantine
