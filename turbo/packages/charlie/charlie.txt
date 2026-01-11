@@ -18080,7 +18080,6 @@ coenobiar
 catostomoid
 cissoid
 cognizers
-coenobioid
 conicoid
 contentless
 conjugable
@@ -21905,6 +21904,7 @@ confervae
 conferval
 combe
 clof
+coenobioid
 chinamania
 confessable
 creating
