@@ -3997,7 +3997,6 @@ gellert
 gastrogenous
 gilds
 grandness
-gutturals
 gerundive
 gushingly
 graybacks
@@ -9636,6 +9635,7 @@ gangbang
 generals
 genital
 grudging
+gutturals
 gonosphere
 geraniols
 garmenting
