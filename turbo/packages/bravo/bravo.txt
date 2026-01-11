@@ -6132,7 +6132,6 @@ blepharodyschroia
 benedictinism
 brickfield
 bucolical
-briolet
 benedictions
 billa
 blenniiform
@@ -8192,6 +8191,7 @@ burfish
 bespurred
 bier
 broid
+briolet
 baleens
 byronically
 beatable
