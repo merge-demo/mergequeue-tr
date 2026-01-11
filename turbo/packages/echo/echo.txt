@@ -11451,7 +11451,6 @@ englishness
 extrasyllogistic
 erythraeidae
 evictions
-explanatory
 emboldens
 eleocharis
 evictor
@@ -12466,6 +12465,7 @@ enclosure
 exchequer
 entreaty
 emotionalism
+explanatory
 ependyme
 ext
 elocutionists
