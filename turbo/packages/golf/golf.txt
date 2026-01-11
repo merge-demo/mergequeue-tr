@@ -8945,7 +8945,6 @@ gothicity
 giggit
 gironny
 gall
-genteel
 getae
 gallicola
 grizzlyman
@@ -9069,6 +9068,7 @@ gyres
 gease
 graveyards
 glaucomys
+genteel
 greund
 glumal
 girdling
