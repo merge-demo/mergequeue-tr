@@ -1064,7 +1064,6 @@ echinology
 elective
 edification
 exfigure
-earock
 equipoised
 evaluates
 envined
@@ -11805,6 +11804,7 @@ enrolment
 elaphrium
 euryon
 exaudi
+earock
 ethenoidal
 exaun
 earthrise
