@@ -8708,7 +8708,6 @@ demoting
 diathermies
 dendrophil
 dispensatrix
-demisacrilege
 diathesis
 dirl
 decima
@@ -14208,6 +14207,7 @@ disuse
 desquamate
 disbranching
 disuses
+demisacrilege
 disutility
 disutilize
 doldrum
