@@ -2478,7 +2478,6 @@ entrecote
 enstatite
 electrogasdynamics
 electroharmonic
-empanelment
 electrohemostasis
 endearing
 ebony
@@ -3202,6 +3201,7 @@ elopes
 elops
 elicit
 emission
+empanelment
 epiphanized
 everything
 extruding
