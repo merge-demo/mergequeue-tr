@@ -76,7 +76,6 @@ depressibility
 debilitating
 dactylion
 dobbin
-damning
 direcly
 deescalating
 dumb
@@ -4037,6 +4036,7 @@ disposingly
 delicately
 dominants
 dermatomycosis
+damning
 denier
 darknesses
 domicil
