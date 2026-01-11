@@ -3697,7 +3697,6 @@ bally
 belage
 belfather
 batteaux
-bakatan
 battement
 balladising
 batteners
@@ -13886,6 +13885,7 @@ bowlful
 bergamasca
 breastworks
 bowlike
+bakatan
 bowline
 bombinating
 bacalaos

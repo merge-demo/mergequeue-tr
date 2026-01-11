@@ -7607,6 +7607,7 @@ feminised
 fester
 fabular
 funfest
+fruitade
 fallowness
 foolhardy
 flaxy
@@ -11370,7 +11371,6 @@ factish
 focalizing
 fluorindin
 fibropolypus
-fruitade
 faute
 furnacelike
 firetraps
