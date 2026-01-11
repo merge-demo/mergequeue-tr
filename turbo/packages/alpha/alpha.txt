@@ -6657,6 +6657,7 @@ ailuridae
 aneurilemmic
 archvillain
 ankyloblepharon
+avalvular
 anoterite
 ailuroidea
 ailurophilic
@@ -20889,7 +20890,6 @@ asale
 asana
 aconitin
 arachnidism
-avalvular
 arcate
 antiparasitically
 acetose
