@@ -1092,7 +1092,6 @@ gormandizers
 gamboge
 genitives
 gymnodiniidae
-ganister
 goriest
 giroflore
 groat
@@ -3280,6 +3279,7 @@ grimmia
 graduses
 gregaritic
 glancer
+ganister
 glycosin
 gelotoscopy
 glent
