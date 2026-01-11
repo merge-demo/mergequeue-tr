@@ -4128,6 +4128,7 @@ electrovalence
 employe
 estado
 etamin
+emperor
 epigene
 empestic
 epicanthus
@@ -9501,7 +9502,6 @@ escortee
 escorts
 escot
 endbrain
-emperor
 eogaean
 euryalean
 enghosted

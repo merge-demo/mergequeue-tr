@@ -1082,6 +1082,7 @@ gegenion
 glares
 guarding
 graphicness
+ghalva
 gowdy
 gestes
 galactolipin
@@ -4243,7 +4244,6 @@ garnishing
 guncotton
 gantang
 gruelled
-ghalva
 gomorrhean
 grumpiness
 gibblegabbler
