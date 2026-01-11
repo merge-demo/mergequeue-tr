@@ -1672,6 +1672,7 @@ consuetitude
 conferees
 caloreceptor
 cochairs
+capelets
 calorescence
 calory
 clearly
@@ -18232,7 +18233,6 @@ carbonari
 coffeegrowing
 cladothrix
 cuss
-capelets
 chemicovital
 coffeehouse
 coffeehouses
