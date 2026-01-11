@@ -6525,7 +6525,6 @@ gpss
 glutting
 greyskin
 guiders
-gentianales
 glandarious
 glouted
 grandaddy
@@ -7400,6 +7399,7 @@ gnatproof
 geylies
 gotra
 germarium
+gentianales
 gravecloth
 gastrocolotomy
 gaudery
