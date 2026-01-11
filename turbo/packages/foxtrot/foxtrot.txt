@@ -7687,6 +7687,7 @@ finnack
 fasciated
 fernier
 frayproof
+feature
 foreigneering
 friend
 flexes
@@ -8965,7 +8966,6 @@ freakishness
 fourrier
 flagellates
 foelike
-feature
 foursquareness
 faustian
 fourteener
