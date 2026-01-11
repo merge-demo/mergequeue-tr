@@ -12194,7 +12194,6 @@ baklawas
 benzodiazine
 bridgeboard
 bijugular
-bolide
 bolivar
 befamine
 brose
@@ -13482,6 +13481,7 @@ brotherton
 becomes
 bookshelves
 boulter
+bolide
 bottstick
 botulins
 bashaw
