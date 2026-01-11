@@ -2031,7 +2031,6 @@ eyeblink
 eldin
 electrolyzation
 embitterments
-eunuchoidism
 echoencephalography
 encouragingly
 elaic
@@ -7555,6 +7554,7 @@ earnie
 electronics
 eastward
 epicedian
+eunuchoidism
 epicedium
 entropies
 entopterygoid
