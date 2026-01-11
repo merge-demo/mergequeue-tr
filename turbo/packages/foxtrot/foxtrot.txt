@@ -10802,7 +10802,6 @@ fuchsian
 fort
 fructificative
 floundered
-faintful
 flustra
 facet
 foveation
@@ -11360,6 +11359,7 @@ foreassign
 fizzes
 frousier
 flayed
+faintful
 fluencies
 fornicated
 frothless
