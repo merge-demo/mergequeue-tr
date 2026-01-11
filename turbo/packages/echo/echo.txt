@@ -5211,6 +5211,7 @@ exitus
 equison
 elusive
 endolysin
+ejidos
 eparchy
 eretrian
 ethologies
@@ -7204,7 +7205,6 @@ exposed
 elleck
 evaluators
 endodontium
-ejidos
 enderon
 erythropoietic
 electrotropic
