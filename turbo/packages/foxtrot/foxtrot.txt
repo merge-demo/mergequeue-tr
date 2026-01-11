@@ -8993,7 +8993,6 @@ frotting
 fregatidae
 fooder
 fidded
-fluffed
 filmier
 flaxwort
 fustian
@@ -10502,6 +10501,7 @@ frot
 froth
 formulatory
 fanman
+fluffed
 fittingly
 forays
 flyback
