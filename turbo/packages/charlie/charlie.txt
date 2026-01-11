@@ -3410,7 +3410,6 @@ canonizant
 capreolary
 capreolate
 chimericalness
-crossbarring
 continuua
 capretto
 capri
@@ -9329,6 +9328,7 @@ capillaritis
 chaunts
 contrariness
 catamarans
+crossbarring
 chaus
 cabbalistical
 cataian
