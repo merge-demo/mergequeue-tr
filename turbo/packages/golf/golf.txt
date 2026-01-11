@@ -3666,7 +3666,6 @@ gaslighted
 galumptious
 gelastic
 grapsus
-ghostfishes
 garrisonism
 gallinae
 gnathite
@@ -7192,6 +7191,7 @@ gorgosaurus
 galenism
 gorillalike
 gamesters
+ghostfishes
 grimliness
 gloze
 grater
