@@ -5465,7 +5465,6 @@ electuary
 exculpations
 eurithermophile
 emplastrum
-equivocates
 er
 etatist
 epidia
@@ -8666,6 +8665,7 @@ erectly
 epionychia
 equilibriums
 etherialization
+equivocates
 equimodal
 eunomia
 elapse
