@@ -8033,6 +8033,7 @@ exscript
 epigonal
 ehtanethial
 enoplion
+ethmosphenoidal
 employers
 eliminators
 emetin
@@ -11224,7 +11225,6 @@ evangelically
 erector
 enamellers
 eviler
-ethmosphenoidal
 endocrinologic
 entrenchment
 epithetize

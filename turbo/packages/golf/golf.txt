@@ -2324,7 +2324,6 @@ gadbee
 gavials
 guaiacols
 goloe
-gibbartas
 galopin
 geldings
 garlandage
@@ -6919,6 +6918,7 @@ gradients
 geostatics
 goodwife
 grecians
+gibbartas
 guasa
 gabies
 guiana
