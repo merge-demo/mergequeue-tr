@@ -9524,7 +9524,6 @@ ger
 gadaea
 gastrophthisis
 gastrocentrous
-greets
 geldability
 grouts
 gabblers
@@ -10034,6 +10033,7 @@ gospelers
 gonidiferous
 geomorphologist
 gondoliers
+greets
 ginn
 gueridons
 gasking
