@@ -8592,7 +8592,6 @@ eumorphic
 enunciative
 equatorward
 etesians
-etheriform
 equatorwards
 excessmen
 ectomeric
@@ -12543,6 +12542,7 @@ exculpative
 extoolitic
 enactable
 esonarthex
+etheriform
 enameler
 electrofusion
 extant
