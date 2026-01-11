@@ -13414,6 +13414,7 @@ ankylostomiasis
 ankylotic
 anklejack
 ankles
+amioidei
 aetolian
 aminase
 assimilatory
@@ -23680,7 +23681,6 @@ appealingness
 auriculas
 aussie
 actinally
-amioidei
 auriculocranial
 apios
 amphisile
