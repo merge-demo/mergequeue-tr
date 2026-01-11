@@ -10956,7 +10956,6 @@ coalition
 cicatrixes
 chiromantis
 chirometer
-chiromys
 cryostase
 chalcioecus
 chironym
@@ -28574,6 +28573,7 @@ cardiosclerosis
 credulities
 carabin
 creed
+chiromys
 creeded
 cerumens
 calamistrum
