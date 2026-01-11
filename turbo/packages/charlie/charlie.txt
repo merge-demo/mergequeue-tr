@@ -10888,6 +10888,7 @@ clerk
 chipproof
 crucifying
 clocher
+cambaye
 chypre
 cariacine
 chipwood
@@ -14939,7 +14940,6 @@ cycler
 cytozzoa
 coelacanthoid
 citraconate
-cambaye
 citramontane
 cothurns
 citrangeade
