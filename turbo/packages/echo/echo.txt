@@ -7621,7 +7621,6 @@ enteric
 epicoele
 elkesaite
 extolment
-entoparasitic
 espinos
 euchymous
 epicoelous
@@ -9782,6 +9781,7 @@ exitious
 enthusiast
 expressure
 essentially
+entoparasitic
 exigencies
 expeditation
 eightballs
