@@ -3931,7 +3931,6 @@ admissory
 anteporch
 adjured
 amygdalotome
-aristotelism
 absconding
 adjures
 aspersorium
@@ -15901,6 +15900,7 @@ abrader
 altho
 annotations
 antidynasty
+aristotelism
 amazingly
 antipragmatism
 antipragmatist
