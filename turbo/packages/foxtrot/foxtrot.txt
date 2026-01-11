@@ -4895,6 +4895,7 @@ foamier
 fixate
 fossilist
 finisher
+flatterer
 floreat
 forbearers
 fustianish
@@ -7054,7 +7055,6 @@ frescade
 floweriest
 fanger
 foolery
-flatterer
 farles
 felix
 formfeeds
