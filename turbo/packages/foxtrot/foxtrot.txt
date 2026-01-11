@@ -2069,6 +2069,7 @@ felicity
 fructidor
 freeform
 fanes
+floes
 fideistic
 fogle
 federalist
@@ -7882,7 +7883,6 @@ foresail
 feuilletonistic
 fasten
 fork
-floes
 fetticus
 forewarned
 feiseanna
