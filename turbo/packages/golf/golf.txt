@@ -2560,7 +2560,6 @@ generalized
 graywall
 guv
 gabbards
-gristy
 gangliasthenia
 goosefish
 granodiorite
@@ -9228,6 +9227,7 @@ growthiness
 gluttons
 glucagon
 gyroceran
+gristy
 gemeled
 gristlier
 grazingly
