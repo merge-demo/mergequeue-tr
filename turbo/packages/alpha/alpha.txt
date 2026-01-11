@@ -2281,7 +2281,6 @@ acider
 anaphoric
 azimech
 acidy
-acetamid
 accessless
 acidiferous
 argil
@@ -8974,6 +8973,7 @@ arrowhead
 accesses
 angelocracy
 auxiliatory
+acetamid
 allophanamid
 allophanate
 allophanates
