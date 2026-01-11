@@ -4788,6 +4788,7 @@ edwardsia
 enneahedra
 electroionic
 etymologize
+eccl
 executioners
 eventides
 excrementitiousness
@@ -13919,7 +13920,6 @@ etheria
 esthesio
 extrameridional
 extrametrical
-eccl
 extramission
 erythrism
 enhusk
