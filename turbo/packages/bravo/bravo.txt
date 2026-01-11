@@ -12059,7 +12059,6 @@ bebloom
 balisaurs
 boilable
 bromocresol
-befrounce
 blindage
 boilerful
 boilerplate
@@ -13902,6 +13901,7 @@ bankroll
 bodkinwise
 bacteriotherapy
 bowshot
+befrounce
 brined
 bulbaceous
 boatswains
