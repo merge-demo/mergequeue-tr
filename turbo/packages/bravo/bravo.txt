@@ -704,7 +704,6 @@ boregat
 badass
 brasseries
 bactriticone
-badderlocks
 basidiomycetous
 brolga
 brilliantine
@@ -9085,6 +9084,7 @@ bidented
 brown
 bandagist
 beltane
+badderlocks
 bicolours
 buzzwords
 biorhythm
