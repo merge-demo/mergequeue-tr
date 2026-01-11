@@ -6846,7 +6846,6 @@ cellulated
 corradiating
 cornicular
 cathro
-cellules
 crevasse
 clamor
 cellulin
@@ -7737,6 +7736,7 @@ cecidology
 certain
 cuteys
 conservatism
+cellules
 certainness
 cormorant
 cetin
