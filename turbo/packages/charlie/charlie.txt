@@ -13219,7 +13219,6 @@ cholecystopexy
 carapacial
 cyclocephaly
 cyclocoelic
-cyclode
 catastrophe
 cyclodiene
 cycloganoid
@@ -20517,6 +20516,7 @@ cainism
 condors
 compatible
 clouts
+cyclode
 compatibleness
 chlorider
 compatriotic
