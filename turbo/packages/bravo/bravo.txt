@@ -9772,6 +9772,7 @@ bossies
 burdocks
 basifugal
 buffered
+bluenoser
 bistipulate
 bistort
 bedarkened
@@ -16470,7 +16471,6 @@ bellwine
 bebless
 brushful
 barbouillage
-bluenoser
 bloodshotten
 bendys
 beggable
