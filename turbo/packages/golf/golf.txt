@@ -3004,7 +3004,6 @@ glosser
 gushingness
 gauchest
 gravipause
-gaggle
 glorias
 groped
 guardedness
@@ -10815,6 +10814,7 @@ ghazis
 greenhide
 guttus
 gibbus
+gaggle
 galactophthysis
 gyokuro
 glimmers
