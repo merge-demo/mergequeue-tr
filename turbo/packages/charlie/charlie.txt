@@ -16590,6 +16590,7 @@ crypt
 clonorchis
 cardinality
 chapeaus
+comparators
 catacomb
 circumoesophagal
 caker
@@ -31916,7 +31917,6 @@ cuvy
 cuzceno
 cutiterebra
 cwierc
-comparators
 carbolineate
 coleopttera
 cotyledonar
