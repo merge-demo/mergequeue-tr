@@ -7102,6 +7102,7 @@ excerpting
 empanelled
 envelope
 exurbanites
+extortion
 extemporaneously
 endpaper
 envelops
@@ -13788,7 +13789,6 @@ elephas
 extolls
 eskimos
 extorters
-extortion
 embroiling
 endopterygotism
 earthliness
