@@ -2226,7 +2226,6 @@ electary
 engrailing
 ephemeron
 enthraldom
-emotionist
 elysee
 electic
 ethnal
@@ -6257,6 +6256,7 @@ elimination
 evasively
 electrofishing
 extraepiphyseal
+emotionist
 ecstatica
 enrapt
 eurygaean
