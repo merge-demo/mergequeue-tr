@@ -582,7 +582,6 @@ falloff
 flamier
 frequentative
 frappe
-feeblish
 funerate
 fenugreek
 flagstaff
@@ -10445,6 +10444,7 @@ fleet
 fwd
 fisted
 flche
+feeblish
 frontstall
 forstall
 frizes
