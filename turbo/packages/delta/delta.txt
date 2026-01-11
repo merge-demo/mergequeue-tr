@@ -327,7 +327,6 @@ daidlie
 dupatta
 dimeran
 dummyweed
-disarm
 deltaite
 denumberment
 damier
@@ -8287,6 +8286,7 @@ dependancy
 dynamiting
 desonation
 digitation
+disarm
 doombook
 diagrams
 dentin
