@@ -2775,7 +2775,6 @@ brownstone
 bailouts
 boose
 boatloading
-bookies
 barycentric
 bookit
 been
@@ -11692,6 +11691,7 @@ blackboys
 boatwright
 beanfest
 bob
+bookies
 biennales
 burglarize
 bepranked
