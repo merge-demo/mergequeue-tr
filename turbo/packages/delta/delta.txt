@@ -395,6 +395,7 @@ dainchas
 dihalid
 dainteous
 dainty
+deskmen
 decentralise
 decoder
 diarhemia
@@ -17826,7 +17827,6 @@ dower
 dermatological
 demographies
 descendants
-deskmen
 deassimilation
 ducs
 disaggregate
