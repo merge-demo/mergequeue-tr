@@ -3838,7 +3838,6 @@ estamene
 emery
 europa
 emerying
-estatesmen
 emeril
 exarticulate
 einkanter
@@ -7570,6 +7569,7 @@ embranglement
 exponence
 eructing
 explanitory
+estatesmen
 epicheiremata
 executer
 ependyma

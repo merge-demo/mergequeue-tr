@@ -6999,6 +6999,7 @@ coenobiod
 censurability
 catechiser
 censurableness
+cryometer
 censurably
 cutlips
 censure
@@ -25141,7 +25142,6 @@ cottontail
 coded
 culpate
 corevolve
-cryometer
 chlorophyllaceous
 cardmaking
 corruptedly
