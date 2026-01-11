@@ -3593,6 +3593,7 @@ genarcha
 ghazi
 grubber
 guiser
+goldic
 guttatim
 gogos
 grewhound
@@ -4923,7 +4924,6 @@ gainst
 growze
 gauziest
 ganancias
-goldic
 gymnogen
 gawker
 galling
