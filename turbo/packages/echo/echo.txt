@@ -5578,6 +5578,7 @@ essentiality
 endostome
 eugenists
 enfants
+exosculation
 enfiled
 expediences
 evangel
@@ -13062,7 +13063,6 @@ egueiite
 evaluations
 expermentized
 eucaine
-exosculation
 embankment
 ergates
 enslave
