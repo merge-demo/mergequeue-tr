@@ -4871,7 +4871,6 @@ bedsitter
 batmen
 borachio
 baudekins
-by
 beltwise
 bandcase
 baffing
@@ -15412,6 +15411,7 @@ biotelemetry
 bowsed
 basicytoparaplastin
 baba
+by
 blackfish
 bombe
 baronetcy
