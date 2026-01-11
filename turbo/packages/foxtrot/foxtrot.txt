@@ -8049,6 +8049,7 @@ forepost
 fessing
 falbala
 forestral
+foolfishes
 forestries
 firebrats
 furnitures
@@ -8920,7 +8921,6 @@ fermental
 faroeish
 flimsily
 formularism
-foolfishes
 favorers
 frenchy
 frisbee
