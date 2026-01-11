@@ -5335,7 +5335,6 @@ graph
 gammadion
 gliddery
 gloaters
-glistered
 gigge
 gemmary
 gritrock
@@ -9018,6 +9017,7 @@ groomer
 grillee
 golem
 gramashes
+glistered
 granatum
 geomorphogenist
 gorhens
