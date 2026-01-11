@@ -15529,6 +15529,7 @@ alabastrum
 aspectual
 asparkle
 andronitis
+allthorn
 alkyl
 aspermous
 antimodern
@@ -25292,7 +25293,6 @@ argyropelecus
 arvicola
 ariegite
 adenofibroma
-allthorn
 aftereye
 asymmetrical
 atmospheric
