@@ -7428,6 +7428,7 @@ bromine
 betrousered
 boshboks
 balinese
+bierstuben
 beaners
 ballonnes
 bact
@@ -15367,7 +15368,6 @@ bleeds
 bedstaves
 barblet
 bisquette
-bierstuben
 boggiest
 buddhistical
 blaeness
