@@ -8044,6 +8044,7 @@ alfaki
 alfalfas
 aer
 anapaest
+assertoric
 algesia
 alfaqui
 apatornis
@@ -12942,7 +12943,6 @@ ango
 angoise
 angolese
 arbitral
-assertoric
 ascitb
 angouleme
 armored
