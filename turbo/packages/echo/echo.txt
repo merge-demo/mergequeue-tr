@@ -8847,7 +8847,6 @@ ethoxy
 ethnobotanist
 effleurage
 erd
-eagers
 erechtheum
 erechtites
 euphemist
@@ -11008,6 +11007,7 @@ expostulatingly
 encreel
 exceptiveness
 enquire
+eagers
 encyclopaedic
 eternalist
 euryprosopic
