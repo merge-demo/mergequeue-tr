@@ -1794,7 +1794,6 @@ frogmen
 flabra
 fourteenthly
 flutina
-flaunts
 foredoes
 flannelet
 featherwing
@@ -6770,6 +6769,7 @@ foldaway
 feretory
 ferryman
 farfal
+flaunts
 forethink
 furcation
 foldcourse
