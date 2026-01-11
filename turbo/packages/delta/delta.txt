@@ -2324,6 +2324,7 @@ drat
 diacetyls
 delectations
 denizens
+disavowable
 didna
 disseizin
 dilapidate
@@ -18170,7 +18171,6 @@ dive
 dishearten
 devote
 dissceptring
-disavowable
 digress
 dump
 disreputably
