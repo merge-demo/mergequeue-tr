@@ -22239,7 +22239,6 @@ capes
 calaber
 congeniality
 comonte
-ctenophoran
 coppicing
 coastwaiter
 counterreaction
@@ -23329,6 +23328,7 @@ consumingly
 consummated
 consummating
 calamaroid
+ctenophoran
 consummative
 checklists
 consumo
