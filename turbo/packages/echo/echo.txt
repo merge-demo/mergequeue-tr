@@ -7589,6 +7589,7 @@ ensnarled
 ensouls
 enticements
 elytropolypus
+endarterial
 embololalia
 ebbet
 extricate
@@ -9805,7 +9806,6 @@ extracellular
 essoinment
 essorant
 echiuroidea
-endarterial
 engrave
 encouragements
 expenthesis
