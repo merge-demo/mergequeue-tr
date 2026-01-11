@@ -8336,7 +8336,6 @@ forkedness
 folderol
 feastful
 fewsome
-feigningly
 forbidden
 flaff
 fulminates
@@ -10453,6 +10452,7 @@ ferocity
 februarius
 flaxtail
 frontwards
+feigningly
 fragrant
 fermatian
 fungitoxic
