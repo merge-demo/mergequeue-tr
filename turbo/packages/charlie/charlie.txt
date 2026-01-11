@@ -11322,7 +11322,6 @@ chloroformate
 churched
 collarinos
 chalcophanite
-chloroformic
 conged
 cubica
 chromicizing
@@ -23688,6 +23687,7 @@ colliquament
 contradiction
 coruscative
 contradictional
+chloroformic
 contradictious
 cairene
 contradictiously
