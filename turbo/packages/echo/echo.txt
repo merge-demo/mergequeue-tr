@@ -8027,7 +8027,6 @@ epiotic
 eutannin
 exopterygota
 exocline
-epipactis
 elasticized
 enigmaticalness
 exscript
@@ -12814,6 +12813,7 @@ excitomotor
 embryology
 epicystotomy
 equine
+epipactis
 emajagua
 exoterical
 exotericism
