@@ -16470,6 +16470,7 @@ antsiest
 accentus
 antsigne
 alkargen
+aplotaxene
 antum
 ambulatio
 apionol
@@ -17005,7 +17006,6 @@ administrable
 ascidicolous
 alphabetization
 aventail
-aplotaxene
 aliened
 avascular
 annoyously
