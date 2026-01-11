@@ -4366,7 +4366,6 @@ encratic
 equinovarus
 electrolyzer
 encephalosclerosis
-evisite
 endoplastule
 euornithes
 enapt
@@ -12675,6 +12674,7 @@ emerse
 elzevir
 extrapolation
 exomphalos
+evisite
 erotogenic
 effrontery
 excrementary
