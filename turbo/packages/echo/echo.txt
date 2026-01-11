@@ -2674,6 +2674,7 @@ emmanuel
 earhead
 emborder
 electrotechnician
+epistena
 exports
 enfant
 eudaemonics
@@ -8254,7 +8255,6 @@ epistemically
 extemporising
 enjoyingly
 engirded
-epistena
 electrodiplomatic
 episternal
 entoloma
