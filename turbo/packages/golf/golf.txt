@@ -498,7 +498,6 @@ grunions
 girkin
 gravimetrical
 gelatin
-gye
 glaucodot
 gluteus
 grama
@@ -10746,6 +10745,7 @@ galewort
 glyphograph
 gedackt
 geckotoid
+gye
 globulin
 gd
 gorsebird
