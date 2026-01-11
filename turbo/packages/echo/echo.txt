@@ -7637,7 +7637,6 @@ eventfully
 engines
 elne
 exactest
-extrafascicular
 extratelluric
 epicondylic
 epoptist
@@ -8168,6 +8167,7 @@ episcopature
 eczemas
 emarcid
 emprosthotonus
+extrafascicular
 extrapolated
 endobatholithic
 ephippium
