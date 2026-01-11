@@ -402,6 +402,7 @@ ganymedes
 gains
 goalposts
 gilsonite
+gospelist
 gorgon
 gunl
 geostrategy
@@ -7447,7 +7448,6 @@ glub
 goldfish
 geologising
 gourded
-gospelist
 granuliferous
 gabbler
 guereza
