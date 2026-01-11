@@ -21648,7 +21648,6 @@ anteflected
 alkalizes
 acetometrically
 anisomerous
-assayable
 afterpotential
 assayed
 aphonous
@@ -23346,6 +23345,7 @@ aubrieta
 aubrietia
 apotheosis
 auca
+assayable
 anisocratic
 atrepsy
 achaenocarp
