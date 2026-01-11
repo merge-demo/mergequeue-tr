@@ -2067,6 +2067,7 @@ foremasthand
 felicity
 fructidor
 freeform
+fanes
 fideistic
 fogle
 federalist
@@ -3642,7 +3643,6 @@ furlana
 frangula
 fannier
 foregoneness
-fanes
 frayn
 flagella
 foredate

@@ -1364,7 +1364,6 @@ brauronia
 baldachino
 bride
 bootle
-bowers
 butylate
 bynin
 baldakin
@@ -13129,6 +13128,7 @@ bornitic
 berob
 borofluohydric
 boroglycerine
+bowers
 bilgy
 borophenylic
 bororoan
