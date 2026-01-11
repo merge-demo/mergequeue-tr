@@ -2550,6 +2550,7 @@ eatable
 ezra
 emptiable
 electrometer
+erical
 exstrophy
 earthgrubber
 electrometrical
@@ -8954,7 +8955,6 @@ essive
 epiphanies
 errhine
 eudaemonist
-erical
 exoskeletal
 eteoclus
 endosmotically
