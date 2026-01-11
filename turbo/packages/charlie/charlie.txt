@@ -16315,7 +16315,6 @@ crabmeat
 clipt
 conniption
 clique
-censorable
 clags
 capacitation
 cliquedom
@@ -16790,6 +16789,7 @@ cloverleafs
 cloverleaves
 cloverley
 cycadophyte
+censorable
 cloverroot
 crepitus
 clovewort

@@ -3809,6 +3809,7 @@ girosol
 glarier
 gonapophysal
 grasps
+gesticulatory
 gentlemanhood
 gonadal
 galled
@@ -10435,7 +10436,6 @@ gumdrop
 gelseminine
 gumly
 gruffs
-gesticulatory
 gambeer
 gelees
 guaiacs
