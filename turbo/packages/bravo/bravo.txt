@@ -1478,6 +1478,7 @@ backbiter
 boyarisms
 blighter
 balkish
+brigous
 bodaciously
 bahadurs
 beggar
@@ -14974,7 +14975,6 @@ bilateralism
 browbeat
 begun
 belgians
-brigous
 brassicas
 breathe
 bravuraish
