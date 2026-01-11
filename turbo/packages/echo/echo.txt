@@ -1776,6 +1776,7 @@ elliott
 earplugs
 excrement
 embrutes
+ecphova
 epigonism
 enfranch
 eyespots
@@ -2603,7 +2604,6 @@ electrocutioner
 ebulus
 exportability
 etherical
-ecphova
 expurgative
 electrophoretically
 eudiaphoresis
