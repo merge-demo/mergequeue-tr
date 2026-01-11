@@ -13891,7 +13891,6 @@ cynocephalous
 chakazi
 cheerer
 chalicotherioid
-cynoclept
 cynocrambaceous
 cynodictis
 costive
@@ -31341,6 +31340,7 @@ curets
 callisthenics
 cinematographers
 clamber
+cynoclept
 curetted
 curetting
 canales
