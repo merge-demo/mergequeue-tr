@@ -13614,7 +13614,6 @@ cymometer
 colature
 cardiarctia
 clavicembali
-cymophane
 cymophanous
 cymophenol
 confabulations
@@ -23042,6 +23041,7 @@ consonantised
 contemplature
 cagmag
 consonantism
+cymophane
 consonantized
 cannibalizes
 consonantness
