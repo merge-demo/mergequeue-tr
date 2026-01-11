@@ -9005,7 +9005,6 @@ erythrocytes
 exhilarant
 explorative
 emboldening
-enjoinment
 electrophonic
 erasable
 ecclesiasticism
@@ -11629,6 +11628,7 @@ economics
 ew
 exacerbatingly
 expulses
+enjoinment
 enddamaged
 eavesdropping
 exactable
