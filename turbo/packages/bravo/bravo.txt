@@ -2145,7 +2145,6 @@ banty
 betangle
 bribery
 bantu
-bantus
 brabbled
 bandon
 bewield
@@ -10697,6 +10696,7 @@ brainwashes
 bronchorrhagia
 bleats
 bleck
+bantus
 bodhi
 bethreaten
 bestowage
