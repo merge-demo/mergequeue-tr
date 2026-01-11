@@ -7163,7 +7163,6 @@ geniuses
 geelbeck
 grassier
 galactophorous
-grattoirs
 grizzlies
 gutterwise
 gripman
@@ -7381,6 +7380,7 @@ gunflints
 gelsemine
 gayness
 gunnery
+grattoirs
 globousness
 grangerization
 gadean
