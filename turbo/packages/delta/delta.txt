@@ -3929,7 +3929,6 @@ delabializing
 distensibility
 delayable
 depersonalised
-demes
 delayer
 delayful
 dooli
@@ -5907,6 +5906,7 @@ disentraced
 dere
 defeatee
 depreter
+demes
 depriment
 deprint
 depriorize
