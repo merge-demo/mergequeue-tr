@@ -219,6 +219,7 @@ faire
 flatway
 facular
 fruitworm
+frondlet
 foliolate
 feverroot
 fluorotype
@@ -10323,7 +10324,6 @@ frondless
 feezing
 federalese
 fantasized
-frondlet
 frondose
 focometer
 frustrated
