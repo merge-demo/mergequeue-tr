@@ -745,7 +745,6 @@ gonoplasm
 gerbillinae
 gar
 goniometric
-greenshank
 gasted
 galvanology
 geomechanics
@@ -5984,6 +5983,7 @@ grin
 gentry
 gusting
 glossoplasty
+greenshank
 guanabana
 gnarly
 gourdes
