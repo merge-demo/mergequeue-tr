@@ -9440,6 +9440,7 @@ birectangular
 burh
 bireme
 bedlids
+balmiest
 begeck
 bacteriostat
 babishly
@@ -11113,7 +11114,6 @@ blockmaker
 bimmeler
 blockpate
 bashawship
-balmiest
 beddings
 bedawn
 bathyal

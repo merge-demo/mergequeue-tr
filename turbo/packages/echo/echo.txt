@@ -7462,6 +7462,7 @@ eunuchizing
 extinguishant
 ephemeralities
 effluvial
+exogenic
 embattling
 ellerian
 eavesdroppers
@@ -10665,7 +10666,6 @@ exclamatorily
 eudiometrical
 eudist
 eudoxian
-exogenic
 extentions
 euergetes
 epimyth
