@@ -9809,7 +9809,6 @@ brigandish
 bisubstituted
 bombarder
 benzoquinone
-bisubstitution
 babblingly
 bubblebow
 bisulfate
@@ -10271,6 +10270,7 @@ bulldogs
 beheads
 biborate
 broadmindedly
+bisubstitution
 belly
 boracic
 blacksmithing
