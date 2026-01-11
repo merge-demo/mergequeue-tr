@@ -7363,7 +7363,6 @@ blanketmaking
 basest
 bewrayers
 biorhythmicities
-bethorns
 befogs
 bolometer
 bethroot
@@ -9900,6 +9899,7 @@ beasties
 besmirches
 bitter
 bitterbloom
+bethorns
 bittered
 beyerite
 bitterender
