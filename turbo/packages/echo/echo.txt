@@ -6906,6 +6906,7 @@ embonpoint
 ephoric
 eighteenths
 exuviable
+enweave
 ebullitive
 educabilian
 ethernets
@@ -8261,7 +8262,6 @@ enjoying
 entozoa
 epigenist
 exulcerate
-enweave
 eleostearate
 epistlers
 epistolarian

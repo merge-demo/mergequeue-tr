@@ -5405,7 +5405,6 @@ glyptodontoid
 glebae
 ghostwrites
 galactophlebitis
-gracelike
 griphosaurus
 gephyrean
 golaseccan
@@ -10855,6 +10854,7 @@ grewsomeness
 gweed
 gravidation
 gweeon
+gracelike
 growlers
 girds
 geomagnetician
