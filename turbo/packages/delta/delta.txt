@@ -8439,6 +8439,7 @@ dorsiventrally
 ds
 duopsony
 degreed
+drivel
 diamagnet
 diamagnetic
 diamagnetism
@@ -15613,7 +15614,6 @@ doormen
 demonetised
 discomfiting
 doorpiece
-drivel
 denuclearizes
 dowl
 doghouses
