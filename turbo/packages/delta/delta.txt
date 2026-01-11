@@ -4271,7 +4271,6 @@ digallate
 doc
 designatory
 delustering
-deceleration
 delved
 dermatopathology
 demimillionaire
@@ -16562,6 +16561,7 @@ dislodges
 draggier
 diacritics
 destinies
+deceleration
 disendows
 dyscrased
 delomorphous
