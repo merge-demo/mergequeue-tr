@@ -2591,7 +2591,6 @@ glottis
 geodete
 gemmification
 gunpapers
-gyrohorizon
 greillade
 glaucine
 glamourization
@@ -6591,6 +6590,7 @@ glummy
 garous
 granivorous
 glegnesses
+gyrohorizon
 gonaduct
 guiling
 grinner
