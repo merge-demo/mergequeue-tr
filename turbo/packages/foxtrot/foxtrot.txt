@@ -5177,7 +5177,6 @@ frozenhearted
 fruiters
 fedifragous
 furmente
-frontozygomatic
 furial
 furfurous
 flaubert
@@ -11315,6 +11314,7 @@ fossilogist
 favorability
 furfuralcohol
 freebees
+frontozygomatic
 flathat
 faceted
 fictional
