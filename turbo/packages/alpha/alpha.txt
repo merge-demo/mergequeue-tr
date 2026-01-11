@@ -2457,6 +2457,7 @@ acmaeidae
 acmatic
 asparagus
 amphisbaenidae
+ascendingly
 acme
 acquiring
 articulata
@@ -20995,7 +20996,6 @@ ascendence
 aftershaves
 ascending
 alaster
-ascendingly
 azodicarboxylic
 ascends
 aerogeologist
