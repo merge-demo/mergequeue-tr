@@ -1934,6 +1934,7 @@ carcinus
 cinnamomum
 chiliarchy
 camelopards
+chlorobenzene
 cotterite
 constant
 camelopardus
@@ -11279,7 +11280,6 @@ chloroamide
 chloroamine
 chloroaurate
 chloroaurite
-chlorobenzene
 centripetency
 chlorocalcite
 chlorochromates
