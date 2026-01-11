@@ -2106,7 +2106,6 @@ besteer
 bladeless
 boguing
 bulker
-billbeetle
 botoyan
 bloodbeat
 banshies
@@ -11925,6 +11924,7 @@ berth
 bushelwoman
 bruins
 barographs
+billbeetle
 betutor
 bimeby
 bourns
