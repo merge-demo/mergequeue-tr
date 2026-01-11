@@ -748,7 +748,6 @@ enclaved
 ecaudate
 epizootiologic
 echinocaris
-emblematise
 evangelism
 extorsive
 emotive
@@ -2237,6 +2236,7 @@ extramoral
 elevatory
 exocolitis
 effluve
+emblematise
 endoplasma
 elector
 epigonos
