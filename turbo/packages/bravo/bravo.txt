@@ -3896,7 +3896,6 @@ bodyhood
 bidding
 basifacial
 bawra
-barklyite
 bawsint
 brutalness
 bawsunt
@@ -12666,6 +12665,7 @@ bunion
 booger
 blancher
 bonilass
+barklyite
 benefactresses
 boorga
 boogers
