@@ -1399,6 +1399,7 @@ fibrocaseose
 ferkin
 filmy
 fabronia
+foppy
 filaree
 fermatas
 frith
@@ -6334,7 +6335,6 @@ flashingly
 flummoxes
 fubsier
 farmhouses
-foppy
 flatlings
 flowchart
 flagpole
