@@ -1576,6 +1576,7 @@ gasterotheca
 gandermooner
 gymnetrous
 glabellar
+glutaeous
 gunreach
 grampus
 gonyoncus
@@ -6051,7 +6052,6 @@ gastrocnemial
 gypsography
 gph
 gnats
-glutaeous
 gorbit
 guttie
 gibbled
