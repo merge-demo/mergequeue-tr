@@ -1085,7 +1085,6 @@ futiley
 federates
 farrel
 figuresome
-flameproofer
 faculae
 fontinalaceous
 fam
@@ -3649,6 +3648,7 @@ foregoneness
 frayn
 flagella
 foredate
+flameproofer
 forelooper
 floorings
 fuzzing
