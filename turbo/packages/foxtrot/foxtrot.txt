@@ -3444,6 +3444,7 @@ fifteens
 faithless
 frauds
 fiftieth
+formicariae
 florilegia
 figeater
 floriate
@@ -6677,7 +6678,6 @@ fogfruits
 frizel
 fluerics
 fasciculated
-formicariae
 foofaraws
 furrier
 freshwater
