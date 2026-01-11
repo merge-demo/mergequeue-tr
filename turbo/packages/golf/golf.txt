@@ -3987,7 +3987,6 @@ gesticulated
 grotzen
 gymnorhinal
 gouter
-gesticulates
 gansey
 gubbings
 gellert
@@ -4734,6 +4733,7 @@ giveable
 garbline
 gelidly
 gametophyll
+gesticulates
 goosegirl
 glene
 gilbertite
