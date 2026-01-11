@@ -970,7 +970,6 @@ ensaffron
 endomitotic
 excrementary
 edaphology
-etymological
 edaphon
 ecchymotic
 expositors
@@ -8959,6 +8958,7 @@ endosmotically
 ericales
 epicanthi
 exteroceptive
+etymological
 erythematic
 ericas
 eastwardly
