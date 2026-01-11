@@ -3301,6 +3301,7 @@ basions
 backstabbed
 bronzes
 branchiostegan
+binit
 beadlery
 backpacking
 balche
@@ -16987,7 +16988,6 @@ bul
 brittler
 brassworks
 babylonic
-binit
 bulb
 blankard
 blandishers
