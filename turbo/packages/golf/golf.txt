@@ -2686,7 +2686,6 @@ genioglossal
 gastroenterologists
 ganodont
 geoteuthis
-genioglossus
 gelling
 genitocrural
 grout
@@ -2843,6 +2842,7 @@ genua
 graafian
 gruel
 geatas
+genioglossus
 genuflecting
 gaberdine
 guildship

@@ -208,6 +208,7 @@ bemoanable
 bloodmobile
 begary
 bioassays
+bacilliculture
 bigwigged
 bradyesthesia
 banditries
@@ -13017,7 +13018,6 @@ borassus
 barouchet
 blether
 belemnite
-bacilliculture
 borboridae
 beslow
 borborygmatic
