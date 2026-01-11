@@ -19092,7 +19092,6 @@ circumterraneous
 cristate
 chaptrel
 collinsite
-collinsonia
 colliquable
 colliquate
 collyria
@@ -25113,6 +25112,7 @@ chirotherium
 coinstantaneous
 corequisite
 corer
+collinsonia
 corers
 cores
 carbonates
