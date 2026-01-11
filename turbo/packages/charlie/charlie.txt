@@ -18208,7 +18208,6 @@ coexisting
 coexpand
 coexpanded
 coexperiencer
-coextend
 catchment
 clubbiness
 coextends
@@ -29977,6 +29976,7 @@ crostarie
 cajoler
 crotal
 crotalic
+coextend
 completely
 crotalidae
 crotaliform
