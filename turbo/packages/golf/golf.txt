@@ -2475,7 +2475,6 @@ guttersnipes
 gibbetwise
 gangrened
 genitalic
-grandity
 glossier
 girdlelike
 gaucher
@@ -9737,6 +9736,7 @@ gonimium
 grumphie
 guesstimates
 grise
+grandity
 gonangiums
 grumpy
 gloppy
