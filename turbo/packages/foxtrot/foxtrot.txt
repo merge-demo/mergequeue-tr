@@ -1378,6 +1378,7 @@ filecard
 flenser
 fullword
 filicology
+fractostratus
 forspoke
 fishboat
 fatly
@@ -10625,7 +10626,6 @@ frontalis
 forswearing
 flumped
 forwaste
-fractostratus
 fleeting
 frugalities
 farrandly
