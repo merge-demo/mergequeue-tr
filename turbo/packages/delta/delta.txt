@@ -1991,6 +1991,7 @@ discostate
 debuted
 debuting
 desirable
+diarrhoeic
 diced
 dermatoma
 drover
@@ -16783,7 +16784,6 @@ dumbness
 dravite
 draw
 disreputation
-diarrhoeic
 disorganized
 drawback
 drawbar
