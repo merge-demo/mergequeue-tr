@@ -632,6 +632,7 @@ frogmouths
 foveolet
 floaty
 falsifying
+faithbreaker
 falunian
 fertilisation
 fanum
@@ -5019,7 +5020,6 @@ forepaw
 ferries
 fumatory
 forekeel
-faithbreaker
 fragrance
 faconne
 fulmarus
