@@ -12465,7 +12465,6 @@ amenty
 actinides
 argante
 androsphinx
-androsporangium
 autostethoscope
 arteriology
 androsterone
@@ -16569,6 +16568,7 @@ apagogic
 avenses
 arumlike
 apagogically
+androsporangium
 apagogue
 apay
 apayao
