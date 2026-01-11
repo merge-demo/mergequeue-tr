@@ -1521,7 +1521,6 @@ accompliceship
 ahuatle
 anthroponomy
 armoric
-airborn
 accomplicity
 asturian
 accomplisher
@@ -3487,6 +3486,7 @@ apesthesia
 aloysia
 additory
 augustin
+airborn
 appointively
 additum
 aflaunt
