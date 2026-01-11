@@ -1573,7 +1573,6 @@ errite
 eurasia
 entires
 enumerator
-eucaines
 eff
 evacuations
 estopped
@@ -12827,6 +12826,7 @@ ensepulchered
 ecanda
 edgeways
 excavation
+eucaines
 empacket
 elinguated
 eroticization
