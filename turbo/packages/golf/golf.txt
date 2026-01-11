@@ -4671,6 +4671,7 @@ glazen
 geisothermal
 glycerate
 gigged
+geelbec
 galchic
 gifting
 giraffes
@@ -6128,7 +6129,6 @@ gyre
 grommet
 garters
 gadfly
-geelbec
 goa
 gadsbud
 gauche
