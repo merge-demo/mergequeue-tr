@@ -2696,6 +2696,7 @@ canker
 cankerberry
 cankerbird
 chaperone
+chaka
 carriable
 cankereat
 cankered
@@ -24263,7 +24264,6 @@ cerebritis
 crescendi
 chirographer
 confessing
-chaka
 cubla
 craniostenosis
 convulsions
