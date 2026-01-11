@@ -8369,6 +8369,7 @@ chamaepericlymenum
 chamaephyte
 chamaerops
 chamaesiphonales
+chromatocyte
 chamar
 chambered
 chamberlainry
@@ -16172,7 +16173,6 @@ clinamen
 clinamina
 clinandrdria
 clinch
-chromatocyte
 circuities
 clinched
 collodiochloride
