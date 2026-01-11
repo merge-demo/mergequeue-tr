@@ -175,6 +175,7 @@ dopiest
 damas
 decipherer
 daedaloid
+di
 diel
 diaplasma
 daedalous
@@ -8086,7 +8087,6 @@ dhurra
 detrimentalness
 doghole
 definienda
-di
 diabetes
 diaphyses
 disendower
