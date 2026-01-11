@@ -3301,7 +3301,6 @@ gingeley
 grr
 gulps
 genoblast
-galvanofaradization
 glottalization
 gyneccia
 gipsyesque
@@ -10008,6 +10007,7 @@ guardstone
 gloatingly
 graybeard
 ghostlet
+galvanofaradization
 gigantostracous
 goujay
 gaonate
