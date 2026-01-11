@@ -10371,6 +10371,7 @@ americanisms
 aboriginals
 americanistic
 aftertax
+andesyte
 astigmatizer
 approachless
 accredited
@@ -14036,7 +14037,6 @@ anteater
 astrologian
 achronychous
 antebaptismal
-andesyte
 albigenses
 acculturational
 adjustation
