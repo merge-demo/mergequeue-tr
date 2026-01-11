@@ -4120,7 +4120,6 @@ demisolde
 demagnetised
 dianthuses
 debye
-deguelin
 deliration
 delire
 documentary
@@ -14013,6 +14012,7 @@ diphosphide
 donary
 dependably
 distracter
+deguelin
 deaurate
 distraction
 depressors
