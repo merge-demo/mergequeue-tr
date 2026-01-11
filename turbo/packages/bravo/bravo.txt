@@ -1117,7 +1117,6 @@ bryophyte
 bloodnoun
 buxine
 bladish
-bordermark
 bioscience
 brownback
 bairnish
@@ -7779,6 +7778,7 @@ byronist
 barytas
 buckeyed
 biacid
+bordermark
 basoko
 blessings
 bethwine
