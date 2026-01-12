@@ -3117,7 +3117,6 @@ grangers
 girlhoods
 guaniferous
 glucina
-geopotential
 gelosin
 grassplot
 georgemas
@@ -6500,6 +6499,7 @@ goldsmithry
 groveler
 gynecomaniacal
 gutsiness
+geopotential
 graciles
 grammatophyllum
 grand
