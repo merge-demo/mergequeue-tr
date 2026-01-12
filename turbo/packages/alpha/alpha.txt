@@ -3356,7 +3356,6 @@ argestes
 antihierarchic
 arborescence
 adamite
-anselmian
 acanthocereus
 acetonation
 adamitism
@@ -4943,6 +4942,7 @@ aerological
 antepartum
 aeromancer
 anthonomus
+anselmian
 aerometer
 aspen
 amygdalus
