@@ -4321,7 +4321,6 @@ caryatid
 caryatidal
 cigaresque
 caryatids
-caribal
 conserving
 cariban
 caribbean
@@ -20178,6 +20177,7 @@ commissure
 confederacy
 chalcidic
 commissurotomies
+caribal
 commit
 commitment
 clavecinist
