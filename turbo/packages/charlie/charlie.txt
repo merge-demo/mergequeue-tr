@@ -2135,7 +2135,6 @@ cambuscan
 capriciousness
 campcraft
 campe
-cumbers
 cryal
 camped
 campephagine
@@ -14382,6 +14381,7 @@ camphor
 circumventor
 conveyorized
 ceriomyces
+cumbers
 callously
 citrus
 clicky
