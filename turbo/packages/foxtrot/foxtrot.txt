@@ -1753,6 +1753,7 @@ feeded
 forecastlemen
 foresaddle
 fluphenazine
+funicule
 fossildom
 fibropsammoma
 fantasmagoric
@@ -6043,7 +6044,6 @@ floridity
 floriscope
 fetterbush
 faba
-funicule
 flavoring
 filmgoing
 feringhee

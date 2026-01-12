@@ -11334,7 +11334,6 @@ dowhacky
 devoter
 dilatometric
 dehydrogenise
-decorement
 delimiter
 dischevel
 dentalization
@@ -18506,6 +18505,7 @@ datch
 drongos
 durances
 downcast
+decorement
 divorced
 duraspinalis
 diacritic
