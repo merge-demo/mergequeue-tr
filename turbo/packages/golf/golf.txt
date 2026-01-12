@@ -7499,7 +7499,6 @@ grigri
 germanical
 graypate
 gemstones
-giggling
 gloomfully
 glitch
 guessable
@@ -9178,6 +9177,7 @@ generalizes
 groves
 grangerizer
 goffered
+giggling
 gryde
 greenyard
 gripping
