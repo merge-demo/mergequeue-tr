@@ -15638,7 +15638,6 @@ confisticating
 claus
 catholically
 clausal
-clause
 clauses
 coattends
 craniotympanic
@@ -18896,6 +18895,7 @@ cornulite
 collabent
 collaborates
 collaborating
+clause
 collaborationists
 californiana
 collaborative
