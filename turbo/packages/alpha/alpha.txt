@@ -3802,6 +3802,7 @@ adiated
 ammodytidae
 adiathermancy
 antioxidase
+aviculturist
 alcoranist
 accipitrary
 acaridea
@@ -24766,7 +24767,6 @@ acridonium
 alitrunk
 aromadendrin
 alternators
-aviculturist
 antistrike
 avidin
 abacot
