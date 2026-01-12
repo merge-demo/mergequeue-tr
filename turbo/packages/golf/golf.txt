@@ -2259,6 +2259,7 @@ gangrel
 grandpaternal
 glamoury
 gigantoblast
+garlicmonger
 gunroom
 gammoning
 giust
@@ -7224,7 +7225,6 @@ galvanometrically
 germanocentric
 getah
 gangion
-garlicmonger
 governorate
 gourmands
 glassmaker
