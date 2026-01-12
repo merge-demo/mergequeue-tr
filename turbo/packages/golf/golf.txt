@@ -859,7 +859,6 @@ gamdeboo
 girtline
 gliadin
 gonolobus
-gyratory
 growse
 gloriousness
 greeing
@@ -1860,6 +1859,7 @@ gyrostabilized
 gleir
 graptolithina
 gambles
+gyratory
 gazehound
 growlery
 guffaw
