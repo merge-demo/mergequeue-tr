@@ -748,7 +748,6 @@ balada
 badgeringly
 boyish
 bizcacha
-bolter
 brinjal
 bougainvillaeas
 badgerlike
@@ -17164,6 +17163,7 @@ brushmaking
 bullion
 balkanization
 bullyrag
+bolter
 butcherly
 bullyragger
 booklice
