@@ -6904,7 +6904,6 @@ glumous
 gomeral
 galavanted
 goodrich
-guides
 geromorphism
 grayfly
 geometrised
@@ -9041,6 +9040,7 @@ gunpowdery
 gryllid
 glottogonic
 greffotome
+guides
 glassworking
 glasser
 genitive
