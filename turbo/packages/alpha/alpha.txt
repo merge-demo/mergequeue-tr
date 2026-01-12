@@ -11177,6 +11177,7 @@ ashkenazi
 antisun
 amphibiety
 azimuthally
+appersonification
 artifices
 aquatinting
 aliform
@@ -17643,7 +17644,6 @@ anoura
 alkalizate
 afforced
 appersonation
-appersonification
 appert
 athematic
 accosts
