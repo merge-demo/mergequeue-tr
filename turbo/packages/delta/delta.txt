@@ -6396,6 +6396,7 @@ disadvanced
 derride
 disleave
 derriere
+deprovincialize
 dactyli
 duster
 discriminatory
@@ -9207,7 +9208,6 @@ dieyerie
 disguiser
 dentinoma
 dieing
-deprovincialize
 dagged
 dramshops
 derat
