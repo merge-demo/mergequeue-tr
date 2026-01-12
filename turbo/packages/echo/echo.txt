@@ -3032,6 +3032,7 @@ euglandina
 elytrostenosis
 elytrotomy
 emeer
+echoisms
 eggfish
 elixir
 enwall
@@ -12682,7 +12683,6 @@ erotogenic
 effrontery
 excrementary
 entame
-echoisms
 epicotyledonary
 exonerate
 exonerating
