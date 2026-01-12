@@ -7152,7 +7152,6 @@ brambliest
 bifoliate
 biologist
 brightly
-barricades
 bessel
 bessemerize
 bessemerized
@@ -15226,6 +15225,7 @@ brickcroft
 ballistocardiography
 beautify
 bembex
+barricades
 billhook
 brickel
 bruit
