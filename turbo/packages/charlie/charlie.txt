@@ -5334,7 +5334,6 @@ cassiterite
 coestablishment
 ccws
 cassius
-cassock
 cleanser
 ctenophora
 cassocked
@@ -23233,6 +23232,7 @@ cabernets
 constructibility
 constructible
 construction
+cassock
 curtsey
 constructionist
 christened
