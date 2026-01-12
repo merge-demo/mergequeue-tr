@@ -7019,7 +7019,6 @@ fulmining
 fougasse
 fontful
 fantassin
-forehandedly
 fonticulus
 ferrocene
 flapmouthed
@@ -10021,6 +10020,7 @@ fimbles
 frogskin
 fortune
 fibrocystoma
+forehandedly
 favors
 fringilline
 freedom
