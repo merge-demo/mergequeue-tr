@@ -13437,7 +13437,6 @@ assigners
 anlages
 accompanying
 amazedness
-asiatize
 artiste
 alibies
 annabergite
@@ -13908,6 +13907,7 @@ acronyctous
 ansar
 ansarie
 acromyotonia
+asiatize
 anorexia
 abranchialism
 abreact
