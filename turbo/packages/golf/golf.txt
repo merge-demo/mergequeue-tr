@@ -2511,6 +2511,7 @@ graven
 gumshield
 gradatim
 gastroenterocolitis
+granulitis
 gladite
 guttifer
 grattoir
@@ -6363,7 +6364,6 @@ gasproof
 guff
 glassworks
 gonotyl
-granulitis
 gracer
 gasterozooid
 geoponic
