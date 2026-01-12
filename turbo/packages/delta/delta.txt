@@ -5285,7 +5285,6 @@ dentaphone
 dihexagonal
 demivolte
 decorators
-dreamers
 discomposing
 dentate
 disrange
@@ -7141,6 +7140,7 @@ demolitions
 dynamometric
 depictor
 deambulate
+dreamers
 desulfurs
 daphnetin
 desulphur
