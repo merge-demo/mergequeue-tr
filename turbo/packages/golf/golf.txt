@@ -841,7 +841,6 @@ gamboled
 gillar
 goethe
 guaraunan
-grandam
 glutinous
 gymnoblastic
 gilberts
@@ -1398,6 +1397,7 @@ gausterer
 gearshift
 gcd
 gangplow
+grandam
 grundyite
 galvanopsychic
 gossipee
