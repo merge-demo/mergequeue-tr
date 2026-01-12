@@ -683,6 +683,7 @@ ebriated
 esteros
 epithelial
 ecol
+enteromere
 ethnogeny
 earlesss
 enchronicle
@@ -8555,7 +8556,6 @@ esoterically
 eupnea
 exsufflicate
 esophagotome
-enteromere
 equatable
 epiphanised
 eudaemons
