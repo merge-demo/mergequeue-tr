@@ -2870,7 +2870,6 @@ disjointedness
 doveling
 disgenius
 deepest
-denticles
 dictyopteris
 decumbent
 disfurnishment
@@ -13359,6 +13358,7 @@ dysorexy
 detainees
 discerns
 desanding
+denticles
 disputes
 disdiaclast
 disputing
