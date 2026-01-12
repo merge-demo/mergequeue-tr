@@ -1642,7 +1642,6 @@ daydrudge
 dealkylate
 daundered
 disassembler
-deallocate
 decurved
 deobstruct
 devotional
@@ -6293,6 +6292,7 @@ dryophyllum
 disload
 dermatozzoa
 dermatrophia
+deallocate
 disgrade
 dephlegmatory
 dermenchysis
