@@ -11975,7 +11975,6 @@ easters
 enarthroses
 enteromesenteric
 epistemophilic
-evaporation
 epitaphist
 epiploon
 excitations
@@ -12863,6 +12862,7 @@ exotics
 exotoxic
 exacerbate
 enlarger
+evaporation
 ecomomist
 ensynopticity
 eburneoid
