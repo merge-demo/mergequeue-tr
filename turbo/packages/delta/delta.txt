@@ -3325,7 +3325,6 @@ dartrous
 danknesses
 definish
 decolored
-devastate
 decapitalization
 definite
 definitely
@@ -13824,6 +13823,7 @@ distain
 distaining
 denumeration
 diatomic
+devastate
 dryers
 doable
 delphinin
