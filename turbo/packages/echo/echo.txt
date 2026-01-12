@@ -5275,7 +5275,6 @@ emanator
 epitomatory
 etaerio
 excommunicated
-exactor
 entreatable
 embryotegae
 editors
@@ -12828,6 +12827,7 @@ excavation
 eucaines
 empacket
 elinguated
+exactor
 eroticization
 emicant
 expansive
