@@ -3058,6 +3058,7 @@ fairily
 fluorin
 fusils
 filmizing
+forehoof
 frounceless
 freend
 flopping
@@ -8269,7 +8270,6 @@ flagellaria
 fractious
 feists
 flump
-forehoof
 frontlets
 forgiving
 flintify
