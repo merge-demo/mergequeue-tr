@@ -2409,7 +2409,6 @@ deciliter
 druidry
 destituent
 doodads
-dispelled
 donny
 dripstick
 disaffects
@@ -7033,6 +7032,7 @@ despumation
 dealing
 desquamating
 desquamatory
+dispelled
 dentation
 decivilization
 dictum
