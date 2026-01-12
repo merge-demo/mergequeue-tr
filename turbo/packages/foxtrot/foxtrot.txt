@@ -5968,7 +5968,6 @@ fireproof
 foliole
 fictioneering
 foundership
-fresher
 feldsher
 fez
 floorwise
@@ -9272,6 +9271,7 @@ flappers
 forty
 foveae
 figured
+fresher
 furfurole
 forgivingly
 filmstrip
