@@ -3107,6 +3107,7 @@ fieulamort
 formulas
 frottages
 filoplume
+foully
 fibroelastic
 fountaineer
 flamefishes
@@ -6099,7 +6100,6 @@ faraway
 faciata
 flourish
 fermion
-foully
 freudians
 fruitarianism
 flours
