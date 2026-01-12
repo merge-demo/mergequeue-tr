@@ -553,6 +553,7 @@ belgium
 bakerlike
 bootboy
 biggishness
+bratling
 blackie
 burrock
 brickiest
@@ -4874,7 +4875,6 @@ bandcase
 baffing
 beduncing
 bagobo
-bratling
 bewrapped
 bifariously
 beekite
