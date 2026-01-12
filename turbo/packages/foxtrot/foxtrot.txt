@@ -6803,6 +6803,7 @@ fragmentizer
 foretold
 fasces
 forger
+fiftypenny
 foliaged
 firetower
 fustigator
@@ -7432,7 +7433,6 @@ forcipressure
 frigidoreceptor
 foy
 fossick
-fiftypenny
 feminine
 frumpier
 filipendulous
