@@ -3914,6 +3914,7 @@ aleyrodidae
 adjudging
 apocarps
 autarkik
+anchory
 adjudicated
 apostrophied
 adjudication
@@ -16940,7 +16941,6 @@ almswomen
 astite
 abnormity
 amir
-anchory
 ampullariidae
 apiole
 apiologist
