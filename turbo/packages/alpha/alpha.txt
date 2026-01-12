@@ -14533,7 +14533,6 @@ askesis
 anthropolatric
 anthropolite
 arsenophenylglycin
-anteropygal
 anthropology
 apostrophised
 adapis
@@ -24562,6 +24561,7 @@ amober
 auxoamylase
 autofecundation
 auxocardia
+anteropygal
 aneurismally
 auxochrome
 antistimulation
