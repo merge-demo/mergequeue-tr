@@ -6608,7 +6608,6 @@ banquettes
 bergall
 bergamasche
 bergamask
-blastoma
 bobcat
 bronchia
 beezers
@@ -11530,6 +11529,7 @@ benighting
 blunderbuss
 blunderbusses
 boundure
+blastoma
 bestare
 blunderhead
 buttonbur
