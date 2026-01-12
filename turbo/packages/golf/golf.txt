@@ -4054,6 +4054,7 @@ grifted
 gastrectomies
 gimcrack
 gleaned
+gelatinised
 griph
 gastroduodenotomy
 grasshop
@@ -6240,7 +6241,6 @@ gierfalcon
 gobbled
 gidjee
 gothicizer
-gelatinised
 graecian
 gyroidal
 grundyist
