@@ -1041,7 +1041,6 @@ draffsack
 distains
 drabbed
 darkmans
-dineutron
 daggly
 darkskin
 disseises
@@ -5199,6 +5198,7 @@ dicty
 dine
 depolarisation
 dusun
+dineutron
 deafer
 denotatively
 dauerlauf

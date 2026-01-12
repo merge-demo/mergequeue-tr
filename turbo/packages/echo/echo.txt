@@ -6666,7 +6666,6 @@ excusers
 enarthrodial
 enterorrhagia
 enterorrhaphy
-enhalo
 eutychianism
 enkindler
 electromotiv
@@ -7408,6 +7407,7 @@ explosion
 ensculpture
 emeroids
 entasia
+enhalo
 exsanguineous
 epenla
 edgings
