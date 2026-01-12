@@ -20070,7 +20070,6 @@ commensuration
 corking
 comment
 cattlegate
-commentable
 catchments
 commentarialism
 corky
@@ -25974,6 +25973,7 @@ corves
 codifier
 corvet
 corvette
+commentable
 corvettes
 cahuapana
 cadges
