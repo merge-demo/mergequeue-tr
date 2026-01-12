@@ -6456,7 +6456,6 @@ cavalierism
 cavalierly
 cytogenous
 cavalierness
-coccygodynia
 coenuri
 cavalryman
 crinigerous
@@ -7168,6 +7167,7 @@ centrarchoid
 clar
 compare
 centraxonial
+coccygodynia
 centre
 clinoaxis
 centreboard
