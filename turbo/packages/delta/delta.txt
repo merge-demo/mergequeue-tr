@@ -8713,6 +8713,7 @@ diathesis
 dirl
 decima
 dimps
+douching
 dasheen
 diatoma
 diapase
@@ -12430,7 +12431,6 @@ decerned
 desulfurate
 dishorn
 discontinue
-douching
 dislocable
 diastematic
 dishrags
