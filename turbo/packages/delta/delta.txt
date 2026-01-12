@@ -8101,7 +8101,6 @@ debeaker
 duodial
 dentex
 developpes
-distributions
 decidable
 dichogamic
 dinosaurs
@@ -12506,6 +12505,7 @@ discorporate
 delphinoid
 disincarnate
 dudes
+distributions
 defiled
 disinclination
 disinclined
