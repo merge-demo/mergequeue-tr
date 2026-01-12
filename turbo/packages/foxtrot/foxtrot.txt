@@ -6106,7 +6106,6 @@ fermion
 foully
 freudians
 fruitarianism
-formalities
 flours
 fetterers
 flagilate
@@ -10203,6 +10202,7 @@ froggish
 forslack
 froghood
 finn
+formalities
 fractures
 frailer
 falcated
