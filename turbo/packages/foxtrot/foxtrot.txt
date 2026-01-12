@@ -3964,7 +3964,6 @@ fono
 fixature
 florissant
 freehanded
-falkland
 floperoo
 finalizes
 fibrinemia
@@ -7891,6 +7890,7 @@ foresee
 faitor
 frakturs
 foreseeable
+falkland
 futchel
 footeite
 footslog
