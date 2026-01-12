@@ -1939,7 +1939,6 @@ floccule
 finagling
 fonly
 flanchard
-furzier
 forworn
 flated
 formulization
@@ -4378,6 +4377,7 @@ frenums
 fishbowls
 forky
 fisheyes
+furzier
 forecomingness
 fistify
 funiculitis
