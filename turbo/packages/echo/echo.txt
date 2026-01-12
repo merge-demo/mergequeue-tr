@@ -2553,7 +2553,6 @@ electrometer
 erical
 exstrophy
 earthgrubber
-electrometrical
 enchodontidae
 encopreses
 extremes
@@ -2664,6 +2663,7 @@ electrostriction
 ejurate
 epitomizing
 emong
+electrometrical
 electrosurgery
 enventual
 epididymovasostomy
