@@ -2208,6 +2208,7 @@ fantasmagoria
 fixe
 fogged
 feminal
+flawful
 fruiting
 fragrancy
 feminility
@@ -7678,7 +7679,6 @@ fogramite
 flowoff
 flarfish
 falsified
-flawful
 finnack
 fasciated
 fernier
