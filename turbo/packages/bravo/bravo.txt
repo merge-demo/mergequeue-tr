@@ -6156,7 +6156,6 @@ brangle
 bushlands
 bravo
 bisexuals
-benefices
 blackthorn
 balsamweed
 baccarat
@@ -8578,6 +8577,7 @@ brauneberger
 brachysm
 brachiofacial
 billfishes
+benefices
 bradypode
 bellflower
 balkanized
