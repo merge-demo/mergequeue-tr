@@ -7406,6 +7406,7 @@ epenetic
 everglade
 explosion
 ensculpture
+emeroids
 entasia
 exsanguineous
 epenla
@@ -8927,7 +8928,6 @@ entoderms
 ergograph
 epistrophic
 embitter
-emeroids
 ergomaniac
 eragrostis
 electrophori
