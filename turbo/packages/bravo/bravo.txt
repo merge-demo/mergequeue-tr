@@ -10833,7 +10833,6 @@ biosynthetic
 blepharosynechia
 blepharosphincterectomy
 bunchberry
-bulldoggy
 boanergism
 blepharostenosis
 bigbloom
@@ -13663,6 +13662,7 @@ belander
 birred
 blames
 bromethylene
+bulldoggy
 barathrum
 bourdons
 bourg
