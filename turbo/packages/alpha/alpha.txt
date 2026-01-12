@@ -797,7 +797,6 @@ abrogating
 avocado
 angiomegaly
 abronia
-afterhelp
 abrood
 abrook
 aiel
@@ -12745,6 +12744,7 @@ allograft
 anger
 adiaphoresis
 acrasieae
+afterhelp
 angularity
 adversifolious
 alvan
