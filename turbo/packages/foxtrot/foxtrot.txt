@@ -1847,7 +1847,6 @@ funambulate
 foreign
 febricant
 frilly
-frictions
 feastless
 febrific
 feloid
@@ -11247,6 +11246,7 @@ forerunnings
 frontispieces
 fucivorous
 funmaking
+frictions
 flit
 flakeless
 famble
