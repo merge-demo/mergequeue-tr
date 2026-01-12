@@ -157,6 +157,7 @@ alcades
 abaton
 asperggilli
 anhinga
+afear
 alloyed
 apar
 abattised
@@ -8623,7 +8624,6 @@ abandoners
 arboricultural
 allegorisation
 allegorise
-afear
 abscising
 admirance
 aerodynamic
