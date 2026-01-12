@@ -2733,6 +2733,7 @@ gaedelian
 grooms
 gentiopicrin
 girths
+gurgoyle
 gorgers
 gunfire
 greenflies
@@ -10654,7 +10655,6 @@ gladius
 goatsbane
 galp
 gazaboes
-gurgoyle
 glaiketness
 genuflexion
 glottologist
