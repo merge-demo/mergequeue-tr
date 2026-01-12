@@ -4713,7 +4713,6 @@ frises
 facy
 factice
 frederic
-forbearances
 fumers
 flacianist
 fife
@@ -8004,6 +8003,7 @@ frivolled
 fae
 ferie
 flashbulb
+forbearances
 federally
 fungaceous
 forestal
