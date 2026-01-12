@@ -7345,6 +7345,7 @@ cushlamochree
 cephalochord
 cowmen
 cephalochordal
+cholaemia
 cephalochordata
 cephaloclast
 cephalocone
@@ -11539,7 +11540,6 @@ crossosoma
 catagenesis
 chola
 costoxiphoid
-cholaemia
 cholalic
 coquimbite
 cliseometer
