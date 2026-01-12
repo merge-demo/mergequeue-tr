@@ -4369,7 +4369,6 @@ galantine
 grevillea
 goozle
 grammatist
-gloriam
 gleeted
 gazer
 gorget
@@ -8870,6 +8869,7 @@ gartering
 gashful
 gremlins
 grenadierial
+gloriam
 gratuitously
 goniotheca
 glaucochroite
