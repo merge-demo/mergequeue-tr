@@ -1764,7 +1764,6 @@ gallic
 grx
 guanine
 gentisein
-grouchiest
 gossypine
 gastropulmonic
 granitic
@@ -2767,6 +2766,7 @@ glassie
 gelee
 gantlope
 grimsir
+grouchiest
 goblets
 gluttonised
 graduals
