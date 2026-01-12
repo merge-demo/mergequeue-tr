@@ -22976,7 +22976,6 @@ consistencies
 choriambi
 consistent
 consistently
-chebacco
 consistible
 consisting
 cent
@@ -28151,6 +28150,7 @@ cataloging
 craniometry
 championship
 capronyl
+chebacco
 craniometrist
 craniopathic
 codefendant
