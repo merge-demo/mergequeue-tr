@@ -2937,6 +2937,7 @@ egyptian
 etchings
 eelshop
 embank
+effectful
 evaporatively
 erythrasma
 elliptical
@@ -5543,7 +5544,6 @@ eucarida
 epigrammatised
 edessan
 enfeeblish
-effectful
 epilimnetic
 euhemerizing
 etherlike
