@@ -1672,7 +1672,6 @@ esophagi
 eddoes
 elaioleucite
 eyebright
-eyliad
 electrotheraputics
 extemporaneous
 eyecup
@@ -13286,6 +13285,7 @@ eponymize
 ensheath
 epignathous
 eyedroppers
+eyliad
 egregious
 enflagellation
 extrorsely
