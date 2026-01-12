@@ -996,6 +996,7 @@ drest
 darics
 devwsor
 darien
+devotionality
 disinclinations
 dimmest
 deiform
@@ -15626,7 +15627,6 @@ dissembler
 departement
 directable
 doorstop
-devotionality
 disulfate
 diverge
 dockman
