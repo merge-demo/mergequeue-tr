@@ -12204,7 +12204,6 @@ chrysocracy
 crotalaria
 chrysology
 carapa
-chattelized
 cupbearers
 chrysome
 chrysomyia
@@ -14942,6 +14941,7 @@ castalio
 cytotropism
 cytovirin
 cinquain
+chattelized
 cycler
 cytozzoa
 coelacanthoid
