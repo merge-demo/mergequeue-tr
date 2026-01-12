@@ -2215,6 +2215,7 @@ engulfment
 eldrich
 eldritch
 enchased
+erythrocytometer
 eulogy
 endocytic
 elecives
@@ -6513,7 +6514,6 @@ evomit
 ensmall
 encephalorrhagia
 eleventhly
-erythrocytometer
 entamoebic
 encarpium
 endostosis
