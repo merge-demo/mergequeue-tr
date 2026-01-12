@@ -3389,7 +3389,6 @@ flowcharts
 fiascoes
 foretalk
 fiendly
-featurely
 fc
 fetishlike
 firmed
@@ -6555,6 +6554,7 @@ fluorhydric
 fortuitist
 flyboats
 falconiform
+featurely
 franseria
 friary
 flunkeyism
