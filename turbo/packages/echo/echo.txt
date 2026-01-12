@@ -824,6 +824,7 @@ epitheton
 epop
 exulate
 embrittlement
+errants
 ectiris
 etamines
 ectocarpus
@@ -9278,7 +9279,6 @@ egressing
 electra
 exonerative
 exarch
-errants
 espinette
 elayl
 erratas
