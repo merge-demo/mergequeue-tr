@@ -2210,6 +2210,7 @@ campo
 creedbound
 campodeoid
 campong
+catapult
 campongs
 convincing
 counterclaiming
@@ -2861,7 +2862,6 @@ canonist
 canonistical
 canonized
 commutability
-catapult
 carboxyhemoglobin
 cetorhinoid
 canonizer
