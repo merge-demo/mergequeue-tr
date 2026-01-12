@@ -18549,6 +18549,7 @@ apprizement
 anyplace
 arborical
 arboricole
+artistes
 addresses
 acceptees
 austrophile
@@ -20465,7 +20466,6 @@ associating
 amplifications
 aftaba
 arteriac
-artistes
 allomorphic
 archchaplain
 apotropaic
