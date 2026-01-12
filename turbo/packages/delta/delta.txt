@@ -10621,7 +10621,6 @@ diplophase
 difficultness
 dosology
 deviously
-dulias
 draying
 drey
 duncery
@@ -14663,6 +14662,7 @@ drill
 djebels
 djehad
 deferens
+dulias
 djellabah
 decanically
 dampest
