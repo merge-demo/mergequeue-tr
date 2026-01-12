@@ -11630,6 +11630,7 @@ cholerigenous
 chelicerate
 cholerine
 choleroid
+covalent
 cholerophobia
 camphylene
 cyanamids
@@ -27480,7 +27481,6 @@ chronicity
 covalency
 carpoptosis
 coriander
-covalent
 campephilus
 covalently
 conquedle
