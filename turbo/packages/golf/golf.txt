@@ -2760,6 +2760,7 @@ garnished
 gelotometer
 glottochronological
 gristly
+generalidad
 gangwayed
 governably
 glassie
@@ -4803,7 +4804,6 @@ glades
 graupels
 grush
 geoffroyin
-generalidad
 gritter
 gunnel
 gnomonics
