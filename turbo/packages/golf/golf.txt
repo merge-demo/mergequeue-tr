@@ -765,6 +765,7 @@ gummaker
 goutwort
 groupings
 gladsomer
+gassendist
 gawkily
 geometrically
 graywether
@@ -7266,7 +7267,6 @@ gooky
 goofing
 gamostelic
 garcon
-gassendist
 gastraea
 gortonite
 gauffer
