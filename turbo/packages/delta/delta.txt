@@ -4031,7 +4031,6 @@ deliberateness
 dismalest
 deposited
 disvantage
-delicate
 disposingly
 delicately
 dominants
@@ -4068,6 +4067,7 @@ dealerships
 domestication
 delightfulness
 discant
+delicate
 danize
 delignification
 demurringly
