@@ -1054,6 +1054,7 @@ darn
 darndest
 darnels
 destandardize
+doublehandedness
 diplohedral
 dishes
 diacodium
@@ -5914,7 +5915,6 @@ dimethylnitrosamine
 deceiver
 disconcerts
 davy
-doublehandedness
 dingly
 damascening
 dianthus
