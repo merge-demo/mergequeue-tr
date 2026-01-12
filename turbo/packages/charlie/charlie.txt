@@ -14803,7 +14803,6 @@ cytococci
 choroidal
 cytoderm
 cytodiagnosis
-cytoecology
 cerebrotonia
 cippi
 coinferred
@@ -26847,6 +26846,7 @@ counterfactual
 counterreply
 chilled
 counterfactually
+cytoecology
 captivately
 counterfeisance
 counterfeit
