@@ -2263,7 +2263,6 @@ endothys
 electricize
 emphasizes
 electriferous
-epilating
 extortions
 elongated
 equally
@@ -8794,6 +8793,7 @@ equivoluminal
 explainers
 electrostatics
 enfume
+epilating
 elementarist
 equoidean
 exhedra
