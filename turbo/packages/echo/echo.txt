@@ -7855,6 +7855,7 @@ eddish
 epigoni
 espressivo
 entomotaxy
+exegetes
 epigonic
 expletive
 excardination
@@ -9474,7 +9475,6 @@ eses
 epicism
 erythron
 egests
-exegetes
 escopeta
 euphemistical
 evulgate
