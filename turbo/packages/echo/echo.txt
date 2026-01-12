@@ -8608,7 +8608,6 @@ equibalanced
 electrodialitic
 equicontinuous
 engagements
-establishing
 eyebar
 endemial
 electrotherapeutic
@@ -13518,6 +13517,7 @@ epitomic
 epigrapher
 elinor
 equipollence
+establishing
 ectosteal
 examine
 elephantous
