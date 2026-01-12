@@ -3366,6 +3366,7 @@ bushel
 bottlesful
 byordinary
 basophilic
+bid
 basques
 bass
 brans
@@ -10191,7 +10192,6 @@ bignoniaceae
 blackfishing
 bufferrers
 beroida
-bid
 betweenmaid
 badgering
 binghi

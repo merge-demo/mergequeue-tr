@@ -2076,7 +2076,6 @@ fideistic
 fogle
 federalist
 floriculture
-felicitator
 fudger
 frightened
 floria
@@ -5076,6 +5075,7 @@ funorin
 fiendliest
 foursquarely
 forelay
+felicitator
 flinches
 forewent
 flashed
