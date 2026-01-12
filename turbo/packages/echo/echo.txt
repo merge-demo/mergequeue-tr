@@ -2588,6 +2588,7 @@ entertainable
 etua
 enantioblastous
 eruginous
+electromagnets
 evaporativity
 eighteenthly
 ensnarl
@@ -4678,7 +4679,6 @@ equestrianship
 exceptionability
 evolutionize
 endemics
-electromagnets
 encyclopedic
 ebauche
 etherialisation
