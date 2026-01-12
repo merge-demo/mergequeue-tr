@@ -5064,7 +5064,6 @@ bodger
 biloculine
 beferned
 befetished
-bilingual
 balefire
 biocatalyst
 basenet
@@ -8634,6 +8633,7 @@ baronizing
 billow
 bimorph
 balladeroyal
+bilingual
 butterflyfishes
 belinuridae
 billowiest
