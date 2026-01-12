@@ -1614,7 +1614,6 @@ glassteel
 grimly
 grimines
 glibness
-gastricism
 geratologous
 glycolipid
 gaskin
@@ -1961,6 +1960,7 @@ gypsite
 genealogically
 greywacke
 glairs
+gastricism
 glowering
 garnishments
 gnomonical
