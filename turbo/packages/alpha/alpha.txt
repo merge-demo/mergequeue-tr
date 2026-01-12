@@ -575,7 +575,6 @@ agrania
 alphameric
 abnegates
 anthropomancy
-abrotanum
 aneuria
 amphictyon
 amanitins
@@ -25349,6 +25348,7 @@ answerable
 agonising
 antinucleons
 azosulphonic
+abrotanum
 acker
 azotemia
 arbiter
