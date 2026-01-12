@@ -9514,7 +9514,6 @@ escout
 enstore
 es
 equipondious
-escry
 escribientes
 escrime
 eschatologically
@@ -9714,6 +9713,7 @@ echoed
 eversible
 extima
 easing
+escry
 eventuated
 entoptoscopic
 eschaufe
