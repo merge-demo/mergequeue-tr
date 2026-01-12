@@ -1154,6 +1154,7 @@ gery
 goninidia
 gastrogastrotomy
 genin
+gassier
 genio
 gnawings
 galactometry
@@ -7627,7 +7628,6 @@ gradationally
 grandeza
 goals
 germinancy
-gassier
 gramarye
 gastropyloric
 guigne
