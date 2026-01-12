@@ -5599,7 +5599,6 @@ geisenheimer
 gyrators
 genicular
 grunth
-gerunds
 gloomily
 gloomings
 graveward
@@ -9399,6 +9398,7 @@ gramps
 gingerliness
 glycollide
 gabionage
+gerunds
 groupies
 ghastfully
 geminally
