@@ -3974,7 +3974,6 @@ fictionally
 fibres
 fraulein
 friarling
-february
 fairydom
 felicitation
 frontlessness
@@ -8963,6 +8962,7 @@ foelike
 foursquareness
 faustian
 fourteener
+february
 frangibleness
 froren
 flatirons
