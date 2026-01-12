@@ -498,7 +498,6 @@ gasifiers
 grunions
 girkin
 gravimetrical
-gelatin
 glaucodot
 gluteus
 grama
@@ -2578,6 +2577,7 @@ globiferous
 generant
 generate
 guitars
+gelatin
 gypsiferous
 gazetteerage
 gomerel
