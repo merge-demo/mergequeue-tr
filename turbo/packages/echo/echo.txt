@@ -4841,7 +4841,6 @@ estrous
 excellences
 effulgence
 epigne
-ephydriad
 expertise
 emblematizing
 encourages
@@ -12554,6 +12553,7 @@ embezzle
 exit
 encrypted
 exite
+ephydriad
 eranist
 extinction
 envied
