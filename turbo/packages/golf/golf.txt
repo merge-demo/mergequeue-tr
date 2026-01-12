@@ -2815,7 +2815,6 @@ gentler
 gutnish
 gingelly
 gilgulim
-glassite
 gifture
 geolinguistics
 garewaite
@@ -9586,6 +9585,7 @@ guzerat
 glaucophanization
 gallize
 goniodorididae
+glassite
 gobinist
 grumium
 glaucodote
