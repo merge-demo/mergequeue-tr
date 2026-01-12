@@ -16528,7 +16528,6 @@ arecaceous
 athyridae
 alodially
 auriscope
-aortal
 aortarctia
 aortas
 avogadro
@@ -25165,6 +25164,7 @@ abduce
 aret
 axman
 atheological
+aortal
 axodendrite
 anticapitalists
 axoid
