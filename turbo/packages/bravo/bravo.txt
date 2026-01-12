@@ -2262,7 +2262,6 @@ barbarized
 beleaping
 bona
 buteo
-bedizens
 butted
 bummil
 burgherdom
@@ -4067,6 +4066,7 @@ buckwash
 bskt
 beamroom
 baragnosis
+bedizens
 blitzkrieged
 beams
 bean

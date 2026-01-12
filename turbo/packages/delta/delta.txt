@@ -2520,6 +2520,7 @@ dubonnet
 deactivating
 declarations
 declarative
+detectaphone
 dolichocephali
 deligation
 demieagle
@@ -2678,7 +2679,6 @@ downstairs
 desmoma
 decompress
 decompresses
-detectaphone
 demiplacate
 dogies
 dcollet
