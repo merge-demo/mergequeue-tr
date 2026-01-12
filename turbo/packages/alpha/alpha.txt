@@ -3621,7 +3621,6 @@ antepectoral
 adenocystomatous
 adenodynia
 apotheces
-antral
 arcade
 aggelation
 attic
@@ -11329,6 +11328,7 @@ animisms
 amphiscians
 aerodontic
 asyndetically
+antral
 amphispermous
 actinocarpous
 amphisporangiate
