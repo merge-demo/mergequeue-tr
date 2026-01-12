@@ -7234,7 +7234,6 @@ bestrides
 boondock
 bestrown
 bathochromatic
-barbarity
 brotulidae
 ballplayers
 bimanual
@@ -15152,6 +15151,7 @@ brewership
 brewhouse
 brewhouses
 bulked
+barbarity
 benzofuroquinoxaline
 blockaderunning
 babine
