@@ -12365,6 +12365,7 @@ chromatolysis
 conquerable
 chromatolytic
 chromatologies
+cytogenetic
 chromatopathy
 celebe
 chromatophil
@@ -14806,7 +14807,6 @@ cippi
 coinferred
 collectanea
 commiseratively
-cytogenetic
 chiromegaly
 cornsack
 cytogenic
