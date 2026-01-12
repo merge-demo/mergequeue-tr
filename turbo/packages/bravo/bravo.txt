@@ -6054,6 +6054,7 @@ bemurmure
 bemurmuring
 bittier
 befooled
+bedfellowship
 bemuses
 bol
 ballmine
@@ -13791,7 +13792,6 @@ bistratal
 botryopteriaceae
 bowdlerising
 bemaddening
-bedfellowship
 basquine
 baseplate
 bemuffle
