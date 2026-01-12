@@ -3000,7 +3000,6 @@ flirts
 flaggelation
 forbs
 furiousness
-fossiform
 faintheartedness
 forma
 fiars
@@ -6325,6 +6324,7 @@ flaggiest
 fumerel
 fiking
 flashingly
+fossiform
 flummoxes
 fubsier
 farmhouses
