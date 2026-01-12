@@ -1532,7 +1532,6 @@ enmeshments
 erotopathy
 excresence
 explication
-epiphysitis
 empaling
 effigiation
 eggnog
@@ -2460,6 +2459,7 @@ ethanol
 electrogalvanization
 equivalence
 electrogenic
+epiphysitis
 electrogild
 eudemonia
 exhilarates
