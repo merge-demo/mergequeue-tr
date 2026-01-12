@@ -9071,6 +9071,7 @@ gladiatorism
 goatherds
 glads
 gappy
+grugous
 galactidrosis
 giraffa
 garishness
@@ -9685,7 +9686,6 @@ greased
 gyarung
 gallinuline
 geminal
-grugous
 gastroplication
 gasoliery
 goodish
