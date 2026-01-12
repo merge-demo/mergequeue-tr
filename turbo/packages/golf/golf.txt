@@ -6136,6 +6136,7 @@ galactolysis
 goniatite
 gigantolite
 gunmanship
+gymnasisiums
 goyin
 grandstanded
 guillotinement
@@ -7297,7 +7298,6 @@ genys
 gordolobo
 gaseity
 grizzles
-gymnasisiums
 gospels
 greatcoats
 gildship
