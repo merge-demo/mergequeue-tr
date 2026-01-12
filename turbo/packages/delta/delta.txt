@@ -5798,7 +5798,6 @@ dismarshall
 disauthentic
 dextrocerebral
 depositors
-dowel
 divestible
 dislimns
 dulcitol
@@ -9463,6 +9462,7 @@ despondently
 digenite
 digerent
 dereistically
+dowel
 doedicurus
 dustiest
 detester
