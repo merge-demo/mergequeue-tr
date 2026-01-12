@@ -4871,7 +4871,6 @@ borachio
 baudekins
 beltwise
 bandcase
-baffing
 beduncing
 bagobo
 bewrapped
@@ -9528,6 +9527,7 @@ blastemata
 berceuses
 bacteria
 branchiostegite
+baffing
 birthmark
 biographee
 banality
