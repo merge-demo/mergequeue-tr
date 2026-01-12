@@ -1976,6 +1976,7 @@ cetiosaurus
 camerated
 cameration
 camery
+completable
 camerier
 camerine
 casavas
@@ -14470,7 +14471,6 @@ counterpuncher
 cirsectomies
 cirsoid
 cirsophthalmia
-completable
 cirsotomy
 cirsotomies
 cirterion
