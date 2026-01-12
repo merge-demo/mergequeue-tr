@@ -6218,7 +6218,6 @@ gormandizing
 gregorianizer
 gob
 ghole
-greediness
 gadslid
 gobber
 gazettes
@@ -9709,6 +9708,7 @@ gandurah
 gambades
 greyhounds
 grocerwise
+greediness
 glossaries
 gelants
 gratiosolin
