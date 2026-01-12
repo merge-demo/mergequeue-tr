@@ -7964,6 +7964,7 @@ alethopteroid
 archidium
 alethoscope
 amulae
+aphorizing
 anthogenous
 aletocyte
 anticombination
@@ -16824,7 +16825,6 @@ autoportraiture
 aphorize
 abos
 aphorizes
-aphorizing
 ancienter
 approve
 anlet
