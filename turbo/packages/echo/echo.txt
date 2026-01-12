@@ -9196,7 +9196,6 @@ edgeless
 exterminatory
 enslavement
 enginelike
-everts
 exhorted
 eusuchia
 esoneural
@@ -10861,6 +10860,7 @@ electrolyzed
 enlivenments
 emborders
 econometrics
+everts
 ergot
 enologist
 excised
