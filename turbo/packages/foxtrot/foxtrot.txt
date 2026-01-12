@@ -4789,7 +4789,6 @@ fasciolaria
 fancifulness
 flinching
 floatiest
-fullwords
 faena
 fellowshipping
 falsen
@@ -5472,6 +5471,7 @@ friezy
 fiduciarily
 fasts
 forehear
+fullwords
 fiant
 friseurs
 fossed
