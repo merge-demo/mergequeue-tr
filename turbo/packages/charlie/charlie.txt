@@ -261,6 +261,7 @@ cognati
 condensing
 caches
 cachespell
+cemetery
 cagayans
 cacheting
 calicate
@@ -6936,7 +6937,6 @@ cements
 cementwork
 cemetaries
 comate
-cemetery
 cemeterial
 cymoscope
 catchpenny
