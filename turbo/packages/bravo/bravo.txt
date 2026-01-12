@@ -1152,7 +1152,6 @@ brunets
 banqueter
 bridges
 baitfish
-buffeter
 ballard
 baiting
 baittle
@@ -7760,6 +7759,7 @@ blockages
 bacchae
 bill
 bhutanese
+buffeter
 bant
 bimilllennia
 bagpipes
