@@ -520,7 +520,6 @@ fishbone
 fakirs
 falbelo
 flavone
-fioretti
 firerooms
 frowny
 faultier
@@ -9520,6 +9519,7 @@ feudalizing
 findfault
 fullers
 forche
+fioretti
 foliated
 fyrd
 fishwives
