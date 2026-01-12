@@ -11578,7 +11578,6 @@ bloodlust
 blurter
 balanopsidaceae
 barbecuing
-blurting
 bumblebeefish
 ballismus
 byronism
@@ -17690,6 +17689,7 @@ butterfly
 biotically
 blastema
 bidiurnal
+blurting
 blarney
 brachioganoid
 basker
