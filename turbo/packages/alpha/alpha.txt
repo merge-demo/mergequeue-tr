@@ -19913,7 +19913,6 @@ adelantados
 avenaceous
 anthropocentrism
 antiliberalism
-anaphylactogen
 armyworms
 armlessness
 armlets
@@ -24771,6 +24770,7 @@ antistrike
 avidin
 abacot
 angioasthenia
+anaphylactogen
 aymara
 alexines
 aortography
