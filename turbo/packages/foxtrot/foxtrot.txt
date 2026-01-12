@@ -366,6 +366,7 @@ familiary
 featherway
 finspot
 fungales
+freakpot
 foredenounce
 farandoles
 fibrolipoma
@@ -2391,7 +2392,6 @@ folksiness
 foredating
 fromfile
 foreordinating
-freakpot
 fantods
 fervidor
 formicivorous
