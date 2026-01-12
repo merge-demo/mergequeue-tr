@@ -4102,7 +4102,6 @@ elevating
 equiponderated
 emplastic
 emplastration
-ectrodactylism
 expending
 expulsionist
 essenism
@@ -6875,6 +6874,7 @@ electrochemical
 entomophthorales
 erythrodextrin
 enfeoffed
+ectrodactylism
 estruses
 extremism
 ergotoxin
