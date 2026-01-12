@@ -5871,7 +5871,6 @@ diploptera
 dyscrasy
 depressed
 disaccustomed
-dandyisms
 dispender
 danicism
 depressibilities
@@ -10330,6 +10329,7 @@ dowsing
 dentata
 diurons
 derelictly
+dandyisms
 degeneracy
 dioramic
 diordinal
