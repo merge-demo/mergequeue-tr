@@ -3901,7 +3901,6 @@ gigasecond
 glamorously
 galleried
 gisla
-guidance
 ghat
 geomorphy
 gnoff
@@ -8898,6 +8897,7 @@ gobang
 grete
 grainage
 ganglier
+guidance
 giddies
 giros
 geoducks
