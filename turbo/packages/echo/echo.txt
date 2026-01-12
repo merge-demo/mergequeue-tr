@@ -4657,7 +4657,6 @@ evolve
 eremiteship
 enchoric
 extraterritorials
-encyclopedias
 ekoi
 entanglers
 exuberance
@@ -9117,6 +9116,7 @@ equipollent
 epicolic
 euryalae
 electroencephalographic
+encyclopedias
 ethinyl
 exsection
 enrockment
