@@ -3573,7 +3573,6 @@ doubletree
 decussately
 dermatocoptes
 drywall
-dawny
 depending
 disguise
 debunker
@@ -12981,6 +12980,7 @@ deuteranopia
 designers
 despisal
 dimout
+dawny
 drossel
 dauntless
 depredicate
