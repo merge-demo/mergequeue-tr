@@ -20724,7 +20724,6 @@ cyanopsia
 commutating
 chelidonate
 cheloid
-cryotron
 carvy
 complexing
 complexion
@@ -24516,6 +24515,7 @@ counterquarterly
 copassionate
 countermotion
 clampdown
+cryotron
 cerographist
 copastor
 copastors
