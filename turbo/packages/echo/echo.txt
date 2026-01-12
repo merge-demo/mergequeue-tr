@@ -5817,7 +5817,6 @@ euchre
 enterons
 encrinal
 episode
-enray
 ephoi
 effluvia
 environing
@@ -8063,6 +8062,7 @@ expound
 entertaining
 embezzlements
 enteroscope
+enray
 ealdormen
 epiphanous
 expiator
