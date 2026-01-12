@@ -2024,7 +2024,6 @@ eskimo
 etruscans
 electrometeor
 entamebic
-eligibleness
 encephalometric
 electrograph
 embroilments
@@ -9844,6 +9843,7 @@ egocentricity
 enthronising
 endoceras
 engin
+eligibleness
 enslumber
 esterified
 eclipsation
