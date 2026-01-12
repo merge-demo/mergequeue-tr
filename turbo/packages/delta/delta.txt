@@ -1895,7 +1895,6 @@ deicate
 debateable
 disinfection
 deboss
-detractive
 debouche
 dupery
 disbench
@@ -7896,6 +7895,7 @@ dogteeth
 drillet
 dooryard
 dewflower
+detractive
 distantly
 doxographer
 doh
