@@ -1130,7 +1130,6 @@ farthings
 forlornness
 fubs
 footprints
-fitted
 foreguts
 flog
 falseheartedness
@@ -3410,6 +3409,7 @@ farceuse
 frankforter
 flatbed
 flashboard
+fitted
 fenbank
 fraternalist
 fender
