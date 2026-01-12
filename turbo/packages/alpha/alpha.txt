@@ -5037,7 +5037,6 @@ alexinic
 aerostatic
 aerostatical
 anthracin
-argas
 appertain
 advancements
 androgyneity
@@ -9455,6 +9454,7 @@ autocinesis
 alterable
 acatery
 alterably
+argas
 anchylose
 archaeocyte
 abetter
