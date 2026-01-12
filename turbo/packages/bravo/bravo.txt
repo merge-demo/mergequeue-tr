@@ -2879,7 +2879,6 @@ barraging
 bailer
 braca
 battener
-bravoing
 buphthalmic
 bloedite
 becousined
@@ -6183,6 +6182,7 @@ blotchy
 bedclothing
 bouchaleen
 bacteriologies
+bravoing
 beneighbored
 beneme
 blanker
