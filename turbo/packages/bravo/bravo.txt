@@ -5329,7 +5329,6 @@ batekes
 burkers
 bor
 beglooms
-begloze
 busti
 brokenly
 baidar
@@ -13241,6 +13240,7 @@ bossed
 boanergean
 bosselation
 bolti
+begloze
 barysphere
 buffbar
 bedevil

@@ -2121,6 +2121,7 @@ frowningly
 fireplow
 feldsparphyre
 fountainous
+ferrotungsten
 foreprize
 fulsome
 faculous
@@ -4645,7 +4646,6 @@ faust
 fulani
 faeroe
 fells
-ferrotungsten
 fulica
 flewit
 freety
