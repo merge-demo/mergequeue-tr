@@ -9392,6 +9392,7 @@ blowzily
 birdies
 boondocker
 bonser
+byssogenous
 butterflying
 brimse
 basidial
@@ -12897,7 +12898,6 @@ babka
 bump
 bursectomy
 brachigerous
-byssogenous
 bureaucratese
 boot
 big
