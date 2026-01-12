@@ -19357,6 +19357,7 @@ alkaliferous
 abluent
 arethusas
 alk
+armorist
 aretinian
 anticoagulating
 ablastous
@@ -24581,7 +24582,6 @@ auxotroph
 aul
 auxotrophy
 absinthiate
-armorist
 anchietine
 agedly
 aimable

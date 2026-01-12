@@ -10569,6 +10569,7 @@ endboard
 eclectical
 ensurers
 equational
+excaudate
 elevates
 excursionary
 encoffinment
@@ -11850,7 +11851,6 @@ expenders
 excarnificate
 entoproctous
 ecdysone
-excaudate
 extrared
 engracing
 eustacy
