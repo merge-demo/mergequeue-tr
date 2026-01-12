@@ -3434,7 +3434,6 @@ gamont
 gesithcundman
 gudrun
 gymkhanas
-gretel
 gehey
 geodes
 gessoes
@@ -9300,6 +9299,7 @@ goldenback
 gluier
 giggles
 guaiasanol
+gretel
 gamesome
 gauffre
 gallipot
