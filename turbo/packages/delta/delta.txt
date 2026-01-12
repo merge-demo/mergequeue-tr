@@ -13321,7 +13321,6 @@ dispropriate
 dysprosia
 disproves
 disprovide
-dispurse
 distillate
 destuffing
 daintier
@@ -16108,6 +16107,7 @@ decayedness
 doulce
 dementie
 defectology
+dispurse
 designators
 doulocracy
 doum
