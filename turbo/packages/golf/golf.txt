@@ -2968,7 +2968,6 @@ gardenias
 geognosy
 geognostically
 grenadian
-guayules
 gaolering
 geographies
 gemmologists
@@ -10540,6 +10539,7 @@ guillemot
 graverobber
 gimpy
 gambetta
+guayules
 grandmaster
 goustie
 gatepost
