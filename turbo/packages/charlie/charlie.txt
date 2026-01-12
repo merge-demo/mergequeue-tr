@@ -3062,7 +3062,6 @@ coistrel
 canulates
 comatic
 canun
-canvas
 chaffinches
 chiasmodon
 croppa
@@ -26177,6 +26176,7 @@ coastline
 cosmopolitanise
 charcutiers
 cosmopolitanising
+canvas
 centurions
 cosmopolitanism
 carnivorous
