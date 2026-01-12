@@ -3781,7 +3781,6 @@ flawiest
 ferroconcretor
 fizzer
 fraterniser
-fuci
 flyflap
 freon
 ferritization
@@ -4851,6 +4850,7 @@ furoic
 fourteen
 fraughtage
 fady
+fuci
 fixes
 firmhearted
 frondiferous
