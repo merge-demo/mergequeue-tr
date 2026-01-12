@@ -6114,7 +6114,6 @@ elaeoptene
 exulcerative
 epithalamiast
 entremets
-enlive
 emboly
 exceed
 exossate
@@ -7671,6 +7670,7 @@ extrasomatic
 emplead
 enterostasis
 earworms
+enlive
 eton
 epicrasis
 epopt
