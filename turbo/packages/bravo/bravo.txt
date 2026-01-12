@@ -6967,7 +6967,6 @@ besmile
 besmiled
 basipterygial
 bobtailing
-bathhouse
 bunns
 betroth
 bundling
@@ -14435,6 +14434,7 @@ brainteaser
 brainward
 ballistae
 biontic
+bathhouse
 brow
 brachygraphy
 birdshots
