@@ -6145,7 +6145,6 @@ glistened
 greenhead
 goliaths
 grayout
-gowds
 gambodic
 gallotannate
 grooves
@@ -6992,6 +6991,7 @@ gladioli
 gentil
 gumshoes
 gastronomes
+gowds
 glazier
 glamorizes
 grillade
