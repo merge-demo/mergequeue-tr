@@ -8969,7 +8969,6 @@ depopulators
 digastric
 disincarceration
 dismarry
-dorippid
 dicycly
 draughtsman
 dei
@@ -13434,6 +13433,7 @@ dumbheaded
 drawglove
 dimetient
 disregardant
+dorippid
 disregarded
 drumskin
 disregarding
