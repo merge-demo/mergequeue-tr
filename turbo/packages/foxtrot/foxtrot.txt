@@ -4038,7 +4038,6 @@ forevision
 faburden
 formulation
 finishers
-febris
 finishes
 fultz
 formenic
@@ -9243,6 +9242,7 @@ frames
 forename
 footmenfootpad
 fungologist
+febris
 fumarine
 foldwards
 fasinite
