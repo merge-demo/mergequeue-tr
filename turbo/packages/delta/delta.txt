@@ -2472,7 +2472,6 @@ decision
 defeatists
 distinctly
 decisional
-decisions
 decisis
 declinature
 delays
@@ -2517,6 +2516,7 @@ dodders
 dubonnet
 deactivating
 declarations
+decisions
 declarative
 detectaphone
 dolichocephali
