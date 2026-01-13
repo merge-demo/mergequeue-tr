@@ -1601,7 +1601,6 @@ deafened
 doorjambs
 dummered
 dawe
-dicyanid
 destruct
 dunkirker
 deafly
@@ -17330,6 +17329,7 @@ digitoplantar
 dronkgrass
 dicondylian
 drawhead
+dicyanid
 disquisition
 desirers
 dodecanal
