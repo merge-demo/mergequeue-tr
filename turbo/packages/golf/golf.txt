@@ -1178,6 +1178,7 @@ glues
 gynaecomasty
 gaped
 genitory
+geonic
 gig
 gothic
 glabrescent
@@ -9415,7 +9416,6 @@ gemmate
 garroted
 gymnodontes
 gluttingly
-geonic
 gotchy
 greekery
 grounden
