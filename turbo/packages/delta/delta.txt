@@ -3583,7 +3583,6 @@ destituting
 dups
 diatonous
 degener
-declaredness
 depredations
 dripping
 dextrogyre
@@ -3788,6 +3787,7 @@ deification
 dressiness
 drepanididae
 describes
+declaredness
 diarrhoea
 drivelers
 disunities
