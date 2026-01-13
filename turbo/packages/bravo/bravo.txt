@@ -6890,6 +6890,7 @@ besetters
 besew
 borghi
 boccaccio
+bestowable
 betrim
 bradyseismic
 bibliopolistic
@@ -12658,7 +12659,6 @@ bedunch
 blueth
 boodled
 braccia
-bestowable
 boogeymen
 bane
 bellical
