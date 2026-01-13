@@ -2201,6 +2201,7 @@ alleviation
 achrodextrinase
 anticentralism
 achroglobin
+auspex
 achroiocythaemia
 apod
 anabasse
@@ -23755,7 +23756,6 @@ amyotrophy
 ausforming
 arrent
 auslaute
-auspex
 approvability
 associational
 anisopodous
