@@ -5315,7 +5315,6 @@ afflated
 anilao
 accra
 afflicter
-afflicting
 afflictingly
 abranchian
 ambulante
@@ -18162,6 +18161,7 @@ aquanauts
 auklet
 anemonol
 abdicated
+afflicting
 acapnia
 ableptically
 allegator
