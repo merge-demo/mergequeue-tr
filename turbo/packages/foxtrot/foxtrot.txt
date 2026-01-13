@@ -1344,6 +1344,7 @@ funniment
 flichtered
 forkable
 financiering
+forewit
 faticableness
 felspath
 firestop
@@ -10943,7 +10944,6 @@ forgetness
 floristic
 furfuran
 fusoid
-forewit
 foreseing
 fooled
 fulzie
