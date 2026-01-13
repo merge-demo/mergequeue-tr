@@ -11070,6 +11070,7 @@ demonetisation
 dirt
 denitrified
 deink
+denat
 dandyling
 decentness
 drakes
@@ -18486,7 +18487,6 @@ detractively
 dacryoma
 dupper
 dejerator
-denat
 dirca
 draggingly
 dendroica
