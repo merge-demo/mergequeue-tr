@@ -8662,7 +8662,6 @@ etherialization
 equivocates
 equimodal
 eunomia
-elapse
 espantoon
 encirclements
 erythrogonium
@@ -10855,6 +10854,7 @@ eructation
 explicitness
 ereption
 euphemian
+elapse
 electrolyzed
 enlivenments
 emborders
