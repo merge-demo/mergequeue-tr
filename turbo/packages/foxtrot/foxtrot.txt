@@ -1684,7 +1684,6 @@ fearedness
 fluidizes
 fathometer
 frypan
-faucets
 fellest
 firesafety
 fieldmice
@@ -7392,6 +7391,7 @@ flagellariaceae
 floreate
 fasciculation
 fey
+faucets
 fasti
 figgum
 fille
