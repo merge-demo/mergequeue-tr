@@ -14250,7 +14250,6 @@ anterofixation
 autobahns
 anastaltic
 allectory
-allomorph
 arapahite
 agglutinant
 abrahamic
@@ -18309,6 +18308,7 @@ arability
 arabinic
 arabinosic
 arabinoside
+allomorph
 alibility
 adultlike
 arabism
