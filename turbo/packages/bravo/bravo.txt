@@ -3942,7 +3942,6 @@ brickbats
 bdelloura
 barbra
 bisected
-bassette
 bunch
 bristols
 behelp
@@ -15621,6 +15620,7 @@ borer
 babyhoods
 bristliness
 backening
+bassette
 bewigging
 braws
 bonairly
