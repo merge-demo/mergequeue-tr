@@ -6147,7 +6147,6 @@ eparchean
 entracte
 embattles
 ethicizes
-enmove
 emusified
 ethnomusicological
 elans
@@ -11212,6 +11211,7 @@ evangeliarium
 enalyron
 enforcers
 ethine
+enmove
 electropuncture
 evangelic
 endoplastron
