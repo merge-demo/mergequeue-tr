@@ -5006,7 +5006,6 @@ executional
 escalop
 encapsule
 enfoncee
-erogeneity
 eutaxies
 epithelioblastoma
 endogastric
@@ -10211,6 +10210,7 @@ esperantic
 esophagomycosis
 envenomation
 ethician
+erogeneity
 emydian
 ethicians
 erroneous
