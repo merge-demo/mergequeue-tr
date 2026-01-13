@@ -4939,6 +4939,7 @@ glew
 goodwilled
 gigantic
 grafters
+gyneocracy
 goldhead
 genealogists
 goofballs
@@ -10552,7 +10553,6 @@ gunmaking
 gaun
 gerbo
 gesneraceae
-gyneocracy
 gallivanter
 grasset
 glassworker
