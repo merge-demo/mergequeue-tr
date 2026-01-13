@@ -10750,6 +10750,7 @@ applicants
 anthropoid
 aushar
 araru
+anglice
 abrazo
 aethalium
 amins
@@ -13951,7 +13952,6 @@ arquifoux
 apprehends
 asservilize
 ansulate
-anglice
 answerability
 answered
 aphasia
