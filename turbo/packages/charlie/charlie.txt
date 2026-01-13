@@ -4172,7 +4172,6 @@ cyclus
 cardiomelanosis
 contradivide
 cholecystotomies
-cardiometer
 cardiometric
 cardiomyomalacia
 cardiomyopathy
@@ -12666,6 +12665,7 @@ conjugateness
 chuckleheaded
 cumaceous
 causelessness
+cardiometer
 chuckleheadedness
 cottier
 cyanastrum
