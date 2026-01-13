@@ -10580,7 +10580,6 @@ gens
 gaged
 greaser
 glassine
-grandisonian
 gowany
 gushed
 goatstone
@@ -10752,6 +10751,7 @@ grovelers
 gouge
 gerodontics
 germinator
+grandisonian
 gerald
 gut
 grasswards
