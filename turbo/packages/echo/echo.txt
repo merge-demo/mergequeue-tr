@@ -5662,7 +5662,6 @@ ethnarch
 ellipsonic
 enfranchisements
 epididymis
-estrif
 elaeagnaceous
 extinct
 essayist
@@ -14197,6 +14196,7 @@ epulation
 endlong
 equidistance
 exuscitate
+estrif
 enlists
 effecters
 enjoyments
