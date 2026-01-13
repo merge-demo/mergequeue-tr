@@ -4885,7 +4885,6 @@ carryout
 carryouts
 crosshatched
 carritches
-carriwitchet
 carrocci
 carroch
 connivers
@@ -10207,6 +10206,7 @@ chiapanec
 chiapanecan
 chlorochrous
 compurgatory
+carriwitchet
 carps
 chamomilla
 chorisepalous
