@@ -15718,7 +15718,6 @@ dakota
 dendrochronologist
 denunciation
 dismarch
-deescalation
 disintegrates
 dewools
 disbuds
@@ -18521,6 +18520,7 @@ distortional
 demisavage
 dissilition
 durbars
+deescalation
 dissonate
 diau
 dured
