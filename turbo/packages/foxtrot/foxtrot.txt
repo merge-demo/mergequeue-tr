@@ -1000,6 +1000,7 @@ fervid
 fishing
 flustering
 frivoller
+foined
 flyaway
 formyl
 fondlings
@@ -1052,7 +1053,6 @@ frieda
 focalization
 flopper
 felspathose
-foined
 floricomous
 forensal
 fringillidae
