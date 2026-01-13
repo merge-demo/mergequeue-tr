@@ -11083,6 +11083,7 @@ daturas
 disennui
 disarms
 dishonouring
+defector
 disarray
 dictatorial
 downflow
@@ -17774,7 +17775,6 @@ dewiness
 demises
 ducdame
 diplocoria
-defector
 duchan
 diagraph
 demythologize
