@@ -8574,7 +8574,6 @@ griqua
 gravity
 germinal
 gradually
-gawsy
 gravitic
 galline
 gretchen
@@ -9028,6 +9027,7 @@ gateways
 gomasta
 gothlander
 gramophonical
+gawsy
 grateful
 granulomatous
 gyrates
