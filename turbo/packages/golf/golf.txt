@@ -1516,7 +1516,6 @@ gasmen
 germiest
 geniture
 grein
-geotonic
 gangland
 grouse
 galoped
@@ -8054,6 +8053,7 @@ glenoidal
 granitiform
 geomancer
 gastrostomus
+geotonic
 gaslightness
 granitite
 geomagnetism
