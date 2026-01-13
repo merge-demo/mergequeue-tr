@@ -2095,7 +2095,6 @@ exudes
 emberiza
 effete
 eberthella
-electrography
 ethicized
 evangelical
 empiriocritcism
@@ -7247,6 +7246,7 @@ enterally
 eolopiles
 enigmatically
 emulsification
+electrography
 exsector
 electrocatalytic
 encephalomere
