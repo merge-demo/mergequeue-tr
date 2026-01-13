@@ -7139,7 +7139,6 @@ depictor
 deambulate
 dreamers
 desulfurs
-daphnetin
 desulphur
 desulphurate
 delatorian
@@ -7517,6 +7516,7 @@ dearnesses
 daemonology
 disrupting
 dentiloquy
+daphnetin
 decapper
 deuterium
 deinocephalia
