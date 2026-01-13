@@ -4908,7 +4908,6 @@ gapingly
 gardenhood
 gladdened
 greenbottle
-gestural
 get
 gent
 galangal
@@ -8038,6 +8037,7 @@ gravat
 gastrulas
 gunzian
 gearman
+gestural
 gleeking
 glassier
 gratae
