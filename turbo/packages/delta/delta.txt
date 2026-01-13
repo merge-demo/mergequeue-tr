@@ -992,7 +992,6 @@ dignitaries
 derequisition
 dolomitise
 disproportionate
-drest
 darics
 devwsor
 darien
@@ -6502,6 +6501,7 @@ dereligion
 descensionist
 descensive
 donor
+drest
 descent
 despert
 dekameter
