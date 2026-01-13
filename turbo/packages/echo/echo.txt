@@ -8025,6 +8025,7 @@ epiotic
 eutannin
 exopterygota
 exocline
+ethernet
 elasticized
 enigmaticalness
 exscript
@@ -10195,7 +10196,6 @@ extraditing
 easeful
 encoders
 executives
-ethernet
 extrahazardous
 emancipation
 escrowed
