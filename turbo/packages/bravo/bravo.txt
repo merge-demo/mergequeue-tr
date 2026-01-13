@@ -8389,7 +8389,6 @@ byhand
 bicarpellate
 bija
 bijasal
-bijections
 bree
 bijou
 bhandar
@@ -14500,6 +14499,7 @@ brachycranic
 bradyspermatism
 bramia
 brissotin
+bijections
 bonetail
 bolivarite
 brancard
