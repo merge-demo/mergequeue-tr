@@ -16977,7 +16977,6 @@ angliae
 amphorette
 aplanatic
 apheliotropically
-aplanatism
 adwesch
 ately
 airways
@@ -22487,6 +22486,7 @@ acrasiaceae
 adversion
 astrotheology
 anisostemonous
+aplanatism
 astrut
 agronomical
 aprendiz
