@@ -9120,7 +9120,6 @@ blackthorns
 bombax
 biosystematy
 byssine
-bighted
 biosociological
 bistable
 budzart
@@ -16339,6 +16338,7 @@ basson
 butterfingered
 backwash
 bruised
+bighted
 backtrack
 barbels
 bocces
