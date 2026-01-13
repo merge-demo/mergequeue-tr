@@ -2892,7 +2892,6 @@ acrophonic
 astrol
 aubrite
 antiendowment
-acropoleis
 acropolitan
 asthenope
 archpontiff
@@ -6256,6 +6255,7 @@ anteprostatic
 analogion
 agouara
 acetoacetic
+acropoleis
 amarth
 antioptimist
 anachronically
