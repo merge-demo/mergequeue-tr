@@ -9879,6 +9879,7 @@ burnsian
 banderols
 bitmap
 buccaneering
+blimp
 bimbos
 bitmapped
 bito
@@ -15123,7 +15124,6 @@ brevilingual
 bestirring
 besmearer
 breviloquent
-blimp
 bushhammer
 breviradiate
 blithely
