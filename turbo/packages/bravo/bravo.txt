@@ -2560,6 +2560,7 @@ blepharoplasty
 blens
 bactrian
 backtalk
+barrat
 barile
 barilla
 beleaf
@@ -12110,7 +12111,6 @@ biosatellites
 berun
 bold
 byrnies
-barrat
 beehives
 boldacious
 beguileful
