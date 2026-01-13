@@ -16569,6 +16569,7 @@ contraparallelogram
 complicities
 clonic
 clonicity
+crenelled
 cytophaga
 clonicotonic
 cunctatious
@@ -18312,7 +18313,6 @@ cogently
 cogged
 cisoceanic
 cholerically
-crenelled
 cogger
 cogging
 coggledy
