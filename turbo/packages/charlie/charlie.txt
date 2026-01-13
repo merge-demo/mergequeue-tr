@@ -12804,7 +12804,6 @@ cuartino
 comburimetry
 chunkiness
 chunks
-chunner
 chuntered
 chrysotherapy
 chupatty
@@ -28427,6 +28426,7 @@ creamerymen
 creamy
 creamily
 campylodrome
+chunner
 cortical
 creaming
 caponization
