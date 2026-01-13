@@ -7330,6 +7330,7 @@ bannet
 bigly
 bugi
 bethesda
+bidialectal
 beneplacit
 biangular
 boatels
@@ -9816,7 +9817,6 @@ biblioklept
 bromatology
 bocca
 bitable
-bidialectal
 bytalks
 bitanhol
 bitartrate
