@@ -1130,7 +1130,6 @@ acclimatized
 aoul
 academes
 academy
-apheliotropism
 aploperistomatous
 antirusts
 academist
@@ -2068,6 +2067,7 @@ aeropulse
 anhalonidine
 andantini
 acheron
+apheliotropism
 apostematous
 acheronian
 asdics
