@@ -1612,6 +1612,7 @@ ehretiaceae
 env
 entrez
 enterobacterium
+eucarida
 eyah
 embliss
 equating
@@ -5534,7 +5535,6 @@ exoterics
 espiritual
 enfeebles
 enfeebling
-eucarida
 epigrammatised
 edessan
 enfeeblish
