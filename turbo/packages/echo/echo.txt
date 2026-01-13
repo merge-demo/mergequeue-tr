@@ -2621,6 +2621,7 @@ exturb
 estimated
 elanet
 eave
+euconic
 eu
 ecthetically
 execrations
@@ -11837,7 +11838,6 @@ excalceation
 excalibur
 esophagectasia
 erythrophore
-euconic
 excandescent
 explemental
 erythrochroic
