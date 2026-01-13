@@ -3385,7 +3385,6 @@ enteropneustal
 estimator
 equivocally
 ebullate
-exurbanite
 exacters
 eggplants
 exhibiter
@@ -5016,6 +5015,7 @@ expelled
 evangelistics
 endgate
 enneads
+exurbanite
 extorsively
 emplane
 eumitotic
