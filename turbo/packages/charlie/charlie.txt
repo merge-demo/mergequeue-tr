@@ -10727,6 +10727,7 @@ condemnable
 confectionaries
 chinaware
 chinawoman
+coined
 chagul
 cincher
 chinch
@@ -16380,7 +16381,6 @@ carnosity
 chlamydozoa
 complotment
 cosmetician
-coined
 clitoridotomy
 clitorism
 castana
