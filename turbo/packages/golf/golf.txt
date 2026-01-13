@@ -5006,7 +5006,6 @@ glariness
 gregarinae
 gatch
 grutched
-gelechia
 gleaners
 granules
 guards
@@ -8759,6 +8758,7 @@ guacharoes
 gymnastically
 gorge
 greenling
+gelechia
 grogram
 glaserite
 gatherable
