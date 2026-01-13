@@ -3979,6 +3979,7 @@ frontlessness
 formability
 forechoose
 furcula
+foreknow
 forestalled
 friese
 flattish
@@ -7036,7 +7037,6 @@ foodful
 fulfilled
 fribby
 fatalities
-foreknow
 flowk
 fosie
 frase
