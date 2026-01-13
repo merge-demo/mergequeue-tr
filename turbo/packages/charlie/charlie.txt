@@ -4879,7 +4879,6 @@ carriole
 carrioles
 cutwaters
 caplet
-carryon
 combretaceous
 carrions
 carryons
@@ -15214,6 +15213,7 @@ communist
 crutcher
 claith
 clubmen
+carryon
 clayton
 chinkers
 claiver
