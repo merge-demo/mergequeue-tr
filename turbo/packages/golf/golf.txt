@@ -2287,6 +2287,7 @@ genecologic
 glimpses
 granulocytopoiesis
 geitonogamy
+gooiest
 gonostyle
 geomoroi
 grange
@@ -7794,7 +7795,6 @@ gunline
 glozingly
 globefishes
 gravidas
-gooiest
 glagol
 gestion
 guanche
