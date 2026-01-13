@@ -5192,6 +5192,7 @@ endoglobular
 eleme
 existibility
 eagled
+electrocardiograph
 ecchymoses
 embossment
 epigastrial
@@ -9015,7 +9016,6 @@ exhaustive
 embiotocid
 extinctionist
 extraplacental
-electrocardiograph
 eristically
 employer
 exophthalmos
