@@ -11097,6 +11097,7 @@ amotus
 arbitrament
 amounted
 anonymous
+augurs
 alaskans
 amounter
 adduction
@@ -23285,7 +23286,6 @@ adnumber
 antship
 asthorin
 anglophobic
-augurs
 adventitia
 azophenol
 accordances
