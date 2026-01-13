@@ -2947,7 +2947,6 @@ fingerparted
 festivous
 finches
 floodlike
-feverous
 fallostomy
 fz
 flagship
@@ -3322,6 +3321,7 @@ fandom
 fulcra
 fleshlike
 flon
+feverous
 forsung
 flench
 furuncle
