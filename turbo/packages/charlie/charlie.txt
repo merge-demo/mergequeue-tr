@@ -2095,6 +2095,7 @@ campanile
 colloquiquiums
 cyclist
 campaniliform
+cornuate
 chicayote
 campanini
 casseroled
@@ -12813,7 +12814,6 @@ countermanifesto
 crookshouldered
 crithmene
 chuppah
-cornuate
 cecile
 chuprassy
 canasta
