@@ -82,7 +82,6 @@ cabbalist
 currie
 cosmolatry
 coch
-cabbalistic
 catamaran
 cephaeline
 coemptor
@@ -9163,6 +9162,7 @@ chaseable
 chased
 corbeilles
 chases
+cabbalistic
 chashitsu
 chasm
 castigation
