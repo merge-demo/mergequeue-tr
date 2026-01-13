@@ -2605,6 +2605,7 @@ ferrometer
 filagreed
 fameflower
 ferronatrite
+fumarole
 follis
 fluorouracil
 financiere
@@ -5303,7 +5304,6 @@ fantasque
 flutey
 foregather
 fifteen
-fumarole
 feasts
 filial
 fant
