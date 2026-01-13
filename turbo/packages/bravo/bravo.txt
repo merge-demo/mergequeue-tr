@@ -2676,6 +2676,7 @@ begrimming
 bututs
 bernardine
 barmaster
+bibliopegist
 bergalith
 benzoic
 brutus
@@ -17916,7 +17917,6 @@ barton
 badly
 bushidos
 bractless
-bibliopegist
 broadaxes
 bahmanid
 brahmanda
