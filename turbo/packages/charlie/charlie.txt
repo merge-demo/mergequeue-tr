@@ -4937,7 +4937,6 @@ cesarean
 circumambages
 cartelist
 costars
-cartelistic
 cupeling
 cassava
 carter
@@ -16579,6 +16578,7 @@ chaudron
 conjurer
 clerodendron
 centroidal
+cartelistic
 choleuria
 cyclothurus
 coadmire
