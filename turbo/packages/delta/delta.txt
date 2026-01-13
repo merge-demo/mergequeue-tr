@@ -16566,7 +16566,6 @@ draggier
 diacritics
 destinies
 deceleration
-disendows
 dyscrased
 delomorphous
 dodecarchy
@@ -18506,6 +18505,7 @@ drongos
 durances
 downcast
 decorement
+disendows
 divorced
 duraspinalis
 diacritic
