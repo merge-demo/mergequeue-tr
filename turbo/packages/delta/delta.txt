@@ -2580,7 +2580,6 @@ declines
 declining
 directrices
 declivent
-derive
 dreamlike
 declivity
 ducklingship
@@ -8282,6 +8281,7 @@ dynamiting
 desonation
 digitation
 disarm
+derive
 doombook
 diagrams
 dentin
