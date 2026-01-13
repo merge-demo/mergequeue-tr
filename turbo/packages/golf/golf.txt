@@ -549,7 +549,6 @@ gastromelus
 geisotherm
 gilravager
 gudgeoning
-gup
 galleryite
 gravidness
 garde
@@ -7132,6 +7131,7 @@ gordioid
 gearboxes
 gored
 gores
+gup
 goldenness
 guango
 gingerbready
