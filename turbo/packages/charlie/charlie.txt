@@ -4119,7 +4119,6 @@ croslet
 cancans
 cardinalfishes
 casuist
-capitate
 chughole
 cardinalis
 closehearted
@@ -6112,6 +6111,7 @@ catoptrite
 catoptromantic
 catoquina
 chelonidae
+capitate
 cats
 catskill
 catso
