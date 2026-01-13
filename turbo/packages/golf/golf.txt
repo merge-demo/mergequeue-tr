@@ -1245,6 +1245,7 @@ groups
 goodship
 galligaskin
 groff
+granivorous
 gonorrhea
 gravures
 grogged
@@ -6587,7 +6588,6 @@ grumphies
 governessdom
 glummy
 garous
-granivorous
 glegnesses
 gyrohorizon
 gonaduct
