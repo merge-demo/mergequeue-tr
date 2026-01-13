@@ -2708,7 +2708,6 @@ fervor
 flanks
 flamenco
 frondous
-fashions
 fruitive
 flatteress
 funnier
@@ -7223,6 +7222,7 @@ fiorded
 flumed
 footsy
 foiled
+fashions
 fitz
 footslogger
 flailed
