@@ -7834,6 +7834,7 @@ crotchy
 cervicothoracic
 cervicovesical
 cervinae
+chromatophilous
 cosignatory
 cervixes
 cobewail
@@ -12375,7 +12376,6 @@ chromatophil
 chromatophile
 chromatophilic
 changemaker
-chromatophilous
 chromatophore
 carpel
 chromatophoric
