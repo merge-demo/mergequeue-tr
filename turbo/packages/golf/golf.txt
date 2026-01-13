@@ -3516,7 +3516,6 @@ gaunter
 gracile
 gawish
 gibbsites
-gumbotils
 gapo
 gilt
 grogginess
@@ -5345,6 +5344,7 @@ gliddery
 gloaters
 gigge
 gemmary
+gumbotils
 gritrock
 guiltless
 generalissima
