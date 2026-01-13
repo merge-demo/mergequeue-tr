@@ -3506,7 +3506,6 @@ darkey
 deformation
 dreadfuls
 deflections
-delete
 deformations
 deformedly
 dandily
@@ -11431,6 +11430,7 @@ disbelieving
 degassing
 disengaging
 downcomes
+delete
 dissuasive
 discodactylous
 damasse
