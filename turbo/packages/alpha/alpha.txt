@@ -4517,7 +4517,6 @@ adverbially
 autographical
 acloud
 aggerose
-adverbiation
 atticism
 anthoxanthin
 adversatively
@@ -17217,6 +17216,7 @@ advena
 aquilegia
 athletocracy
 aeroides
+adverbiation
 adoxa
 antihumanistic
 azulite
