@@ -2785,6 +2785,7 @@ argand
 armets
 acrochordon
 aggregata
+ascomycete
 amyelencephalia
 acroclinium
 acrodactyla
@@ -9535,7 +9536,6 @@ acronychous
 azophenylene
 acierating
 antimaterialist
-ascomycete
 adulteries
 altheas
 adeptness
