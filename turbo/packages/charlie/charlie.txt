@@ -8459,6 +8459,7 @@ chamfering
 characterstring
 crummed
 champaka
+cosmete
 conducts
 clubridden
 champaks
@@ -30032,7 +30033,6 @@ crouchie
 cahnite
 cacothesis
 crankiest
-cosmete
 crounotherapy
 cebur
 crushers
