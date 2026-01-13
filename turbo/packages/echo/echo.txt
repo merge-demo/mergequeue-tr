@@ -517,6 +517,7 @@ elaborated
 enhydrinae
 echinacea
 evelina
+exemptible
 eching
 echinidan
 expy
@@ -5072,7 +5073,6 @@ escrod
 eavesdrop
 eclecticism
 endearingly
-exemptible
 evertebrata
 emotiovascular
 egma
