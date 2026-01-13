@@ -5943,6 +5943,7 @@ beltie
 boogerman
 bludged
 butylamine
+blattering
 babiche
 belting
 basidiomycete
@@ -15949,7 +15950,6 @@ barbated
 billtong
 bromphenol
 bathroomed
-blattering
 being
 burgh
 bromuret
