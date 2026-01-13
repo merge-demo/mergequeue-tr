@@ -5722,6 +5722,7 @@ catcall
 catcaller
 carburising
 catcalls
+chickwit
 catchcry
 corinthian
 conceptus
@@ -10348,7 +10349,6 @@ cerer
 chickstone
 consultory
 canariote
-chickwit
 chicly
 chicness
 chantries
