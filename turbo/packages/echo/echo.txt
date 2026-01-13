@@ -1499,6 +1499,7 @@ egality
 examens
 exaggeratedly
 everywhere
+educables
 etch
 extracalendar
 epembryonic
@@ -2494,7 +2495,6 @@ exterminative
 elasticum
 electroless
 exsecants
-educables
 expansivity
 embryopathology
 emender
