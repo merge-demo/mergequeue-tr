@@ -3083,7 +3083,6 @@ escar
 et
 embeds
 emp
-encyclical
 elliot
 educationable
 ergatocracy
@@ -12908,6 +12907,7 @@ eructs
 erupturient
 exploitative
 enclasping
+encyclical
 enwinds
 electroneutrality
 echea
