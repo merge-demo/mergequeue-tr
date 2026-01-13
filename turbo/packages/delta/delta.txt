@@ -8888,6 +8888,7 @@ dmod
 deriving
 dioptidae
 disconnect
+duodene
 dissolvability
 desex
 dichas
@@ -18367,7 +18368,6 @@ depurge
 degelation
 dyestuff
 diallelon
-duodene
 duodenitis
 denominationalism
 dismantled
