@@ -4169,6 +4169,7 @@ ges
 geod
 gleesome
 ganef
+galvanized
 gulflike
 geniculum
 gossy
@@ -7685,7 +7686,6 @@ glade
 geopolitic
 girning
 geolatry
-galvanized
 gunpowderous
 globus
 geomyid
