@@ -6334,6 +6334,7 @@ gollywobbler
 gambelli
 garnitures
 gustables
+gorhen
 gorilline
 gofer
 gastrotrich
@@ -10762,7 +10763,6 @@ gutbucket
 ganoin
 gloam
 graminin
-gorhen
 gimbals
 gallium
 glamourie
