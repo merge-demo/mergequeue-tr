@@ -3353,6 +3353,7 @@ enrace
 emasculators
 erythrorrhexis
 expressible
+eparchial
 eats
 embain
 egglike
@@ -9628,7 +9629,6 @@ esoterize
 esotropia
 esp
 elatha
-eparchial
 eventless
 eternalise
 espada
