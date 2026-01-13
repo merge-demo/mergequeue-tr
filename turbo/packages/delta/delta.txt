@@ -14911,6 +14911,7 @@ dodecasemic
 decadi
 dodecasyllable
 discretionarily
+dix
 demonising
 dichromat
 disponing
@@ -15261,7 +15262,6 @@ dolcian
 dieses
 damnonii
 dassies
-dix
 drawoff
 dealbuminize
 dissectible
