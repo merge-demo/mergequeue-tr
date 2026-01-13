@@ -1237,7 +1237,6 @@ elsewheres
 exposition
 episomal
 evaluation
-endopleuritic
 efflation
 enmanche
 eelfare
@@ -6692,6 +6691,7 @@ egestion
 expertising
 entosclerite
 eulogiser
+endopleuritic
 ecrevisse
 epulis
 espundia
