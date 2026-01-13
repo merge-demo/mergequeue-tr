@@ -7691,7 +7691,6 @@ alcoholmetric
 abaissed
 alcoholometer
 acidic
-apterygial
 averroistic
 actualise
 arthrolith
@@ -17477,6 +17476,7 @@ abominating
 automower
 athyris
 arriving
+apterygial
 appalling
 alanin
 assigneeship
