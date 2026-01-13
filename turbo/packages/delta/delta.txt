@@ -6767,7 +6767,6 @@ drafts
 detachments
 desinence
 desinent
-dallying
 desinential
 defectious
 desynonymize
@@ -17802,6 +17801,7 @@ ducked
 discussionis
 disarrange
 domicilii
+dallying
 duckery
 duckers
 duces
