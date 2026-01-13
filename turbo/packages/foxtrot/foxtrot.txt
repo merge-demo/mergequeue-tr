@@ -2556,7 +2556,6 @@ fretter
 forewarningly
 forequarter
 fluvicoline
-fleerer
 flimp
 ferricyanide
 ferrihydrocyanic
@@ -8472,6 +8471,7 @@ freeward
 ferruminated
 formicid
 foreadvertise
+fleerer
 formicine
 fayettism
 floormen
