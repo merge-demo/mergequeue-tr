@@ -1566,7 +1566,6 @@ fleuronee
 foochow
 freaking
 favelas
-frustulent
 ferr
 favelidium
 fourteenth
@@ -9737,6 +9736,7 @@ feldspar
 functionalities
 frapp
 fallacies
+frustulent
 falchion
 fessways
 foolhardiest
