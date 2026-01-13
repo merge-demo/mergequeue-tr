@@ -1347,7 +1347,6 @@ examinative
 efficacy
 ethene
 efficacies
-endochylous
 exhortation
 eleutherodactyli
 epithecium
@@ -2508,6 +2507,7 @@ emesidae
 enserfs
 entoiled
 eternity
+endochylous
 electrolytically
 exuviates
 ephemeromorph
