@@ -2829,6 +2829,7 @@ forebush
 foreadmonish
 fieldsmen
 farmhand
+filefishes
 fishnet
 flowerets
 feticide
@@ -8492,7 +8493,6 @@ foxtrot
 flunkydom
 fistiana
 flowages
-filefishes
 fetiparous
 facsimiling
 fetlock
