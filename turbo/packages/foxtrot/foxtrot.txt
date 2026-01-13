@@ -2912,6 +2912,7 @@ flyboy
 fingian
 farinha
 furazane
+foreswearing
 frustums
 fencing
 floccipend
@@ -5776,7 +5777,6 @@ fructicultural
 fumeroot
 fallage
 fastigium
-foreswearing
 filmer
 flamingly
 flittermouse
