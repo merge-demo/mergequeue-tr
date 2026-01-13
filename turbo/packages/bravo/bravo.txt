@@ -2731,7 +2731,6 @@ betters
 bellypiece
 batholitic
 breadwinner
-baroko
 bubastite
 backward
 beltline
@@ -17487,6 +17486,7 @@ barometz
 buran
 burans
 burblers
+baroko
 blueweeds
 backstopping
 battlefields
