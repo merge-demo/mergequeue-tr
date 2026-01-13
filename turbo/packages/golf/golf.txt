@@ -755,6 +755,7 @@ genae
 galvanoplasty
 grovers
 gansa
+gavotted
 gastrohysterorrhaphy
 gravitater
 gestapos
@@ -8562,7 +8563,6 @@ guiltlessly
 gliderport
 glomeli
 gainliest
-gavotted
 globalize
 grat
 governess
