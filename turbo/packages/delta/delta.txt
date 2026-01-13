@@ -1777,6 +1777,7 @@ disagio
 dustheaps
 doorpost
 deaving
+diseur
 drydenism
 disregardfully
 dorsolum
@@ -10788,7 +10789,6 @@ drawnly
 diluteness
 decreement
 divaricatingly
-diseur
 directionalize
 directionally
 deckles
