@@ -1592,6 +1592,7 @@ doryanthes
 disinfector
 deadwork
 deaerated
+dustiness
 dorsum
 deaf
 dynamogenous
@@ -12909,7 +12910,6 @@ delving
 deorientalize
 disobeying
 delineative
-dustiness
 desulphuration
 disoblige
 dognapping
