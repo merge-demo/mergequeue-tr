@@ -4286,7 +4286,6 @@ chondrosteous
 caretook
 comfiest
 carets
-caretta
 careworn
 concorporation
 carex
@@ -10812,6 +10811,7 @@ chino
 clorargyrite
 cohelpership
 ceaseless
+caretta
 chinoa
 chinoidin
 coped
