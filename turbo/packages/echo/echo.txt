@@ -798,7 +798,6 @@ electrophotography
 ectasis
 endothia
 enoil
-exequies
 expulsed
 ectental
 eloigner
@@ -3044,6 +3043,7 @@ everich
 eschalot
 exogamy
 epidermis
+exequies
 experimentalists
 elaidin
 embryotroph
