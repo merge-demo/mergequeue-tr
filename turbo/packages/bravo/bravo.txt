@@ -4677,6 +4677,7 @@ balayeuse
 bedgoer
 bradded
 balletomania
+biotypic
 breedling
 bedgowns
 bassets
@@ -9174,7 +9175,6 @@ biogeographer
 biotypes
 browbeats
 brickred
-biotypic
 boubou
 biotypology
 balneotherapeutics
