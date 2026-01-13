@@ -2404,6 +2404,7 @@ bardlike
 barkiest
 bazar
 brinks
+bibliomane
 bilaterality
 betowel
 bowditch
@@ -7890,7 +7891,6 @@ bedboard
 brachiation
 bibliologist
 bedlike
-bibliomane
 bokmakierie
 bams
 bibliomania
