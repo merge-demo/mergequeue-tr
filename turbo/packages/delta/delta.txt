@@ -5341,7 +5341,6 @@ demonio
 disemburden
 diazenithal
 dragman
-donnees
 disgruntle
 dawned
 denting
@@ -10718,6 +10717,7 @@ dragonlike
 dips
 dipsacaceous
 deipnosophist
+donnees
 disavow
 depriver
 drad
