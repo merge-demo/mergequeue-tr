@@ -2632,7 +2632,6 @@ gonocalyx
 galores
 grayware
 graal
-glims
 gymnosophist
 genethlic
 glossopetra
@@ -3142,6 +3141,7 @@ galumphing
 garial
 grangousier
 galena
+glims
 gestures
 gastroelytrotomy
 greedygut
