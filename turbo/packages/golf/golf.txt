@@ -2082,7 +2082,6 @@ gyrocompasses
 glottology
 guilefully
 gawgaw
-goldenseal
 gillian
 governments
 graminological
@@ -3223,6 +3222,7 @@ geraniums
 gebur
 galoping
 giron
+goldenseal
 girtonian
 gap
 ghosty
