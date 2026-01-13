@@ -1156,6 +1156,7 @@ banqueter
 bridges
 baitfish
 ballard
+barm
 baiting
 baittle
 baywoods
@@ -2671,7 +2672,6 @@ barghest
 breechloader
 basiliscus
 backlins
-barm
 begrimming
 bututs
 bernardine
