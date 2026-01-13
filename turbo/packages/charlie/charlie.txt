@@ -14300,7 +14300,6 @@ clavierist
 cautelous
 circumpose
 condite
-circumquaque
 circumradius
 circumradiuses
 charitable
@@ -29151,6 +29150,7 @@ crioceratite
 cinefaction
 crioceratitic
 companionably
+circumquaque
 chirruping
 committedly
 cheque
