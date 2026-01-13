@@ -9337,7 +9337,6 @@ birchers
 bewater
 birchwood
 baccaras
-bromidrosis
 bindweb
 barcaroles
 birdbander
@@ -17528,6 +17527,7 @@ braggat
 burdensome
 beslushed
 birettas
+bromidrosis
 burlesque
 benzazide
 burdigalian
