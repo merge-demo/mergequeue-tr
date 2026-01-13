@@ -1538,6 +1538,7 @@ deactivate
 discoglossid
 distractedly
 dallies
+dicerous
 dicacodyl
 dartman
 delphinium
@@ -15355,7 +15356,6 @@ domesticality
 decreased
 doment
 devicefully
-dicerous
 domestically
 dofunny
 doddle
