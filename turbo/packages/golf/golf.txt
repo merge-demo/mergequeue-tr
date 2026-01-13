@@ -1073,7 +1073,6 @@ glaucoma
 glor
 gonimous
 gilden
-gloiosiphoniaceae
 genoas
 granddaddy
 ghostliness
@@ -6823,6 +6822,7 @@ gnomonic
 gloryingly
 gypsied
 glauconite
+gloiosiphoniaceae
 granulomas
 gaffsman
 grisettish
