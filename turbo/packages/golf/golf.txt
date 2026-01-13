@@ -505,7 +505,6 @@ gullably
 geminations
 gnomes
 geomorphology
-gisement
 gruffing
 graff
 galivants
@@ -6767,6 +6766,7 @@ gradate
 goniunia
 groceteria
 goitrogen
+gisement
 gremials
 girders
 girded

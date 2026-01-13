@@ -2683,7 +2683,6 @@ barnabas
 bales
 barnaby
 bluebreast
-besnivel
 burnettizing
 birefractive
 bungy
@@ -5043,6 +5042,7 @@ blackings
 blackey
 bisphenoid
 bostal
+besnivel
 brawest
 brachiofaciolingual
 beltcourse
