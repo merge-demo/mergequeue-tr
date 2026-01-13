@@ -1372,6 +1372,7 @@ bookmaking
 bolloxing
 balzarine
 bruisewort
+biflorous
 blots
 bilestone
 baldheads
@@ -10282,7 +10283,6 @@ biochemy
 beastdom
 botargo
 boyang
-biflorous
 beehead
 beforehandedness
 beets
