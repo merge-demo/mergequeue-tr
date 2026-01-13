@@ -9293,6 +9293,7 @@ deistic
 dtset
 diplomat
 dietotherapy
+dister
 dietotoxic
 detersive
 depletable
@@ -10442,7 +10443,6 @@ drowsy
 duumvirs
 deglutitive
 distortion
-dister
 droits
 denaturate
 diphtherian
