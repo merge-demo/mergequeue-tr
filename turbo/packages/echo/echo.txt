@@ -9152,6 +9152,7 @@ embouchment
 entotympanic
 ethnoses
 epitela
+expirable
 enlargements
 entwining
 endosiphuncle
@@ -11253,7 +11254,6 @@ economies
 emblematical
 ergometrine
 extramental
-expirable
 evanishes
 enterostenosis
 exsolved
