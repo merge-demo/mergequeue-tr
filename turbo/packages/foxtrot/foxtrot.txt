@@ -3184,6 +3184,7 @@ fauns
 ficaries
 flouse
 fices
+focal
 fuchsinophilous
 fesels
 fermentitious
@@ -6737,7 +6738,6 @@ fried
 formative
 fronded
 fissate
-focal
 folacin
 falsidical
 foibles
