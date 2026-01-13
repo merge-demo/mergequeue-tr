@@ -5594,6 +5594,7 @@ demicylinder
 deathwatches
 duddy
 dozy
+dromaeus
 desaturation
 depetalize
 disorganiser
@@ -12013,7 +12014,6 @@ divinest
 diapsid
 driest
 duckfoot
-dromaeus
 daverdy
 dae
 deliveries
