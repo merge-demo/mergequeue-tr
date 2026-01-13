@@ -4046,7 +4046,6 @@ convolutely
 cardamine
 catarrhinian
 covido
-cicada
 catechism
 cardamom
 cicatrise
@@ -13056,6 +13055,7 @@ ceroxyle
 champaca
 cibarian
 cibaries
+cicada
 conyrine
 cibbaria
 cibboria
