@@ -1410,6 +1410,7 @@ execratory
 ebbing
 euskaldun
 electromassage
+enchanters
 effluviviums
 efflux
 expressionlessly
@@ -2553,7 +2554,6 @@ enchodontidae
 encopreses
 extremes
 exploitatively
-enchanters
 etrogs
 electron
 elastins
