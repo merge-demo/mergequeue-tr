@@ -3629,7 +3629,6 @@ gluconeogenic
 goldest
 gauntleted
 gillnetting
-gonadotropic
 genearch
 ghostdom
 gardenin
@@ -4425,6 +4424,7 @@ giobertite
 grazierdom
 grainsickness
 gosplan
+gonadotropic
 gammelost
 graminology
 gommelin
