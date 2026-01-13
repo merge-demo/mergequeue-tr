@@ -2245,7 +2245,6 @@ fatil
 fain
 fenced
 fencelessness
-forkiest
 fengite
 fanout
 feudalisation
@@ -4111,6 +4110,7 @@ flamberg
 foreseen
 futuramic
 falsehoods
+forkiest
 faff
 fontanel
 flywheel
