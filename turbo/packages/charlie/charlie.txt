@@ -15431,6 +15431,7 @@ clarifiant
 clarificant
 clarification
 clarifier
+coteau
 clarifiers
 chiefry
 clarifying
@@ -28508,7 +28509,6 @@ creaze
 crebricostate
 crebrisulcate
 cooeys
-coteau
 canny
 crebrous
 creche
