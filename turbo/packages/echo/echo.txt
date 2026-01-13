@@ -1821,7 +1821,6 @@ eighties
 eightieth
 eightling
 edematose
-euler
 elychnious
 epidiorite
 encystments
@@ -13999,6 +13998,7 @@ encoignures
 embryo
 ecchymosis
 emboitement
+euler
 epitoniidae
 embargoist
 epicoracohumeral
