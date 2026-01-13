@@ -4604,7 +4604,6 @@ fluoridizing
 frontomalar
 flavory
 fullams
-fitchered
 foolfish
 fitters
 foxery
@@ -9638,6 +9637,7 @@ fregata
 faunist
 freyalite
 frondent
+fitchered
 forfairn
 freibergite
 fulgorous
