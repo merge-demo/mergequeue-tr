@@ -1085,7 +1085,6 @@ estonian
 epiphyseal
 eliquating
 ediles
-evodia
 exploders
 extermined
 exhibitorship
@@ -12627,6 +12626,7 @@ exoculation
 exoderm
 elohistic
 electrophore
+evodia
 eranthemum
 extramurally
 emeus
