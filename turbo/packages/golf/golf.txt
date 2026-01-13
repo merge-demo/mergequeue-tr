@@ -7868,7 +7868,6 @@ guepard
 graved
 grammatistical
 gratinated
-giglots
 grammatite
 gumbo
 gelatification
@@ -10163,6 +10162,7 @@ geostrategist
 gurneyite
 gerusia
 gastropathy
+giglots
 granulated
 governable
 gloriana
