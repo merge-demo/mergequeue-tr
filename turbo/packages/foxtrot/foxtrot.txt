@@ -8920,7 +8920,6 @@ flimsily
 formularism
 favorers
 frenchy
-frisbee
 fusiformis
 floit
 flywort
@@ -9344,6 +9343,7 @@ functionary
 fummle
 fettled
 fastenings
+frisbee
 fowk
 frails
 fisheater
