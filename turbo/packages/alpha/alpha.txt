@@ -1833,6 +1833,7 @@ angling
 acerate
 acerated
 acceptancies
+aciculas
 antistater
 anteresurrection
 acerbate
@@ -23903,7 +23904,6 @@ authenticates
 authentication
 apathy
 allotters
-aciculas
 apocaffeine
 athetosic
 auganite
