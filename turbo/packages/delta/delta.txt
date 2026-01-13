@@ -1794,6 +1794,7 @@ desmoscolex
 dilemma
 debark
 dropseed
+delphinia
 drawknife
 debarking
 digamist
@@ -4199,7 +4200,6 @@ drabbish
 delphine
 despiritualization
 diarrhetic
-delphinia
 downthrust
 disentranced
 dinornithine
