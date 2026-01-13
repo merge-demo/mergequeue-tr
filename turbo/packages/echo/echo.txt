@@ -11486,6 +11486,7 @@ electroconvulsive
 evigilation
 eleemosinar
 emenders
+emictory
 endocrinous
 exsecant
 exoergic
@@ -12967,7 +12968,6 @@ examines
 enfeeble
 erythrol
 expectation
-emictory
 exodoi
 exclusion
 equipartile

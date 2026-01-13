@@ -1656,7 +1656,6 @@ dishrag
 dealt
 dissects
 democratizes
-dozening
 dentimeter
 deaminase
 digitize
@@ -8044,6 +8043,7 @@ discombobulated
 dumpies
 dharmic
 dharnas
+dozening
 dhaura
 defilements
 drapes
