@@ -10933,7 +10933,6 @@ digressions
 disadvance
 disadvancing
 disbursals
-disadvantageousness
 ditetragonal
 deminude
 disadvising
@@ -12870,6 +12869,7 @@ danglers
 diacoele
 darklier
 decalcify
+disadvantageousness
 dubhe
 drywalls
 diodia
