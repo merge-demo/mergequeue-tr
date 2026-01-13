@@ -1437,7 +1437,6 @@ ethmovomer
 environic
 emeline
 ergonomic
-ethiopian
 epanorthotic
 emunct
 exenteritis
@@ -3093,6 +3092,7 @@ expropriates
 ellipsograph
 executiveness
 esemplastic
+ethiopian
 ellipticity
 extemporize
 elliptograph
