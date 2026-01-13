@@ -5864,6 +5864,7 @@ disembargoed
 deodars
 diablene
 duffy
+discard
 duplicity
 deprehend
 disprofit
@@ -11728,7 +11729,6 @@ delist
 damianist
 dynodes
 darkening
-discard
 disasinate
 discreeter
 dispensation

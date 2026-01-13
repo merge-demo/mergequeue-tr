@@ -2079,6 +2079,7 @@ enent
 emma
 emblematist
 enclosable
+enisle
 enterolysis
 elasmothere
 empyocele
@@ -11025,7 +11026,6 @@ echinostomatidae
 elemol
 elapoid
 euhages
-enisle
 encurtain
 earings
 euangiotic
