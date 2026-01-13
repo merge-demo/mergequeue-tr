@@ -1247,7 +1247,6 @@ enrobe
 ecclesiarch
 equalness
 eclated
-expands
 equilibriate
 eeliest
 epiky
@@ -10661,6 +10660,7 @@ eastlake
 extricating
 exclamatorily
 eudiometrical
+expands
 eudist
 eudoxian
 extentions

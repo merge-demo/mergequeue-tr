@@ -10839,7 +10839,6 @@ agglutinated
 arsenous
 acronomy
 alloantibody
-ampyx
 antirent
 abides
 apparentement
@@ -24882,6 +24881,7 @@ avowedly
 avower
 amphithect
 astronavigation
+ampyx
 autocoherer
 acknown
 antinoness
