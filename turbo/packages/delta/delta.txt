@@ -2491,7 +2491,6 @@ deckhand
 duckwing
 deckle
 dulls
-discal
 diatropism
 duds
 dishonourary
@@ -5999,6 +5998,7 @@ dipyramidal
 dodge
 deputational
 decommissioning
+discal
 driegh
 dandiprat
 disappoint
