@@ -2022,7 +2022,6 @@ antiexpressionistic
 aperistalsis
 aequoreal
 actinogram
-agglutinating
 acropathology
 amplexus
 aveny
@@ -16995,6 +16994,7 @@ aplodontiidae
 aplomb
 amygdaliferous
 astond
+agglutinating
 amends
 aplome
 arrie
