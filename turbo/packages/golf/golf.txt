@@ -1047,6 +1047,7 @@ garvock
 gestapo
 gerardias
 gorgonin
+gasteromycete
 ganglioid
 ganglioma
 gangliomas
@@ -8678,7 +8679,6 @@ grandfilial
 garths
 grotesquely
 grassily
-gasteromycete
 greedyguts
 gibier
 greedless
