@@ -766,7 +766,6 @@ fanatism
 fabricating
 farcilite
 flybelt
-frozenness
 fishgrass
 figurines
 fluxions
@@ -8145,6 +8144,7 @@ fulicinae
 foreverness
 fellowshiping
 foreview
+frozenness
 foregoes
 foederatus
 franzy
