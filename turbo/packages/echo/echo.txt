@@ -3451,6 +3451,7 @@ embellishers
 eutelegenic
 endiadem
 encheason
+episcia
 enchained
 encolden
 embers
@@ -8229,7 +8230,6 @@ earlobe
 ethnomaniac
 exodontic
 effaceable
-episcia
 extracting
 ermani
 elydoric
