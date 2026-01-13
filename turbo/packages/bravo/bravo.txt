@@ -2127,6 +2127,7 @@ bidstand
 bantam
 bantamize
 bismar
+breechclout
 burette
 banteng
 beglerbegship
@@ -4412,7 +4413,6 @@ bakeboard
 bonzian
 bepress
 barrable
-breechclout
 booleans
 butyrousness
 bouquiniste
