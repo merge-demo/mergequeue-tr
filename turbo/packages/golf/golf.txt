@@ -6514,7 +6514,6 @@ grannom
 glaucic
 graceless
 galls
-goma
 glossoplegia
 granduncles
 gromwell
@@ -7949,6 +7948,7 @@ gloss
 gloucester
 gulas
 grandfathers
+goma
 gerontophilia
 generativeness
 gangster
