@@ -6484,6 +6484,7 @@ beleaguer
 backdown
 bepepper
 ballat
+bider
 booley
 boltropes
 bronchopneumonic
@@ -10857,7 +10858,6 @@ befriz
 bromate
 boxtree
 bawneen
-bider
 bhikku
 banished
 blethe
