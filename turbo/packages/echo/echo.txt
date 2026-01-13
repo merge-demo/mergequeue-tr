@@ -113,7 +113,6 @@ engobe
 egotistically
 eartab
 exodermal
-eparch
 euphonised
 echinoderma
 earthboard
@@ -8087,6 +8086,7 @@ emerize
 epiphytic
 extensum
 expositor
+eparch
 epiglottidean
 embroiderers
 epiphloeum

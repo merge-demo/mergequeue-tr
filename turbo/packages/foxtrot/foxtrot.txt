@@ -3948,7 +3948,6 @@ frightfulness
 foreshown
 funneled
 farcical
-follyproof
 fossil
 footsteps
 focalise
@@ -6696,6 +6695,7 @@ forstand
 flaughter
 fellator
 frangulaceae
+follyproof
 filamentous
 foramens
 fictive
