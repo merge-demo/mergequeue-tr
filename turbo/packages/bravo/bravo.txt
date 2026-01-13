@@ -6602,6 +6602,7 @@ beresite
 beret
 brangler
 berets
+bleb
 berewick
 biunity
 banquettes
@@ -12125,7 +12126,6 @@ blightbird
 boldfacedness
 boldfacing
 bewitchments
-bleb
 boldhearted
 beclip
 builder
