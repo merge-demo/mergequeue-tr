@@ -3815,6 +3815,7 @@ carbohydride
 carbohydrogen
 carboy
 celestes
+closeups
 carboys
 cyathoid
 carbolate
@@ -13661,7 +13662,6 @@ carlet
 corolline
 chagal
 cyanometry
-closeups
 cynareous
 cynaroid
 chromatical
