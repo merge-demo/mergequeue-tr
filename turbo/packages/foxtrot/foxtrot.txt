@@ -8291,6 +8291,7 @@ foregame
 fountaining
 foursome
 fiscalism
+fireplaces
 forhaile
 foreroyal
 floralia
@@ -11266,7 +11267,6 @@ forrit
 funster
 furans
 furacious
-fireplaces
 file
 farces
 frabjous
