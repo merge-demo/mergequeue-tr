@@ -5098,6 +5098,7 @@ amberfishes
 apolloship
 aesthetes
 aesthetic
+astrobiology
 astomous
 archsacrificator
 amphionic
@@ -21884,7 +21885,6 @@ agnatic
 assyriological
 amowt
 aspergilla
-astrobiology
 attaleh
 assyroid
 agly
