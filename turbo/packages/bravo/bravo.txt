@@ -1753,6 +1753,7 @@ blends
 baltimore
 bumblebeefishes
 berrugate
+brachiopod
 bares
 baluba
 berogue
@@ -13184,7 +13185,6 @@ britannica
 borwort
 bumper
 borzoi
-brachiopod
 bastardised
 boschneger
 boneen
