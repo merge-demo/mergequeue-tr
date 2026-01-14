@@ -8164,7 +8164,6 @@ entosphere
 elaidinic
 episcopature
 eczemas
-emarcid
 emprosthotonus
 extrafascicular
 extrapolated
@@ -9756,6 +9755,7 @@ equisonance
 everyplace
 eddo
 enneahedron
+emarcid
 euhedral
 ectogenesis
 enrobing
