@@ -4724,7 +4724,6 @@ carpetbags
 counterearth
 ciboria
 catchall
-chigetais
 champerty
 coumarou
 cunninghamia
@@ -5290,6 +5289,7 @@ catafalque
 cassididae
 cotsetla
 cassidulina
+chigetais
 cassiduloid
 charterage
 cassiepeia

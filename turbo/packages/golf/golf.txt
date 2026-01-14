@@ -528,6 +528,7 @@ gliomas
 germproof
 geeldikkop
 groutier
+gavialis
 galipoidin
 guzzles
 galleins
@@ -2990,7 +2991,6 @@ gendered
 galatine
 ghetti
 gondite
-gavialis
 gelly
 galvanocauteries
 gentlefolk
