@@ -3422,6 +3422,7 @@ geometrized
 glossolaryngeal
 globularia
 gourmets
+grappled
 gerrymander
 gorgons
 goldwater
@@ -8617,7 +8618,6 @@ gentlemanly
 grapnel
 gossipping
 gerb
-grappled
 guti
 glucosin
 gulfed
