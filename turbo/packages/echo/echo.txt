@@ -10054,7 +10054,6 @@ encastered
 egrets
 ethambutol
 ethmovomerine
-exitial
 entamoebiasis
 epopoeist
 etceteras
@@ -10569,6 +10568,7 @@ egged
 ethylenic
 ephectic
 eckehart
+exitial
 ethmose
 ethrog
 ergatandromorphic
