@@ -16024,6 +16024,7 @@ clevis
 columbous
 codicilic
 caridea
+cerebella
 capillariness
 cyanins
 cuculiform
@@ -29662,7 +29663,6 @@ conoidal
 castellet
 crocosmia
 convictor
-cerebella
 collusion
 conductress
 crocus
