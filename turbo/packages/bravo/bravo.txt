@@ -10089,7 +10089,6 @@ boarhound
 bokos
 basidiolichen
 burglarious
-bizones
 bergeret
 biblos
 bizz
@@ -11797,6 +11796,7 @@ boccarella
 bodings
 boccaro
 bobsleding
+bizones
 bocce
 bugbears
 beefheaded
