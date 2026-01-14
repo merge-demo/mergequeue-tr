@@ -1055,7 +1055,6 @@ focalization
 flopper
 felspathose
 floricomous
-forensal
 fringillidae
 foraging
 fogas
@@ -5579,6 +5578,7 @@ fingerwise
 fucuses
 federal
 frontonasal
+forensal
 flageolet
 fascicled
 formerness
