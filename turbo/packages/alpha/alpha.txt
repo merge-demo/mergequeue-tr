@@ -7120,6 +7120,7 @@ aerocartograph
 actuator
 anointers
 akmuddar
+aulical
 aknow
 aggradation
 agglomerating
@@ -23546,7 +23547,6 @@ atalaya
 auletic
 aulae
 aetiophyllin
-aulical
 aulicism
 aries
 antaphroditic
