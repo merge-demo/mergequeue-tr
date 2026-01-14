@@ -8486,6 +8486,7 @@ antinomy
 amebocyte
 acanthosis
 alkapton
+anorganology
 alkaptone
 ascent
 alkaptonuric
@@ -13835,7 +13836,6 @@ anorexy
 alloxyproteic
 anorexics
 adonidin
-anorganology
 appartement
 acetylate
 anorn
