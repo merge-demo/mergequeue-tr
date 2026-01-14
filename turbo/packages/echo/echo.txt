@@ -7103,7 +7103,6 @@ eightfold
 enmarbled
 enverdure
 enlarging
-enlaced
 ectosphenotic
 edicts
 engaud
@@ -9407,6 +9406,7 @@ erythrogenesis
 escapees
 erysipelas
 eyehole
+enlaced
 extraordinarily
 exactus
 entonic
