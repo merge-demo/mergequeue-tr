@@ -4654,7 +4654,6 @@ glossarian
 gerbilles
 gossoon
 glassin
-guisard
 glycuronic
 glary
 gradely
@@ -10152,6 +10151,7 @@ guide
 glueyness
 gigglement
 gaydiang
+guisard
 gemlich
 goggly
 grazioso
