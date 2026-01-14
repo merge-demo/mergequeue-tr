@@ -2395,7 +2395,6 @@ filtrable
 fingernail
 flanged
 ferigee
-fondlers
 fleer
 fad
 fleshlessness
@@ -3941,6 +3940,7 @@ finew
 fish
 fermentor
 fruitcakey
+fondlers
 frenziedly
 frightfulness
 foreshown
