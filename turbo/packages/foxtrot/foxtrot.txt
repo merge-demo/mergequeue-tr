@@ -2593,7 +2593,6 @@ featherlight
 filthy
 feoffed
 fancily
-foresheet
 ferromanganese
 ferrometer
 filagreed
@@ -7452,6 +7451,7 @@ forboded
 freakiest
 faultlessness
 faltered
+foresheet
 flatuses
 fluor
 fourbagger
