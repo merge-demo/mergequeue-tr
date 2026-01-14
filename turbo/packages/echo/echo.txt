@@ -13602,7 +13602,6 @@ excern
 enteroceptor
 endosteomas
 extance
-extemporally
 elkanah
 eisegesis
 edriophthalmian
@@ -14063,6 +14062,7 @@ eutectoid
 extravaginal
 electrify
 exteroceptist
+extemporally
 exorcists
 echelonment
 exclude
