@@ -2997,7 +2997,6 @@ burrel
 barroom
 barruly
 bedumb
-biacromial
 barsac
 backhatch
 beaveries
@@ -8121,6 +8120,7 @@ boondocks
 bookkeepers
 bulbine
 becarpet
+biacromial
 barbadian
 bitters
 beemen
