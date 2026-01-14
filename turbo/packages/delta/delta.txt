@@ -617,6 +617,7 @@ deposes
 doff
 damnability
 damnabilities
+deloul
 disegno
 dawut
 deadrize
@@ -4176,7 +4177,6 @@ dicyclica
 discharger
 deadlatch
 deloo
-deloul
 decocted
 deloused
 dribs
