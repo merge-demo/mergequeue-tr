@@ -7988,7 +7988,6 @@ auscultations
 alternates
 aleurodes
 aleurometer
-aleuronat
 absi
 aleurone
 arachidic
@@ -20582,6 +20581,7 @@ arthritically
 abseiling
 allophytoid
 attritus
+aleuronat
 anguishing
 auriculariales
 arthritis
