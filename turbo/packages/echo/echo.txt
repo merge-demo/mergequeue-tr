@@ -3590,7 +3590,6 @@ extracellularly
 excelsin
 emydes
 eventerate
-exhibitable
 euclea
 egocerus
 exemplifies
@@ -8007,6 +8006,7 @@ extrusion
 eyebath
 epinyctis
 enheritage
+exhibitable
 ensconced
 energumenon
 expressly
