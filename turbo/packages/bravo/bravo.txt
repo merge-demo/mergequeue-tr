@@ -6541,7 +6541,6 @@ backplanes
 bagel
 bhagat
 breezy
-bioecologies
 bookkeeping
 browningesque
 banisters
@@ -7968,6 +7967,7 @@ borderside
 bename
 beclad
 bap
+bioecologies
 bushels
 brusher
 bicker
