@@ -234,6 +234,7 @@ functionaries
 fulimart
 frostbound
 friezed
+foehnlike
 fritterer
 facultize
 fulgur
@@ -6613,7 +6614,6 @@ formaldehydesulphoxylate
 fancify
 footpath
 forevouched
-foehnlike
 faulted
 fulgurating
 forenotice
