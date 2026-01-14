@@ -10666,7 +10666,6 @@ fundamental
 fidicinal
 flatulent
 foodstuffs
-fruitiness
 fieldworker
 flagless
 fist
@@ -11124,6 +11123,7 @@ forecarriage
 forbiddance
 fauteuils
 fedellini
+fruitiness
 feverbush
 fetometry
 fishtail
