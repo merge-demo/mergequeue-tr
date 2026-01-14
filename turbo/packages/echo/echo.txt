@@ -121,6 +121,7 @@ enantiomorphous
 endometritis
 expreme
 earthed
+elaeopten
 engaol
 emmenia
 enigmatized
@@ -2692,7 +2693,6 @@ enduros
 electrotherapy
 electrotheraputic
 emyds
-elaeopten
 escribed
 ephippial
 emulsoidal
