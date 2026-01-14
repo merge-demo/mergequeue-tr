@@ -766,7 +766,6 @@ footbreadth
 fanatism
 fabricating
 farcilite
-flybelt
 fishgrass
 figurines
 fluxions
@@ -8044,6 +8043,7 @@ firebrats
 furnitures
 forenames
 flashingly
+flybelt
 fumigating
 flecnode
 fiendfully
