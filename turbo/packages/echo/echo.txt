@@ -2593,7 +2593,6 @@ empididae
 erythroblastosis
 eirenicon
 essaying
-embassies
 elysian
 electropathy
 electropathology
@@ -6466,6 +6465,7 @@ ectodermic
 enlister
 enstar
 enrapturing
+embassies
 espanoles
 elocation
 entr
