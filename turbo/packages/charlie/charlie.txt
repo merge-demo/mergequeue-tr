@@ -20104,7 +20104,6 @@ commercialised
 centgrave
 chequerwise
 commercialism
-coenenchymatous
 commercialists
 commerciality
 commercialize
@@ -25968,6 +25967,7 @@ codifier
 corvet
 corvette
 commentable
+coenenchymatous
 corvettes
 cahuapana
 cadges
