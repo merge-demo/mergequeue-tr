@@ -12433,7 +12433,6 @@ chromize
 crocard
 congoese
 chromizing
-caswellite
 chromoblast
 calcitestaceous
 chromocyte
@@ -27983,6 +27982,7 @@ craggan
 craggy
 chromoscopic
 cataphylla
+caswellite
 craglike
 crags
 carthusian
