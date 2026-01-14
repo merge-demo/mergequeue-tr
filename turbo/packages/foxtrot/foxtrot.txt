@@ -237,6 +237,7 @@ friezed
 foehnlike
 fritterer
 facultize
+flexional
 fulgur
 finify
 fetials
@@ -1874,7 +1875,6 @@ fianchetti
 fanback
 frisson
 fallacious
-flexional
 falsifies
 fizzwater
 frohlich
