@@ -1336,7 +1336,6 @@ fluxible
 fatherly
 feest
 features
-frogginess
 fendering
 fbi
 famousness
@@ -3024,6 +3023,7 @@ fiber
 fiberizes
 fritillary
 formolite
+frogginess
 fleshless
 federalists
 franchising
