@@ -3569,7 +3569,6 @@ entocone
 enervator
 exceeder
 equoid
-epicureanism
 exothermally
 epidesmine
 emboscata
@@ -11279,6 +11278,7 @@ endoarteritis
 esophagodynia
 excursing
 endue
+epicureanism
 eliquated
 empyrean
 evaporations
