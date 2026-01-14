@@ -16505,7 +16505,6 @@ cloghaun
 cloghead
 carboxyl
 cowsharn
-cosmos
 calendar
 coinheritance
 correlative
@@ -20473,6 +20472,7 @@ cardiodysesthesia
 colombier
 comparers
 clatteringly
+cosmos
 comparing
 comparisons
 comparted
