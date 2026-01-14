@@ -3262,6 +3262,7 @@ gauze
 geotropically
 galagala
 gaut
+glew
 gossypol
 gyral
 gaelicist
@@ -4936,7 +4937,6 @@ ganancias
 gymnogen
 gawker
 galling
-glew
 goodwilled
 gigantic
 grafters
