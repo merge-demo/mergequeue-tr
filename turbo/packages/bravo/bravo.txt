@@ -3388,7 +3388,6 @@ brythonic
 baculum
 benzilic
 bassanite
-biotechnics
 bassetta
 blockbuster
 bays
@@ -10873,6 +10872,7 @@ baldacchini
 bronteum
 blets
 braggarts
+biotechnics
 bonhomme
 brancardier
 bonism
