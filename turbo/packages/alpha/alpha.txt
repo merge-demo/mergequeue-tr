@@ -13268,7 +13268,6 @@ anionic
 amiles
 anisado
 askable
-anisal
 araks
 antiphysician
 anisandrous
@@ -14930,6 +14929,7 @@ ambassadress
 afflictive
 anticlerical
 anticlericalism
+anisal
 acidophilous
 azygobranchia
 anticly
