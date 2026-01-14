@@ -6155,6 +6155,7 @@ doppler
 deriders
 distribute
 detractress
+danelaw
 dittograph
 deriding
 divertor
@@ -10683,7 +10684,6 @@ deferring
 diiodide
 deepen
 dipnoans
-danelaw
 doublewords
 dipodic
 dipodid
