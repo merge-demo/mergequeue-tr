@@ -539,6 +539,7 @@ grandsirs
 germanium
 gurian
 gallera
+glossodynamometer
 gesneriaceae
 gogo
 gonadotrophin
@@ -6774,7 +6775,6 @@ gremials
 girders
 girded
 gentlemanism
-glossodynamometer
 goodwill
 gibel
 gravilea
