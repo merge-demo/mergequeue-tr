@@ -4441,6 +4441,7 @@ boojum
 bethorning
 beclog
 bolshevistic
+billeter
 becoiffed
 bulkiness
 bludging
@@ -11116,7 +11117,6 @@ bevelling
 borborygmic
 benzimidazole
 biomorphic
-billeter
 bedwarfs
 broil
 baobabs
