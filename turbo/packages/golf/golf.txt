@@ -2603,7 +2603,6 @@ globulariaceae
 glottis
 geodete
 gemmification
-gunpapers
 greillade
 glaucine
 glamourization
@@ -6900,6 +6899,7 @@ gharry
 gametophobia
 grandmama
 gristhorbia
+gunpapers
 gruffest
 grimness
 grandeval
