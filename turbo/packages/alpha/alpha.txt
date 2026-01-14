@@ -13583,7 +13583,6 @@ announcing
 affronting
 annualized
 apair
-annuals
 annueller
 asherites
 audiences
@@ -18770,6 +18769,7 @@ ave
 ancientry
 adinidan
 attachers
+annuals
 andesic
 axioms
 alkanes
