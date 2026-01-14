@@ -681,7 +681,6 @@ giterne
 grapelet
 gelosine
 guardfish
-gooney
 gynecomaniac
 geopolitician
 gauily
@@ -9271,6 +9270,7 @@ gecko
 gallstone
 graduale
 geoffrey
+gooney
 groenlandicus
 glucuronic
 goyana
