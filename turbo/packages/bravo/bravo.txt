@@ -14764,7 +14764,6 @@ brahminist
 bravuras
 baetzner
 begorrah
-buncal
 bercelet
 brawlsome
 brawnedness
@@ -15941,6 +15940,7 @@ broaching
 bruising
 bullhide
 bromomania
+buncal
 bopper
 buro
 barbeyaceae

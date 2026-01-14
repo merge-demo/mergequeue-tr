@@ -5856,6 +5856,7 @@ esox
 engrandize
 ebrillade
 ectogeneous
+epithecia
 ecesis
 engrandizement
 epidermatous
@@ -9574,7 +9575,6 @@ eslisor
 eatberry
 evection
 esmeralda
-epithecia
 einsteinium
 esnecy
 epizoology
