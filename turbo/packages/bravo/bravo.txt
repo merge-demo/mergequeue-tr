@@ -1947,6 +1947,7 @@ broadly
 bisection
 bewhisker
 bagnio
+brattled
 balances
 bandstring
 bathymetric
@@ -14724,7 +14725,6 @@ betrothal
 biobibliographic
 bowpots
 bowlings
-brattled
 benumbment
 bratwurst
 bibliopolic
