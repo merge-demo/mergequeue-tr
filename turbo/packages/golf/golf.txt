@@ -2064,6 +2064,7 @@ gleeked
 glyptodont
 guideboard
 gunbuilder
+gallicolous
 gutlessness
 glutted
 grotto
@@ -3026,7 +3027,6 @@ geogenic
 gyrally
 grudgekin
 garboil
-gallicolous
 gulinula
 geminate
 guiding
