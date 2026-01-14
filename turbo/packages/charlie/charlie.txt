@@ -16409,6 +16409,7 @@ clivers
 clivis
 clivus
 clk
+cuprose
 clo
 cloaca
 cloacae
@@ -31212,7 +31213,6 @@ cuproplumbite
 cuproscheelite
 cytoplastic
 chromaticity
-cuprose
 cuprums
 czechoslovaks
 cupsful
