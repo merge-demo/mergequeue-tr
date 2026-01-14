@@ -8363,7 +8363,6 @@ anaxial
 anaerophyte
 alinement
 arthroendoscopy
-anthypophoretic
 architectonic
 alipin
 abbie
@@ -22707,6 +22706,7 @@ athyria
 acronymous
 ampyces
 awide
+anthypophoretic
 assignors
 agneaux
 anathema
