@@ -1963,7 +1963,6 @@ ecstatically
 ekasilicon
 euthamia
 earthen
-etherialize
 exteriorate
 elastics
 eluviated
@@ -12864,6 +12863,7 @@ exotoxic
 exacerbate
 enlarger
 evaporation
+etherialize
 ecomomist
 ensynopticity
 eburneoid
