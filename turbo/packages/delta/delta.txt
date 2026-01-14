@@ -3764,6 +3764,7 @@ dwale
 disgracia
 drillable
 dynamites
+dornocks
 distrain
 donning
 disseizoress
@@ -15759,7 +15760,6 @@ dornick
 dornicks
 datival
 dornock
-dornocks
 desanded
 demolishes
 dumka
