@@ -6404,7 +6404,6 @@ collision
 cloudland
 cotwin
 cauterism
-carafe
 correcter
 conchfish
 cauterizer
@@ -8786,6 +8785,7 @@ chapournet
 chapournetted
 cottering
 chappal
+carafe
 chappy
 countermine
 chappies
