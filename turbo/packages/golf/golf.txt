@@ -492,6 +492,7 @@ grouches
 galere
 garaged
 gridirons
+glut
 gipsies
 galericulate
 germing
@@ -1980,7 +1981,6 @@ geranic
 goring
 grubroot
 grusian
-glut
 gripes
 grudged
 ghastlier
