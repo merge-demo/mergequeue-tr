@@ -5736,6 +5736,7 @@ grimmish
 gloomy
 grapsoid
 gymnoplast
+gastroenteroptosis
 gunkholed
 gossypose
 gonotheca
@@ -10674,7 +10675,6 @@ generalty
 glycerols
 gurnard
 gib
-gastroenteroptosis
 glaucomatous
 googol
 grippotoxin
