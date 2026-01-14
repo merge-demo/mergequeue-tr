@@ -7148,6 +7148,7 @@ desulphurised
 demonize
 dollyman
 decompose
+dogmatisation
 dispersement
 diductor
 drawboring
@@ -13571,7 +13572,6 @@ defervescing
 decussation
 dissension
 dichotomising
-dogmatisation
 dyas
 dissensualize
 dissentation
