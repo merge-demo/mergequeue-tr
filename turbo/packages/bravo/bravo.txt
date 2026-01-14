@@ -5521,7 +5521,6 @@ bagatine
 bludgeoned
 baklava
 bemurmured
-bobowler
 benefactive
 begnawn
 blotted
@@ -14828,6 +14827,7 @@ bewailing
 bunked
 billycock
 baulks
+bobowler
 baku
 backwaters
 bemitered
