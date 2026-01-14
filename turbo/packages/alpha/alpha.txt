@@ -13699,6 +13699,7 @@ anoint
 arthritism
 aerialist
 attern
+assart
 anointment
 anointments
 articulation
@@ -21661,7 +21662,6 @@ assamites
 ancillas
 atrophiated
 amblyopsidae
-assart
 antistriker
 assassinate
 azoeosin
