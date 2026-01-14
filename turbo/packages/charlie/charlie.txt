@@ -15663,7 +15663,6 @@ cheekily
 clausure
 claut
 clavacin
-clavae
 centres
 claval
 clavariaceous
@@ -31122,6 +31121,7 @@ catharism
 cuneus
 calcedony
 curvets
+clavae
 copataine
 capitulation
 cacodylate
