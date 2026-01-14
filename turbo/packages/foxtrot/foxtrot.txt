@@ -1624,6 +1624,7 @@ flannel
 fawkener
 fraischeur
 funfair
+flutterable
 flightless
 favoredly
 fawned
@@ -2427,7 +2428,6 @@ frizzle
 fingered
 frisco
 farandola
-flutterable
 frazer
 fulgourous
 feasters
