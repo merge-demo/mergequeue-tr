@@ -6158,6 +6158,7 @@ enigua
 elephantiac
 enneagons
 enthrallment
+electropoion
 ectoparasitic
 endotoxin
 embronze
@@ -13968,7 +13969,6 @@ epimer
 eozoonal
 endokaryogamy
 enface
-electropoion
 escheatage
 extraparochial
 equicurve
