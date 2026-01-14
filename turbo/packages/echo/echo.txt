@@ -4869,7 +4869,6 @@ elemental
 effeminateness
 excludible
 explete
-enjamb
 encroachments
 epitaxic
 encrustation
@@ -13205,6 +13204,7 @@ extruded
 elicited
 elapinae
 emphatically
+enjamb
 embale
 expires
 esteemable
