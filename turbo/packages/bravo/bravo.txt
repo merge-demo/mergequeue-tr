@@ -5635,6 +5635,7 @@ baptistery
 bima
 blarina
 bridelike
+bacteroidal
 bronchostomy
 belate
 babbittess
@@ -11183,7 +11184,6 @@ bolivars
 boastive
 beparch
 bisdimethylamino
-bacteroidal
 bandarlog
 boiloff
 balloters

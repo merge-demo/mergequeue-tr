@@ -3006,6 +3006,7 @@ efflorescence
 evocative
 extern
 encorpore
+episememe
 economy
 eliot
 eliphalet
@@ -6181,7 +6182,6 @@ enniche
 elytrum
 engraft
 eccrinology
-episememe
 entrappingly
 entocondyloid
 elision
