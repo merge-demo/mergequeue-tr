@@ -7520,7 +7520,6 @@ fructokinase
 funebrial
 formers
 falconries
-fragor
 fernseed
 foreclosure
 fevering
@@ -9648,6 +9647,7 @@ fringe
 fouquieria
 foldouts
 fourfiusher
+fragor
 frigga
 fraising
 fustle
