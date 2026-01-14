@@ -1883,7 +1883,6 @@ complimentalness
 calcitration
 containers
 cologne
-cotwin
 calandria
 calicoed
 cordwains
@@ -6398,6 +6397,7 @@ cauterisation
 cauterise
 collision
 cloudland
+cotwin
 cauterism
 carafe
 correcter
