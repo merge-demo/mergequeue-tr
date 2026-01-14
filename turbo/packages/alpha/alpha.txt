@@ -4425,7 +4425,6 @@ antirevisionist
 awonder
 abductores
 ap
-adumbrating
 adumbrations
 asthenias
 agrypnode
@@ -7404,6 +7403,7 @@ archiepiscopate
 acusection
 annexe
 actinomyxidia
+adumbrating
 albyn
 albinal
 amvis
