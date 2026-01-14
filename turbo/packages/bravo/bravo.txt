@@ -2458,7 +2458,6 @@ blustery
 bareknuckle
 blesbucks
 barenesses
-barer
 bounceably
 bezonian
 baresark
@@ -11555,6 +11554,7 @@ blunk
 berrypicker
 bdellid
 blameworthiness
+barer
 boswellism
 buckaroos
 blunket
