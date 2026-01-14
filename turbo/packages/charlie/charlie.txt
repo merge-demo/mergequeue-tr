@@ -4140,6 +4140,7 @@ cardiocele
 chevronelly
 cardiocirrhosis
 cacuminate
+crowdies
 consubsistency
 contrarieties
 cardiodilator
@@ -30093,7 +30094,6 @@ chordoid
 crowder
 cmdg
 crowdy
-crowdies
 confecture
 crowding
 crowdle
