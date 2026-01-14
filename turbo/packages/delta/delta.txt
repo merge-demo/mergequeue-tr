@@ -5588,7 +5588,6 @@ depersonalising
 desponded
 diplomatology
 depersonalized
-discipled
 deflated
 discouraging
 demicylinder
@@ -14705,6 +14704,7 @@ divid
 dioecisms
 dorsoposterior
 devilling
+discipled
 dismarketing
 dendroceratine
 dimensionality
