@@ -16304,6 +16304,7 @@ clypeola
 clypeolar
 clypeus
 cyanomethaemoglobin
+cobweb
 clipped
 caving
 clippers
@@ -17514,7 +17515,6 @@ cobridgehead
 chrysostomic
 chimneyhead
 coburg
-cobweb
 cerion
 coemployed
 centavos

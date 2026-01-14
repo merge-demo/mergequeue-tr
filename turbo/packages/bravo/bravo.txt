@@ -10954,6 +10954,7 @@ bombers
 bookful
 blindstories
 benzoin
+blackouts
 brede
 blindweed
 blindworm
@@ -17425,7 +17426,6 @@ borzicactus
 barry
 brasset
 bunkering
-blackouts
 bunkermen
 bunkers
 babel
