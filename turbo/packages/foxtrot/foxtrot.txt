@@ -2365,7 +2365,6 @@ frolicky
 favoritism
 ferforth
 frapped
-falconiformes
 frogling
 feudist
 francic
@@ -3178,6 +3177,7 @@ footballist
 firma
 fauns
 ficaries
+falconiformes
 flouse
 fices
 focal
