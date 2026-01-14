@@ -1439,6 +1439,7 @@ caliphship
 contradebt
 calypsist
 criollas
+cirrhosed
 cornerwise
 calypso
 copals
@@ -7593,7 +7594,6 @@ cerebrocardiac
 chairman
 cerebroganglionic
 cerebroid
-cirrhosed
 cerebromeningitis
 celiopyosis
 carduaceous
