@@ -922,7 +922,6 @@ fadaise
 fleabug
 fallouts
 ferrate
-faquir
 farad
 faradaic
 filleted
@@ -4063,6 +4062,7 @@ foetiparous
 flateria
 fluffy
 fraid
+faquir
 foxtail
 forex
 finless
