@@ -3390,6 +3390,7 @@ exacters
 eggplants
 exhibiter
 emphase
+engrains
 egoist
 embargoes
 endocrinologist
@@ -5084,7 +5085,6 @@ enslavers
 eremitic
 endochorion
 endochorionic
-engrains
 endocyst
 epodic
 enucleate
