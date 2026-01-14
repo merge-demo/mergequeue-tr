@@ -19863,6 +19863,7 @@ comfiture
 comfort
 cryptoglaux
 comfortableness
+coveter
 comfortation
 churchly
 comfortative
@@ -27569,7 +27570,6 @@ covet
 cerealin
 covetable
 coveted
-coveter
 covetise
 coregonidae
 canaba
