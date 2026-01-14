@@ -2626,7 +2626,6 @@ ecthetically
 execrations
 etymologisable
 exempla
-electrophrenic
 electroplater
 electropower
 embodying
@@ -3328,6 +3327,7 @@ enshrouds
 ellipsometer
 edison
 euharmonic
+electrophrenic
 endamages
 epileptic
 emancipator
