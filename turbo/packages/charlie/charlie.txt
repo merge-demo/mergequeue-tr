@@ -29515,7 +29515,6 @@ crystallurgy
 ceruminiferous
 companion
 coroniform
-crushed
 chithe
 cryste
 counterattired
@@ -30212,6 +30211,7 @@ crudely
 coregonus
 clinicopathologic
 crunk
+crushed
 crudest
 conto
 crudy
