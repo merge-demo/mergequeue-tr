@@ -5061,7 +5061,6 @@ gigas
 galliots
 gynaecea
 gypper
-gadinic
 griffins
 granza
 gastroptosia
@@ -5567,6 +5566,7 @@ glottogonist
 gervais
 gurges
 garuda
+gadinic
 ginks
 gipsyry
 gravestone
