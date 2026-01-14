@@ -4359,7 +4359,6 @@ adsorbent
 austrogaean
 apparels
 anachronistically
-apoxyomenos
 alcae
 adenoids
 agaristidae
@@ -16755,6 +16754,7 @@ aphemia
 attal
 athenaeum
 aphemic
+apoxyomenos
 aphengoscope
 apheresis
 apheses
