@@ -8706,7 +8706,6 @@ agers
 amnesiacs
 appareled
 allemand
-alleniate
 allentato
 agaty
 alsine
@@ -16931,6 +16930,7 @@ apioid
 ambagiosity
 arcadians
 apiol
+alleniate
 almswomen
 astite
 abnormity
