@@ -6720,7 +6720,6 @@ exungulate
 effume
 ectosomal
 extratarsal
-esthesioneurosis
 ectopistes
 elusions
 esparcet
@@ -11716,6 +11715,7 @@ exobiology
 entreat
 eyrir
 examinable
+esthesioneurosis
 eglateres
 examinant
 eschewer
