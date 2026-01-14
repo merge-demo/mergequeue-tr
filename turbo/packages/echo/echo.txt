@@ -2990,6 +2990,7 @@ eliminate
 etiologies
 embind
 explait
+epipastic
 emony
 equiprobabilism
 eliminated
@@ -10324,7 +10325,6 @@ ethonomics
 ethnocentric
 epeirogenic
 encyclopaedical
-epipastic
 eroticist
 eclecticist
 extraquiz
