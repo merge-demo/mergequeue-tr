@@ -9186,6 +9186,7 @@ devilman
 ditriglyph
 dieb
 dusterman
+divisi
 displeasure
 delaine
 diebacks
@@ -9578,7 +9579,6 @@ digonal
 digoneutism
 differentness
 diswashing
-divisi
 digoxins
 digraphically
 digrediency
