@@ -5359,7 +5359,6 @@ enwingly
 excarnate
 endeavoring
 enmagazine
-epanody
 endothecal
 ectozoans
 embowers
@@ -13803,6 +13802,7 @@ ethnicism
 exacuate
 encyclopedical
 egyptologist
+epanody
 establishmentarianism
 extortive
 equiped
