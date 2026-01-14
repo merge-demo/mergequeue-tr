@@ -4499,6 +4499,7 @@ angiostegnosis
 asellus
 aristodemocratical
 adventurism
+axonic
 aquotization
 acheirus
 arming
@@ -10451,7 +10452,6 @@ apa
 autogenetic
 alkanna
 abbeys
-axonic
 acceptances
 adstipulation
 apoplectoid
