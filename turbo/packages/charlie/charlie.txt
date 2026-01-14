@@ -3573,6 +3573,7 @@ capturable
 catechized
 capture
 captured
+casebearer
 captures
 capturing
 curricular
@@ -5123,7 +5124,6 @@ concipiency
 caseases
 caseated
 caseation
-casebearer
 collectivity
 casebox
 cased
