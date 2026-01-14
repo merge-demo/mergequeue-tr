@@ -4160,7 +4160,6 @@ fumago
 frier
 forecloses
 franchisor
-fining
 filaria
 fucaceae
 fanos
@@ -4995,6 +4994,7 @@ fiddlewood
 filet
 fluctuable
 faceable
+fining
 frowsier
 feathers
 faineantise
