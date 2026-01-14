@@ -2207,7 +2207,6 @@ fruiting
 fragrancy
 feminility
 feminin
-frecklish
 fondlesome
 fluorinates
 foals
@@ -9508,6 +9507,7 @@ financier
 favouress
 flyted
 fuseless
+frecklish
 frecklier
 feudalizing
 findfault
