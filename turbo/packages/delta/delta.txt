@@ -10688,6 +10688,7 @@ doublewords
 dipodic
 dipodid
 deleble
+dentalising
 destained
 depastured
 dawting
@@ -11010,7 +11011,6 @@ disallow
 dorneck
 disconformably
 dramatised
-dentalising
 dieselized
 degusts
 disclosable
