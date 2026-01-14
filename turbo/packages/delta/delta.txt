@@ -1761,7 +1761,6 @@ dividend
 diphyllobothrium
 debriefs
 deathtrap
-devocalization
 drof
 deathward
 ductility
@@ -10475,6 +10474,7 @@ diphthonging
 diphthongisation
 deisticalness
 dipterad
+devocalization
 dozent
 dalar
 daglock
