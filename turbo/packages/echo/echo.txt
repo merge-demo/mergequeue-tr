@@ -6892,6 +6892,7 @@ eucalyn
 epiblema
 epitrchelia
 exudation
+epicotyledonary
 exarchal
 elasticize
 escudos
@@ -12681,7 +12682,6 @@ erotogenic
 effrontery
 excrementary
 entame
-epicotyledonary
 exonerate
 exonerating
 ephemerous
