@@ -16909,7 +16909,6 @@ aluminotype
 advocates
 agathaumas
 antienthusiast
-abridged
 apigenin
 apii
 apikores
@@ -24375,6 +24374,7 @@ appanagist
 agisting
 autoschediastic
 antialexin
+abridged
 ankylomele
 arksutite
 apothec
