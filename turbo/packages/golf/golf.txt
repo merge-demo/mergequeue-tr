@@ -4021,7 +4021,6 @@ gilles
 gynostegium
 goneness
 gabendum
-genesic
 ginorite
 giantish
 glum
@@ -5249,6 +5248,7 @@ gurish
 glaucophane
 garish
 galoubet
+genesic
 gammers
 glooming
 guaranies
