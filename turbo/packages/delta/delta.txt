@@ -2533,6 +2533,7 @@ dorothea
 decemdentate
 dipper
 dibromoacetaldehyde
+dyads
 declaratorily
 deaminate
 drain
@@ -8889,7 +8890,6 @@ dilemi
 daunomycin
 disbud
 dipyramid
-dyads
 defiatory
 diceras
 dmod

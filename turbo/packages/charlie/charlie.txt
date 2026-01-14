@@ -9864,7 +9864,6 @@ cryptogenic
 chemisette
 chemism
 choosy
-chemisorb
 coprophilic
 copperytailed
 chemistry
@@ -11722,6 +11721,7 @@ crotalism
 cirrhotic
 chondrioma
 churlhood
+chemisorb
 chondriomere
 chondriosphere
 connaturally
