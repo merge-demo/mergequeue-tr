@@ -9980,7 +9980,6 @@ bisecting
 beryllate
 bilinguality
 bridleman
-burbles
 biases
 bivalence
 blethering
@@ -15575,6 +15574,7 @@ bilbos
 bination
 barometer
 beavers
+burbles
 brewsterite
 barbacan
 brises
