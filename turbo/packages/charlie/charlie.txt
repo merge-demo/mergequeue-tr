@@ -3497,7 +3497,6 @@ capsizes
 capsizing
 capernaitish
 capsomere
-capsomers
 capstans
 capstone
 capsula
@@ -8869,6 +8868,7 @@ characterization
 characterizing
 characterless
 characterlessness
+capsomers
 characterology
 coffle
 crosshead
