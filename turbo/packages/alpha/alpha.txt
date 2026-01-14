@@ -5597,6 +5597,7 @@ armil
 anchoritically
 absorptivity
 aphototaxis
+anoegenetic
 aftervision
 afterwale
 amnesics
@@ -9560,7 +9561,6 @@ aspidomancy
 anthema
 alchemistry
 ammocetes
-anoegenetic
 altimetrically
 abadite
 arrives
