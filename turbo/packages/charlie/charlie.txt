@@ -12362,6 +12362,7 @@ credensiveness
 chromatogenous
 coiny
 cinchonia
+chillagite
 chromatographic
 chromatographically
 cuticularize
@@ -25417,7 +25418,6 @@ cornishman
 cornless
 cornmeal
 ceramicist
-chillagite
 contumaciousness
 cornmeals
 cornmuse
