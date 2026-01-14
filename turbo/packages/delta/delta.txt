@@ -3508,7 +3508,6 @@ deformation
 dreadfuls
 deflections
 deformations
-deformedly
 dandily
 downfold
 dharmakaya
@@ -9663,6 +9662,7 @@ devisee
 dika
 dotage
 dampened
+deformedly
 disheart
 dieter
 dispersedelement

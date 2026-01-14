@@ -5185,7 +5185,6 @@ bellbind
 beardfish
 befriender
 benignly
-blasphemously
 balanoblennorrhea
 befriending
 barns
@@ -11961,6 +11960,7 @@ boggle
 babakoto
 blastemas
 boggler
+blasphemously
 bannerol
 buffeted
 bombing
