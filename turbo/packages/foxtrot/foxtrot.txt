@@ -770,6 +770,7 @@ fishgrass
 figurines
 fluxions
 fancied
+fustilarian
 frazzled
 frig
 fernleaf
@@ -1897,7 +1898,6 @@ fishable
 fingerflower
 fontanelle
 fumbling
-fustilarian
 foism
 fruitless
 feta
