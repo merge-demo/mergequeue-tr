@@ -5760,6 +5760,7 @@ delphin
 demonomancy
 dissipatedly
 dewer
+discrepancy
 disoxygenate
 dainties
 dialog
@@ -12262,7 +12263,6 @@ dysgonic
 dehortation
 dataflow
 dispatriated
-discrepancy
 disgorged
 disendowed
 drawing
