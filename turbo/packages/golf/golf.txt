@@ -7358,6 +7358,7 @@ glisky
 gardenful
 gossipped
 gallberry
+googolplex
 glochidial
 gossips
 gestor
@@ -9715,7 +9716,6 @@ glossaries
 gelants
 gratiosolin
 gaelicism
-googolplex
 guying
 grummet
 genuflector
