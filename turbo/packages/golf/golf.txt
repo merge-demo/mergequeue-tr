@@ -4533,6 +4533,7 @@ gnarred
 girder
 gil
 generalate
+gingalls
 goosebill
 geometrid
 grating
@@ -5619,7 +5620,6 @@ grimoire
 germanics
 gubernacular
 geyserine
-gingalls
 gastralgic
 gobbling
 growsome
