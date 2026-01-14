@@ -10414,7 +10414,6 @@ ecblastpsis
 epileptical
 educators
 emoters
-extusion
 echinate
 ethrogim
 ehatisaht
@@ -12670,6 +12669,7 @@ exometritis
 excogitate
 endeavors
 emotionless
+extusion
 echo
 erotized
 emerse
