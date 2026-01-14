@@ -10798,7 +10798,6 @@ azotizes
 anormality
 acrolith
 amitrole
-amitular
 ancre
 antiagglutinating
 aged
@@ -24146,6 +24145,7 @@ axone
 areopagitic
 autohemolytic
 autohexaploid
+amitular
 attendee
 acetylthymol
 alewives
