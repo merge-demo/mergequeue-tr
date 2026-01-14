@@ -5613,6 +5613,7 @@ gloomily
 gloomings
 graveward
 gunyang
+goons
 grimoire
 germanics
 gubernacular
@@ -6992,7 +6993,6 @@ geothermally
 gasthauses
 gnathic
 goondie
-goons
 gamostely
 gavel
 gummer
