@@ -1912,7 +1912,6 @@ ejaculations
 explore
 enjoin
 epiphylaxis
-eluants
 eyeleted
 enabled
 echinulate
@@ -5834,6 +5833,7 @@ exfoliation
 erlkings
 epicele
 extrinsic
+eluants
 engrafter
 exibilate
 engrailed
