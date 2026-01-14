@@ -9630,6 +9630,7 @@ espada
 ethanethial
 esurine
 espadon
+engraves
 effervescible
 ewer
 endoblast
@@ -12803,7 +12804,6 @@ exostosis
 exarchist
 exostra
 ebullition
-engraves
 elementary
 exostrae
 exoteric
