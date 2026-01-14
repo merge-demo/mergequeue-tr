@@ -2827,6 +2827,7 @@ antiscience
 acromelalgia
 airworthier
 armorproof
+asale
 atonics
 archostenosis
 autocamping
@@ -20880,7 +20881,6 @@ antick
 asa
 anticynically
 aneath
-asale
 asana
 aconitin
 arachnidism
