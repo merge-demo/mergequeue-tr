@@ -2335,7 +2335,6 @@ giornatate
 gadbee
 gavials
 guaiacols
-goloe
 galopin
 geldings
 garlandage
@@ -2530,6 +2529,7 @@ gadaba
 gibed
 griever
 gigmania
+goloe
 gained
 guessive
 generalise
