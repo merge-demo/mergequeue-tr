@@ -4394,7 +4394,6 @@ byworks
 backswing
 bonairness
 brolly
-boordly
 bagne
 bounties
 breakwater
@@ -5594,6 +5593,7 @@ bel
 bemedalled
 burys
 bibasic
+boordly
 behoovingly
 basinasal
 boulanger
