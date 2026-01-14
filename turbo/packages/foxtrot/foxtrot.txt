@@ -620,6 +620,7 @@ fluctiferous
 flavorless
 frighter
 fragaria
+fragrances
 floodways
 fleshes
 forehand
@@ -10365,7 +10366,6 @@ footlining
 frontcourt
 fructus
 folkmote
-fragrances
 flammable
 foreboard
 feldspathization
