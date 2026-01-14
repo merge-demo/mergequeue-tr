@@ -6317,7 +6317,6 @@ fluoboride
 flaggiest
 fumerel
 fiking
-flashingly
 fossiform
 flummoxes
 fubsier
@@ -8045,6 +8044,7 @@ forestries
 firebrats
 furnitures
 forenames
+flashingly
 fumigating
 flecnode
 fiendfully
