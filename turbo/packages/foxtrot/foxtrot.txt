@@ -6417,6 +6417,7 @@ fanflower
 footbaths
 feneration
 forweary
+frowsily
 flummery
 filth
 folkcraft
@@ -10538,7 +10539,6 @@ frowners
 fatlike
 faciend
 freq
-frowsily
 footslogging
 famishment
 fixable
