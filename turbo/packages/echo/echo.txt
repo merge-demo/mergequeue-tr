@@ -6689,7 +6689,6 @@ egestion
 expertising
 entosclerite
 eulogiser
-endopleuritic
 ecrevisse
 epulis
 espundia
@@ -12035,6 +12034,7 @@ episcias
 extra
 entackle
 enginehouse
+endopleuritic
 ervum
 excommunicative
 excommunicator
