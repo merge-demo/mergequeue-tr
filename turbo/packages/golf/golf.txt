@@ -3570,7 +3570,6 @@ gilbertian
 glossa
 gambolled
 goniaster
-gnomelike
 gregarinaria
 gavial
 geopositive
@@ -7507,6 +7506,7 @@ germanical
 graypate
 gloomfully
 glitch
+gnomelike
 guessable
 glottalized
 gat

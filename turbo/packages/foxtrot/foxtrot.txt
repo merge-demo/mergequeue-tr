@@ -889,7 +889,6 @@ florivorous
 feverfews
 fantastication
 forold
-flyaways
 faventine
 flamfew
 forcepses
@@ -8753,6 +8752,7 @@ fiberglass
 floret
 forechurch
 flunking
+flyaways
 fjerding
 falcopern
 fetologist
