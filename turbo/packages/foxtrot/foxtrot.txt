@@ -6836,6 +6836,7 @@ flourished
 fossilise
 frecked
 flioma
+forespecified
 folky
 fibromyxosarcoma
 fidejussory
@@ -10426,7 +10427,6 @@ frontomallar
 frontomental
 fidibus
 folks
-forespecified
 flodge
 fumous
 fetterer
