@@ -905,7 +905,6 @@ geognost
 grassfire
 gobioid
 gymnonoti
-gusseted
 goosebird
 gez
 gelatinizability
@@ -1489,6 +1488,7 @@ galaginae
 glumly
 gunmaker
 gymnarchus
+gusseted
 gluconate
 galosh
 guacamole
