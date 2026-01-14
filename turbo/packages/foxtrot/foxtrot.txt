@@ -3894,7 +3894,6 @@ fineableness
 fumigators
 fusinist
 fluoridated
-fullage
 frostproof
 frolicsomely
 fustianize
@@ -4971,6 +4970,7 @@ flaneurs
 flanked
 fledging
 factordom
+fullage
 fribourg
 formals
 freelage
