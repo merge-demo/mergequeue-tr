@@ -7424,7 +7424,6 @@ betread
 barnier
 bathybius
 braveries
-betrothing
 betrothment
 betroths
 bromine
@@ -15933,6 +15932,7 @@ bowel
 bearberries
 byreman
 bromoauric
+betrothing
 brazilianite
 broaching
 bruising
