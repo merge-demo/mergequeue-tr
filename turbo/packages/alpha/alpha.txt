@@ -12292,7 +12292,6 @@ ancylopod
 acneiform
 acrider
 anatropous
-antiecclesiastic
 alnico
 acerra
 apprehensions
@@ -21369,6 +21368,7 @@ androphore
 amyloses
 analectic
 amphoras
+antiecclesiastic
 azobacter
 acroter
 asyndeton
