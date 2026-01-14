@@ -4277,7 +4277,6 @@ goboes
 glabellum
 gynandrian
 gynecophorous
-gynecratic
 gelidness
 gorgonia
 gyneolater
@@ -6685,6 +6684,7 @@ guid
 gonid
 gabeler
 gluttonies
+gynecratic
 gynaecologic
 guaiol
 glycolyl
