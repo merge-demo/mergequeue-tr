@@ -13438,6 +13438,7 @@ diffusion
 dennstaedtia
 disrated
 disrecommendation
+dividendus
 digitalis
 disregard
 demiglace
@@ -14516,7 +14517,6 @@ dewfalls
 divided
 dividends
 dechemicalize
-dividendus
 divident
 dromograph
 dividivis
