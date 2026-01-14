@@ -7127,7 +7127,6 @@ guayaba
 greenfly
 gile
 gore
-gorebill
 gordioid
 gearboxes
 gored
@@ -10632,6 +10631,7 @@ grillades
 gambette
 greenly
 gossipries
+gorebill
 gaylies
 gnomide
 gerontologies
