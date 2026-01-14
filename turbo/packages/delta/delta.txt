@@ -811,6 +811,7 @@ dovecote
 diuretical
 danegelds
 deckhead
+deionization
 daneweed
 daneweeds
 detections
@@ -16602,7 +16603,6 @@ derout
 denotations
 dialuric
 decorations
-deionization
 dispromise
 dragonesque
 daphnis
