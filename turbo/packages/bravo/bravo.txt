@@ -2357,7 +2357,6 @@ bubbletops
 bagging
 boxboards
 barbotine
-bones
 bluelines
 bastinade
 biolysis
@@ -5453,6 +5452,7 @@ becudgelling
 beetling
 behemoths
 behenate
+bones
 behenic
 bemixed
 booing
