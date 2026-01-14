@@ -6578,7 +6578,6 @@ desegmentation
 dynamiters
 denigratory
 damoiselle
-dirdum
 dephlegmated
 doubtsome
 desegregated
@@ -18451,6 +18450,7 @@ diagometer
 disulphuret
 degreased
 disodic
+dirdum
 downsman
 dints
 demerge
