@@ -10743,7 +10743,6 @@ eulogias
 entopopliteal
 epicycloidal
 excystation
-extrasystolic
 euphonic
 enid
 ephemerae
@@ -10947,6 +10946,7 @@ excreting
 ectrodactyly
 embrowns
 eupolidean
+extrasystolic
 esopus
 envoy
 eggy
