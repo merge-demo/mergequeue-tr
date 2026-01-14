@@ -3166,7 +3166,6 @@ defect
 degusting
 divots
 draughtily
-defectible
 defecting
 dezincified
 distaff
@@ -17088,6 +17087,7 @@ disaffected
 driddle
 dysplastic
 divi
+defectible
 didle
 droukan
 drie
