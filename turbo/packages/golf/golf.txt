@@ -2514,6 +2514,7 @@ gloriation
 gatha
 giggled
 groundlessness
+gymnasium
 genderless
 gremiale
 gamogeny
@@ -5593,7 +5594,6 @@ gemology
 garnice
 geophilidae
 gondolet
-gymnasium
 golfers
 glossocomium
 gauming
