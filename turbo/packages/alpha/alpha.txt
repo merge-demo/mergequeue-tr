@@ -4444,6 +4444,7 @@ australic
 antipuritan
 adust
 adustion
+abatjour
 apsides
 amang
 aldoxime
@@ -19986,7 +19987,6 @@ aborsement
 afterclap
 armseye
 actuators
-abatjour
 amendable
 aals
 amasta
