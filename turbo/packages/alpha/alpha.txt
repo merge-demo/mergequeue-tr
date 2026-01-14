@@ -17256,7 +17256,6 @@ archicarp
 acoma
 amorous
 averruncate
-apophysary
 apophyseal
 anagoge
 anatifa
@@ -23436,6 +23435,7 @@ arnicas
 alleviaters
 auditorium
 abates
+apophysary
 addition
 anagrammatist
 alginate

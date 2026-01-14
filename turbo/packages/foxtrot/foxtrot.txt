@@ -2438,6 +2438,7 @@ foh
 fingu
 frontwise
 foreproduct
+floretty
 fermentable
 fermentativeness
 faradize
@@ -6410,7 +6411,6 @@ fairs
 fistulariidae
 finery
 flapjack
-floretty
 fisherboat
 feltman
 fanflower
