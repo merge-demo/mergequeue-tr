@@ -13216,7 +13216,6 @@ conscribe
 cyclization
 cyclizes
 cauld
-cistrons
 coulometric
 cycloaliphatic
 cycloalkane
@@ -15620,6 +15619,7 @@ clauber
 cupressaceae
 claucht
 claude
+cistrons
 cochins
 cholesterinemia
 claudetites

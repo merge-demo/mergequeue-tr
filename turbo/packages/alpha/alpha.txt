@@ -11258,7 +11258,6 @@ appellable
 aspersed
 amphigene
 aimers
-advocating
 amphigenous
 antimetabole
 aminating
@@ -18298,6 +18297,7 @@ apparel
 acquisitum
 adjunct
 awshar
+advocating
 arability
 arabinic
 arabinosic
