@@ -6850,6 +6850,7 @@ deadflat
 disvalues
 deltic
 domesticative
+demitube
 derivative
 desmopathology
 desmopexia
@@ -16791,7 +16792,6 @@ drawbar
 disposability
 desisted
 decolorate
-demitube
 demirobe
 dyscrasial
 detritivorous
