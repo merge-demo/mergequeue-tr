@@ -1913,7 +1913,6 @@ forgiver
 farrowing
 flattery
 franklinization
-federalised
 fanglike
 federalism
 fykes
@@ -7561,6 +7560,7 @@ flightworthy
 fatuity
 footslogs
 forestaller
+federalised
 flacherie
 forjudgment
 fatimid
