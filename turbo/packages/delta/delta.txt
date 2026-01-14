@@ -6544,7 +6544,6 @@ descriptivism
 doddies
 descrive
 descure
-dabchick
 duckfooted
 duet
 dermol
@@ -11937,6 +11936,7 @@ dramatizes
 desorption
 downrange
 domes
+dabchick
 digestion
 disembarked
 demephitize
