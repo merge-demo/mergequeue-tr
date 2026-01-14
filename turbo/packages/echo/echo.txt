@@ -10907,7 +10907,6 @@ easternize
 enterokinase
 enfin
 encephalocoele
-epibaterium
 euktolite
 evolutoid
 euphory
@@ -10986,6 +10985,7 @@ ecologically
 ennuye
 electrokinematics
 excavates
+epibaterium
 eurybenthic
 endeared
 etacist
