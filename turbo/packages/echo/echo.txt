@@ -2675,6 +2675,7 @@ emborder
 electrotechnician
 epistena
 exports
+emphyteuta
 enfant
 eudaemonics
 engenderment
@@ -8674,7 +8675,6 @@ enervous
 exceptionable
 expels
 especially
-emphyteuta
 elutriating
 emergently
 etherialised
