@@ -4979,7 +4979,6 @@ amphisbaenid
 argentate
 auriculate
 admissibleness
-aeropathy
 arthritides
 aerope
 acinetae
@@ -11615,6 +11614,7 @@ anacharis
 arriver
 alps
 apodes
+aeropathy
 autosite
 acicularly
 algebras

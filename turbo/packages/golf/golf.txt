@@ -4033,6 +4033,7 @@ grisettes
 gelatines
 gilliflower
 grocery
+grower
 gastronome
 glonoine
 genitorial
@@ -6444,7 +6445,6 @@ governor
 geyseric
 golder
 glimpse
-grower
 goldfinny
 guising
 gardenesque
