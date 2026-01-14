@@ -3615,6 +3615,7 @@ carabinier
 carabiniere
 carabinieri
 cotrespasser
+chumped
 choosable
 caraboa
 caaba
@@ -14585,7 +14586,6 @@ cystis
 circulates
 cystitides
 cystitis
-chumped
 coz
 carburant
 correlated
