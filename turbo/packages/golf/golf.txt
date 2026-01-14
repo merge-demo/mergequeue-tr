@@ -772,6 +772,7 @@ groupings
 gladsomer
 gassendist
 gawkily
+guahiban
 geometrically
 graywether
 glome
@@ -7432,7 +7433,6 @@ gandering
 greggriffin
 gamotropic
 grewt
-guahiban
 garlopa
 goujat
 grampuses
