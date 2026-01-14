@@ -7760,7 +7760,6 @@ flocculently
 fatelike
 footrail
 fleshier
-flung
 facingly
 forjudges
 formosan
@@ -10271,6 +10270,7 @@ frolicsome
 fishful
 fratched
 frammit
+flung
 fibrinolysin
 fornent
 falernian
