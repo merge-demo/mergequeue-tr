@@ -13665,7 +13665,6 @@ bromethylene
 bulldoggy
 barathrum
 bourdons
-bourg
 beckoned
 befoolable
 bespawl
@@ -16095,6 +16094,7 @@ buybacks
 bio
 bcd
 blitzbuggy
+bourg
 baseboard
 bassetted
 bothersome
