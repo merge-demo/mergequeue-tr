@@ -16405,7 +16405,6 @@ bemeaning
 bedazed
 buzzgloak
 brunelliaceae
-bandyman
 bedravel
 bielbrief
 bicuculline
@@ -17801,6 +17800,7 @@ bundobust
 bursae
 bursary
 bassine
+bandyman
 backstroked
 bacterizing
 brave
