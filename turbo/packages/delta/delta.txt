@@ -6398,6 +6398,7 @@ discriminatory
 decree
 drung
 decenter
+disaggregative
 disencumbered
 denizening
 dismemberments
@@ -7757,7 +7758,6 @@ devisees
 deoxygenate
 disastimeter
 dogmatization
-disaggregative
 deadweight
 deviser
 devising
