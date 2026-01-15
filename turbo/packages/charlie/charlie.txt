@@ -2758,7 +2758,6 @@ cannat
 canned
 commendations
 cannel
-coeno
 cannellate
 congruences
 counterembowed
@@ -19749,6 +19748,7 @@ comboy
 carpentering
 comboloio
 combos
+coeno
 collodiotype
 countervengeance
 combure
