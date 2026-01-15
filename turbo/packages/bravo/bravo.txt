@@ -1223,7 +1223,6 @@ bakingly
 bakli
 baymen
 boches
-biscot
 balloting
 bakra
 bruchus
@@ -15199,6 +15198,7 @@ bifocal
 barbiturate
 batwa
 brightsmith
+biscot
 brotherliness
 bribing
 buzziest
