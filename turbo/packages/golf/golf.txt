@@ -1742,7 +1742,6 @@ glass
 guesses
 gamesman
 guernseys
-gaullism
 gastropexy
 gutte
 greaseproof
@@ -2444,6 +2443,7 @@ grillage
 gemmulation
 graniferous
 gotched
+gaullism
 glycohemia
 gainsayer
 ghoulish
