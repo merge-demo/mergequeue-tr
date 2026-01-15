@@ -10441,7 +10441,6 @@ chih
 capsomer
 conquered
 coryphaena
-ceratopsia
 cledde
 clinocephalic
 courtiery
@@ -19841,6 +19840,7 @@ closh
 cometlike
 cometography
 cometology
+ceratopsia
 calycanthaceous
 comets
 ceral
