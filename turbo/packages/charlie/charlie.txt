@@ -3049,6 +3049,7 @@ confronts
 cantraip
 cantraps
 chares
+chremsel
 curlyheads
 capitonidae
 centrales
@@ -12122,7 +12123,6 @@ cephalocele
 chowtimes
 chrematheism
 chrematistic
-chremsel
 chremzlach
 caenogaea
 chreotechnics
