@@ -9395,7 +9395,6 @@ fausant
 filmslide
 fireboats
 fraternally
-felonsetting
 formic
 fraternised
 footstone
@@ -11277,6 +11276,7 @@ fricandeaus
 faveolate
 fantasticism
 familiarizer
+felonsetting
 furlane
 fractionary
 friskets

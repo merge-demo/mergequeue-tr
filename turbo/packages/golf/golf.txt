@@ -2211,7 +2211,6 @@ genghis
 gravific
 granth
 grotty
-genarchship
 giraffoid
 geoidal
 garmented
@@ -3194,6 +3193,7 @@ glottological
 geotilla
 grigs
 geotropy
+genarchship
 guardant
 glossolabiolaryngeal
 gametoid
