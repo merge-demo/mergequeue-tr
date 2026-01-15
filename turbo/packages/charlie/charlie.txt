@@ -16156,6 +16156,7 @@ climaxing
 consequence
 cytotrophoblastic
 climbed
+colors
 climber
 cabobs
 climbers
@@ -19425,7 +19426,6 @@ colormaker
 cornicing
 colorman
 cerealose
-colors
 cutose
 colossal
 colossality
