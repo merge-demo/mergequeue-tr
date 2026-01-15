@@ -1260,6 +1260,7 @@ calenda
 counterfaller
 chlored
 cambrel
+canun
 cameo
 calendarial
 chusite
@@ -3064,7 +3065,6 @@ chthonophagy
 coistrel
 canulates
 comatic
-canun
 chaffinches
 chiasmodon
 croppa
