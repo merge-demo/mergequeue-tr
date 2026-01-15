@@ -2228,6 +2228,7 @@ capotes
 campshed
 campsheeting
 campsite
+celoms
 compasser
 campsites
 coronofacial
@@ -21065,7 +21066,6 @@ cogswellia
 computing
 conenose
 chiam
-celoms
 comradely
 comradeliness
 comradeship
