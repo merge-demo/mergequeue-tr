@@ -2127,7 +2127,6 @@ campanular
 campanulariae
 campanularidae
 campanulatae
-campanulate
 clueless
 chondrosarcomata
 campanulous
@@ -8876,6 +8875,7 @@ confirming
 cassinette
 cerned
 characters
+campanulate
 chasmogamy
 companiable
 cycads
