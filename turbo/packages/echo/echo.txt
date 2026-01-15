@@ -3680,7 +3680,6 @@ extravert
 encolpion
 exomion
 excogitates
-engarment
 emaciated
 erythrons
 enwheel
@@ -10109,6 +10108,7 @@ ether
 excising
 esther
 essoins
+engarment
 exploitee
 elenchically
 eumolpus

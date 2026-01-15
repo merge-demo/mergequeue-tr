@@ -4179,7 +4179,6 @@ adoptee
 alkaphrah
 autozooid
 artemon
-attributiveness
 autocarpous
 ambulantes
 apophthegmatic
@@ -15599,6 +15598,7 @@ approves
 assumpt
 antimoralistic
 accrescence
+attributiveness
 amalgamations
 armory
 antimusically
