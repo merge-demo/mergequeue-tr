@@ -3939,7 +3939,6 @@ escharotic
 elevenths
 estruate
 earthbound
-excommunicators
 emollients
 emoloa
 endosymbiosis
@@ -8257,6 +8256,7 @@ entozoa
 epigenist
 exulcerate
 eleostearate
+excommunicators
 epistlers
 epistolarian
 elderhood
