@@ -4845,7 +4845,6 @@ demonizes
 demandative
 demonizing
 drame
-dailies
 detecting
 demonography
 demonographies
@@ -14028,6 +14027,7 @@ distracter
 deguelin
 deaurate
 distraction
+dailies
 depressors
 distractions
 distractive
