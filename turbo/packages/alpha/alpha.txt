@@ -4022,7 +4022,6 @@ apprise
 athodyd
 antacids
 anastomus
-allegiantly
 administrates
 antihemolytic
 administrative
@@ -22517,6 +22516,7 @@ ataman
 atamasco
 aberrate
 alw
+allegiantly
 arranging
 atamosco
 azafrin

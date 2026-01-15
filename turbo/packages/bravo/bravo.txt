@@ -9221,6 +9221,7 @@ bipartitely
 buffer
 belitter
 bumbee
+brookie
 bipaschal
 biped
 bipedal
@@ -16816,7 +16817,6 @@ bronc
 beseecher
 budlet
 bharti
-brookie
 bepaste
 buildings
 budmash
