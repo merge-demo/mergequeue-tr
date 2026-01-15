@@ -11325,6 +11325,7 @@ epixylous
 evea
 eunuch
 eugenics
+exactors
 eolienne
 eveless
 estrildine
@@ -11649,7 +11650,6 @@ eleusinian
 endopolyploid
 exactness
 edeology
-exactors
 enterophthisis
 erotics
 electrophone
