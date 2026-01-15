@@ -23164,7 +23164,6 @@ apocinchonine
 aventre
 attentive
 antifundamentalism
-abiding
 altared
 attenuable
 automanipulative
@@ -23659,6 +23658,7 @@ alumroots
 atpoints
 allotropicity
 antiexpressively
+abiding
 alms
 aerosolized
 auriculare
