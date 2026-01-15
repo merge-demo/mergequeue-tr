@@ -2792,6 +2792,7 @@ beachless
 bhp
 brawler
 barrowman
+blepharadenitis
 balletomanes
 buckayro
 baudrons
@@ -10796,7 +10797,6 @@ befuddlers
 bywords
 befrill
 boatsmen
-blepharadenitis
 blepharanthracosis
 bromaurate
 boylike
