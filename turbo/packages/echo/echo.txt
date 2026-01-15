@@ -1695,6 +1695,7 @@ earpieces
 echolocate
 enterosyphilis
 embolon
+epidosite
 employ
 epistilbite
 ejective
@@ -4791,7 +4792,6 @@ ethanim
 equilibrator
 entypies
 enduro
-epidosite
 easterner
 eccoproticophoric
 escape
