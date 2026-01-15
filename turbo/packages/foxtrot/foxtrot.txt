@@ -4726,7 +4726,6 @@ fulmination
 follies
 fortress
 forereach
-flagellations
 fieldstrip
 fingal
 footwalls
@@ -6657,6 +6656,7 @@ foofaraws
 furrier
 freshwater
 flaughtbred
+flagellations
 frequent
 forecontrive
 fenner
