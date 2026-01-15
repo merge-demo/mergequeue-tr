@@ -2773,7 +2773,6 @@ brownstone
 bailouts
 boose
 boatloading
-barycentric
 bookit
 been
 baroneting
@@ -7934,6 +7933,7 @@ biathlon
 bepimpled
 bargains
 bibliopole
+barycentric
 birdieback
 beclasp
 brambleberries
