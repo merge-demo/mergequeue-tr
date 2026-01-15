@@ -8287,6 +8287,7 @@ foursome
 fiscalism
 fireplaces
 forhaile
+featherer
 foreroyal
 floralia
 fod
@@ -8538,7 +8539,6 @@ fanfarons
 frownful
 fornaxid
 foraminule
-featherer
 frogtongue
 futurities
 fasciation
