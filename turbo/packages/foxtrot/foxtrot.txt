@@ -1362,6 +1362,7 @@ favorable
 fatigableness
 forfars
 frock
+forespeech
 fidac
 flaggish
 fanning
@@ -5998,7 +5999,6 @@ flightiness
 finger
 fontange
 forgab
-forespeech
 frontooccipital
 flanker
 fictionise
