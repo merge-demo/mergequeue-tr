@@ -5113,7 +5113,6 @@ calenturist
 coagulant
 compsognathus
 cascaras
-crosslighted
 coolly
 cascrom
 colonoscope
@@ -20391,6 +20390,7 @@ compacted
 cephalalgy
 ca
 coolants
+crosslighted
 compacter
 chirked
 colibertus
