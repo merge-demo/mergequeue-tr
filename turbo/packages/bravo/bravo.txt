@@ -7960,6 +7960,7 @@ boanbura
 balistraria
 beryllium
 borborygmi
+bronzing
 bodymaker
 billing
 barothermogram
@@ -14659,7 +14660,6 @@ bookplates
 bluets
 brokery
 brasil
-bronzing
 bloodthirstily
 backbites
 blackishness
