@@ -2307,7 +2307,6 @@ geological
 grallatorial
 gelable
 gymnodiniaceae
-galidictis
 ganofs
 gelant
 glyceric
@@ -4250,6 +4249,7 @@ gnu
 gynecocracies
 goby
 gynecocrat
+galidictis
 gunshots
 gleamed
 gastroscope
