@@ -10169,7 +10169,6 @@ giglots
 granulated
 governable
 gloriana
-goosery
 genethliac
 garages
 grovelings
@@ -10704,6 +10703,7 @@ grams
 gumma
 gastrolytic
 gracioso
+goosery
 guywire
 gerbera
 germinated
