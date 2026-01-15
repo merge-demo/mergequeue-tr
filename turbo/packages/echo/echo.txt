@@ -2685,7 +2685,6 @@ exdelicto
 epispadia
 electrotherapeutical
 entrep
-estampie
 escrol
 expectorating
 excitors
@@ -5009,6 +5008,7 @@ epithelioblastoma
 endogastric
 emblazonment
 enders
+estampie
 expelled
 evangelistics
 endgate
