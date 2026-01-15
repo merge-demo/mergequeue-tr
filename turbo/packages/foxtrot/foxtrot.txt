@@ -3452,6 +3452,7 @@ fecundity
 fleeches
 fingerable
 frostfishes
+fission
 foreseason
 foreconsider
 fallback
@@ -4232,7 +4233,6 @@ fungose
 flatterers
 frenzying
 flossing
-fission
 fundamentalism
 forenoted
 flowerpecker
