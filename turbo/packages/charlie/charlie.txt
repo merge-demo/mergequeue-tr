@@ -10395,6 +10395,7 @@ chalcosiderite
 chieftainries
 concludendi
 chirring
+cephalocyst
 chivalric
 countertendencies
 chieftains
@@ -12303,7 +12304,6 @@ christicide
 crossweed
 chiromyidae
 circulate
-cephalocyst
 crosswind
 christies
 christlessness
