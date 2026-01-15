@@ -3143,7 +3143,6 @@ emissive
 endoscopy
 earthsmoke
 eloigning
-enactment
 euryte
 eloigns
 eloin
@@ -11204,6 +11203,7 @@ enosis
 encomimiums
 endoplastular
 eophyton
+enactment
 eradiated
 evangeliarium
 enalyron
