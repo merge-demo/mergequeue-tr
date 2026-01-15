@@ -5684,6 +5684,7 @@ glossies
 glossiest
 gybed
 glossinas
+glowflies
 gertrude
 glowbard
 glimmeringly
@@ -8128,7 +8129,6 @@ genteeler
 gynaeolater
 gulfed
 gloat
-glowflies
 granulators
 gracelike
 gynaecocracy
