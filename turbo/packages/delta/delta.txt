@@ -4788,7 +4788,6 @@ discide
 discharge
 demolition
 demolitionist
-dictyosiphonaceous
 dishonest
 donnot
 daneworts
@@ -11636,6 +11635,7 @@ discoplasm
 dostoevsky
 damsite
 denser
+dictyosiphonaceous
 discursative
 discommune
 denominates
