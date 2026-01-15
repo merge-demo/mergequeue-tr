@@ -3785,7 +3785,6 @@ encardion
 encrypts
 efforce
 equiponderance
-ectoethmoid
 exercising
 electroacoustical
 embussing
@@ -6489,6 +6488,7 @@ exstruct
 euphonicalness
 entocyst
 enlivens
+ectoethmoid
 erubescence
 excludable
 estimative
