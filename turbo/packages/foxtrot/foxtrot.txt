@@ -2675,7 +2675,6 @@ faunistic
 feruled
 fissipedate
 frogeater
-foundational
 filaze
 fawner
 foretellable
@@ -11323,6 +11322,7 @@ fictional
 fusulina
 foldless
 fps
+foundational
 furfurine
 funebrious
 faujasite
