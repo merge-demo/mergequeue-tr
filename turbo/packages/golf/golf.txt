@@ -5017,6 +5017,7 @@ gleaners
 granules
 guards
 gaedown
+gandhara
 gladliest
 glycogen
 gerefa
@@ -8459,7 +8460,6 @@ globefish
 grappler
 grandeurs
 garoting
-gandhara
 grudgers
 geotaxis
 gelada
