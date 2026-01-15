@@ -1523,6 +1523,7 @@ focusers
 fastidiously
 factionary
 ferruminating
+fural
 florigen
 filmmaking
 foulards
@@ -5517,7 +5518,6 @@ foamily
 foreordain
 flagon
 fol
-fural
 forestays
 favellae
 flexion
