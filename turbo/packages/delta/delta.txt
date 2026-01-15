@@ -6859,7 +6859,6 @@ drossless
 desmosite
 desemer
 dispositor
-desoeuvre
 dewlight
 drailed
 dsp
@@ -15123,6 +15122,7 @@ dubitatively
 dipolarization
 dogstones
 dogtie
+desoeuvre
 degenerated
 dogtooth
 diabetogenous
