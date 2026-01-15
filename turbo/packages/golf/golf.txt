@@ -3279,7 +3279,6 @@ gluteofemoral
 gutty
 ghawazee
 gerfalcon
-gudesake
 gothite
 gahnites
 gunrack
@@ -10122,6 +10121,7 @@ guggle
 glottologic
 gaby
 guglet
+gudesake
 goldenhair
 gynecocracy
 galways
