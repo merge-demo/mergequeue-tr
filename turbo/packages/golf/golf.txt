@@ -326,6 +326,7 @@ gazolyte
 grandpappy
 galabieh
 globulous
+granitite
 galactagog
 galvanoglyph
 gradualist
@@ -8058,7 +8059,6 @@ geomancer
 gastrostomus
 geotonic
 gaslightness
-granitite
 geomagnetism
 ghain
 genteelish
