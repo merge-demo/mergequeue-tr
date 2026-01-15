@@ -7592,7 +7592,6 @@ fruitade
 fallowness
 foolhardy
 flaxy
-flashlights
 fortyish
 frankmarriage
 filling
@@ -9290,6 +9289,7 @@ feasten
 frangulic
 forjudge
 flichter
+flashlights
 fishless
 fetichistic
 felinities
