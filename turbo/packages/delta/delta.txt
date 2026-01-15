@@ -11337,7 +11337,6 @@ dispirited
 dilacerating
 deodands
 dowhacky
-devoter
 dilatometric
 dehydrogenise
 delimiter
@@ -18049,6 +18048,7 @@ dull
 dillydallier
 dullard
 debind
+devoter
 dipotassium
 detrusor
 dullardness
