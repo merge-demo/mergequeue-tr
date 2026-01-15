@@ -701,6 +701,7 @@ bereshith
 barnstormed
 behav
 boregat
+bemantle
 badass
 brasseries
 bactriticone
@@ -13043,7 +13044,6 @@ besteading
 blackberry
 bucking
 bordering
-bemantle
 balangay
 bolster
 blousing
