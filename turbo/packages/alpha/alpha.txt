@@ -6957,6 +6957,7 @@ appropriately
 akron
 anagrammatised
 aberrator
+apologia
 adores
 aith
 aithochroi
@@ -17389,7 +17390,6 @@ atik
 afrikaans
 aunties
 avoirdupois
-apologia
 aways
 amplification
 autumn
