@@ -1657,6 +1657,7 @@ granulometric
 goldurned
 goldarned
 gardeen
+gauze
 gryphon
 grungiest
 gastrocoel
@@ -3261,7 +3262,6 @@ goetical
 gere
 gereagle
 gleeful
-gauze
 geotropically
 galagala
 gaut
