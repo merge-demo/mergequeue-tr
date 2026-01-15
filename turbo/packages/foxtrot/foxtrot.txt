@@ -1402,7 +1402,6 @@ foreshower
 fibrocaseose
 ferkin
 filmy
-fabronia
 foppy
 filaree
 fermatas
@@ -5419,6 +5418,7 @@ forcibly
 figurativeness
 formulator
 famished
+fabronia
 foresummer
 feridjee
 furfuration
