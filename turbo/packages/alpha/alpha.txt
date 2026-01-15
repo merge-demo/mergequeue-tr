@@ -18806,6 +18806,7 @@ archemastry
 airdrops
 absinthol
 apotropaism
+apomecometry
 alebench
 adoxaceae
 angioneoplasm
@@ -23211,7 +23212,6 @@ alkermes
 androphonomania
 amphinesian
 atrabilarious
-apomecometry
 auriphrygiate
 anapaganize
 atticisms
