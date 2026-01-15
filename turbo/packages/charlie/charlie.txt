@@ -5748,7 +5748,6 @@ cultivatability
 cornein
 clockcase
 crystallogy
-cowpock
 caudillism
 catchline
 catchphrase
@@ -30448,6 +30447,7 @@ crimpled
 csp
 csw
 ct
+cowpock
 catharized
 crow
 ctenidial
