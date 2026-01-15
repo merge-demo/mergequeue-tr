@@ -4856,6 +4856,7 @@ amas
 arkwright
 aerodermectasia
 aerodynamically
+arn
 astrolater
 appoggiatura
 apopetalous
@@ -19989,7 +19990,6 @@ aals
 amasta
 armure
 armures
-arn
 antirachitic
 arf
 achromatinic
