@@ -6837,6 +6837,7 @@ entomologies
 entomologised
 emblemized
 eelskin
+externa
 ealdorman
 erythrozincite
 emanations
@@ -8473,7 +8474,6 @@ epos
 elianic
 encinas
 epizootic
-externa
 epoxyed
 epoxies
 employed
