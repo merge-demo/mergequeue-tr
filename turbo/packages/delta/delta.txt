@@ -11787,6 +11787,7 @@ dermutation
 discretional
 delivering
 discretive
+dragger
 discreteness
 dandification
 demirep
@@ -16559,7 +16560,6 @@ draft
 dragee
 disputed
 dimensible
-dragger
 draggers
 dislodges
 draggier
