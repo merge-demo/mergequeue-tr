@@ -1489,7 +1489,6 @@ gasher
 galaginae
 glumly
 gunmaker
-gymnarchus
 gusseted
 gluconate
 galosh
@@ -3945,6 +3944,7 @@ graphomaniac
 grice
 ganner
 graphis
+gymnarchus
 gimping
 grubworms
 gigawatts

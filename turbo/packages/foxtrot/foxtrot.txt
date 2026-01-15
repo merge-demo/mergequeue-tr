@@ -2016,7 +2016,6 @@ fannell
 fireworky
 fractionizing
 freshens
-farmers
 fieldwards
 fathomage
 fradicin
@@ -5826,6 +5825,7 @@ furanes
 filanders
 feminology
 funebre
+farmers
 farding
 flabby
 fastigia
