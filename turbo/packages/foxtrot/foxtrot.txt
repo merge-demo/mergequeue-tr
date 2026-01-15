@@ -3562,7 +3562,6 @@ fingerlike
 forgetable
 fractabling
 foreskirt
-fixates
 florigraphy
 forspoken
 feddan
@@ -10842,6 +10841,7 @@ ferule
 fulfillments
 fennici
 fulfullment
+fixates
 functionless
 fontanels
 furoin
