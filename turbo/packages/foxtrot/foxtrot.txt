@@ -5870,6 +5870,7 @@ fudged
 fulsamic
 folgerite
 fencepost
+freeholder
 foetalism
 furlers
 frangent
@@ -8826,7 +8827,6 @@ fot
 florideous
 foreshorten
 fictious
-freeholder
 folia
 fleuron
 fibrinoplastic
