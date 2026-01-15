@@ -3223,6 +3223,7 @@ galban
 gerah
 goodwily
 gloppen
+gigliato
 grammies
 geraniums
 gebur
@@ -6093,7 +6094,6 @@ guessworker
 gravities
 gordiacean
 girja
-gigliato
 gardinol
 gallimaufry
 guanos
