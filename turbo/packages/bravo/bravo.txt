@@ -4389,7 +4389,6 @@ beati
 balitao
 byward
 bourgeois
-beldam
 bunyip
 byworks
 backswing
@@ -13824,6 +13823,7 @@ burglarproofed
 beforetimes
 bower
 bowerbird
+beldam
 bituberculated
 binominal
 bidential

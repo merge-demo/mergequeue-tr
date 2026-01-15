@@ -2671,6 +2671,7 @@ ferulaceous
 ferular
 foreimpression
 fireshaft
+faunistic
 feruled
 fissipedate
 frogeater
@@ -8049,7 +8050,6 @@ flusterated
 frippet
 forejudged
 forenews
-faunistic
 foyboat
 friars
 fulminated
