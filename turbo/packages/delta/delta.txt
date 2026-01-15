@@ -11162,7 +11162,6 @@ deglaciation
 disbars
 dani
 disbeliefs
-decastere
 diarchic
 dissociating
 disbelieved
@@ -16017,6 +16016,7 @@ diaphototropic
 decorrugative
 doublespeak
 deamidization
+decastere
 digitiform
 dumped
 doppia
