@@ -9237,7 +9237,6 @@ bourbonesque
 bipedality
 bipeds
 bipeltate
-benettle
 bipennate
 brunches
 bevor
@@ -12964,6 +12963,7 @@ boottop
 biforous
 brack
 betulaceae
+benettle
 bushelage
 ballades
 bikhaconitine
