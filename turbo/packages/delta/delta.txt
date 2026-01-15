@@ -10980,7 +10980,6 @@ dunderheads
 discrive
 dithiobenzoic
 duoliteral
-discongruity
 durindana
 dutifulness
 disagreeing
@@ -15102,6 +15101,7 @@ dogmatise
 dogmatised
 dressoirs
 dogmatizer
+discongruity
 dispensator
 discotheques
 darkeners
