@@ -4239,6 +4239,7 @@ earwiggy
 elucidator
 ewhow
 emulations
+eppes
 echograph
 exporters
 expiree
@@ -11887,7 +11888,6 @@ emits
 echium
 except
 escheatment
-eppes
 encolure
 entomologise
 epigenetic
