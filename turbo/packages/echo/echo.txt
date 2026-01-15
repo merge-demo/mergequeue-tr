@@ -12724,7 +12724,6 @@ emboweling
 engramma
 exopod
 epimorphism
-embus
 exopterygotism
 epha
 extol
@@ -13330,6 +13329,7 @@ expone
 ephoralty
 exponency
 educated
+embus
 exponentiates
 eskar
 emilia
