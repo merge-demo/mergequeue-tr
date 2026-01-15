@@ -5784,6 +5784,7 @@ dysraphia
 disambiguation
 drengh
 deploration
+directness
 dismarshall
 disauthentic
 dextrocerebral
@@ -15538,7 +15539,6 @@ draffman
 decahedra
 draegerman
 dessert
-directness
 duggler
 donkeywork
 dilator
