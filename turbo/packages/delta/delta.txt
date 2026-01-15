@@ -3512,7 +3512,6 @@ defrayable
 disembarrassment
 dismissable
 doom
-defraying
 desaturate
 desiccated
 dagobas
@@ -5063,6 +5062,7 @@ destitute
 deperition
 decollating
 ductings
+defraying
 dravya
 dipsomania
 dendrocoelan
