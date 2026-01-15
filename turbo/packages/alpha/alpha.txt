@@ -667,6 +667,7 @@ artesian
 aborad
 aboral
 abord
+apposes
 aboriginality
 anhydrosis
 aborigines
@@ -11765,7 +11766,6 @@ acnodes
 anagogic
 ambar
 aventayle
-apposes
 advecting
 anagrammatically
 atmocausis
