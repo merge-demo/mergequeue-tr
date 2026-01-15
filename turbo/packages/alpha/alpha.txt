@@ -6519,7 +6519,6 @@ ahunt
 azocyclic
 ahuula
 amatorially
-ahwal
 asiento
 ai
 anomura
@@ -20461,6 +20460,7 @@ augments
 arteria
 averia
 associating
+ahwal
 amplifications
 aftaba
 arteriac
