@@ -12611,7 +12611,6 @@ exocrines
 emanative
 epitonium
 ectethmoid
-endostoma
 enriches
 effectualness
 epigenetically
@@ -13524,6 +13523,7 @@ examine
 elephantous
 erotology
 exteriorization
+endostoma
 erected
 electrocauterization
 elbert

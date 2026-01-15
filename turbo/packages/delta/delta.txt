@@ -13017,7 +13017,6 @@ dollarfishes
 disoxygenation
 dioscuri
 debacchate
-dight
 distater
 dispand
 descaling
@@ -16314,6 +16313,7 @@ defended
 downshift
 demigod
 downshifted
+dight
 downshore
 disvalue
 dephlegmatize
