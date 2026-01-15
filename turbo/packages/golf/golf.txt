@@ -5636,6 +5636,7 @@ goodbye
 gratefuller
 glasses
 glassrope
+gonophoric
 glorifications
 garefowls
 gentlefolks
@@ -5817,7 +5818,6 @@ gastriloquy
 ginglymoarthrodia
 glt
 gatten
-gonophoric
 glochidia
 germanism
 gendarmes
