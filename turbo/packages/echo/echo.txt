@@ -1603,6 +1603,7 @@ expounded
 egret
 exsanguine
 egromancy
+exportation
 emptiness
 egurgitate
 egurgitated
@@ -13043,7 +13044,6 @@ escoba
 emrode
 expatriated
 exhibiting
-exportation
 ebauchoir
 euhemerised
 epiperipheral
