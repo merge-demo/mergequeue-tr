@@ -147,6 +147,7 @@ frigidaria
 flayers
 fifthly
 fellaheen
+fulgurate
 facks
 forefront
 fumitories
@@ -2218,7 +2219,6 @@ freshmanhood
 fikie
 fiscus
 firebombs
-fulgurate
 fuliguline
 freezing
 flatcars
