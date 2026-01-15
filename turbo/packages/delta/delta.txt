@@ -1501,6 +1501,7 @@ depressure
 deaccessioning
 drawbolt
 dingbats
+decollimate
 draughts
 dermatorrhea
 definiendum
@@ -17400,7 +17401,6 @@ demesgnes
 disrudder
 dreamworld
 doeth
-decollimate
 dividual
 destool
 droppage
