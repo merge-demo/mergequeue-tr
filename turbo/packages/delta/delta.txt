@@ -15492,7 +15492,6 @@ discodactyl
 deceivableness
 dispell
 desist
-depredator
 deflagrated
 decolorise
 dealers
@@ -17097,6 +17096,7 @@ droukan
 drie
 disconcertedness
 drawlink
+depredator
 delhi
 dries
 diphtheriaphor
