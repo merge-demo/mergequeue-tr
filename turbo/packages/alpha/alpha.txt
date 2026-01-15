@@ -2448,7 +2448,6 @@ adoxography
 aconic
 acknowledgers
 aistopodes
-anteambulate
 acknowledgments
 anatexes
 abnormalities
@@ -24196,6 +24195,7 @@ autolatry
 aguara
 artemia
 antherless
+anteambulate
 autolithograph
 autoinfection
 alnein
