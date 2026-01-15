@@ -2717,7 +2717,6 @@ barnman
 braconids
 barnstormer
 barnstorming
-besmearing
 borages
 brutalisation
 bogomile
@@ -3064,6 +3063,7 @@ bdellostomatidae
 baruria
 barvel
 bunnell
+besmearing
 baleful
 beduin
 brainwashing
