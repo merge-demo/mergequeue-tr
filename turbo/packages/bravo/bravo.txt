@@ -8411,6 +8411,7 @@ bubs
 burbankian
 bannerfish
 believability
+begin
 bijwoner
 beanie
 bothriocidaris
@@ -9836,7 +9837,6 @@ beneplacito
 blackballing
 bandonion
 biteable
-begin
 bonapartean
 bongo
 bawd
