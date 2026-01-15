@@ -2287,6 +2287,7 @@ espressos
 exurbias
 endocrania
 edana
+eyebeams
 expert
 essene
 entheal
@@ -10931,7 +10932,6 @@ eupittone
 enteritis
 exams
 eventognathi
-eyebeams
 eupittonic
 euplexoptera
 err

@@ -3225,6 +3225,7 @@ gloppen
 gigliato
 grammies
 geraniums
+genipa
 gebur
 galoping
 giron
@@ -8376,7 +8377,6 @@ gadolinite
 gunport
 gallivanting
 gradientia
-genipa
 galeeny
 gyroscopically
 ghosting
