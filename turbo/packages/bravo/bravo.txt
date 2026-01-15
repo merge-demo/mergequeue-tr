@@ -4447,7 +4447,6 @@ bulkiness
 bludging
 beclogs
 bonspells
-bilabials
 beclothe
 banting
 bonasus
@@ -6006,6 +6005,7 @@ bricktop
 bossier
 befooling
 brewis
+bilabials
 bribeability
 bruises
 bitterbark

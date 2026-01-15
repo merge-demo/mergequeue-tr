@@ -1088,7 +1088,6 @@ dearticulation
 dartled
 dedecorate
 defuses
-dartling
 decanoyl
 downpour
 defluxion
@@ -8802,6 +8801,7 @@ deratization
 dolefuller
 displacements
 diazotized
+dartling
 devolatilising
 dysphotic
 dodecagonal
