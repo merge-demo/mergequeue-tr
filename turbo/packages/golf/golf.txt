@@ -8000,7 +8000,6 @@ giles
 ghosthood
 gangsman
 gouvernante
-grapnels
 glaucine
 gunstocking
 gastronomy
@@ -9262,6 +9261,7 @@ groceryman
 goitre
 gardnap
 giltcup
+grapnels
 grockle
 goidel
 gemauve
