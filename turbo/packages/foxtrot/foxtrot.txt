@@ -2672,7 +2672,6 @@ ferular
 foreimpression
 fireshaft
 feruled
-ferulic
 fissipedate
 frogeater
 foundational
@@ -9521,6 +9520,7 @@ fursemide
 floreated
 forgone
 factabling
+ferulic
 foller
 frederik
 futilitarian
