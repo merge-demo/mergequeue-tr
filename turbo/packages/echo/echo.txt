@@ -3171,7 +3171,6 @@ edict
 extortionists
 epiplastral
 exhaustiveness
-eom
 epitra
 emmarble
 elaborate
@@ -13920,6 +13919,7 @@ extrameridional
 extrametrical
 extramission
 erythrism
+eom
 enhusk
 expiscated
 eruditeness
