@@ -6827,7 +6827,6 @@ flasks
 friability
 flourished
 fossilise
-frecked
 flioma
 folky
 fibromyxosarcoma
@@ -10682,6 +10681,7 @@ fivepenny
 fairstead
 fruitstalk
 fg
+frecked
 foreset
 foresheets
 fleuretty
