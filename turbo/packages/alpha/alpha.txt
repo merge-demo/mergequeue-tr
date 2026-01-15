@@ -5513,6 +5513,7 @@ aftergrief
 aftergrowth
 antipathy
 auspicate
+aerogramme
 acton
 argot
 aluco
@@ -14415,7 +14416,6 @@ appealing
 antimedieval
 anthophyllitic
 astigmatoscopies
-aerogramme
 accidentary
 apometabolism
 anthophora
