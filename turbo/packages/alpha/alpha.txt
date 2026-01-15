@@ -12784,6 +12784,7 @@ anasazi
 areality
 alternative
 angioblastic
+ampoule
 applies
 angiocardiographies
 anileness
@@ -25323,7 +25324,6 @@ astrophobia
 azonaphthalene
 azons
 antisplitting
-ampoule
 antidotes
 agrogeologically
 archplayer
