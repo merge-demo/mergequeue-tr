@@ -1914,6 +1914,7 @@ glochids
 glommox
 gastrozooid
 glaikit
+glutting
 gonadotrophic
 globulet
 gunboat
@@ -6532,7 +6533,6 @@ gomer
 gesten
 gurrah
 gpss
-glutting
 greyskin
 guiders
 glandarious
