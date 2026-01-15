@@ -5723,6 +5723,7 @@ amentiferous
 arteriostrepsis
 ascrive
 acop
+awald
 amant
 arrowwood
 adaty
@@ -17460,7 +17461,6 @@ apozema
 apozymase
 argemony
 ahrendahronon
-awald
 appoints
 app
 accollee
