@@ -87,7 +87,6 @@ governeress
 goop
 gluey
 guidelines
-groupoid
 gallops
 grutten
 gadabouts
@@ -2622,6 +2621,7 @@ galluot
 genesial
 genesitic
 glees
+groupoid
 geographized
 gymnastics
 genethliacal
