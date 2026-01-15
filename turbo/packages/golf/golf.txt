@@ -2627,7 +2627,6 @@ groupoid
 geographized
 gymnastics
 genethliacal
-gabelled
 glaciomarine
 genetta
 grendel
@@ -2923,6 +2922,7 @@ gallinulelike
 greenside
 gombos
 gingerous
+gabelled
 gee
 gelose
 gaylussite
