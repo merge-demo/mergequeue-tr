@@ -1477,7 +1477,6 @@ ebbs
 eclegme
 escadrille
 effusively
-entasias
 effuviate
 efl
 efph
@@ -5920,6 +5919,7 @@ exclave
 esophagogastrostomy
 eftest
 ethmonasal
+entasias
 enheart
 exantlation
 endobronchially
