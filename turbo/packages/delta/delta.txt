@@ -1273,7 +1273,6 @@ dative
 dorking
 datively
 dreamlore
-dimouts
 danthonia
 dusted
 diazoic
@@ -9166,6 +9165,7 @@ dowses
 diductively
 didunculinae
 doraphobia
+dimouts
 digenesis
 dogship
 defensing
