@@ -203,6 +203,7 @@ ferns
 factotum
 felsitic
 ferrihemoglobin
+furloughing
 frasier
 factrix
 footmanship
@@ -4717,7 +4718,6 @@ fulldo
 flag
 forestalment
 flammiferous
-furloughing
 flagellariaceous
 fleecily
 flotages
