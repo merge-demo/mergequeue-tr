@@ -7973,6 +7973,7 @@ ectozoic
 epimers
 encyclopaedia
 equilobed
+eschrufe
 epimysia
 esthesias
 expunger
@@ -10812,7 +10813,6 @@ epilogues
 exochorda
 exsibilate
 echinid
-eschrufe
 extrusive
 expedients
 easter
