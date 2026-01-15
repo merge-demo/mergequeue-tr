@@ -1171,7 +1171,6 @@ dianoetical
 dade
 detrited
 decrementing
-dasyuridae
 dasyurine
 dactylopatagium
 docimastic
@@ -4813,6 +4812,7 @@ demonetizing
 disembogue
 depthen
 decumana
+dasyuridae
 deepness
 dharna
 detickers
