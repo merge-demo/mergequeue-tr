@@ -1526,7 +1526,6 @@ grein
 gangland
 grouse
 galoped
-gavelage
 guiro
 giftwrap
 gripers
@@ -9198,6 +9197,7 @@ grayfish
 guiled
 geologists
 guaka
+gavelage
 glairing
 gunebo
 geoscience
