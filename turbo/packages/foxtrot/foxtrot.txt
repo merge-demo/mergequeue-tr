@@ -8885,6 +8885,7 @@ favorableness
 foundrous
 farhands
 flotative
+freeholdership
 flu
 fountain
 fragged
@@ -9578,7 +9579,6 @@ flytime
 forte
 firemaster
 forlet
-freeholdership
 firetop
 feeders
 falcata
