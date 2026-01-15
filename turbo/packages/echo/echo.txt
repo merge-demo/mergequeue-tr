@@ -1950,6 +1950,7 @@ energism
 ecthlipses
 eighth
 expressively
+escheatable
 eppy
 exenterated
 eastland
@@ -12480,7 +12481,6 @@ ethicality
 exilement
 electrobiological
 escalading
-escheatable
 exility
 evened
 exanthem
