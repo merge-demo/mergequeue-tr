@@ -730,6 +730,7 @@ demoniacs
 danced
 diddled
 degasification
+dihedrals
 dancers
 disleaving
 decreeing
@@ -14592,7 +14593,6 @@ dreint
 dispensing
 divorcee
 disembower
-dihedrals
 delight
 dryfarm
 departmentization
