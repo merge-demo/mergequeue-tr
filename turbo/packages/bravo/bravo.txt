@@ -15194,7 +15194,6 @@ briberies
 bactetiophage
 bicentennials
 bedeaf
-blancs
 bifocal
 barbiturate
 batwa
@@ -16222,6 +16221,7 @@ bostryx
 brougham
 betulin
 bpt
+blancs
 bemole
 broughams
 breadbox
