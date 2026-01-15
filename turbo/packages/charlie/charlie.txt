@@ -17114,6 +17114,7 @@ coadjutant
 campement
 covotary
 commonweal
+confluent
 coemptional
 champ
 coadjutor
@@ -22063,7 +22064,6 @@ cheltenham
 conflow
 casaquin
 clockworks
-confluent
 combatively
 confluxes
 confluxibility

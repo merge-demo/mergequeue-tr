@@ -3765,7 +3765,6 @@ embrowning
 embrues
 ennuied
 executive
-edificial
 exceeding
 embruing
 enfranchises
@@ -10821,6 +10820,7 @@ eupatorium
 ethnobiology
 eupatrids
 eluent
+edificial
 exemplars
 enoptromancy
 engine
