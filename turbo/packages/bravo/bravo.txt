@@ -612,7 +612,6 @@ baggyrinkle
 bactericide
 beethoven
 bidget
-bacterin
 beggiatoa
 bacteriochlorophyll
 broomsticks
@@ -6099,6 +6098,7 @@ blusters
 benchful
 benchman
 benchmark
+bacterin
 baryecoia
 burnout
 briggsian
