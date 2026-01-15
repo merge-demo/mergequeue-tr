@@ -3317,7 +3317,6 @@ caplin
 caplins
 coherald
 capmaking
-combatter
 capnoides
 clipping
 creaker
@@ -20311,6 +20310,7 @@ communicating
 communicative
 countrie
 cercospora
+combatter
 command
 communicatory
 communicators
