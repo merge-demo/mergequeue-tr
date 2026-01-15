@@ -14688,7 +14688,6 @@ antilogarithm
 apastra
 aetiotropic
 anthropomorphism
-alchemical
 antiarins
 actuate
 aggressively
@@ -24821,6 +24820,7 @@ anoxic
 adaption
 aloof
 avocadoes
+alchemical
 aguilawood
 augmentatively
 avocat
