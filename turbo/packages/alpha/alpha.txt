@@ -1727,6 +1727,7 @@ auricomous
 anglicanum
 archtraitor
 antediluvian
+advocateship
 adjutage
 aporia
 abases
@@ -12751,7 +12752,6 @@ adversifolious
 alvan
 alkalinizing
 aulophyte
-advocateship
 anthropogenous
 awed
 argillitic
