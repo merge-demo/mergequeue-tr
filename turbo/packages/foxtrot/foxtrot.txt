@@ -1874,7 +1874,6 @@ feelingly
 fecundate
 fianchetti
 fanback
-frisson
 fallacious
 falsifies
 fizzwater
@@ -9956,6 +9955,7 @@ formularizer
 forcers
 frigolabile
 fumigate
+frisson
 feloniousness
 frigoric
 foun
