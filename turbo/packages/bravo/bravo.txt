@@ -522,7 +522,6 @@ backstroke
 beckoners
 bicentennial
 backstromite
-boart
 bu
 backtenter
 beggingwise
@@ -15188,6 +15187,7 @@ barberfish
 briarwood
 bribable
 bovinities
+boart
 bipinnaria
 bribees
 bribeless
