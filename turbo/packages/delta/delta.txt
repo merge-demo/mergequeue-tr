@@ -5745,7 +5745,6 @@ dewormed
 depopulation
 denitrize
 debeak
-dowve
 disimitation
 demipuppet
 dicyanodiamide
@@ -11141,6 +11140,7 @@ dissaves
 despect
 deploredly
 dishabituating
+dowve
 dyslectic
 doeg
 decciare
