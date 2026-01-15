@@ -8694,7 +8694,6 @@ bimanually
 breechloading
 basaltes
 buttermouth
-broom
 barbadoes
 bourbonist
 bimastic
@@ -9240,6 +9239,7 @@ built
 bipetalous
 bucciniform
 badassed
+broom
 brended
 bobbinet
 besting
