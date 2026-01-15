@@ -3233,7 +3233,6 @@ educive
 extroversively
 eludible
 enswathes
-enfollow
 elul
 epidemic
 erects
@@ -8913,6 +8912,7 @@ ergatogyne
 ergatomorphic
 extrameridian
 educationally
+enfollow
 ergodic
 evenhead
 euphoria
