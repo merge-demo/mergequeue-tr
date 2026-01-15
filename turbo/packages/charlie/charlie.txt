@@ -11895,7 +11895,6 @@ cecidomyian
 coverside
 cationically
 chordomesoderm
-chordotomy
 cameist
 chore
 caviare
@@ -20550,6 +20549,7 @@ compelled
 carpogenic
 crumpling
 clarkia
+chordotomy
 cipherable
 costerdom
 colorability
