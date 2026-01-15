@@ -5851,7 +5851,6 @@ depredatory
 deontic
 disembargoed
 deodars
-diablene
 duffy
 discard
 duplicity
@@ -12239,6 +12238,7 @@ desulfurating
 deathshot
 dervishes
 disfurniture
+diablene
 donax
 disgarnish
 descartes
