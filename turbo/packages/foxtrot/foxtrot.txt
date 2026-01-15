@@ -6828,7 +6828,6 @@ flourished
 fossilise
 frecked
 flioma
-forespecified
 folky
 fibromyxosarcoma
 fidejussory
@@ -8493,6 +8492,7 @@ formosity
 fidley
 flailing
 firehall
+forespecified
 falsie
 flatwise
 foramen
