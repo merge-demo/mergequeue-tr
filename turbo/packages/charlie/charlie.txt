@@ -5735,7 +5735,6 @@ catches
 catchflies
 criniere
 catchie
-catchiest
 cordelling
 cakebread
 catching
@@ -30957,6 +30956,7 @@ cavaliero
 cardinalitial
 caroid
 costate
+catchiest
 cacatua
 culturologist
 chloroform
