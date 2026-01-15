@@ -18050,7 +18050,6 @@ antithetical
 ascaridia
 april
 abadia
-arborescent
 aquaria
 anguiform
 attrap
@@ -20761,6 +20760,7 @@ artificialism
 amesaces
 artificialities
 artillery
+arborescent
 artilleries
 avodire
 achillein
