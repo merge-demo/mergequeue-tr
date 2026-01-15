@@ -4972,7 +4972,6 @@ gingelis
 germanization
 genom
 ganof
-gurgoyl
 gastrelcosis
 ginger
 grisliest
@@ -9900,6 +9899,7 @@ gravelly
 grander
 grainsick
 glioma
+gurgoyl
 gallop
 galiots
 groundnut
