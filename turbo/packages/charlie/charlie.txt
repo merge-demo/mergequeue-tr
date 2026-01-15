@@ -4718,7 +4718,6 @@ carpetbaggery
 chantage
 conchometry
 catty
-caddow
 compatibles
 croc
 cyathi
@@ -10122,6 +10121,7 @@ chetopod
 ceonocyte
 chetrum
 caedmonian
+caddow
 chlorohydrin
 chetvert
 centrifugalise
