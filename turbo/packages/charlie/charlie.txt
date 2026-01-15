@@ -22979,7 +22979,6 @@ consistently
 consistible
 consisting
 cent
-caphtor
 consistorial
 corydon
 consistorian
@@ -28757,6 +28756,7 @@ civetone
 crepon
 crept
 canters
+caphtor
 circaetus
 compendiary
 cavitate
