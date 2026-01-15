@@ -13419,6 +13419,7 @@ accoll
 antihumbuggist
 archmarshal
 assafetida
+alex
 ankylostomiasis
 ankylotic
 anklejack
@@ -17837,7 +17838,6 @@ appose
 amphikaryotic
 appeasable
 amplex
-alex
 alisphenoid
 amphiarthrosis
 asterales
