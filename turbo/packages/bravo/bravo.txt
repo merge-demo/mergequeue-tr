@@ -5402,6 +5402,7 @@ busheled
 bloodripeness
 briquets
 babelic
+bibbed
 begulf
 blastomycotic
 bakshish
@@ -11424,7 +11425,6 @@ bitterworm
 babi
 build
 beside
-bibbed
 bibio
 bluecoated
 becquerelite
