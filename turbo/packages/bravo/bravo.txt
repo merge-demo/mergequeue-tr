@@ -11501,7 +11501,6 @@ bundlers
 bandsmen
 basophilia
 begemming
-bedoctor
 baccalaurean
 bluewoods
 billposter
@@ -12315,6 +12314,7 @@ barratrous
 bombacaceae
 bombace
 behang
+bedoctor
 bioscientist
 bombardiers
 bisulphite
