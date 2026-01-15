@@ -2110,7 +2110,6 @@ defenseman
 decameral
 daintify
 doline
-diapasm
 daunts
 doab
 disinheritances
@@ -14564,6 +14563,7 @@ divisibility
 divisibilities
 divisible
 division
+diapasm
 dollop
 degomme
 distill

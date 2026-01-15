@@ -7394,7 +7394,6 @@ cephalotaceae
 clunk
 chalaziferous
 cephalotaxus
-conventicles
 cephalothoraxes
 cephalotomy
 corozo
@@ -11660,6 +11659,7 @@ cholinic
 caitifty
 cotangents
 cholinolytic
+conventicles
 conjugably
 cequi
 clerkdoms
