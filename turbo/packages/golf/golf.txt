@@ -6194,7 +6194,6 @@ glyptodontidae
 grimacier
 goatfishes
 gigmanic
-gytrash
 gilbertine
 gonystylaceous
 glissader
@@ -8400,6 +8399,7 @@ gheber
 graycoat
 gravamen
 georgia
+gytrash
 gyves
 guaiacums
 gonoblastic
