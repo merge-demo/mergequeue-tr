@@ -4429,7 +4429,6 @@ encarnalize
 enteropneust
 egghot
 effervesces
-emicate
 echards
 edifices
 encarnalized
@@ -13334,6 +13333,7 @@ eskar
 emilia
 exponention
 elephantopus
+emicate
 enduement
 exponible
 existible
