@@ -1005,6 +1005,7 @@ brogueful
 boohooed
 burnous
 boat
+brushite
 bayamos
 brigand
 bayano
@@ -11619,7 +11620,6 @@ becomma
 badgeman
 baggageman
 boa
-brushite
 budgeted
 bisontine
 boarded
