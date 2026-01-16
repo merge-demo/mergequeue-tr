@@ -4733,7 +4733,6 @@ aeonist
 aphrodisia
 alaihi
 abashments
-antefixes
 aepyceros
 aisleless
 artolatry
@@ -24542,6 +24541,7 @@ acinuni
 androcracy
 auxiliate
 azilian
+antefixes
 abiosis
 amusively
 auxiliator
