@@ -2692,6 +2692,7 @@ electrotherapeutical
 entrep
 escrol
 expectorating
+erosions
 excitors
 enmesh
 enduros
@@ -12896,7 +12897,6 @@ editions
 envenoms
 echafaudage
 escortment
-erosions
 expandingly
 expansibility
 emusifies
