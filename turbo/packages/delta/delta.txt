@@ -6573,6 +6573,7 @@ dynamiters
 denigratory
 damoiselle
 dephlegmated
+doctorally
 doubtsome
 desegregated
 desegregates
@@ -14815,7 +14816,6 @@ diswarren
 decidua
 docs
 doctor
-doctorally
 dumontite
 doctored
 defensive
