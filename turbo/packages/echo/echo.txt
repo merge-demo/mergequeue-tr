@@ -7046,7 +7046,6 @@ eminence
 entwines
 epinikian
 enzymolytic
-excitomuscular
 encompassed
 enumerability
 epris
@@ -12549,6 +12548,7 @@ electrofusion
 extant
 existlessness
 epistemological
+excitomuscular
 embezzle
 exit
 encrypted
