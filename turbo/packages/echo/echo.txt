@@ -6522,6 +6522,7 @@ endurant
 ended
 entangledness
 endotrachelitis
+expansometer
 ehlite
 early
 enwrapt
@@ -13645,7 +13646,6 @@ epilemma
 extensions
 eggcup
 environmentalist
-expansometer
 engrosses
 empeo
 extracorporeally
