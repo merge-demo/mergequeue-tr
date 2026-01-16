@@ -10220,6 +10220,7 @@ bookrests
 blackguardry
 baroreceptor
 beseechers
+bugloss
 blackgum
 beachcombing
 brevicomis
@@ -14306,7 +14307,6 @@ biporous
 blennorhea
 billbergia
 braggish
-bugloss
 borocitrate
 blaver
 bedirtying
