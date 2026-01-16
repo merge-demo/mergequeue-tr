@@ -3211,7 +3211,6 @@ gaudiness
 getup
 golilla
 greatheartedness
-gloater
 globosely
 gepidae
 gremlin
@@ -7817,6 +7816,7 @@ greenkeeper
 glassblowers
 gook
 glead
+gloater
 grillework
 grouchier
 gala
