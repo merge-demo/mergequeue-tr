@@ -2741,6 +2741,7 @@ gorlois
 grenades
 geodesists
 gristmiller
+gynophagite
 gliadins
 guillotine
 gunboats
@@ -5424,7 +5425,6 @@ galactophlebitis
 griphosaurus
 gephyrean
 golaseccan
-gynophagite
 gingivitis
 gaea
 graphitized
