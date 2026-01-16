@@ -8927,7 +8927,6 @@ epistrophic
 embitter
 ergomaniac
 eragrostis
-electrophori
 eyers
 energumen
 ergostat
@@ -12385,6 +12384,7 @@ exquisiteness
 etholide
 embace
 euphemia
+electrophori
 eelbob
 eryon
 etalage
