@@ -14645,7 +14645,6 @@ divvy
 derating
 depressing
 diallel
-docmac
 decentre
 decameter
 draftees
@@ -17400,6 +17399,7 @@ demesgnes
 disrudder
 dreamworld
 doeth
+docmac
 dividual
 destool
 droppage
