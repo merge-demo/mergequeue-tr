@@ -6437,6 +6437,7 @@ gynecomania
 generalizable
 goodyear
 grudgeless
+gangboard
 goldeney
 gillaroo
 goldener
@@ -7485,7 +7486,6 @@ greenleaf
 globulousness
 geostrategic
 gaet
-gangboard
 galilean
 gelatinizable
 gastromenia
