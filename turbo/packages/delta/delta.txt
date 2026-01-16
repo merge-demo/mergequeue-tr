@@ -16445,6 +16445,7 @@ diachyma
 drabbler
 datum
 difflugia
+doodskop
 downtimes
 dunnesses
 dacoities
@@ -17935,7 +17936,6 @@ disillusionise
 dekares
 dufferdom
 duffle
-doodskop
 dreamier
 distome
 dutifully
