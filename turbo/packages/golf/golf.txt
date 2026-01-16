@@ -7262,6 +7262,7 @@ glomi
 gormandizes
 gundeck
 gangsa
+gabling
 gleaming
 gwerziou
 gavelman
@@ -8498,7 +8499,6 @@ guardian
 geognostical
 gulpers
 genie
-gabling
 ginglymus
 gluttoness
 grouchingly

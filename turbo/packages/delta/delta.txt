@@ -3662,6 +3662,7 @@ degressive
 dactylopterus
 daunting
 dictamnus
+deregulatory
 degust
 dasnt
 degusted
@@ -6126,7 +6127,6 @@ deregulations
 dichromatism
 drumloid
 ducatoon
-deregulatory
 destructivism
 dereistic
 derelicts
