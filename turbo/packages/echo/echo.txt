@@ -2001,6 +2001,7 @@ episternite
 evictees
 emulsic
 equisonant
+expiatory
 endodontist
 eradiculose
 elixate
@@ -6321,7 +6322,6 @@ emporium
 ergotin
 eschar
 euchred
-expiatory
 ensphered
 eyespot
 enseal
