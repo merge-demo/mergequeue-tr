@@ -4293,7 +4293,6 @@ excerpts
 effectible
 edifyingly
 en
-enjoined
 extirpation
 epicarides
 ejectment
@@ -8219,6 +8218,7 @@ extinctive
 eucrasia
 empiecement
 exothermal
+enjoined
 etwas
 equidominant
 equidistantly
