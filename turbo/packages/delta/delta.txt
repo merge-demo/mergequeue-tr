@@ -3718,6 +3718,7 @@ decimate
 dehonestation
 disoccupied
 dehorn
+dentinoid
 dolcan
 desmose
 demain
@@ -5115,7 +5116,6 @@ dismastment
 densitometric
 deniably
 denial
-dentinoid
 disminister
 decentralizes
 damozel
