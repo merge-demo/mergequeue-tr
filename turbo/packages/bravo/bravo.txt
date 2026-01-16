@@ -4124,7 +4124,6 @@ beslimer
 beards
 barbers
 birthroot
-bombazette
 bedrenched
 bras
 brachycera
@@ -7579,6 +7578,7 @@ banagos
 beweeper
 beneficent
 beweeps
+bombazette
 bombilate
 bastardize
 bloodripe
