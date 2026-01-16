@@ -2721,6 +2721,7 @@ cannoneering
 cankerroot
 cauponize
 cankers
+chirpily
 cultivators
 comedowns
 coff
@@ -11011,7 +11012,6 @@ copyrighting
 cotingidae
 croker
 chirpiest
-chirpily
 cakebox
 crenelling
 cowkeeper
