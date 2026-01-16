@@ -2053,6 +2053,7 @@ cropper
 capitalizer
 chicomecoatl
 cypresses
+crystalloidal
 cruelize
 colonial
 camoudie
@@ -29496,7 +29497,6 @@ crystallography
 crystalloid
 concretism
 choragium
-crystalloidal
 crystallomagnetic
 cravers
 cunye
