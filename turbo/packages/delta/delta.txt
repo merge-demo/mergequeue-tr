@@ -8938,7 +8938,6 @@ dioptrometry
 drifter
 dimethoxymethane
 dom
-daughtership
 duellize
 desirably
 dichotomize
@@ -13185,6 +13184,7 @@ dispicion
 dicentrin
 damasks
 dispiritedly
+daughtership
 detonable
 dyssystole
 deambulation

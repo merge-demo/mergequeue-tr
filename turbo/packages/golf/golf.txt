@@ -1840,6 +1840,7 @@ gatekeepers
 glos
 gentile
 groupage
+gasparillo
 grasses
 glutenous
 generalcies
@@ -9332,7 +9333,6 @@ goliad
 gunnysacks
 ghaznevid
 ghaist
-gasparillo
 gyrostat
 gimmick
 gonocoel
