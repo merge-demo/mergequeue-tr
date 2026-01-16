@@ -7600,7 +7600,6 @@ declinable
 devaluates
 droppingly
 durandarte
-devalues
 devas
 duole
 ditch
@@ -16417,6 +16416,7 @@ doxasticon
 dghaisa
 doxie
 distad
+devalues
 dhoora
 doxography
 decolourise
