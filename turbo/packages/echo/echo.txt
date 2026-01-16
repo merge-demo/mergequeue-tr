@@ -10324,6 +10324,7 @@ expendable
 equipostile
 epifocal
 electuaries
+enneacontahedral
 exosmic
 extemporise
 exaggerative
@@ -13250,7 +13251,6 @@ envisioned
 explicably
 expensive
 explicanda
-enneacontahedral
 explicate
 enterectomies
 exult
