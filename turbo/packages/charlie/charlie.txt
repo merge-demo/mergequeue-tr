@@ -4190,7 +4190,6 @@ cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
 cardiospermum
-celts
 cardiosphygmogram
 cardiosphygmograph
 citternhead
@@ -31111,6 +31110,7 @@ cuneately
 cuneatic
 cuneiform
 cuneiformist
+celts
 columnarity
 chiggerweed
 cunenei
