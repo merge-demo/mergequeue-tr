@@ -1702,6 +1702,7 @@ epidosite
 employ
 epistilbite
 ejective
+epileptic
 evang
 eyeground
 epornitically
@@ -3330,7 +3331,6 @@ edison
 euharmonic
 electrophrenic
 endamages
-epileptic
 emancipator
 emarginated
 eventilate
