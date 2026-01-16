@@ -4136,7 +4136,6 @@ cardinalities
 cardinalship
 cardings
 cardioarterial
-cardiocarpum
 cardiocele
 chevronelly
 cardiocirrhosis
@@ -14810,6 +14809,7 @@ coadmiring
 cotise
 cephalorhachidian
 congeal
+cardiocarpum
 cyclope
 checkbird
 cytokinesis
