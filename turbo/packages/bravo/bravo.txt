@@ -4093,7 +4093,6 @@ blokes
 bobbed
 beansetter
 beanshooter
-beanstalk
 bestiaries
 bearbaiter
 bedmaking
@@ -13089,6 +13088,7 @@ belfry
 boresight
 beblubber
 boresome
+beanstalk
 backblocks
 buffeting
 bicorporal
