@@ -6285,6 +6285,7 @@ afterpeak
 agrammatism
 authorized
 antiseptize
+abos
 agrammatologia
 annattos
 ahab
@@ -16826,7 +16827,6 @@ aphorist
 ailuropus
 autoportraiture
 aphorize
-abos
 aphorizes
 ancienter
 approve
