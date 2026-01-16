@@ -5031,7 +5031,6 @@ babism
 bundts
 beetrave
 bedunces
-bronzings
 beetroots
 becarve
 beeweed
@@ -10578,6 +10577,7 @@ bacterize
 bonks
 bulbocodium
 bibless
+bronzings
 blastophoral
 bootikin
 backlash
