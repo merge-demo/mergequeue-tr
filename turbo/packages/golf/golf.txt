@@ -2459,7 +2459,6 @@ gemologist
 glacionatant
 gloaming
 gaiting
-gemot
 goniac
 generatrix
 gabrielrache
@@ -10047,6 +10046,7 @@ guerison
 guerites
 gage
 graveolency
+gemot
 gravedigger
 gelofer
 gimmal
