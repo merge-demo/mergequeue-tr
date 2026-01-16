@@ -4116,7 +4116,6 @@ deliration
 delire
 documentary
 deadworks
-decimator
 dipodidae
 discomfited
 dolling
@@ -8593,6 +8592,7 @@ doormaking
 deorsumversion
 driftland
 dewan
+decimator
 driller
 dispunitive
 donatio
