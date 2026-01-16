@@ -133,7 +133,6 @@ daddles
 dowdyism
 decollete
 daffodillies
-dropsicalness
 dalea
 demissionary
 deino
@@ -11402,6 +11401,7 @@ dialogite
 drossing
 dastardy
 dockyard
+dropsicalness
 dissuader
 demivotary
 determinoid
