@@ -11735,7 +11735,6 @@ anaesthesis
 abeltree
 appearanced
 anaesthetically
-anthropomantic
 aruspex
 anaesthetization
 ayme
@@ -21701,6 +21700,7 @@ amidoacetophenone
 asseal
 arad
 assecuration
+anthropomantic
 anagua
 apician
 assecution
