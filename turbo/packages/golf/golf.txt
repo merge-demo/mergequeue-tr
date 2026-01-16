@@ -1896,7 +1896,6 @@ guaiocum
 gerontologists
 gobiidae
 germ
-glycogenic
 gatteridge
 gammaridae
 guayabo
@@ -10338,6 +10337,7 @@ gules
 gown
 gonoph
 grot
+glycogenic
 glebal
 guarana
 gaums
