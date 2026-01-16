@@ -1434,7 +1434,6 @@ electrophoresis
 eelpout
 effort
 ethmovomer
-environic
 emeline
 ergonomic
 epanorthotic
@@ -2645,6 +2644,7 @@ eupneic
 ergophobiac
 enchondromata
 electroresection
+environic
 expansion
 esoterica
 estadel
