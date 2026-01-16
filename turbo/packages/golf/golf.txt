@@ -2507,7 +2507,6 @@ garlanding
 gittith
 genderer
 grenado
-gnaeus
 ginnier
 giffgaff
 ghoulie
@@ -9718,6 +9717,7 @@ gratiosolin
 gaelicism
 guying
 grummet
+gnaeus
 genuflector
 gambir
 gordiidae
