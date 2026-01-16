@@ -1329,6 +1329,7 @@ fabulize
 fineleaf
 fyttes
 famose
+frescoer
 flyable
 factionally
 frantically
@@ -9386,7 +9387,6 @@ frary
 flouriness
 frolicly
 forlore
-frescoer
 fulsomeness
 fenman
 fausant
