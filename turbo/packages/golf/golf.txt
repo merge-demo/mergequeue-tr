@@ -278,6 +278,7 @@ groser
 gigavolt
 gummata
 galiongee
+genom
 gainliness
 gamings
 gainsaying
@@ -4969,7 +4970,6 @@ gallantize
 gyrenes
 gingelis
 germanization
-genom
 ganof
 gastrelcosis
 ginger
