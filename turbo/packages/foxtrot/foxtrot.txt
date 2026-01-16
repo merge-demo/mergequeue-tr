@@ -2763,6 +2763,7 @@ forker
 flatly
 fluorimeter
 forgift
+furdel
 fistulized
 forbearer
 ftncmd
@@ -10174,7 +10175,6 @@ farce
 foxchop
 fetologies
 finites
-furdel
 famines
 fending
 foggages
