@@ -18404,7 +18404,6 @@ cognitional
 cognitive
 cognitively
 cokelike
-cognitivity
 cognizable
 cognizant
 cognize
@@ -31443,6 +31442,7 @@ curmudgeonly
 colitoxemia
 curmudgeons
 churchdom
+cognitivity
 curney
 curnies
 curpin
