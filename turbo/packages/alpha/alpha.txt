@@ -8213,6 +8213,7 @@ atavist
 aln
 alterne
 ahush
+avengeress
 antarctalia
 alias
 aleutians
@@ -11510,7 +11511,6 @@ armaments
 aloemodin
 afterturn
 accoutring
-avengeress
 acrinyl
 aporrhea
 argolic
