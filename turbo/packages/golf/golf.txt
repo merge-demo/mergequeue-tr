@@ -2619,6 +2619,7 @@ glossolabial
 geiger
 goutte
 garabato
+granules
 galluot
 genesial
 genesitic
@@ -5016,7 +5017,6 @@ gregarinae
 gatch
 grutched
 gleaners
-granules
 guards
 gaedown
 gandhara
