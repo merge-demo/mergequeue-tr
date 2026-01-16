@@ -2797,6 +2797,7 @@ delphinus
 duodecahedron
 decrescent
 deknight
+demonist
 desulfured
 droller
 decretalist
@@ -6487,7 +6488,6 @@ determinate
 dactylogram
 disanney
 dynamited
-demonist
 doxological
 descends
 deviability
