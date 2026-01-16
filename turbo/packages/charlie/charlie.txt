@@ -2592,6 +2592,7 @@ chlorotrifluoromethane
 catalan
 ceraunograph
 carbona
+cerianthoid
 cracowe
 canduc
 crepier
@@ -6779,7 +6780,6 @@ chary
 chancres
 chondroskeleton
 cubhood
-cerianthoid
 clearway
 celioparacentesis
 cerinthian
