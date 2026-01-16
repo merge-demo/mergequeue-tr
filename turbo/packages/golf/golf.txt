@@ -3382,6 +3382,7 @@ ghostcraft
 gagtooth
 germs
 glaucescence
+grooper
 griseous
 garment
 gigartinaceae
@@ -10154,7 +10155,6 @@ guisard
 gemlich
 goggly
 grazioso
-grooper
 guato
 genres
 guidepost

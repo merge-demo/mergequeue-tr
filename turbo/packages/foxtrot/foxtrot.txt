@@ -574,7 +574,6 @@ feminie
 fallen
 ferny
 fumigatory
-falling
 flichtering
 faradized
 famine
@@ -9071,6 +9070,7 @@ fleeceflower
 floridly
 floozies
 fr
+falling
 flintlike
 furdle
 funambulated
