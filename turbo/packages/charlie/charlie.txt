@@ -11002,6 +11002,7 @@ chirotherian
 casern
 corrals
 comessation
+crawls
 crocodilia
 counterinsurgencies
 catananche
@@ -30690,7 +30691,6 @@ crusados
 cachimailla
 chiveret
 coses
-crawls
 class
 colorer
 cudgel
