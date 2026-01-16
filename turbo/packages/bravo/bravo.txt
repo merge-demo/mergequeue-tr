@@ -1051,6 +1051,7 @@ bunglings
 bailiaries
 botargos
 bailiffs
+bakutu
 blennorrhea
 billons
 busway
@@ -12784,7 +12785,6 @@ boloney
 bookshop
 betoyan
 bonanza
-bakutu
 bobotee
 brutifying
 bookstall
