@@ -3763,6 +3763,7 @@ bowstringed
 beachwear
 battues
 batture
+biunivocal
 bielded
 barasingha
 blackening
@@ -11636,7 +11637,6 @@ battledored
 benefactrix
 bolis
 brachyural
-biunivocal
 barche
 boarspear
 burns
