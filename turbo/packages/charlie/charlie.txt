@@ -19185,7 +19185,6 @@ cardiospasm
 corporally
 collotyped
 cousinry
-collotypy
 coontail
 cornhusks
 conjunctives
@@ -30221,6 +30220,7 @@ concentrators
 cains
 cursed
 crudity
+collotypy
 crudities
 companions
 countryfied
