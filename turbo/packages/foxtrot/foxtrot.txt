@@ -1409,7 +1409,6 @@ frith
 figitidae
 fatnesses
 furaciousness
-fatshedera
 forges
 fatsia
 formy
@@ -6064,6 +6063,7 @@ fervidity
 freighter
 frettation
 filical
+fatshedera
 fatheaded
 folksinging
 fundmongering
