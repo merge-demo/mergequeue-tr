@@ -5845,7 +5845,6 @@ enwoven
 ekaha
 embergeese
 engramme
-engrammes
 extensors
 edwardine
 eudaemonistical
@@ -10930,6 +10929,7 @@ echinops
 euphuize
 eupyrion
 eupittone
+engrammes
 enteritis
 exams
 eventognathi
