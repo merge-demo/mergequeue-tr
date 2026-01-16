@@ -790,6 +790,7 @@ ganymede
 glossolalist
 gutter
 gluck
+gurrah
 gutturize
 galvanothermometer
 ggr
@@ -6532,7 +6533,6 @@ gleeman
 gastrologists
 gomer
 gesten
-gurrah
 gpss
 greyskin
 guiders
