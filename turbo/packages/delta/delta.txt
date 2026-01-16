@@ -11812,7 +11812,6 @@ dormitary
 discrowns
 daydreamed
 depilated
-devitalised
 dogma
 defiler
 discruciate
@@ -13087,6 +13086,7 @@ dory
 dital
 decampment
 decliners
+devitalised
 drollingly
 decurrencies
 dulcimers
