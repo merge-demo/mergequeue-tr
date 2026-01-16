@@ -24886,7 +24886,6 @@ clavodeltoid
 corallian
 corallidae
 corallidomous
-chestful
 congroid
 coralliform
 cobreathe
@@ -28884,6 +28883,7 @@ crevette
 creviced
 chorus
 cussers
+chestful
 crevices
 combo
 coventries

@@ -6742,6 +6742,7 @@ ellfish
 ediface
 extrinsical
 enthusiasms
+equirotal
 elaborator
 entrechat
 endoceratitic
@@ -9542,7 +9543,6 @@ ellops
 enantiotropy
 esemplasy
 extremities
-equirotal
 educationese
 ea
 earthworm
