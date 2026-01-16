@@ -1450,7 +1450,6 @@ felicify
 filasse
 firmness
 futhork
-fatuitous
 foothil
 familiarise
 floorwalkers
@@ -9112,6 +9111,7 @@ florification
 feat
 foveole
 folded
+fatuitous
 federations
 fooyung
 fadednyess
