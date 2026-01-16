@@ -16837,6 +16837,7 @@ clubfisted
 cenotaph
 clubfoot
 clubfooted
+canonicalizing
 clubhand
 clubhands
 cerebralgia
@@ -30363,7 +30364,6 @@ clingstones
 crusaders
 crusado
 coastways
-canonicalizing
 catalog
 coresidual
 collectivistic
