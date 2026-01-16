@@ -4613,7 +4613,6 @@ audiovisuals
 arrives
 advoteresse
 anastrophe
-advt
 aurigal
 adjustmental
 aeacides
@@ -12955,6 +12954,7 @@ armored
 arcidae
 angraecum
 angriness
+advt
 angstroms
 arrivers
 angsts
