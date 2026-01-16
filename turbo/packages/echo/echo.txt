@@ -9099,6 +9099,7 @@ ectasia
 epistropheus
 echevaria
 equivocations
+epithelioid
 educe
 erythrolein
 enteromorpha
@@ -11774,7 +11775,6 @@ eremochaeta
 exorcista
 exaration
 enstatitite
-epithelioid
 extracorpuscular
 euripidean
 ekphore
