@@ -12132,7 +12132,6 @@ bagpudding
 barristress
 boldfaced
 blightbird
-boldfacedness
 boldfacing
 bewitchments
 boldhearted
@@ -17003,6 +17002,7 @@ becks
 bulblike
 biacetyl
 biochore
+boldfacedness
 beliing
 bimotor
 beleaguered
