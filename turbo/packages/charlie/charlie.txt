@@ -26186,7 +26186,6 @@ carayan
 cyclostomata
 cosmorama
 cesure
-cosmoses
 chelura
 calces
 caked
@@ -27768,6 +27767,7 @@ craw
 coxae
 coeloscope
 coxalgy
+cosmoses
 crepusculum
 coxalgias
 cholents
