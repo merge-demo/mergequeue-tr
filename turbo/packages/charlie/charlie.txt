@@ -20541,7 +20541,6 @@ cambalo
 canonlike
 compearant
 crimes
-chotts
 compeering
 corinthianesque
 chromatophorous
@@ -25344,6 +25343,7 @@ concessioner
 cornell
 corneosclerotic
 cirsectomy
+chotts
 cheer
 cambogias
 cornigeous
