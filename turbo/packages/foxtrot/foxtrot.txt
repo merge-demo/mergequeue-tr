@@ -2506,7 +2506,6 @@ faldworth
 foremeant
 footsore
 feudal
-functionize
 faired
 fastballs
 frush
@@ -5661,6 +5660,7 @@ funiculi
 forkmen
 federalizing
 foreknowable
+functionize
 fleckiest
 forfeitures
 fungitoxicity
