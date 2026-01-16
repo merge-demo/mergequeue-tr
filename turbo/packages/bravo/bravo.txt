@@ -2153,7 +2153,6 @@ backup
 bugling
 blahlaut
 baptisias
-bonehead
 bricksetter
 burnishes
 bonsai
@@ -12332,6 +12331,7 @@ betrayer
 bombardments
 bombline
 bowdrill
+bonehead
 bombast
 buglers
 blepharotomy
