@@ -10697,7 +10697,6 @@ chimneylike
 chimneyman
 chimneypiece
 chimopelagic
-chymotrypsinogen
 creedalism
 coilsmith
 canthari
@@ -26853,6 +26852,7 @@ cudava
 chilopod
 counterfeits
 counterfessed
+chymotrypsinogen
 counterfire
 counterflange
 cruzados
