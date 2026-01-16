@@ -2208,7 +2208,6 @@ fruiting
 fragrancy
 feminility
 feminin
-fondlesome
 fluorinates
 foals
 feminineness
@@ -9449,6 +9448,7 @@ fissiparousness
 flatbottom
 forejudger
 floatman
+fondlesome
 florets
 fibdom
 functionalism
