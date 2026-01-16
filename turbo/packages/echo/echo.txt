@@ -720,6 +720,7 @@ eschaunge
 ensnare
 extremital
 eidolism
+emulsible
 exogyra
 eben
 elegiambus
@@ -7080,7 +7081,6 @@ ectocinereal
 epapophysial
 evejar
 estivage
-emulsible
 estuous
 edicule
 equiprobability
