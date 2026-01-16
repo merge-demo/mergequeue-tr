@@ -8387,6 +8387,7 @@ chambray
 copei
 colloquist
 calyciferous
+costander
 comport
 chambrays
 chambranle
@@ -26248,7 +26249,6 @@ citydom
 colorlessly
 costage
 costally
-costander
 costanoan
 costar
 costarred
