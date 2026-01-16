@@ -2072,7 +2072,6 @@ diopsimeter
 diety
 dummy
 defaced
-devolution
 disproportionally
 decal
 dodecylic
@@ -5519,6 +5518,7 @@ depascent
 debilitation
 disrepute
 depasture
+devolution
 depatriate
 dispergation
 doornails
