@@ -2225,6 +2225,7 @@ gemwork
 gastrolith
 gymnosperms
 gerastian
+guanidopropionic
 galas
 gaster
 gonfalonierate
@@ -2530,7 +2531,6 @@ gladite
 guttifer
 grattoir
 genecology
-guanidopropionic
 gothically
 gadaba
 gibed
