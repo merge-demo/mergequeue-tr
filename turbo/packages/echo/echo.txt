@@ -5495,6 +5495,7 @@ elasmosaurus
 esterifiable
 epiploic
 energizes
+evocated
 electroscopic
 entwists
 erade
@@ -11439,7 +11440,6 @@ encipherment
 elucidation
 emasculated
 engraving
-evocated
 ectonephridium
 exes
 erinnic
