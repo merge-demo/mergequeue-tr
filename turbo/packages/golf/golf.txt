@@ -1465,7 +1465,6 @@ grossart
 generical
 grillages
 griffinish
-gutnic
 glamouring
 generated
 gasalier
@@ -3411,6 +3410,7 @@ gentiles
 gymnoceratous
 geosid
 gerontocrat
+gutnic
 gigglish
 grains
 gregarinian
