@@ -10683,7 +10683,6 @@ aptly
 acatharsia
 archilochian
 amyloidosis
-anguille
 amyloleucite
 afterwrath
 archiepiscopality
@@ -11842,6 +11841,7 @@ africanthropus
 aglimmer
 axfetch
 aparavidya
+anguille
 analysers
 arcticologist
 abstentions
