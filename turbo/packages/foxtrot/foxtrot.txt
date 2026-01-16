@@ -7737,6 +7737,7 @@ florentines
 feudalized
 fettucine
 foremother
+feaze
 frithbot
 flyblew
 flickery
@@ -10309,7 +10310,6 @@ farriers
 fingerleaf
 fingering
 forecourt
-feaze
 foss
 footcandles
 forewarning
