@@ -4604,6 +4604,7 @@ comart
 carnivorousness
 cavalcading
 cyanea
+clingy
 chutnee
 colorationally
 carnosine
@@ -16191,7 +16192,6 @@ crankness
 crossbeak
 clingfishes
 contravenes
-clingy
 clinginess
 cuit
 craniopagus
