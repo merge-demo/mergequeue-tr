@@ -3596,7 +3596,6 @@ fogus
 fanwort
 figurize
 filibusterers
-fourble
 fomento
 freddie
 ferroinclave
@@ -8897,6 +8896,7 @@ fanmaking
 fourre
 friedelite
 fraternizing
+fourble
 feverishly
 frigiddaria
 folktales
