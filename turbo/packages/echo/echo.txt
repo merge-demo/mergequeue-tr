@@ -915,6 +915,7 @@ exarillate
 eyelashes
 efreet
 ensisternal
+ericales
 equipping
 endowments
 empalers
@@ -8951,7 +8952,6 @@ eudaemonist
 exoskeletal
 eteoclus
 endosmotically
-ericales
 epicanthi
 exteroceptive
 etymological
