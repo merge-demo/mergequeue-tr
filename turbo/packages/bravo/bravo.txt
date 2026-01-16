@@ -2497,7 +2497,6 @@ beechwoods
 burian
 bhut
 bedark
-barocco
 brachyoura
 barge
 bergere
@@ -8040,6 +8039,7 @@ breathalyse
 blastomere
 breathiest
 bumping
+barocco
 bodle
 bleakish
 babble

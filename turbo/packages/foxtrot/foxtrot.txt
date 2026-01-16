@@ -2734,6 +2734,7 @@ feis
 flanges
 fortescure
 fascisms
+frigidoreceptor
 festy
 festilogies
 feddans
@@ -7411,7 +7412,6 @@ flagginess
 forcipation
 flutelike
 forcipressure
-frigidoreceptor
 foy
 fossick
 feminine
