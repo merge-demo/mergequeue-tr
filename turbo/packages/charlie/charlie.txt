@@ -8578,6 +8578,7 @@ changeable
 carcharodon
 chavibetol
 chuckram
+cumbered
 ceratiidae
 cowpeas
 composit
@@ -22097,7 +22098,6 @@ conformator
 conformed
 conformer
 coercibleness
-cumbered
 curvate
 cotraitor
 conformingly
