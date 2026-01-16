@@ -2157,7 +2157,6 @@ ferrous
 felony
 foreignership
 fractioned
-friskest
 frontiers
 folkmoot
 falsities
@@ -4837,6 +4836,7 @@ fixes
 firmhearted
 frondiferous
 fetching
+friskest
 fore
 factuality
 fabricational
