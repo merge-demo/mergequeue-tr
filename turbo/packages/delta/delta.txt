@@ -2418,6 +2418,7 @@ deceived
 disaffiliation
 dane
 dropkick
+dweller
 dusken
 dihydronaphthalene
 decimating
@@ -2546,7 +2547,6 @@ dorn
 disjudication
 declass
 dimorphs
-dweller
 declassification
 derringer
 declassifies
