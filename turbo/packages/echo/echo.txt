@@ -5325,7 +5325,6 @@ endoscopies
 epipodia
 endoskeletons
 endosmic
-evaders
 embaphium
 ethenyl
 emendicate
@@ -10573,6 +10572,7 @@ exitial
 ethmose
 ethrog
 ergatandromorphic
+evaders
 erotomania
 ewry
 epephragmal
