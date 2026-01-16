@@ -8059,7 +8059,6 @@ biconically
 biconnected
 boildown
 bayberry
-butcherous
 bastonite
 biconsonantal
 barnburner
@@ -18093,6 +18092,7 @@ butanol
 bonked
 bibliopegistical
 butanols
+butcherous
 bind
 bergander
 bouderie
