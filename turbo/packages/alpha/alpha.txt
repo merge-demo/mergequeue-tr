@@ -1865,7 +1865,6 @@ acertannin
 allseed
 awn
 antitabetic
-avalent
 acerval
 aggressions
 antiphysic
@@ -8070,6 +8069,7 @@ aefaldness
 authentical
 assailable
 appropriators
+avalent
 aeciotelium
 arisaema
 artarine
