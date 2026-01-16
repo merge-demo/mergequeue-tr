@@ -9632,6 +9632,7 @@ dihydrostreptomycin
 dihydrotachysterol
 dhaks
 dihydroxyacetone
+depolishing
 defaceable
 dihydroxysuccinic
 dulse
@@ -18370,7 +18371,6 @@ departmentalizes
 downloaded
 duodenocholecystostomy
 duodenocholedochotomy
-depolishing
 decency
 desecrating
 dreamish
