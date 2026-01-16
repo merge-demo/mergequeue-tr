@@ -2537,6 +2537,7 @@ collogued
 candleholder
 candlelight
 candlelighter
+carrack
 chaloth
 confraternities
 candlelighting
@@ -4836,7 +4837,6 @@ conjuror
 contrariantly
 coffea
 carr
-carrack
 cymulose
 cycling
 corallita
