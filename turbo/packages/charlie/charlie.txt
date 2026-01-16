@@ -15700,7 +15700,6 @@ claviculate
 chrysohermidin
 chirotype
 clima
-consilient
 chrysograph
 claviger
 carshops
@@ -23354,6 +23353,7 @@ contactant
 carvel
 circumstantiations
 creophagous
+consilient
 contactile
 cummer
 coatracks
