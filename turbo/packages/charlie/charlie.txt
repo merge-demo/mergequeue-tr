@@ -9507,7 +9507,6 @@ checkerbellies
 caffiso
 checkerberry
 checkerberries
-chorological
 checkerbloom
 calyciform
 cleaner
@@ -14043,6 +14042,7 @@ cyproterone
 cypseliformes
 chiriana
 cryptostomate
+chorological
 cypselomorphae
 cypselomorphic
 compassionately
