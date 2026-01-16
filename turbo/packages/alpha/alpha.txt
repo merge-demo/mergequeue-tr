@@ -1080,6 +1080,7 @@ agnatically
 abune
 acromimia
 ausubo
+absorbability
 aburton
 artemisia
 atestine
@@ -4815,7 +4816,6 @@ awakener
 autocross
 aerobiosis
 addleheaded
-absorbability
 aerobious
 allotypy
 allophylic
