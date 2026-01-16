@@ -15465,6 +15465,7 @@ bemusing
 bilious
 brilliantly
 brilliantwise
+bicornes
 brilliolette
 brills
 baculites
@@ -17702,7 +17703,6 @@ beanos
 braconid
 bankeress
 broach
-bicornes
 buyer
 burma
 begazed
