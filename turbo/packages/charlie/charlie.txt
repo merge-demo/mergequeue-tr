@@ -5576,7 +5576,6 @@ catalexis
 catalin
 curule
 cauponation
-coxing
 contentful
 catalinite
 catalyse
@@ -9298,6 +9297,7 @@ chaucerian
 chauchat
 ceratophyllaceae
 cuorin
+coxing
 conjunctive
 chauffage
 chauffer
