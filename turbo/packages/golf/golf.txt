@@ -1807,6 +1807,7 @@ granodioritic
 gangwaymen
 gatehouses
 grueler
+genii
 gulsach
 glycine
 gastrocolostomy
@@ -3047,7 +3048,6 @@ graspable
 glitteringly
 gibbed
 gyrostatically
-genii
 giraffidae
 gorra
 globulins

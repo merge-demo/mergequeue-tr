@@ -4774,7 +4774,6 @@ bedral
 boltwork
 bedraping
 bedread
-bedrench
 baldling
 blast
 bed
@@ -8909,6 +8908,7 @@ buggeries
 biddings
 bandoras
 baisakh
+bedrench
 biocycle
 biocycles
 biocidal
