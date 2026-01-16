@@ -687,6 +687,7 @@ alkaid
 allayment
 autotoxaemia
 abortional
+asphaltene
 antiglobulin
 abortionists
 ariot
@@ -6954,7 +6955,6 @@ age
 ashot
 antiferromagnet
 aitch
-asphaltene
 angeldom
 araneologist
 appropriately
