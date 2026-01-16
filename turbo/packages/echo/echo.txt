@@ -1154,7 +1154,6 @@ epipany
 electrotyped
 epaulette
 ejaculators
-expectancies
 edriophthalmatous
 educand
 emulsive
@@ -8253,6 +8252,7 @@ enjoyingly
 engirded
 electrodiplomatic
 episternal
+expectancies
 entoloma
 emperil
 emaceration
