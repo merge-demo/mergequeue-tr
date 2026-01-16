@@ -1475,6 +1475,7 @@ calyptrimorphous
 coracoscapular
 ceriornis
 carnosin
+calcareosulphurous
 calisayas
 clave
 chicks
@@ -2746,7 +2747,6 @@ calorigenic
 cannabis
 cannabises
 cannabism
-calcareosulphurous
 camorra
 cannaceous
 chaquetas
