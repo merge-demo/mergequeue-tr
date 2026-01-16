@@ -2249,7 +2249,6 @@ debase
 dinoflagellatae
 dungeonlike
 drummed
-diploses
 diapyetic
 deceiving
 definitized
@@ -5558,6 +5557,7 @@ discussive
 dictyosiphonaceae
 dedecoration
 deprisure
+diploses
 detering
 diamine
 dialyzation
