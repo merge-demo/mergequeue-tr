@@ -1553,7 +1553,6 @@ blauboks
 beclowning
 ballerina
 ballet
-balletomane
 bigged
 blastiest
 ballets
@@ -2612,6 +2611,7 @@ barkcutter
 balsameaceous
 breastbones
 bifronted
+balletomane
 bhaiyachara
 borana
 bunglesome

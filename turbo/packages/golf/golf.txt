@@ -3541,7 +3541,6 @@ guytrash
 gynecolatry
 grenadin
 goth
-geums
 gangues
 garmentworker
 ganglions
@@ -3932,6 +3931,7 @@ gemmily
 gleeting
 gipsy
 gynaecocratic
+geums
 geneal
 gigawatt
 gutser
