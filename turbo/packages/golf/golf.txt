@@ -993,7 +993,6 @@ gilgamesh
 grouting
 gagmen
 ganched
-gonotokont
 goner
 gerodontology
 granddads
@@ -4188,6 +4187,7 @@ gatchwork
 greying
 ges
 geod
+gonotokont
 gleesome
 ganef
 galvanized

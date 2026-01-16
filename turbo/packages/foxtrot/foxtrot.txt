@@ -9569,7 +9569,6 @@ fleeceable
 fdub
 fragmentitious
 fleabugs
-faon
 fabula
 firing
 featherbone
@@ -11046,6 +11045,7 @@ fere
 fascias
 funambulator
 feels
+faon
 faunological
 flinty
 fellatrices
