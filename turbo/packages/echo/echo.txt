@@ -6531,7 +6531,6 @@ epaenetic
 entanglements
 extraplanetary
 egophonic
-entangles
 empanel
 eatings
 entasis
@@ -7798,6 +7797,7 @@ eupatridae
 electrologists
 expropriating
 excitative
+entangles
 entassment
 enlighteningly
 emblematic
