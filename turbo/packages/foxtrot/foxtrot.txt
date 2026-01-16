@@ -5222,6 +5222,7 @@ flavorsome
 falda
 frivoling
 fossilage
+foodful
 fills
 fstore
 flot
@@ -7011,7 +7012,6 @@ floater
 fulfilment
 fimbriae
 functioning
-foodful
 fulfilled
 fribby
 fatalities
