@@ -7193,7 +7193,6 @@ euphonym
 enchesoun
 ensample
 enzootically
-evenlight
 exposed
 elleck
 evaluators
@@ -11596,6 +11595,7 @@ electroencephalographically
 exportations
 end
 elderbush
+evenlight
 evulsions
 ewery
 exciding
