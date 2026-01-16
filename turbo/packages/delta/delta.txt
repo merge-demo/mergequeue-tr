@@ -7284,6 +7284,7 @@ devisers
 defecters
 defecation
 donnie
+diverge
 dress
 diphthongia
 diphthongization
@@ -15629,7 +15630,6 @@ departement
 directable
 doorstop
 disulfate
-diverge
 dockman
 diodes
 desensitizer
