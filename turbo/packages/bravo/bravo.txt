@@ -3113,6 +3113,7 @@ baculite
 bemixes
 blabby
 balnibarbi
+bleacheries
 betraying
 bucrnia
 bloodcurdler
@@ -10719,7 +10720,6 @@ bethreaten
 bestowage
 bleeped
 bleeps
-bleacheries
 batonne
 blepharoplegia
 bronzine
