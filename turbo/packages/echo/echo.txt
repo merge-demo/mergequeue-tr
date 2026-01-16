@@ -3691,7 +3691,6 @@ everywheres
 evangelistically
 enchytrae
 entrancer
-envenom
 eternised
 exergues
 embryological
@@ -5793,6 +5792,7 @@ envelopment
 extirp
 englut
 emhpasizing
+envenom
 encored
 eyot
 excedent
