@@ -4066,6 +4066,7 @@ gibboseness
 gim
 gambolling
 gerundively
+gurjun
 groining
 gletscher
 grifted
@@ -4655,7 +4656,6 @@ guttery
 gyrovagues
 gloy
 gaatch
-gurjun
 girshes
 gipsyish
 gastrohelcosis
