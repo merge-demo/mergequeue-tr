@@ -2606,6 +2606,7 @@ fountainless
 frivol
 filigreed
 ferio
+forbiddance
 farandmen
 foraminated
 folkfree
@@ -11117,7 +11118,6 @@ fisticuffs
 franca
 fetidly
 forecarriage
-forbiddance
 fauteuils
 fedellini
 fruitiness
