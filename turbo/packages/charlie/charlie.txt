@@ -4526,6 +4526,7 @@ carnacian
 carnaged
 chortling
 cosponsorship
+coursers
 carnages
 casamarca
 carnalite
@@ -27356,7 +27357,6 @@ course
 codirectorship
 cosmology
 coursey
-coursers
 courses
 coursing
 court
