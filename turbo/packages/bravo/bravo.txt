@@ -7644,7 +7644,6 @@ biophor
 beworship
 bedare
 bonaught
-barnumism
 barmen
 biciliate
 bracelets
@@ -10300,6 +10299,7 @@ boyang
 beehead
 beforehandedness
 beets
+barnumism
 benevolist
 blacksnake
 baneful
