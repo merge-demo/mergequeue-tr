@@ -7969,7 +7969,6 @@ fletton
 fissipedia
 foredeep
 forespencer
-fiz
 finicality
 fatbirds
 fontina
@@ -11612,6 +11611,7 @@ formulizer
 fragilely
 fermata
 fustics
+fiz
 feinschmecker
 fussbudget
 forint
