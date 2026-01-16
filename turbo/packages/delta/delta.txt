@@ -6362,6 +6362,7 @@ despond
 derogate
 denuclearization
 derogates
+demove
 diglyceride
 dixie
 dillseed
@@ -10324,7 +10325,6 @@ delightsomeness
 discophore
 dioptra
 depurative
-demove
 dioptric
 dioptrical
 duhr
