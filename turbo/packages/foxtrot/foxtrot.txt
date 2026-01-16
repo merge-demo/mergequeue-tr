@@ -5894,6 +5894,7 @@ fineable
 flubdubs
 forestaysail
 flowerpots
+fetlocked
 flooder
 fowlpoxes
 freakiness
@@ -6593,7 +6594,6 @@ fancymonger
 fatuousness
 focussed
 fiot
-fetlocked
 ferricyanic
 fecche
 fantaseid
