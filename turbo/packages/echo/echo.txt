@@ -1049,7 +1049,6 @@ ephrathite
 exterritorial
 enshrouded
 edgrow
-encephaloscope
 equiparate
 enormous
 ead
@@ -1430,6 +1429,7 @@ existential
 engineeringly
 euphuisms
 enarbour
+encephaloscope
 esconson
 electrophoresis
 eelpout
