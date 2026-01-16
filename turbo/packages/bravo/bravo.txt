@@ -4208,7 +4208,6 @@ beatles
 backchain
 bellmen
 barometric
-brusquer
 beatnik
 beatrix
 bonging
@@ -10857,6 +10856,7 @@ behooved
 blesboks
 blessedness
 blesser
+brusquer
 bowered
 blurb
 befriz
