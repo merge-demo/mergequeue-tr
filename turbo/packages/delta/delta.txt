@@ -1558,6 +1558,7 @@ droops
 docked
 diadelphian
 drippings
+dihydrochloride
 dices
 deputising
 dyssodia
@@ -9609,7 +9610,6 @@ dihybrids
 downgraded
 disfunctions
 dupers
-dihydrochloride
 draconin
 duplicable
 devastations
