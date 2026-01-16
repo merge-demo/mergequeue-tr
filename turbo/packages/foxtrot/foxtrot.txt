@@ -5196,6 +5196,7 @@ flatnose
 flavescent
 funguses
 flews
+flitterbat
 farse
 fulfil
 fourling
@@ -5330,7 +5331,6 @@ flanken
 feebleness
 fullmouth
 fascia
-flitterbat
 fruiteries
 ferulaic
 foldboater
