@@ -4274,6 +4274,7 @@ divisors
 deadening
 dermophytic
 dem
+dryfarmer
 dcolletage
 demagnetisation
 dovelet
@@ -15290,7 +15291,6 @@ dose
 dolomitic
 descriptives
 dorididae
-dryfarmer
 dumpty
 diabolical
 delusory
