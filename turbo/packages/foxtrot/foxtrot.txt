@@ -4429,7 +4429,6 @@ febricity
 fishplate
 feste
 fate
-fishpole
 fishpoles
 flueless
 flameproof
@@ -4582,6 +4581,7 @@ ferring
 flowmanostat
 folsom
 footweary
+fishpole
 foresaying
 formulising
 fleckless
