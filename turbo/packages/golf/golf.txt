@@ -5460,7 +5460,6 @@ germiculture
 gandhism
 glaciating
 galet
-gemellus
 guipure
 groundskeep
 glisk
@@ -10778,6 +10777,7 @@ gandered
 gignitive
 gamesomely
 gaincall
+gemellus
 guttated
 galeage
 gorki
