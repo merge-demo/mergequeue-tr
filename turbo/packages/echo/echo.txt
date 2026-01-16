@@ -7223,6 +7223,7 @@ estolide
 esplanades
 elpasolite
 electropercussive
+elastometry
 exocycloida
 enguard
 effervesce
@@ -8738,7 +8739,6 @@ enamorate
 eradications
 enjoyed
 esthesiogenic
-elastometry
 enhallow
 ecartes
 electroencephalograph
