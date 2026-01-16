@@ -5493,7 +5493,6 @@ garring
 gentian
 gloams
 granadillo
-glutinously
 grudgeons
 greencoat
 gangling
@@ -7219,6 +7218,7 @@ gallanted
 graminifolious
 guaruan
 gonesome
+glutinously
 grayouts
 guerickian
 gambeering
