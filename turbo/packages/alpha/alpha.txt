@@ -350,6 +350,7 @@ anacephalaeosis
 aberdeen
 aberduvine
 ambos
+archonship
 allodification
 azocyanide
 argasidae
@@ -19052,7 +19053,6 @@ astaticism
 adhering
 airmailed
 archon
-archonship
 arosaguntacook
 archonships
 archontia
