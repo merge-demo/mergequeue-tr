@@ -2760,7 +2760,6 @@ elegized
 elegizes
 eleidin
 encrusts
-eutocia
 extrusions
 exhilaratory
 evergreenite
@@ -8128,6 +8127,7 @@ erminois
 esterifying
 electrophotomicrography
 epicoelia
+eutocia
 encephalothlipsis
 electrovection
 enbibe
