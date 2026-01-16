@@ -10621,6 +10621,7 @@ deuteric
 detritus
 dunnaged
 diplont
+decamping
 delisting
 diplonts
 diplophase
@@ -16545,7 +16546,6 @@ dacryops
 disarchbishop
 draftsman
 drupaceous
-decamping
 dynastidan
 duplicature
 dyspnoic
