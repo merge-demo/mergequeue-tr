@@ -1357,7 +1357,6 @@ fatigable
 favorable
 fatigableness
 forfars
-frock
 forespeech
 fidac
 flaggish
@@ -5299,6 +5298,7 @@ flimflam
 fldxt
 foolhardier
 frower
+frock
 frugalism
 featherweight
 flayflint
