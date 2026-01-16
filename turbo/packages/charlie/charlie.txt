@@ -253,6 +253,7 @@ corregidor
 crumbly
 cachemic
 coemploy
+cymbals
 cities
 cachepot
 chillies
@@ -29424,7 +29425,6 @@ crispers
 craaled
 chromatogram
 classicised
-cymbals
 curdy
 crispier
 cryptophyte

@@ -3100,6 +3100,7 @@ ethiopian
 ellipticity
 extemporize
 elliptograph
+esprise
 elliptoid
 encrease
 extraparietal
@@ -7707,7 +7708,6 @@ enfeebler
 eriocaulaceous
 effluxion
 estrus
-esprise
 extruder
 ellipticalness
 epidemically
