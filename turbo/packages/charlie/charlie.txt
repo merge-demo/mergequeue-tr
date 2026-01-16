@@ -6471,7 +6471,6 @@ cycadlike
 caveator
 choaty
 caveators
-chiroptera
 compares
 crankly
 canell
@@ -26702,6 +26701,7 @@ cheatingly
 counteragency
 counteragitate
 counteralliance
+chiroptera
 cyanosed
 counterannouncement
 counterarch
