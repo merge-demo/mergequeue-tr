@@ -2799,6 +2799,7 @@ finlander
 fumigatories
 fcomp
 fretted
+falcade
 faunae
 fibrointestinal
 ficus
@@ -10577,7 +10578,6 @@ florins
 founds
 fertilizations
 fatidical
-falcade
 fussock
 formagen
 fattish
