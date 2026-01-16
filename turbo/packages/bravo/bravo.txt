@@ -1407,7 +1407,6 @@ beach
 benzotrichloride
 battable
 balefires
-bewreak
 barmbrack
 baleys
 baleise
@@ -7426,6 +7425,7 @@ betread
 barnier
 bathybius
 braveries
+bewreak
 betrothment
 betroths
 bromine
