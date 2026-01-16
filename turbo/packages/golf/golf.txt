@@ -2655,7 +2655,6 @@ globulicidal
 genetika
 gathering
 greatest
-gonotocont
 guaraguao
 gospodipoda
 grangerisation
@@ -8379,6 +8378,7 @@ gradientia
 galeeny
 gyroscopically
 ghosting
+gonotocont
 gaucherie
 gawby
 grebe
