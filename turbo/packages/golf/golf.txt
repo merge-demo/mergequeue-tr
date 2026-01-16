@@ -818,6 +818,7 @@ gambe
 gourmanderie
 gambeered
 glauke
+gonadotrophic
 greenlandite
 gastrostenosis
 genets
@@ -1916,7 +1917,6 @@ glommox
 gastrozooid
 glaikit
 glutting
-gonadotrophic
 globulet
 gunboat
 gaudless
