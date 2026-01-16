@@ -1115,6 +1115,7 @@ edition
 endere
 editorialization
 elsa
+electralize
 ecphory
 expunction
 enclosed
@@ -4716,7 +4717,6 @@ eelware
 exalbuminose
 encist
 electrokinetics
-electralize
 exponentially
 encysting
 emptiest

@@ -3517,7 +3517,6 @@ gramercies
 gaspar
 getling
 goldenest
-getpenny
 gibberish
 greaselessness
 gatewayman
@@ -6979,6 +6978,7 @@ guayabera
 gunnership
 grunch
 gnotobiology
+getpenny
 grimmest
 guarantor
 greengrocers
