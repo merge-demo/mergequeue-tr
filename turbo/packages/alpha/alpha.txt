@@ -11081,7 +11081,6 @@ acroblast
 assais
 amorphus
 amortizable
-algic
 assibilation
 abnormalcy
 amortizes
@@ -12175,6 +12174,7 @@ attacco
 anatopism
 adorally
 antiaristocratical
+algic
 annet
 anatox
 axed
