@@ -5449,6 +5449,7 @@ gyrfalcons
 gonadic
 gandhiism
 gliffy
+gynosporangium
 grid
 gradines
 goodwillies
@@ -6965,7 +6966,6 @@ gauntries
 gushiest
 guetar
 genevoise
-gynosporangium
 greenuk
 geason
 goofiness
