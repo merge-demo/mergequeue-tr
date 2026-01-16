@@ -14306,6 +14306,7 @@ axile
 ammonite
 attractance
 anticlnoria
+ataxite
 autocrator
 acipenseres
 alopias
@@ -23919,7 +23920,6 @@ angas
 anisocotyly
 arabizing
 agile
-ataxite
 amphibologism
 authorhood
 acaridae
