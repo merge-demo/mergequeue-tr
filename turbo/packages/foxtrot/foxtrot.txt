@@ -8753,7 +8753,6 @@ frizzlier
 frontosphenoidal
 fulfills
 flancard
-fecundation
 foxie
 fixedly
 firebombing
@@ -10137,6 +10136,7 @@ filisters
 fliting
 fenite
 fissile
+fecundation
 frontlet
 fitter
 fashed
