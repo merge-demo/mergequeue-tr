@@ -8369,6 +8369,7 @@ apocrypha
 alcippe
 amini
 adscriptive
+akkadist
 archdapifer
 ayield
 agricultor
@@ -10285,7 +10286,6 @@ ameiva
 ascidiae
 amel
 adj
-akkadist
 asyllabia
 arcticize
 anemious
