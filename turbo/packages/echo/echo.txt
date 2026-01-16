@@ -1539,6 +1539,7 @@ embrasures
 eggrolls
 eggs
 emplastra
+enweaving
 excerptive
 encyclopedial
 eupeptically
@@ -9876,7 +9877,6 @@ erostrate
 experimentalize
 epeeists
 ependymoma
-enweaving
 eleutheropetalous
 esthesiology
 elementarily
