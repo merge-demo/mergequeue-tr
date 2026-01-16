@@ -1757,7 +1757,6 @@ funicule
 fossildom
 fibropsammoma
 fantasmagoric
-frailero
 famatinite
 featheredged
 fanzines
@@ -7634,6 +7633,7 @@ fano
 fiesta
 forehandedness
 fellingbird
+frailero
 forwardest
 flowering
 fishergirl
