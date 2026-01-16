@@ -635,6 +635,7 @@ guenepe
 guideline
 gramineal
 geodetic
+genarchship
 gweducs
 grottowork
 glutathione
@@ -3192,7 +3193,6 @@ glottological
 geotilla
 grigs
 geotropy
-genarchship
 guardant
 glossolabiolaryngeal
 gametoid
