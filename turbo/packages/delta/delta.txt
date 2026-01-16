@@ -2704,7 +2704,6 @@ deconvolution
 deconvolve
 desmon
 decor
-diplopic
 dappledness
 decurves
 decorable
@@ -18378,6 +18377,7 @@ denudative
 dillue
 douches
 denotate
+diplopic
 danseuses
 digmeat
 duodenostomy
