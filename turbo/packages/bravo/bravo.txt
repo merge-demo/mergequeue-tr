@@ -5252,6 +5252,7 @@ bitless
 backmost
 blastocyst
 bolters
+bellicoseness
 bioblast
 bastes
 boobs
@@ -8172,7 +8173,6 @@ bloodbird
 bateaux
 brawlier
 bossa
-bellicoseness
 bielding
 brunts
 bewinter
