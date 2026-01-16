@@ -2062,7 +2062,6 @@ grapheme
 gaynesses
 grippit
 girsh
-gleeked
 glyptodont
 guideboard
 gunbuilder
@@ -3984,6 +3983,7 @@ guessingly
 grieced
 gigster
 guarinite
+gleeked
 gemonies
 gravic
 gloomier
