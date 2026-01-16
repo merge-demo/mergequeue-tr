@@ -2774,6 +2774,7 @@ been
 baroneting
 baronetize
 ballistocardiographic
+bufo
 benzeneazobenzene
 bagwomen
 bedcase
@@ -5774,7 +5775,6 @@ bascology
 bunn
 bioluminescence
 bulak
-bufo
 bellbird
 bellboy
 bulbochaete
