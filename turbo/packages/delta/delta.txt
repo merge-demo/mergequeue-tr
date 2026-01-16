@@ -13766,7 +13766,6 @@ dissolvableness
 dissolvative
 dissolve
 daffadillies
-dalis
 druxy
 dissour
 disadventure
@@ -18499,6 +18498,7 @@ duramens
 daffish
 disawa
 datch
+dalis
 drongos
 durances
 downcast
