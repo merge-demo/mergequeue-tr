@@ -527,6 +527,7 @@ eclipsises
 entosthoblast
 echinococcosis
 epedaphic
+epeirogenetic
 epithelioceptor
 edgy
 enciphered
@@ -6429,7 +6430,6 @@ exsanguinate
 egbert
 eastern
 equatorial
-epeirogenetic
 ecophene
 embarrassing
 endangerments
