@@ -262,7 +262,6 @@ aba
 apodictic
 aggraded
 anthranoyl
-apocryphon
 abashing
 admonition
 aquamaniles
@@ -16099,6 +16098,7 @@ autocoenobium
 apocrita
 antischolasticism
 audibleness
+apocryphon
 amharic
 anita
 amenta
