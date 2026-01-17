@@ -2302,7 +2302,6 @@ eval
 escalatory
 epidemiologist
 exterminations
-echinopsine
 eobionts
 ensepulchre
 evangelicalness
@@ -6608,6 +6607,7 @@ enterogenous
 edificant
 eartagged
 excitator
+echinopsine
 empyreumata
 enantiomeric
 encraty
