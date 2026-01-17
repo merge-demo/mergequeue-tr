@@ -14602,6 +14602,7 @@ cystofibroma
 cystogenesis
 catabibazon
 cystogram
+checkerboard
 cystoid
 cystoidea
 cystoidean
@@ -29509,7 +29510,6 @@ continental
 culpatory
 crystallometric
 crystallose
-checkerboard
 coevality
 crystallurgy
 ceruminiferous
