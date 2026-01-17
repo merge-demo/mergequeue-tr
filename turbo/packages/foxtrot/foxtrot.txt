@@ -3042,7 +3042,6 @@ flirters
 forches
 flowerfly
 finances
-forfeitableness
 festology
 fooler
 feroce
@@ -4717,6 +4716,7 @@ fasibitikite
 flagellatae
 footlike
 fulmination
+forfeitableness
 follies
 fortress
 forereach
