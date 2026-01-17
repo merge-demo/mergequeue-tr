@@ -9687,7 +9687,6 @@ gruffier
 greased
 gyarung
 gallinuline
-geminal
 gastroplication
 gasoliery
 goodish
@@ -10543,6 +10542,7 @@ grilling
 guillemot
 graverobber
 gimpy
+geminal
 gambetta
 guayules
 grandmaster
