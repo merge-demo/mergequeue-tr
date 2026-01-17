@@ -2846,7 +2846,6 @@ extrarhythmical
 eosins
 exrupeal
 europhium
-eagre
 elephantoid
 elephantoidal
 enantiopathy
@@ -9418,6 +9417,7 @@ exactus
 entonic
 explainer
 endeavor
+eagre
 expection
 electroretinographic
 enstool
