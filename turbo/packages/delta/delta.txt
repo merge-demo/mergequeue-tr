@@ -591,6 +591,7 @@ dodecaheddra
 dissolver
 diwata
 decopperization
+divelled
 desmopathologist
 dicyclopentadienyliron
 dehydroretinol
@@ -15561,7 +15562,6 @@ donum
 donzel
 discovering
 doubt
-divelled
 donzels
 doob
 diazobenzene
