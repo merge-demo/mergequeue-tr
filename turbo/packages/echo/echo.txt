@@ -5325,7 +5325,6 @@ epipodia
 endoskeletons
 endosmic
 embaphium
-ethenyl
 emendicate
 epencephalic
 enjewel
@@ -10933,6 +10932,7 @@ echinops
 euphuize
 eupyrion
 eupittone
+ethenyl
 engrammes
 enteritis
 exams
