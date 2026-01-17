@@ -8084,7 +8084,6 @@ dhritarashtra
 disables
 disembowelled
 drawable
-dhurra
 detrimentalness
 doghole
 definienda
@@ -15179,6 +15178,7 @@ defunctness
 distributable
 dolabrate
 dialectalize
+dhurra
 doli
 disulphide
 dolcemente
