@@ -6832,6 +6832,7 @@ corradiating
 cornicular
 cathro
 crevasse
+crosshackle
 clamor
 cellulin
 contangoes
@@ -29901,7 +29902,6 @@ crossfish
 crossflow
 crossflower
 crossfoot
-crosshackle
 crosshair
 crosshand
 crosshatches
