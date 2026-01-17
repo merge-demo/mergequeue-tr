@@ -6838,7 +6838,6 @@ diagnosticians
 desmoncus
 decolonize
 dissention
-dryobalanops
 dragnet
 deadflat
 disvalues
@@ -9792,6 +9791,7 @@ diapaused
 discanonize
 debcle
 disrupture
+dryobalanops
 dillymen
 durangite
 doorstops
