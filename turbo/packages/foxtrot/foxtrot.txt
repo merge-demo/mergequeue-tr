@@ -5626,6 +5626,7 @@ fishnets
 finedraw
 fumet
 fermium
+friend
 fawe
 fragility
 fibrine
@@ -7665,7 +7666,6 @@ fernier
 frayproof
 feature
 foreigneering
-friend
 flexes
 firth
 firm
