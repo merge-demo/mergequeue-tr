@@ -6973,6 +6973,7 @@ decuria
 diogenite
 dithionite
 douter
+diameter
 diets
 dandlers
 dript
@@ -12865,7 +12866,6 @@ decadrachm
 divertissant
 deferentiality
 dominative
-diameter
 dhanvantari
 dysmenorrheic
 dysmeristic
