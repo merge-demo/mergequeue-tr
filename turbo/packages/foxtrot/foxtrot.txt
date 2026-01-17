@@ -784,6 +784,7 @@ footbridge
 fanciless
 foliicolous
 fathomer
+frush
 forestaff
 fandoms
 fadges
@@ -2499,7 +2500,6 @@ footsore
 feudal
 faired
 fastballs
-frush
 flunky
 favaginous
 foulmouth
