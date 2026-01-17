@@ -4770,7 +4770,6 @@ eguttulate
 enterotomy
 epiopticon
 excusatory
-endocarpic
 encode
 exitance
 ethnolinguist
@@ -9140,6 +9139,7 @@ eerinesses
 exosporous
 egoistically
 exacerbescent
+endocarpic
 eriglossa
 ephemeras
 erythroxylaceous
