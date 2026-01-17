@@ -352,7 +352,6 @@ enrheum
 eavedropping
 ephthianure
 endevil
-embouchement
 excentral
 eyestone
 erethistic
@@ -11807,6 +11806,7 @@ enrolment
 elaphrium
 euryon
 exaudi
+embouchement
 earock
 ethenoidal
 exaun
