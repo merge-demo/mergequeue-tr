@@ -6068,6 +6068,7 @@ ferrer
 frondeur
 fortnights
 fervidity
+formulated
 freighter
 frettation
 filical
@@ -8514,7 +8515,6 @@ fumaroles
 flatwashes
 fortification
 flatweed
-formulated
 forgainst
 formulisation
 famulus

@@ -3808,7 +3808,6 @@ carbohemoglobin
 calamodendron
 cribbling
 carbohydrase
-cannibalism
 cardioncus
 carbohydrate
 cardiotrophia
@@ -9154,6 +9153,7 @@ charwoman
 centipedes
 conservatives
 charwomen
+cannibalism
 chase
 chaseable
 chased
