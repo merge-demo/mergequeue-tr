@@ -4177,6 +4177,7 @@ beclown
 barrow
 boylas
 bradypus
+burgout
 beastling
 bullswool
 beastlings
@@ -13750,7 +13751,6 @@ bescurf
 burga
 bufflehorn
 bovaristic
-burgout
 bovate
 bonniness
 besmirching
