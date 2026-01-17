@@ -12909,6 +12909,7 @@ angletwitch
 allays
 anglewise
 avenger
+academies
 asteraceous
 anglian
 apportionment
@@ -21050,7 +21051,6 @@ abolete
 amarant
 abderite
 archipelago
-academies
 aminosulphonic
 ascyphous
 ascyrum
