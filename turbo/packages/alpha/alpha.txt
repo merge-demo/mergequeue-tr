@@ -7796,7 +7796,6 @@ aldoheptose
 analecta
 antigalactic
 assured
-afterfall
 apaestically
 accidentarily
 antimatrimonial
@@ -12365,6 +12364,7 @@ axes
 anders
 autoirrigation
 adipocerite
+afterfall
 americanism
 alkenna
 apolytikion
