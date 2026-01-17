@@ -7317,6 +7317,7 @@ diphenylenimide
 detorsion
 deashed
 disagreed
+diclytra
 disvulnerability
 determiner
 diameters
@@ -10916,7 +10917,6 @@ dromons
 dobsonflies
 droplike
 dropcloth
-diclytra
 disunionism
 disaccustomedness
 draymen
