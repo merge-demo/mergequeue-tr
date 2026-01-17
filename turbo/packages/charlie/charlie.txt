@@ -24385,7 +24385,6 @@ cooling
 concaver
 coolingness
 chrysopoetics
-candour
 cosmoramic
 coolness
 confessarius
@@ -27861,6 +27860,7 @@ crabbedness
 crescendoed
 crabber
 campit
+candour
 crabbery
 carnivaler
 crabby

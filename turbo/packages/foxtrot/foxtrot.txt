@@ -902,7 +902,6 @@ featural
 flatheads
 fortake
 fishhook
-forcive
 fistulatous
 fissipedial
 fantigue
@@ -5193,6 +5192,7 @@ flavescence
 fingall
 flytrap
 flatnose
+forcive
 flavescent
 funguses
 flews
