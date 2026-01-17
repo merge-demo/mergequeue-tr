@@ -11762,7 +11762,6 @@ exampling
 echeneididae
 exanthems
 eyelast
-esquireship
 ericetum
 excorticating
 exappendiculate
@@ -12817,6 +12816,7 @@ equine
 epipactis
 emajagua
 exoterical
+esquireship
 exotericism
 extenuated
 excusefully
