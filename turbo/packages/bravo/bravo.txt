@@ -11164,7 +11164,6 @@ bolivian
 bloodcurdling
 bloodcurdlingly
 booboos
-bloodies
 bloodiness
 bewimple
 blooding
@@ -15121,6 +15120,7 @@ bunkered
 brevilingual
 bestirring
 besmearer
+bloodies
 breviloquent
 bushhammer
 breviradiate
