@@ -6581,7 +6581,6 @@ acknowledgment
 asperge
 asplanchnic
 acrasida
-aeolina
 ayenst
 aeromaechanic
 antibaryon
@@ -15585,6 +15584,7 @@ antimonium
 aboves
 abseil
 antimoniuret
+aeolina
 anatine
 antethem
 acetabulum
