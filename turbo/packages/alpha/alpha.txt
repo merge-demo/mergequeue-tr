@@ -9198,7 +9198,6 @@ abide
 almerian
 ardeae
 apostle
-aerarian
 apetaloid
 abranchiate
 alpigene
@@ -24215,6 +24214,7 @@ ahistoric
 axseeds
 azyme
 automata
+aerarian
 apidae
 alcids
 awash

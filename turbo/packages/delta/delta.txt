@@ -343,6 +343,7 @@ detentive
 daybreaks
 diplostichous
 dreamt
+demihag
 dermathemia
 detrimentally
 daygoing
@@ -4745,7 +4746,6 @@ demodulating
 designless
 dwaibly
 deaconing
-demihag
 dodecatylic
 deair
 disseizor
