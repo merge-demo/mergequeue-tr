@@ -298,6 +298,7 @@ dreed
 demisheath
 dayanim
 daybeacon
+detrudes
 dealbate
 daybed
 devchar
@@ -18529,7 +18530,6 @@ dapperly
 disorganizers
 decriers
 dualism
-detrudes
 diumvirate
 dibbling
 drivage
