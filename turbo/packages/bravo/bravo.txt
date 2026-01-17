@@ -13718,7 +13718,6 @@ bircher
 banqueted
 barytocalcite
 braccio
-billetwood
 backus
 balneatory
 boutefeu
@@ -14924,6 +14923,7 @@ bura
 bearing
 balantidium
 breastheight
+billetwood
 baldie
 bignonia
 begulfing
