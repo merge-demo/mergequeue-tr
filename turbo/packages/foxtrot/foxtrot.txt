@@ -6552,6 +6552,7 @@ foamflower
 flammulation
 firework
 forthcomer
+flatteners
 frocks
 floriculturally
 fullness
@@ -8838,7 +8839,6 @@ flowery
 fervorless
 foulder
 fiberizer
-flatteners
 fouled
 fling
 fatiloquent
