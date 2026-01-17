@@ -3454,7 +3454,6 @@ chivarro
 counterplan
 caprimulgiformes
 chinwood
-caprin
 candlebeam
 cimelia
 caprioles
@@ -25040,6 +25039,7 @@ craftmanship
 courteously
 crosscourt
 costiferous
+caprin
 celotex
 corduroying
 corduroys
