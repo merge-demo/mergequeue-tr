@@ -2407,7 +2407,6 @@ gumphion
 grow
 guianese
 groomed
-gauk
 gruesomer
 gleemaiden
 gyrencephalous
@@ -5426,6 +5425,7 @@ golaseccan
 gingivitis
 gaea
 graphitized
+gauk
 glyptolith
 galvanocontractility
 groomishly
