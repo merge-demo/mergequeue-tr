@@ -2020,7 +2020,6 @@ ethiopic
 examinational
 elaenia
 elaeocarpaceae
-engraving
 effranchisement
 eyeshot
 excussing
@@ -11208,6 +11207,7 @@ enthronised
 elohism
 enosis
 encomimiums
+engraving
 endoplastular
 eophyton
 enactment
