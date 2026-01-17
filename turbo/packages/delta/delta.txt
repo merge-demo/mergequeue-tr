@@ -7810,7 +7810,6 @@ devolves
 dactyloid
 daylighted
 diplospondylic
-dispending
 desmarestia
 devolving
 dramatisable
@@ -14756,6 +14755,7 @@ demiwivern
 denticular
 downcasts
 decrepitating
+dispending
 deceptional
 delimitative
 diazide

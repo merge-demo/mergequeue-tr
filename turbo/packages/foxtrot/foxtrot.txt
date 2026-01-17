@@ -1906,7 +1906,6 @@ fascicularly
 flimsy
 forgiver
 farrowing
-flattery
 franklinization
 fanglike
 federalism
@@ -4141,6 +4140,7 @@ frottola
 fumago
 frier
 forecloses
+flattery
 franchisor
 filaria
 fucaceae
