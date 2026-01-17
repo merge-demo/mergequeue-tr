@@ -6272,7 +6272,6 @@ dorsabdominally
 dermatosclerosis
 dermatoses
 devulcanize
-dermatosiophobia
 diselder
 depurated
 dermatozoon
@@ -8381,6 +8380,7 @@ dialystaminous
 dialystely
 dialystelic
 dialister
+dermatosiophobia
 dilatator
 diabase
 dialists
