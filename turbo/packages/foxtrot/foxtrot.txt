@@ -3025,7 +3025,6 @@ fishier
 fibreless
 flatcar
 foregone
-ferrimagnetism
 fractionalization
 fibril
 fuzing
@@ -5556,6 +5555,7 @@ fiords
 ferfel
 flickermouse
 flannelmouthed
+ferrimagnetism
 furbearer
 froebelist
 fanaticized
