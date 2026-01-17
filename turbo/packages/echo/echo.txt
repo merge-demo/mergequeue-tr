@@ -6708,6 +6708,7 @@ emunge
 entertake
 exstimulate
 exhumed
+engraphia
 eonism
 eloining
 exstill
@@ -11602,7 +11603,6 @@ ewery
 exciding
 empires
 ewes
-engraphia
 eucalypt
 envenomous
 everywhereness
