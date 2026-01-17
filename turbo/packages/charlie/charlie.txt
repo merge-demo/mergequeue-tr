@@ -12601,7 +12601,6 @@ choppily
 chronons
 chefrinia
 chronophotography
-chronoscopic
 chronoscopically
 cheesier
 catechisation
@@ -23198,6 +23197,7 @@ cellaring
 corticipetally
 constrainedly
 constrainedness
+chronoscopic
 carroll
 choiak
 coiffure
