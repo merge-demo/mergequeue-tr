@@ -14103,6 +14103,7 @@ bailieries
 blackberries
 barytine
 boarders
+bistorta
 brachygraphical
 bikol
 bipods
@@ -16736,7 +16737,6 @@ blinders
 bowyangs
 bucksaw
 bids
-bistorta
 bedfoot
 bariatrics
 bucktooth
