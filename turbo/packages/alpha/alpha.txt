@@ -2321,6 +2321,7 @@ acidometer
 arioi
 afflation
 anacardium
+arctan
 acidometry
 antinationalization
 asmear
@@ -5816,7 +5817,6 @@ anuric
 agatizes
 agatizing
 agatoid
-arctan
 alarbus
 agaze
 agallop
