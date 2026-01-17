@@ -5354,7 +5354,6 @@ castalian
 castalides
 cardiopuncture
 chertier
-castanea
 chewy
 cylindroconical
 cynarctomachy
@@ -29526,6 +29525,7 @@ cristobalite
 cerebrums
 crystoleum
 crystolon
+castanea
 crit
 criteria
 cryptogamous
