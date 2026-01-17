@@ -3967,7 +3967,6 @@ forlay
 flunk
 ferric
 furazolidone
-fluorosis
 fumblers
 foramina
 fishery
@@ -5258,6 +5257,7 @@ freemasonry
 flawing
 flabbergasted
 footloose
+fluorosis
 flawlessness
 fangy
 foamed
