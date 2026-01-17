@@ -6722,7 +6722,6 @@ feering
 foresworn
 felonweed
 foiter
-felloe
 frayed
 fried
 formative
@@ -8377,6 +8376,7 @@ futhark
 form
 fluoroscopes
 fullerboard
+felloe
 folksy
 formalesque
 foistiness
