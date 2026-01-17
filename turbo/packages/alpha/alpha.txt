@@ -3311,7 +3311,6 @@ apx
 amblychromatic
 anomurous
 agawam
-adactylous
 ametabola
 adad
 algesic
@@ -6935,6 +6934,7 @@ airview
 agrypnias
 abdicative
 airway
+adactylous
 aflutter
 anticommercialist
 aquavit
