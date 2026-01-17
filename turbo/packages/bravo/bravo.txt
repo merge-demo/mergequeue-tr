@@ -1180,7 +1180,6 @@ blennoma
 bajarigar
 brideman
 bajau
-bullshots
 boxer
 bajocco
 bajochi
@@ -8327,6 +8326,7 @@ boche
 biotitic
 burundi
 benzenes
+bullshots
 biggen
 biggened
 bruja
