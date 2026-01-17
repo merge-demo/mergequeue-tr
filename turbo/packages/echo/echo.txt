@@ -6688,6 +6688,7 @@ egestion
 expertising
 entosclerite
 eulogiser
+extroverts
 ecrevisse
 epulis
 espundia
@@ -13875,7 +13876,6 @@ euphenic
 excoriation
 emandibulate
 extraparental
-extroverts
 encyst
 endgame
 extraneity
