@@ -4685,6 +4685,7 @@ ferrugineous
 flabella
 flyweight
 frises
+fernseed
 facy
 factice
 frederic
@@ -7511,7 +7512,6 @@ funebrial
 formers
 falconries
 fortuuned
-fernseed
 foreclosure
 fevering
 fodientia
