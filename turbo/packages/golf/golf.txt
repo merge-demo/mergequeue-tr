@@ -688,7 +688,6 @@ geopolitician
 gauily
 granam
 germanesque
-gaddishness
 gideon
 granulomatosis
 goneril
@@ -1411,6 +1410,7 @@ gearshift
 gcd
 gangplow
 grandam
+gaddishness
 grundyite
 galvanopsychic
 gossipee
