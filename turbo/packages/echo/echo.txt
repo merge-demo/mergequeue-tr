@@ -1775,7 +1775,6 @@ entera
 embankments
 electrification
 epiblemata
-encompasser
 estimates
 entresse
 eocene
@@ -12799,6 +12798,7 @@ epeiridae
 enthusiastical
 eurycerotidae
 epomophorus
+encompasser
 exines
 extensional
 exostosis
