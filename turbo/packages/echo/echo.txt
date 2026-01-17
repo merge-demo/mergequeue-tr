@@ -11132,7 +11132,6 @@ eutrophication
 externalised
 expiating
 eutropous
-evocation
 entanglingly
 entry
 enjambments
@@ -14009,6 +14008,7 @@ entemple
 extraposition
 electrolytic
 extraprofessional
+evocation
 extrapunitive
 endogen
 extraregularly
