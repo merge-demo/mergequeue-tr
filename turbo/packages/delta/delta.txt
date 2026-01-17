@@ -3184,7 +3184,6 @@ docosanoic
 dozenths
 defectum
 dummkopf
-defedation
 dictums
 doricize
 dasyures
@@ -10963,6 +10962,7 @@ dheri
 dictyosiphon
 disaffirmation
 decidedness
+defedation
 disaffirming
 dermococcus
 dayberry
