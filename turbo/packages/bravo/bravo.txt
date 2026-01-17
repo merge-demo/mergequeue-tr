@@ -267,6 +267,7 @@ bacillariophyta
 buckwasher
 beroe
 bacilli
+biffs
 bothros
 bacillian
 bacillicidal
@@ -10343,7 +10344,6 @@ bladygrass
 baluchithere
 bisme
 blennostasis
-biffs
 battailant
 bucayo
 blae
