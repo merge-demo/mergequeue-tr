@@ -12150,7 +12150,6 @@ accepter
 artou
 aegeriid
 appels
-anathematizer
 antihumanist
 anatheme
 anatidae
@@ -23134,6 +23133,7 @@ antipapacy
 aortism
 agglomerations
 agnominal
+anathematizer
 aaronitic
 aggressor
 accouple
