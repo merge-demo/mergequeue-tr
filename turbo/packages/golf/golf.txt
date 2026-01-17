@@ -7931,7 +7931,6 @@ grandaunt
 gheg
 glairy
 gainless
-greenhorn
 gauzily
 granddaughter
 giglets
@@ -9709,6 +9708,7 @@ gandurah
 gambades
 greyhounds
 grocerwise
+greenhorn
 greediness
 glossaries
 gelants

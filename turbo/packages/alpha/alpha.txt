@@ -4714,7 +4714,6 @@ antedawn
 allographic
 acrotisms
 alphard
-aeluropodous
 aenach
 aphrodistic
 addaxes
@@ -15203,6 +15202,7 @@ asplenieae
 antifascism
 anolyte
 antifascist
+aeluropodous
 achromatised
 antifascists
 antifat
