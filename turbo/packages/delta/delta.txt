@@ -17900,6 +17900,7 @@ dillydallies
 debromination
 disgrace
 disburser
+deadlocks
 deterministically
 durance
 dejectedly
@@ -18222,7 +18223,6 @@ delights
 dentatocostate
 diamagnetometer
 detonatability
-deadlocks
 dermatorrhoea
 dode
 decurrent
