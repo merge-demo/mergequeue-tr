@@ -4119,7 +4119,6 @@ beardfishes
 beswarms
 beardy
 blanchimeter
-bearding
 bonita
 balminess
 bendies
@@ -5976,6 +5975,7 @@ belts
 backstitches
 bloodspilling
 beadlike
+bearding
 bionomy
 broads
 belute

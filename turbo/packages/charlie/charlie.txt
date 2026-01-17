@@ -5244,7 +5244,6 @@ castings
 casparian
 caspian
 coriariaceous
-casque
 casqued
 cushat
 casquetel
@@ -12077,6 +12076,7 @@ centralia
 chou
 chinkiest
 chouan
+casque
 chouanize
 committment
 cobaltite
