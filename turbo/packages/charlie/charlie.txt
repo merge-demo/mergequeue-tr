@@ -3700,7 +3700,6 @@ conjugation
 chabutra
 caranna
 carap
-couloirs
 carapaces
 carapacho
 chapfallenly
@@ -4960,6 +4959,7 @@ cartier
 cartiest
 cartilaginei
 clogger
+couloirs
 cartilagineous
 collatable
 chirotes

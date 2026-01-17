@@ -12308,7 +12308,6 @@ ewers
 eerock
 equilucent
 exerce
-equimultiple
 exceptious
 epanisognathous
 endotracheitis
@@ -13860,6 +13859,7 @@ equipotentiality
 endotropic
 eelpot
 equivocation
+equimultiple
 evaporize
 ethionic
 ellasar
