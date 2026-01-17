@@ -15733,7 +15733,6 @@ claxon
 cleaded
 corin
 chandelled
-cleam
 confectioneries
 clean
 cleaned
@@ -15921,6 +15920,7 @@ coadministration
 coryphylly
 cobelligerent
 cold
+cleam
 clerestoried
 cliched
 cinchonizing
