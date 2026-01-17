@@ -6284,6 +6284,7 @@ facadal
 floreted
 flunkey
 frilal
+filamentose
 fumatories
 fissipeda
 fluidity
@@ -9886,7 +9887,6 @@ fornices
 frogskins
 forepeaks
 fines
-filamentose
 forgemen
 fogeater
 fevercup
