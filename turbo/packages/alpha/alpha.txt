@@ -12697,6 +12697,7 @@ arpeggiation
 annus
 arcticward
 angareb
+alveolars
 angel
 angela
 artemis
@@ -16986,7 +16987,6 @@ abortus
 aplanogamete
 areally
 antifermentative
-alveolars
 affreight
 aplite
 alfione
