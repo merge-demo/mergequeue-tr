@@ -2369,6 +2369,7 @@ cumin
 calinda
 ccw
 canamo
+cameriera
 cranesbill
 chaetognathous
 cicer
@@ -2975,7 +2976,6 @@ carabini
 cleverest
 caustic
 canthathari
-cameriera
 canthitis
 conceiver
 crystalled
