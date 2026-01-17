@@ -9923,7 +9923,6 @@ choochoo
 chemotaxy
 collocatory
 chemotaxonomy
-chemotaxonomic
 controls
 comma
 carices
@@ -20093,6 +20092,7 @@ cyprina
 commented
 chromatioideae
 commenter
+chemotaxonomic
 commenting
 commentitious
 cakra
