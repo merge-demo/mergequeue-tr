@@ -2090,7 +2090,6 @@ fayence
 fluming
 feminist
 falcate
-fibrocartilage
 fundraising
 flabbier
 franchises
@@ -5421,6 +5420,7 @@ famished
 foresummer
 feridjee
 furfuration
+fibrocartilage
 fanatic
 fretsome
 fleeter

@@ -2347,7 +2347,6 @@ gorgets
 gustfulness
 gymnics
 geographism
-gymnocerata
 glassy
 graptomancy
 gruss
@@ -6497,6 +6496,7 @@ gyrant
 golo
 grasshopper
 gorinesses
+gymnocerata
 grazing
 gymnasia
 groundage
