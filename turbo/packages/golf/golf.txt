@@ -4496,6 +4496,7 @@ galactemia
 gawcey
 gorry
 graveless
+grippers
 gypsology
 gymnotokous
 glib
@@ -10203,7 +10204,6 @@ gimbaljawed
 groundneedle
 grun
 generaliser
-grippers
 guzzled
 guile
 gyrectomies
