@@ -11640,7 +11640,6 @@ cyanamids
 cholesteatoma
 concorrezanes
 cholesteatomatous
-cholesteremia
 cleidohyoid
 charoset
 clethra
@@ -20291,6 +20290,7 @@ cliona
 communalise
 communalism
 communalistic
+cholesteremia
 confederacies
 communalization
 congressional
