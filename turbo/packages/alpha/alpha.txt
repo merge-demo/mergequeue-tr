@@ -12690,7 +12690,6 @@ anticryptically
 ajivika
 angarias
 autoeducation
-abanet
 aeronomist
 arpeggiation
 annus
@@ -17010,6 +17009,7 @@ avascular
 annoyously
 adorned
 americanizer
+abanet
 apneumona
 apneumonous
 agrammatical
