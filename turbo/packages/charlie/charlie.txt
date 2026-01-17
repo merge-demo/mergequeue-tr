@@ -119,7 +119,6 @@ cladophyllum
 cabineting
 codshead
 cabinetmaking
-capacitated
 cabinetted
 coumalic
 chordophone
@@ -25000,6 +24999,7 @@ cordelle
 crushableness
 cordery
 corders
+capacitated
 cordewane
 carroms
 conventing
