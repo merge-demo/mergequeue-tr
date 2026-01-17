@@ -5778,7 +5778,6 @@ catechisable
 citharoedic
 catechised
 criminalistician
-cylindrophis
 chumming
 chevesne
 calibred
@@ -12301,6 +12300,7 @@ crossweed
 chiromyidae
 circulate
 crosswind
+cylindrophis
 christies
 christlessness
 conductively
