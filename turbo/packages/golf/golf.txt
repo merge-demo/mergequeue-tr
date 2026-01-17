@@ -2420,7 +2420,6 @@ ganton
 gyrolith
 glaury
 gazel
-gonytheca
 guiac
 gummose
 gratification
@@ -4782,6 +4781,7 @@ gjedost
 gastropleuritis
 gyniatrics
 gravedo
+gonytheca
 glorifies
 geisa
 governorship
