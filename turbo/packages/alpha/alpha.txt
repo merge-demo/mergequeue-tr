@@ -466,7 +466,6 @@ americanizes
 archiplata
 abirritate
 anthotropic
-attently
 alfalfa
 abirritating
 affirmativeness
@@ -4644,6 +4643,7 @@ aviculture
 aedicule
 attraction
 autem
+attently
 aedile
 adject
 aediles
