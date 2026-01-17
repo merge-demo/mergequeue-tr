@@ -843,7 +843,6 @@ astringents
 aerosols
 artinesses
 acesodyne
-alnitak
 anam
 athrogenic
 avilement
@@ -15532,6 +15531,7 @@ algum
 auxilium
 amenorrhoeal
 alabastrum
+alnitak
 aspectual
 asparkle
 andronitis
