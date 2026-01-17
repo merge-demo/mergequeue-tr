@@ -8429,6 +8429,7 @@ grocerdom
 gawsie
 gandul
 gyring
+glassiest
 grapestone
 gravelroot
 gallstones
@@ -9319,7 +9320,6 @@ gamodeme
 genuflect
 gangtide
 geronomite
-glassiest
 glossas
 goldurn
 governability
