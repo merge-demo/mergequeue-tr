@@ -6088,7 +6088,6 @@ gravities
 gordiacean
 girja
 gardinol
-gallimaufry
 guanos
 gyrous
 gurniad
@@ -7175,6 +7174,7 @@ geelbeck
 grassier
 galactophorous
 grizzlies
+gallimaufry
 gutterwise
 gripman
 gainlessness
