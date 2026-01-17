@@ -8625,7 +8625,6 @@ grapline
 guideposts
 goldfielder
 gaslight
-gasteralgia
 greened
 govern
 gradal
@@ -10833,6 +10832,7 @@ greengrocery
 greenbackism
 grayhead
 gyrofrequency
+gasteralgia
 genethlialogical
 girderage
 gyrograph
