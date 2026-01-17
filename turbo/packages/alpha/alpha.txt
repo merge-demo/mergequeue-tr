@@ -1951,7 +1951,6 @@ aporetic
 acetylperoxide
 acetylphenylhydrazine
 aslope
-affinite
 acetylphenol
 agogic
 acetyls
@@ -7049,6 +7048,7 @@ avick
 aphyllous
 autoist
 aquench
+affinite
 axolotl
 attiring
 akees
