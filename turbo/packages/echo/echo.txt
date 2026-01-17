@@ -7641,6 +7641,7 @@ ensconce
 elixirs
 enhungered
 euphemious
+ensure
 electrophoridae
 epicoracoid
 exocrine
@@ -7751,7 +7752,6 @@ exterritorially
 emergents
 erysipelatoid
 englify
-ensure
 endosomes
 emendable
 estopping
