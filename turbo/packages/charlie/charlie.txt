@@ -895,6 +895,7 @@ cayuse
 cayuses
 cajan
 capitare
+chiminage
 cajaputs
 cucularis
 cazibi
@@ -10685,7 +10686,6 @@ chymify
 cobnuts
 confide
 cholinesterase
-chiminage
 chimla
 chimleys
 chain
