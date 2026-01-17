@@ -387,7 +387,6 @@ diphtheria
 didunculus
 disembargoing
 dimmet
-daimons
 ditches
 deek
 daedalea
@@ -2830,6 +2829,7 @@ dustier
 decubital
 dezincked
 duodenums
+daimons
 downstater
 daur
 desiring
