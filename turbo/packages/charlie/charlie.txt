@@ -2152,7 +2152,6 @@ campestral
 consarcinate
 camphane
 camphanone
-camphene
 camphenes
 camphine
 cufflinks
@@ -27615,6 +27614,7 @@ cannibalistic
 chionophobia
 chuffiest
 coverable
+camphene
 coecum
 cowardly
 choloidinic
