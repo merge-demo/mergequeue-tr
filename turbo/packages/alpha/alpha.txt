@@ -7000,6 +7000,7 @@ aizoon
 antitryptic
 atrioventricular
 arborist
+alluviate
 animal
 abiology
 anoure
@@ -22216,7 +22217,6 @@ antiphon
 astigmometer
 aglossa
 astigmometry
-alluviate
 algologist
 aegritude
 apprecate
