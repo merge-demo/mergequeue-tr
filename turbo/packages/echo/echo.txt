@@ -2292,7 +2292,6 @@ etnas
 espressos
 exurbias
 endocrania
-edana
 eyebeams
 expert
 essene
@@ -4553,6 +4552,7 @@ echinodermal
 emberizidae
 electing
 embeggar
+edana
 earthmove
 erica
 enrol
