@@ -5966,7 +5966,6 @@ egotism
 enigmas
 enjambements
 enigmata
-eassel
 eluvial
 exquisite
 etourderie
@@ -12013,6 +12012,7 @@ enterfeat
 exampleship
 essentials
 eigenspace
+eassel
 etherion
 espeire
 electrostrictive
