@@ -8694,7 +8694,6 @@ grammars
 gearing
 gastraeal
 gates
-glunching
 gnathonical
 gastrodisc
 growler
@@ -10742,6 +10741,7 @@ gustiest
 geocentrically
 galewort
 glyphograph
+glunching
 gedackt
 geckotoid
 gye
