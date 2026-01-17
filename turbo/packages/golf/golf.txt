@@ -4072,7 +4072,6 @@ gelatinised
 griph
 gastroduodenotomy
 grasshop
-guffawing
 grasped
 glucolipid
 gimel
@@ -5969,6 +5968,7 @@ grainsman
 granulous
 geometry
 gutterman
+guffawing
 gyve
 graspers
 giallolino

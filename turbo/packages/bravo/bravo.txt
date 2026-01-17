@@ -114,7 +114,6 @@ babyism
 barn
 baconic
 blurrily
-babylike
 babillard
 babylon
 backtrace
@@ -9939,6 +9938,7 @@ bitterheartedness
 becapped
 birdlife
 bitterishness
+babylike
 begulfs
 buildup
 bitterness
