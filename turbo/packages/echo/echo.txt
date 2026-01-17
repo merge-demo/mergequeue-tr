@@ -2818,7 +2818,6 @@ epipubic
 exampleless
 ecodeme
 eleomargaric
-encephalon
 epipolic
 entoptical
 equivalencing
@@ -9305,6 +9304,7 @@ eugeosynclinal
 epitaphize
 elytrin
 errors
+encephalon
 estramazone
 ecrustaceous
 erse
