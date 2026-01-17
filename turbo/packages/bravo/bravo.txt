@@ -4402,6 +4402,7 @@ beanweed
 bunyas
 bebeerin
 bennettitales
+bergy
 bovenland
 briskness
 bakeboard
@@ -6630,7 +6631,6 @@ bimane
 bawdric
 beefing
 bakshishing
-bergy
 bergylt
 berginization
 branchipodidae
