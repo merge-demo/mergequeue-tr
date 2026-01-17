@@ -717,7 +717,6 @@ astrofel
 acequiador
 abovedeck
 azygomatous
-aboveproof
 abovestairs
 aluminised
 agaricaceae
@@ -3026,6 +3025,7 @@ actinoelectricity
 actinogonidiate
 antipathist
 amitriptyline
+aboveproof
 auditors
 abhorrency
 appear

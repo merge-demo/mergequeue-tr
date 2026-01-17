@@ -7562,6 +7562,7 @@ fructuarius
 funiculus
 fanciers
 flintworker
+foreshadow
 forespeak
 freezable
 fervors
@@ -7889,7 +7890,6 @@ federalisation
 fopdoodle
 federalness
 freeheartedness
-foreshadow
 filibustering
 frisket
 forgivenesses
