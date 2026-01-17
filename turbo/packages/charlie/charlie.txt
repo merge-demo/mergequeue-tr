@@ -1261,6 +1261,7 @@ counterfaller
 chlored
 cambrel
 canun
+crestfish
 cameo
 calendarial
 chusite
@@ -4368,7 +4369,6 @@ caricologist
 cowlstaff
 caricous
 craker
-crestfish
 caridean
 chirarthritis
 cirrhous
