@@ -2973,7 +2973,6 @@ flirts
 flaggelation
 forbs
 furiousness
-faintheartedness
 forma
 fiars
 fiascos
@@ -4086,6 +4085,7 @@ feuilletons
 frameworks
 floridan
 fiorin
+faintheartedness
 fusiladed
 fiorite
 flamberg
