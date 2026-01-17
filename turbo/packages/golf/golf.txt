@@ -5589,7 +5589,6 @@ groundwall
 goldseed
 grisping
 gnomonologically
-guayroto
 graptolithida
 glochid
 geranial
@@ -6378,6 +6377,7 @@ glassworks
 gonotyl
 gracer
 gasterozooid
+guayroto
 geoponic
 goshenite
 ganefs
