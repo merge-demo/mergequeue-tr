@@ -4175,6 +4175,7 @@ genealogy
 gollar
 gaspergou
 gienah
+gloomy
 gene
 graphomania
 grandfather
@@ -5740,7 +5741,6 @@ goings
 gleeds
 gish
 grimmish
-gloomy
 grapsoid
 gymnoplast
 gastroenteroptosis
