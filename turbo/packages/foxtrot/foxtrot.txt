@@ -9988,7 +9988,6 @@ finicky
 fowlpox
 fopped
 flenching
-frypans
 frillily
 falderal
 fen
@@ -11208,6 +11207,7 @@ fetoplacental
 fungosities
 funic
 footlers
+frypans
 faradise
 fistulae
 fennecs
