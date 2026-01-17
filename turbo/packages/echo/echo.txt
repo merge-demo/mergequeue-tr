@@ -1859,7 +1859,6 @@ edit
 epistylar
 embolization
 extramorainic
-equivocatingly
 endaseh
 exploded
 everting
@@ -5985,6 +5984,7 @@ expeditated
 epimacus
 ejectors
 epheboi
+equivocatingly
 englute
 enjail
 escaped
