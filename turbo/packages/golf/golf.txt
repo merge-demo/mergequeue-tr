@@ -94,7 +94,6 @@ gualaca
 glauber
 gymnopaedes
 galabia
-glandulose
 gnomology
 garbling
 grayfishes
@@ -9520,6 +9519,7 @@ glidder
 grumbler
 greenlander
 ger
+glandulose
 gadaea
 gastrophthisis
 gastrocentrous
