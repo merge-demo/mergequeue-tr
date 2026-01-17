@@ -3365,7 +3365,6 @@ damnum
 ditremidae
 defleas
 downlinks
-deflect
 dichotomic
 disinhuming
 darer
@@ -5306,6 +5305,7 @@ derider
 dorsimesal
 disblame
 daraf
+deflect
 diaphoretic
 displaced
 denticle
