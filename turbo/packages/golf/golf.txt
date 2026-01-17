@@ -5617,7 +5617,6 @@ gloomily
 gloomings
 graveward
 gunyang
-goons
 grimoire
 germanics
 gubernacular
@@ -7805,6 +7804,7 @@ gravidas
 glagol
 gestion
 guanche
+goons
 graisse
 geerah
 gerately
