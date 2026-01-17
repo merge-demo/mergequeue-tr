@@ -6274,7 +6274,6 @@ flummer
 flickerproof
 fistnote
 funori
-fettling
 fusionism
 futurable
 flumping
@@ -9198,6 +9197,7 @@ feretra
 forfend
 fraise
 fibrinopurulent
+fettling
 fraised
 frug
 fertilities
