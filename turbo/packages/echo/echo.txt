@@ -4912,7 +4912,6 @@ endamebae
 equiv
 eveck
 eudemons
-extradictable
 endamoebas
 endamoebidae
 equations
@@ -10660,6 +10659,7 @@ extricating
 exclamatorily
 eudiometrical
 expands
+extradictable
 eudist
 etiam
 eudoxian
