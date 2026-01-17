@@ -1500,7 +1500,6 @@ galosh
 guacamole
 gastrulae
 guarachas
-gunocracy
 gasifies
 glengarry
 gasterolichenes
@@ -9274,6 +9273,7 @@ glucuronic
 goyana
 gurge
 gangliate
+gunocracy
 galactophagous
 gunj
 guidebook
