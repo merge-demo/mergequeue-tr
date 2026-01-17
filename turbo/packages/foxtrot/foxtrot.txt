@@ -1855,7 +1855,6 @@ fruiterers
 federacies
 febriphobia
 flemishing
-fringefoot
 fielden
 fiveling
 fiances
@@ -5839,6 +5838,7 @@ feyer
 fluctuation
 fillagreing
 festine
+fringefoot
 fecund
 fistfight
 facsimilize
