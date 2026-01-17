@@ -6508,6 +6508,7 @@ entamoebic
 encarpium
 endostosis
 ephyra
+enslave
 exactly
 extratension
 endlichite
@@ -13071,7 +13072,6 @@ eucaine
 exosculation
 embankment
 ergates
-enslave
 embassador
 eutaxite
 explications
