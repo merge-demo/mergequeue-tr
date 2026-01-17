@@ -3029,7 +3029,6 @@ garboil
 gulinula
 geminate
 guiding
-greedsome
 geomantically
 garnerage
 geoponics
@@ -4463,6 +4462,7 @@ gepoun
 gugu
 galtonian
 gypsyfy
+greedsome
 ganoblast
 gunshot
 generically
