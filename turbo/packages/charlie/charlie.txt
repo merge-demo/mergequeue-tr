@@ -13941,7 +13941,6 @@ crowl
 commemoratory
 cinquefoil
 corporature
-cinquefoiled
 cinquefoils
 cacographer
 cinquepace
@@ -18200,6 +18199,7 @@ coexerted
 cheeked
 coexerting
 condescends
+cinquefoiled
 coexerts
 coexistence
 coexisting
