@@ -7515,7 +7515,6 @@ cerci
 cercidiphyllaceae
 cryotrons
 consummations
-colloquies
 cercises
 cercocebus
 cercomonad
@@ -11068,6 +11067,7 @@ cothish
 circuminsular
 chinoiserie
 compander
+colloquies
 chitarroni
 clitoris
 cyclicly
