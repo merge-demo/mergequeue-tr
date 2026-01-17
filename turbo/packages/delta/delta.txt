@@ -3077,7 +3077,6 @@ disennoble
 defacing
 defacto
 defade
-dichlamydeous
 defaillance
 defaitiste
 defalcated
@@ -5757,6 +5756,7 @@ disoxygenate
 dainties
 dialog
 datableness
+dichlamydeous
 diaxial
 deceit
 distalwards
