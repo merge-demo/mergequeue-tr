@@ -8582,6 +8582,7 @@ exclusively
 epichoristic
 equative
 electre
+echini
 eburneous
 etherial
 elucid
@@ -10839,7 +10840,6 @@ eloigners
 entosternum
 earache
 educes
-echini
 embassiate
 eligibilities
 endostomata
