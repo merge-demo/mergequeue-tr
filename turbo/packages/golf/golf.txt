@@ -5833,7 +5833,6 @@ gymnosporangium
 gynoecium
 glucate
 gorevan
-gibelite
 gastrostomies
 glucinums
 gangflower
@@ -9367,6 +9366,7 @@ galtonia
 geordie
 gadrooned
 grosgrains
+gibelite
 grossed
 graphomaniacal
 grebes
