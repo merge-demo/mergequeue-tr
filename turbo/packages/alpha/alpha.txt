@@ -1302,7 +1302,6 @@ amiray
 adolescing
 acrocomia
 adephagia
-assortive
 argentinize
 autodrainage
 acates
@@ -14273,6 +14272,7 @@ anteroparietal
 anencephalous
 alchochoden
 ancipitous
+assortive
 afflatuses
 acerathere
 asepticize
