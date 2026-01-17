@@ -7317,7 +7317,6 @@ greatcoats
 gildship
 gossard
 greyflies
-grievedly
 gonfalonier
 glumpiness
 guildhall
@@ -8181,6 +8180,7 @@ galenical
 grapestalk
 groomling
 gussy
+grievedly
 galeodidae
 grapevines
 gentlemanlike

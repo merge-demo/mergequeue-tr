@@ -2795,7 +2795,6 @@ ascomycete
 amyelencephalia
 acroclinium
 acrodactyla
-acrodont
 anarithmia
 argonauta
 accise
@@ -23870,6 +23869,7 @@ attractors
 autarkist
 autechoscope
 arising
+acrodont
 adenopathy
 abanga
 apilary
