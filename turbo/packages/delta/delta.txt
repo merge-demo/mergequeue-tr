@@ -1904,7 +1904,6 @@ disconcertingness
 digladiator
 discourse
 debouchment
-diarial
 debout
 deervetch
 donging
@@ -7249,6 +7248,7 @@ dextrally
 dournesses
 defalk
 disarrest
+diarial
 deteriorating
 deterioration
 deuce
