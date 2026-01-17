@@ -2929,7 +2929,6 @@ gabbled
 geocerite
 glove
 gubernation
-greenheaded
 gallons
 glabreity
 gulley
@@ -4248,6 +4247,7 @@ gnu
 gynecocracies
 goby
 gynecocrat
+greenheaded
 galidictis
 gunshots
 gleamed
