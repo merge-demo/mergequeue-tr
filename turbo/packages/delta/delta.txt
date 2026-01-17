@@ -2591,7 +2591,6 @@ docetist
 desistence
 diplocephalous
 decoat
-decoct
 demiquaver
 dashes
 decoctive
@@ -13742,6 +13741,7 @@ dissociations
 directoire
 defluous
 deadlihead
+decoct
 diaclinal
 disannex
 dissogeny
