@@ -4253,6 +4253,7 @@ galidictis
 gunshots
 gleamed
 gastroscope
+glaiket
 gangliated
 gibeonite
 gasconism
@@ -8797,7 +8798,6 @@ gerful
 gangan
 goodenoviaceae
 gablock
-glaiket
 gasterophilus
 glycins
 gonogenesis
