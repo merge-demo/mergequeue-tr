@@ -5340,7 +5340,6 @@ gunplays
 glazework
 gutting
 guanajuatite
-gregos
 geckoid
 gruelings
 gingal
@@ -8302,6 +8301,7 @@ gephyrocercy
 glacon
 gazelle
 gilenyer
+gregos
 greenslade
 gracefulness
 greyer
