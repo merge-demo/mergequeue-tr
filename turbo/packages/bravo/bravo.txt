@@ -8300,7 +8300,6 @@ biblists
 beak
 bookling
 burden
-byzantinism
 berberine
 botte
 belittlement
@@ -10146,6 +10145,7 @@ blackback
 beadles
 blackballed
 beinked
+byzantinism
 blanching
 blackballs
 byss
