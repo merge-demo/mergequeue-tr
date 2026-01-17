@@ -9223,7 +9223,6 @@ empleomania
 edam
 eroticomania
 endarterectomy
-embound
 episcopes
 epikleses
 empannel
@@ -13038,6 +13037,7 @@ ethos
 elites
 engrapple
 enhazard
+embound
 entrusted
 epinaoi
 eraser
