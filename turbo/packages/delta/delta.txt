@@ -3640,6 +3640,7 @@ dozing
 depsid
 disrupt
 decimalisation
+deuterostomatous
 discalced
 denigrate
 dropworts
@@ -5424,7 +5425,6 @@ donation
 disenablement
 deorsum
 deossification
-deuterostomatous
 dissipates
 dyakisdodecahedron
 deoxycorticosterone

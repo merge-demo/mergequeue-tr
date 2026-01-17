@@ -5757,7 +5757,6 @@ enigmatization
 engystomatidae
 enatic
 etherol
-extinguish
 eke
 enchiridia
 ephorus
@@ -10480,6 +10479,7 @@ etrenne
 exsurgent
 event
 etrog
+extinguish
 equatoreal
 etruscology
 excalation
