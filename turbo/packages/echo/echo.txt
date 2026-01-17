@@ -10,7 +10,6 @@ engirding
 epidermoid
 erigeron
 evaporometer
-euchologion
 emigate
 erosivity
 emblazon
@@ -4715,6 +4714,7 @@ embrowned
 emittent
 elocutive
 entryway
+euchologion
 euripides
 electrowin
 erythrodegenerative
