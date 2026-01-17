@@ -16797,7 +16797,6 @@ cloverleafs
 cloverleaves
 cloverley
 cycadophyte
-censorable
 cloverroot
 crepitus
 clovewort
@@ -31543,6 +31542,7 @@ cundite
 cursory
 cratered
 cuproid
+censorable
 cursorily
 crystallizability
 cursoriness

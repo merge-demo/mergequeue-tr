@@ -2300,6 +2300,7 @@ eval
 escalatory
 epidemiologist
 exterminations
+echinopsine
 eobionts
 ensepulchre
 evangelicalness
@@ -13195,7 +13196,6 @@ ensilate
 expiational
 expirate
 endostracal
-echinopsine
 eyrar
 expiration
 exponentiation
