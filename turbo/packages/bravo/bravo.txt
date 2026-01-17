@@ -6223,6 +6223,7 @@ benic
 benight
 buzzed
 bandalore
+batters
 bet
 barked
 brittlestem
@@ -14209,7 +14210,6 @@ bradyauxetically
 bebog
 boomboat
 bantin
-batters
 balladise
 bleu
 bluebottles
