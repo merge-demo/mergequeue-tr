@@ -5870,7 +5870,6 @@ balopticon
 bellmaking
 banquo
 baronship
-blebby
 bellmanship
 bellmouth
 briners
@@ -15440,6 +15439,7 @@ brillante
 brilliance
 braata
 bereave
+blebby
 bono
 beflout
 bacteriophage
