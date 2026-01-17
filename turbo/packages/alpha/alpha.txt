@@ -1365,6 +1365,7 @@ anticnemion
 airtightly
 awingly
 auxillary
+antiprimer
 accentual
 accension
 annulately
@@ -12495,7 +12496,6 @@ algesis
 armchairs
 abarambo
 anecdotage
-antiprimer
 astart
 ajowan
 anecdote
