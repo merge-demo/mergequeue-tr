@@ -12454,7 +12454,6 @@ bless
 bondar
 bockerel
 bastardly
-bonderize
 belabored
 bloodline
 bonderman
@@ -12845,6 +12844,7 @@ barnabite
 bioprecipitation
 barthite
 birdbrains
+bonderize
 boomslang
 boomslange
 buccula
