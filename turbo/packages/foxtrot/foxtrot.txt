@@ -1066,6 +1066,7 @@ flustration
 fiberboard
 fids
 frontons
+fluxility
 farrage
 ferroelectricity
 furziest
@@ -9271,7 +9272,6 @@ finnicky
 fatback
 formicicide
 fromages
-fluxility
 francolite
 faller
 fro
