@@ -8834,6 +8834,7 @@ grosser
 gainlier
 galleyworm
 graphostatical
+graphostatic
 gabbard
 gastness
 gypsiologist
@@ -9933,7 +9934,6 @@ geomaly
 grilladed
 guarico
 gonidial
-graphostatic
 getaways
 grievousness
 gigadoid
