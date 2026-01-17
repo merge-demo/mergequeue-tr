@@ -5012,7 +5012,6 @@ antiparagraphe
 assessory
 angiohyalinosis
 adinvention
-aerophobic
 aerophor
 antithermic
 arrode
@@ -10681,6 +10680,7 @@ adossee
 aptly
 acatharsia
 archilochian
+aerophobic
 amyloidosis
 amyloleucite
 afterwrath
