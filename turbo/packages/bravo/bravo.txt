@@ -1895,7 +1895,6 @@ bishoplike
 backy
 biostatics
 bougeron
-bandit
 beshrew
 bretwaldadom
 balant
@@ -7373,6 +7372,7 @@ bailiery
 balusters
 bassness
 bookmaker
+bandit
 buffcoat
 blanketmaking
 basest
