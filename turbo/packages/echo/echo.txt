@@ -113,7 +113,6 @@ eartab
 exodermal
 euphonised
 echinoderma
-earthboard
 exanthemata
 enantiomorphous
 endometritis
@@ -5611,6 +5610,7 @@ entyloma
 emus
 energistic
 europe
+earthboard
 epistemology
 explodable
 enteroscopy
