@@ -5460,6 +5460,7 @@ exculpations
 eurithermophile
 emplastrum
 er
+extraequilibrium
 etatist
 epidia
 enema
@@ -7148,7 +7149,6 @@ envolume
 embarment
 epistemonic
 eucaryote
-extraequilibrium
 enwallow
 excandescence
 earthshine
