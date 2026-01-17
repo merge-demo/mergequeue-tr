@@ -2060,7 +2060,6 @@ boltel
 bankrupting
 babylonia
 bemock
-bottlelike
 betraise
 bankrupture
 basilissa
@@ -9466,6 +9465,7 @@ bilifaction
 bobwood
 bovidae
 boga
+bottlelike
 birectangular
 burh
 bireme
