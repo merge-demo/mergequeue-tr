@@ -8676,6 +8676,7 @@ baxterian
 brattish
 boiko
 barbecues
+blastoidea
 bilos
 biloxi
 barbells
@@ -13279,7 +13280,6 @@ beng
 bowge
 becater
 briquettes
-blastoidea
 botany
 bilboquet
 berakes
