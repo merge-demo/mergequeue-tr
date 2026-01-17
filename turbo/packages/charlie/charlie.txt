@@ -3222,7 +3222,6 @@ capillarectasia
 cyrtograph
 cawquaw
 carmetta
-chinoiserie
 caboclos
 capilli
 capilliculture
@@ -11069,6 +11068,7 @@ chuckled
 chitarra
 cothish
 circuminsular
+chinoiserie
 compander
 chitarroni
 clitoris
