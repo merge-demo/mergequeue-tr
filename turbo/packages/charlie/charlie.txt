@@ -5287,7 +5287,6 @@ cassia
 cassicus
 cassidid
 catafalque
-cassididae
 cotsetla
 cassidulina
 chigetais
@@ -20359,6 +20358,7 @@ communize
 catholicoses
 communized
 commutable
+cassididae
 canada
 conjee
 commutant
