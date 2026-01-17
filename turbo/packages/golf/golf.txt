@@ -801,7 +801,6 @@ girllikeness
 gamashes
 grandfatherly
 goombay
-gastrospasm
 glycosidase
 gonydeal
 graf
@@ -2953,6 +2952,7 @@ goldurnedest
 grazable
 gulph
 gosh
+gastrospasm
 gastroscopic
 gooseflower
 gunks
