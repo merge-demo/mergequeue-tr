@@ -5251,6 +5251,7 @@ casquetel
 colemouse
 cassabas
 cassabully
+cynipoidea
 customs
 cultist
 custodiam
@@ -25149,7 +25150,6 @@ crampoons
 corge
 curculionist
 counterwall
-cynipoidea
 ceptor
 coriaceous
 coriamyrtin
