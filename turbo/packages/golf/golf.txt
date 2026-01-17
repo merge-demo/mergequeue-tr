@@ -3523,7 +3523,6 @@ gibbsites
 gapo
 gilt
 grogginess
-gantangs
 gigtree
 griffe
 gents
@@ -5556,6 +5555,7 @@ gesticulacious
 gigglingly
 gelilah
 goutier
+gantangs
 greenroom
 glucaemia
 gumming

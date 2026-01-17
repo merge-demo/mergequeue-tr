@@ -9426,7 +9426,6 @@ diether
 disenroll
 disheathing
 dehematize
-digamy
 disobeyal
 digamies
 divekeeper
@@ -11176,6 +11175,7 @@ droich
 devocalise
 dazingly
 dratted
+digamy
 disbelieves
 disavowals
 doughfeet
