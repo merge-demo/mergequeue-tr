@@ -4154,7 +4154,6 @@ gastroarthritis
 goodly
 guaranin
 gemmule
-gaslit
 gainful
 geographical
 glossophaga
@@ -10027,6 +10026,7 @@ gammation
 gargoyles
 greasing
 granitoidal
+gaslit
 gisler
 guerdoner
 greatheart
