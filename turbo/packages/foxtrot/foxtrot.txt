@@ -3194,6 +3194,7 @@ ficklest
 ficklety
 fosterable
 fictionalize
+fungation
 fourcher
 foots
 friers
@@ -11154,7 +11155,6 @@ funereally
 fiddly
 force
 frowy
-fungation
 fungia
 fremdness
 flyblowing
