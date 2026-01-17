@@ -12911,7 +12911,6 @@ clangorously
 clachs
 chuted
 calyon
-chromatometer
 chuting
 chutists
 cocurrent
@@ -28116,6 +28115,7 @@ cachetic
 cordial
 caunus
 craniocerebral
+chromatometer
 calligraphist
 counteracquittance
 cranioclast
