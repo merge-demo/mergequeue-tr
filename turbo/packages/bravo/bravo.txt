@@ -3736,6 +3736,7 @@ battlewagon
 bronchiectasis
 bovver
 beautifully
+burt
 behatted
 bibliothque
 botryotherapy
@@ -17051,7 +17052,6 @@ binoxide
 bishoping
 bulkage
 boldfaces
-burt
 bailed
 bulkhead
 bulkheading

@@ -3904,7 +3904,6 @@ angoumian
 agaphite
 adjoinedly
 aryanize
-analphabetism
 apprises
 adjoiner
 allioniaceae
@@ -10213,6 +10212,7 @@ ambulatories
 ambulatorium
 ahepatokla
 anthropogenic
+analphabetism
 avo
 acmaesthesia
 amburbial
