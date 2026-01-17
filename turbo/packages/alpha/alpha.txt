@@ -8532,6 +8532,7 @@ accelerograph
 alkylarylsulfonate
 anallergic
 agnate
+actinopterous
 alkylate
 atremate
 alkylbenzenesulfonates
@@ -16015,7 +16016,6 @@ accessorius
 arapunga
 antiradical
 antiegotist
-actinopterous
 anither
 alastair
 antiradicals
