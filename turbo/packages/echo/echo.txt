@@ -2145,7 +2145,6 @@ explicandum
 electropult
 erotica
 elation
-euphonise
 enrib
 effloresces
 extrapolar
@@ -11926,6 +11925,7 @@ enlightenedness
 endemiology
 eudaemonistically
 excursory
+euphonise
 equiradical
 epikeia
 epithelia
