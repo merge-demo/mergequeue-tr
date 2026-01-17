@@ -5031,6 +5031,7 @@ elaeomargaric
 enrolled
 econometer
 entreasure
+excels
 encaenia
 evens
 endophragmal
@@ -11877,7 +11878,6 @@ emptysis
 emptying
 excellence
 enomoty
-excels
 eosophobia
 eternizes
 excelsior
