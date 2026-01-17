@@ -5766,7 +5766,6 @@ fastigium
 filmer
 flamingly
 flittermouse
-familiarization
 fellowship
 fathmur
 flitters
@@ -10636,6 +10635,7 @@ femininity
 freezingly
 friandise
 fruitbearing
+familiarization
 foremark
 fusc
 frankness
