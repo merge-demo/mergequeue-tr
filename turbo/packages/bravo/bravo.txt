@@ -6784,6 +6784,7 @@ beaut
 buhls
 barytosulphate
 bookery
+bisects
 bersagliere
 brittles
 bin
@@ -9622,7 +9623,6 @@ bisectors
 bisectrices
 busybodyness
 bullheadedness
-bisects
 bottleflower
 banalize
 bosky
