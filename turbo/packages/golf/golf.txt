@@ -945,7 +945,6 @@ garaging
 gammarine
 gursh
 gingeli
-gammerel
 gammerstang
 garboils
 gastropneumatic
@@ -9888,6 +9887,7 @@ golding
 glaucophyllous
 galloons
 guaranine
+gammerel
 gaveling
 grouter
 greith
