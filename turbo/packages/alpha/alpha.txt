@@ -5352,7 +5352,6 @@ affrays
 admeasured
 affranchise
 adiadokokinesi
-affret
 acanthous
 aptotic
 agnosticism
@@ -16628,6 +16627,7 @@ apathogenic
 almoners
 aouad
 airting
+affret
 antlions
 apaturia
 augustness
