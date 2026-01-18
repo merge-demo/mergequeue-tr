@@ -2567,7 +2567,6 @@ committeewoman
 chinol
 castellanship
 candlesticks
-cogniser
 candlewaster
 choledocholithotripsy
 cambial
@@ -28161,6 +28160,7 @@ century
 countercheck
 cranioschisis
 cranioscopy
+cogniser
 chimerism
 cameos
 craniotomy
