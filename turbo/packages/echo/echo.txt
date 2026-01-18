@@ -1908,7 +1908,6 @@ endearance
 euhemerized
 excite
 evertebral
-envenomed
 erotogeneses
 ecdysial
 ejaculations
@@ -4465,6 +4464,7 @@ ensober
 eringoes
 enneadianome
 ezekiel
+envenomed
 encastre
 encastrement
 encaustically
