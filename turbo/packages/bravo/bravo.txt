@@ -593,7 +593,6 @@ benzalacetone
 bishopric
 breaths
 bistro
-baconism
 baragouinish
 brutishly
 blessers
@@ -14070,6 +14069,7 @@ bl
 bullpens
 brachycrany
 bowpot
+baconism
 brachydactylia
 bakehouse
 bathhouses
