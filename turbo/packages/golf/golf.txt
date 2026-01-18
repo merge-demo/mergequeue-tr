@@ -6751,7 +6751,6 @@ ganglioside
 gossiping
 geront
 gymnogyps
-gentilitial
 geologically
 gazania
 gyrostatics
@@ -6831,6 +6830,7 @@ guaranty
 globosities
 gluconokinase
 gymsia
+gentilitial
 gluteoinguinal
 gauntlets
 glucoprotein
