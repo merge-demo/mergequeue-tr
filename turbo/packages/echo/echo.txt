@@ -1266,6 +1266,7 @@ ecorche
 eblis
 eucairite
 eleonorite
+enforceable
 eoghanacht
 epinephrin
 epigramme
@@ -5614,7 +5615,6 @@ explodable
 enteroscopy
 elysium
 esophoria
-enforceable
 ectocarpous
 encitadel
 encryption
