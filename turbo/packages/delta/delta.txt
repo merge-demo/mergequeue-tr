@@ -5704,6 +5704,7 @@ dehumidify
 depolarization
 dernly
 depolarize
+disuniters
 dextrorsal
 decouple
 downstroke
@@ -6738,7 +6739,6 @@ desilicified
 desiliconization
 dribbed
 doubly
-disuniters
 documentize
 delate
 deceased
