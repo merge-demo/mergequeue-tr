@@ -5700,6 +5700,7 @@ glycoluril
 guardeen
 guttule
 ghillies
+guanize
 glamberry
 gadroons
 glossocele
@@ -9864,7 +9865,6 @@ guanin
 gagate
 ghoom
 glycerose
-guanize
 gifblaar
 graticulation
 genders

@@ -15800,7 +15800,6 @@ anvilled
 aviolite
 amidic
 antiphylloxeric
-amphibiotica
 acarpellous
 arist
 arthrempyesis
@@ -24923,6 +24922,7 @@ attractability
 awakening
 awakeningly
 awaking
+amphibiotica
 automotor
 archform
 arseniosiderite
