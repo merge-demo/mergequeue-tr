@@ -2247,7 +2247,6 @@ cerebrotomy
 camshach
 counterproductiveness
 camshachle
-countershear
 camshafts
 camstane
 coneine
@@ -28570,6 +28569,7 @@ cavallies
 crustaceans
 curliness
 coelelminthic
+countershear
 credulity
 cardiosclerosis
 credulities
