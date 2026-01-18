@@ -8459,7 +8459,6 @@ galactonic
 gratulation
 globefish
 grappler
-grandeurs
 garoting
 grudgers
 geotaxis
@@ -10130,6 +10129,7 @@ gurgling
 guller
 glareless
 greenier
+grandeurs
 grudges
 granophyric
 gideonite
