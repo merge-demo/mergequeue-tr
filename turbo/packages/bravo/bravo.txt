@@ -12735,6 +12735,7 @@ biometric
 bookhood
 bloodhounds
 belamcanda
+baluga
 bareboat
 botryoidally
 breadthriders
@@ -17084,7 +17085,6 @@ barrelling
 bockeret
 bullberry
 braggadocios
-baluga
 bitterhead
 bullboat
 babylonite
