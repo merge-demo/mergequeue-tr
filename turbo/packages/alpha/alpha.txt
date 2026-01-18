@@ -5998,6 +5998,7 @@ agatize
 aggrieve
 atake
 aggrievedly
+ampullula
 albicores
 acaridomatia
 amoles
@@ -11462,7 +11463,6 @@ aqueoigneous
 amphioxus
 ampulliform
 affrightfully
-ampullula
 amputate
 anuresis
 amputates
