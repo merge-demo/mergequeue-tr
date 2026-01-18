@@ -3790,6 +3790,7 @@ carbide
 classicize
 carbyl
 catchy
+clin
 carbimide
 cenacle
 clouters
@@ -13167,7 +13168,6 @@ cyclamens
 cyclamine
 cyclane
 cataphonic
-clin
 crumblingness
 craftsmanlike
 chetahs
