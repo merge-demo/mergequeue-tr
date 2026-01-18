@@ -2446,6 +2446,7 @@ gastraeum
 galravage
 ghettoed
 glycocoll
+guitermanite
 geographers
 gemologist
 glacionatant
@@ -3350,7 +3351,6 @@ gaults
 gasteropod
 gobemouche
 gymnurine
-guitermanite
 gneu
 gadbush
 gessamine
