@@ -3118,7 +3118,6 @@ disability
 domesticity
 duringly
 defaulted
-defaultless
 depauperization
 downfolded
 defaults
@@ -8180,6 +8179,7 @@ disenorm
 dauby
 diaconica
 daytale
+defaultless
 depotentiation
 dragooning
 deputable
