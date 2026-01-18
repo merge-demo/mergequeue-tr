@@ -9347,7 +9347,6 @@ chautauquan
 cloy
 chemicobiology
 contemporariness
-cryptological
 collocations
 chaute
 carrotage
@@ -17542,6 +17541,7 @@ cocao
 chaneling
 caped
 cocarde
+cryptological
 cocash
 cocause
 cocautioner
