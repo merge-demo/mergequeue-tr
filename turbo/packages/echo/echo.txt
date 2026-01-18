@@ -7978,7 +7978,6 @@ enflesh
 eteocreton
 embower
 expander
-eaglehawk
 epinaos
 eirack
 embox
@@ -13239,6 +13238,7 @@ exoarteritis
 exanthalose
 explanted
 explanting
+eaglehawk
 explat
 empurples
 exertive
