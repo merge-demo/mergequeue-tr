@@ -778,7 +778,6 @@ glome
 galvanotherapy
 goods
 geomorphic
-gemologies
 galvanotropism
 guntub
 globulolysis
@@ -6805,6 +6804,7 @@ gulravage
 gratiolin
 grandtotal
 graynesses
+gemologies
 gingerade
 gallican
 gamelotte
