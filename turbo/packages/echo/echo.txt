@@ -1152,6 +1152,7 @@ excisemen
 entrochite
 edplot
 emplore
+eosinophilic
 edrioasteroidea
 epipany
 electrotyped
@@ -9178,7 +9179,6 @@ encolor
 enates
 ernes
 erode
-eosinophilic
 erodent
 extradite
 eirenic
