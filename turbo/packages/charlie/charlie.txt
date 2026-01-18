@@ -4275,7 +4275,6 @@ caressively
 carest
 clerked
 caret
-caretake
 caretaker
 caretakers
 caretaking
@@ -10676,6 +10675,7 @@ chymify
 cobnuts
 confide
 cholinesterase
+caretake
 chimla
 chimleys
 chain
