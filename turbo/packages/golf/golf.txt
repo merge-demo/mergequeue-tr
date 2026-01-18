@@ -4160,7 +4160,6 @@ gainfully
 gauds
 glaswegian
 gibbeted
-gasolenes
 gelofre
 genealogy
 gollar
@@ -6042,6 +6041,7 @@ grinningly
 grane
 gro
 gnathopodite
+gasolenes
 gneissic
 gasifying
 gruffiness
