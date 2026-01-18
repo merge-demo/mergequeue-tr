@@ -11703,7 +11703,6 @@ exaltation
 erenow
 enterocoele
 endocarditis
-elevated
 extendlessness
 exalting
 elands
@@ -13692,6 +13691,7 @@ extraconscious
 edaphosauria
 escarp
 earthing
+elevated
 ewelease
 ectoprocta
 extratheistic
