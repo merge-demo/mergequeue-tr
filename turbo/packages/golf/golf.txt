@@ -6127,6 +6127,7 @@ gyre
 grommet
 garters
 gadfly
+gunation
 goa
 gadsbud
 gauche
@@ -7329,7 +7330,6 @@ groggery
 gossep
 graphs
 gaberlunzie
-gunation
 galactin
 gymnospermic
 gluon

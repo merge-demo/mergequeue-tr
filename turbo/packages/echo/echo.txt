@@ -11492,7 +11492,6 @@ exoergic
 exaction
 echinopanax
 exhibited
-expended
 electromyogram
 emendate
 engouled
@@ -12778,6 +12777,7 @@ employable
 exorcizement
 encodings
 elasmobranchiate
+expended
 enmask
 exorcizer
 epiceratodus
