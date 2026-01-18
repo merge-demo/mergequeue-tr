@@ -4471,7 +4471,6 @@ erth
 enceinte
 entozoology
 entozoal
-endolabyrinthitis
 encephalomyelopathy
 encenter
 ensilage
@@ -12859,6 +12858,7 @@ exoticist
 eudipleural
 encircled
 eateries
+endolabyrinthitis
 exoterically
 erythremomelalgia
 equity
