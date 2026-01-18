@@ -1877,7 +1877,6 @@ bushie
 bandie
 bandied
 bilinear
-bandikai
 batrachoplasty
 biparty
 bimetalism
@@ -8585,6 +8584,7 @@ barricading
 bittersweetly
 billboards
 beetrooty
+bandikai
 beshawled
 billbug
 biller
