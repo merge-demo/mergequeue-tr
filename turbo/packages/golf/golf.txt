@@ -7658,6 +7658,7 @@ grounding
 geodynamics
 gyppery
 greenlet
+geophytic
 gleary
 gentlewomanliness
 gardeny
@@ -8327,7 +8328,6 @@ grandparental
 genonema
 glenoid
 gasket
-geophytic
 gnarling
 gnar
 glunimie
