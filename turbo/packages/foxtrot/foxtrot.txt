@@ -3448,7 +3448,6 @@ fighteress
 fatigation
 fighting
 formboard
-figo
 foraminifer
 favillae
 fumaroid
@@ -3940,6 +3939,7 @@ florissant
 freehanded
 floperoo
 finalizes
+figo
 fibrinemia
 fiscal
 fulmine
