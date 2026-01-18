@@ -6196,7 +6196,6 @@ gregor
 gastrimargy
 guillotinade
 gamopetalae
-gp
 galactophagist
 glucosamine
 goaty
@@ -6601,6 +6600,7 @@ girlery
 globulysis
 glycosuria
 gossans
+gp
 gemutlichkeit
 gonorrheic
 gurglingly
