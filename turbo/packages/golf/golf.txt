@@ -5892,7 +5892,6 @@ gewgawish
 gripped
 grackle
 grogshops
-gnathobase
 goofs
 gambirs
 glamourizer
@@ -8724,6 +8723,7 @@ games
 glom
 goustrous
 galeus
+gnathobase
 gobbin
 germling
 gaypoo
