@@ -2351,6 +2351,7 @@ favoritism
 ferforth
 frapped
 frogling
+felly
 feudist
 francic
 fluther
@@ -11256,7 +11257,6 @@ flagellants
 frumaryl
 filibusterer
 fenks
-felly
 forrit
 funster
 furans
