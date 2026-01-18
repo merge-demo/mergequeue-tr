@@ -3228,6 +3228,7 @@ foppery
 flaught
 filbert
 freit
+fascinative
 furciferine
 fifteenthly
 fireburn
@@ -6190,7 +6191,6 @@ fatlings
 freyja
 floccules
 focusable
-fascinative
 formwork
 foundationary
 ferrimagnetic
