@@ -38,6 +38,7 @@ baptises
 berreave
 beatificate
 berline
+barblet
 babbittry
 buckeroo
 biplosion
@@ -15369,7 +15370,6 @@ besieges
 briefness
 bleeds
 bedstaves
-barblet
 bisquette
 boggiest
 buddhistical
