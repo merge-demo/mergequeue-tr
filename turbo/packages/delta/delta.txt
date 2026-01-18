@@ -5494,6 +5494,7 @@ diaminogene
 dx
 dimmock
 departmentalism
+diamines
 departmentalization
 departmentalized
 deuteronomy
@@ -11835,7 +11836,6 @@ disgorger
 dawing
 deuteroprism
 decentralism
-diamines
 discurre
 dioestrus
 dearsenicate
