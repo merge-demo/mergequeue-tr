@@ -4769,6 +4769,7 @@ flinching
 floatiest
 faena
 fellowshipping
+findon
 falsen
 forties
 footbath
@@ -8597,7 +8598,6 @@ fringilloid
 forsakenness
 fermentarian
 forsythia
-findon
 flamberge
 freightless
 filterability
