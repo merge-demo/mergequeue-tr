@@ -2210,6 +2210,7 @@ epiglottiditis
 eggless
 encrisp
 eldest
+eyrir
 effigiated
 eventuate
 engulfment
@@ -11722,7 +11723,6 @@ exurban
 elasticizing
 exobiology
 entreat
-eyrir
 examinable
 esthesioneurosis
 eglateres
