@@ -2265,7 +2265,6 @@ endothys
 electricize
 emphasizes
 electriferous
-extortions
 elongated
 equally
 extemporization
@@ -12441,6 +12440,7 @@ elengely
 exigently
 elflocks
 exhilaratingly
+extortions
 encasserole
 endite
 easting
