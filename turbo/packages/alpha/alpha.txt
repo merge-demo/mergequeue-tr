@@ -851,6 +851,7 @@ absconder
 agonizes
 archegoniate
 agha
+amplectant
 accurse
 absconsa
 abscound
@@ -11410,7 +11411,6 @@ amphigaean
 amigas
 asperite
 answerably
-amplectant
 argyrocephalous
 adempt
 arcuses
