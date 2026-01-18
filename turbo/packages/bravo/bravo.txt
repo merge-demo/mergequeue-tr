@@ -10858,6 +10858,7 @@ bassan
 blepharoptosis
 biosynthetic
 blepharosynechia
+buckism
 blepharosphincterectomy
 bunchberry
 boanergism
@@ -16713,7 +16714,6 @@ bucky
 besa
 buckishness
 buddled
-buckism
 buckland
 bilkers
 buckle
