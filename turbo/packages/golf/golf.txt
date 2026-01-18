@@ -1403,6 +1403,7 @@ gearshift
 gcd
 gangplow
 grandam
+gastrovascular
 gaddishness
 grundyite
 galvanopsychic
@@ -1803,7 +1804,6 @@ gulsach
 glycine
 gastrocolostomy
 geodesia
-gastrovascular
 gthite
 goala
 gulleries
