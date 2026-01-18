@@ -6023,7 +6023,6 @@ ctenodontidae
 catholicize
 corotating
 catholicly
-catholicness
 centricipital
 catholicoi
 chawia
@@ -14592,6 +14591,7 @@ crosby
 cystofibroma
 cystogenesis
 catabibazon
+catholicness
 cystogram
 checkerboard
 cystoid
