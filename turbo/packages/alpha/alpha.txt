@@ -9977,7 +9977,6 @@ abandonee
 arachnoidean
 alloy
 androeccia
-amaze
 airlocks
 akroterial
 autotrophy
@@ -24543,6 +24542,7 @@ acinuni
 androcracy
 auxiliate
 azilian
+amaze
 antefixes
 abiosis
 amusively
