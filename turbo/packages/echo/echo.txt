@@ -10608,7 +10608,6 @@ eledone
 enterpriseless
 epiplopexy
 egoizer
-eutechnic
 eucrite
 enthusiasticalness
 ergatandry
@@ -11637,6 +11636,7 @@ expulses
 enjoinment
 enddamaged
 eavesdropping
+eutechnic
 exactable
 exactas
 ergastoplasm
