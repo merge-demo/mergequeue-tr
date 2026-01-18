@@ -3013,7 +3013,6 @@ antireligious
 actinocrinite
 actinodielectric
 actinodromous
-actinoelectrically
 antigenic
 aerogeography
 axemaster
@@ -11210,6 +11209,7 @@ agynous
 aerologists
 authority
 attesting
+actinoelectrically
 attainability
 apocyneous
 amphibolitic
