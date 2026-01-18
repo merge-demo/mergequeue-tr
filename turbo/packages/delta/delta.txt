@@ -84,7 +84,6 @@ dognapped
 dactylomegaly
 dactylopore
 dustyfoot
-dactylopteridae
 dignifying
 disclaimant
 drivelled
@@ -10643,6 +10642,7 @@ diplopod
 diplopoda
 discorrespondent
 delocalization
+dactylopteridae
 dissociates
 disco
 divests
