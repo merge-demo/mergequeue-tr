@@ -451,7 +451,6 @@ debates
 darksum
 defensative
 disseats
-daysides
 deprevation
 daysmen
 dayspring
@@ -3448,6 +3447,7 @@ diplococcocci
 dashboards
 disavowance
 dehydroffrozen
+daysides
 defoedation
 defogged
 disyllable
