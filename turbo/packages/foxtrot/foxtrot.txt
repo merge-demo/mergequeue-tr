@@ -5444,7 +5444,6 @@ frillers
 fidelities
 feus
 farouk
-foolscap
 furunculoid
 flesh
 forbids
@@ -8789,6 +8788,7 @@ frakfurt
 fleeringly
 fossillike
 foozles
+foolscap
 fossilogy
 fload
 firmest
