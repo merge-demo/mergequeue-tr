@@ -4404,7 +4404,6 @@ elaeis
 ebriously
 encapsulation
 emitted
-encapsuled
 enure
 encapsuling
 endurability
@@ -11204,6 +11203,7 @@ enthronised
 elohism
 enosis
 encomimiums
+encapsuled
 engraving
 endoplastular
 eophyton
