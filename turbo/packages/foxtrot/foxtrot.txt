@@ -2555,6 +2555,7 @@ flongs
 ferrocyanate
 ferroelectric
 fingerbreadth
+form
 fattier
 ferrogoslarite
 forcet
@@ -8369,7 +8370,6 @@ fictively
 fm
 filcher
 futhark
-form
 fluoroscopes
 fullerboard
 felloe
