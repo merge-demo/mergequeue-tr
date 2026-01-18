@@ -1081,7 +1081,6 @@ edificed
 electrologic
 essayish
 edifying
-ectoblastic
 egolatrous
 edile
 erogenetic
@@ -8221,6 +8220,7 @@ equidistantly
 ergophobia
 enisling
 elderbrotherish
+ectoblastic
 euthenic
 earlobe
 ethnomaniac
