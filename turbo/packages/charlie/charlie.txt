@@ -5272,6 +5272,7 @@ chromomeric
 cassegrainian
 casseroling
 carinule
+collided
 cataleptic
 conduced
 cuculine
@@ -27617,7 +27618,6 @@ choloidinic
 culp
 cowardness
 cowbane
-collided
 coolheaded
 chamfered
 cowbanes
