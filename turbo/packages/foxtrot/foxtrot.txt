@@ -1485,7 +1485,6 @@ fabulate
 flytes
 flaillike
 fissidentaceous
-frizzes
 flunkyhood
 fluoroscopist
 folkish
@@ -7560,6 +7559,7 @@ fructuarius
 funiculus
 fanciers
 flintworker
+frizzes
 foreshadow
 forespeak
 freezable
