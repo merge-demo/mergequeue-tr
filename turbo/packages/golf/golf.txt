@@ -5119,7 +5119,6 @@ goldylocks
 gyps
 glaucophanite
 goldcrest
-gimpiest
 gundogs
 guerdon
 gammick
@@ -9232,6 +9231,7 @@ griths
 gritted
 grittie
 gutturality
+gimpiest
 grivna
 geosynchronous
 galeres
