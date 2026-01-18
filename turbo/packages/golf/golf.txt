@@ -1724,6 +1724,7 @@ gastriloquous
 glike
 gunsmiths
 guldens
+globeflower
 garotting
 gastronosus
 gnarrs
@@ -8339,7 +8340,6 @@ gripy
 guamachil
 gulling
 ginzo
-globeflower
 gravest
 graminaceae
 galvanoglyphy

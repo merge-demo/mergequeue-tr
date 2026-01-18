@@ -3389,6 +3389,7 @@ caeciform
 capparis
 capped
 cappelletti
+cellipetal
 capper
 carritches
 ciseleurs
@@ -28561,7 +28562,6 @@ creditress
 citronade
 crednerite
 cubebs
-cellipetal
 continuances
 cavallies
 crustaceans
