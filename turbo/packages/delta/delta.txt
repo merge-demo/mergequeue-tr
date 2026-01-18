@@ -1070,7 +1070,6 @@ darraign
 depositions
 digitalic
 darrein
-devonite
 darshan
 dampening
 dorsomesal
@@ -6106,6 +6105,7 @@ dissector
 derbend
 debauch
 deploringly
+devonite
 deft
 discostomatous
 derecho
