@@ -583,6 +583,7 @@ caduac
 cruiseway
 commilitant
 catalineta
+commeasuring
 caducean
 caducecei
 caducei
@@ -26831,7 +26832,6 @@ correctingly
 conspiring
 counterexcitement
 counterexercise
-commeasuring
 cyclometry
 counterextension
 cartoons
