@@ -1684,6 +1684,7 @@ dumortierite
 dearest
 deadeners
 dottel
+digredient
 dephysicalization
 decrementless
 dehumanisation
@@ -13567,7 +13568,6 @@ devaluation
 darlings
 divergence
 disseminations
-digredient
 dismeasured
 depeopling
 disseminative
