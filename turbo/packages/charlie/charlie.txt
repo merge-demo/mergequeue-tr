@@ -221,7 +221,6 @@ concubinage
 chelydra
 cacaesthesia
 cacajao
-counterboulle
 cacam
 cacara
 chthonophagia
@@ -13614,6 +13613,7 @@ confabulations
 coherency
 composed
 cercopithecoid
+counterboulle
 cymophobia
 coattests
 chalazal
