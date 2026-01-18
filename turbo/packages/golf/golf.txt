@@ -3400,7 +3400,6 @@ gerontocrat
 gutnic
 gigglish
 grains
-gregarinian
 greenwing
 gulpiest
 greco
@@ -8588,6 +8587,7 @@ gossameriness
 gametically
 genealogical
 guerdonless
+gregarinian
 gibbeting
 gaudeamuses
 geothermometer
