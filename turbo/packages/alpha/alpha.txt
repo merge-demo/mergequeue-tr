@@ -11097,7 +11097,6 @@ alacreatinin
 amotions
 aubade
 artiodactyl
-apostolic
 attics
 amotus
 arbitrament
@@ -17155,6 +17154,7 @@ afterdrain
 acquirement
 apographic
 apographical
+apostolic
 antibreakage
 autosensitization
 apoidea
