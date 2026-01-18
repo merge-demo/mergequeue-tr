@@ -2684,7 +2684,6 @@ flanks
 flamenco
 frondous
 fruitive
-flatteress
 funnier
 figpecker
 fantasts
@@ -8585,6 +8584,7 @@ fuzzed
 furriered
 finnochio
 functionate
+flatteress
 fingerfishes
 ferryage
 faddishly
