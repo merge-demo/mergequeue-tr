@@ -5415,7 +5415,6 @@ biolite
 barbacoa
 behallow
 bowldering
-bedin
 betwit
 behammer
 bacula
@@ -15561,6 +15560,7 @@ brioches
 bisso
 beadlet
 bryony
+bedin
 biedermeier
 buglet
 bryonia
