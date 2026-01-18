@@ -2031,7 +2031,6 @@ fireboat
 flindosa
 forwander
 flatlander
-faunlike
 fogbows
 fascicule
 flaunting
@@ -5796,6 +5795,7 @@ flouncey
 footback
 foredone
 filariid
+faunlike
 floatage
 farmeries
 fayal

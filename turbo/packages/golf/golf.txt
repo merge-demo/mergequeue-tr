@@ -1515,7 +1515,6 @@ gorlin
 gregarinidal
 grisounite
 grote
-geratology
 gasman
 guilty
 ghetto
@@ -7324,6 +7323,7 @@ galega
 gossamers
 galloglass
 geochronometric
+geratology
 glareole
 ghee
 gobstopper
