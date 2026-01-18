@@ -5869,6 +5869,7 @@ folgerite
 fencepost
 freeholder
 foetalism
+fluxibility
 furlers
 frangent
 formlessness
@@ -6268,7 +6269,6 @@ flumes
 fluminous
 freak
 floricultural
-fluxibility
 flummer
 flickerproof
 fistnote
