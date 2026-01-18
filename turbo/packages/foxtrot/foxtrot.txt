@@ -3910,7 +3910,6 @@ fullest
 foeniculum
 flitted
 fictionmonger
-furcating
 fluey
 fogyism
 foxtongue
@@ -9143,6 +9142,7 @@ fasciotomy
 finitudes
 fascinations
 foveoles
+furcating
 footled
 fries
 fragileness
