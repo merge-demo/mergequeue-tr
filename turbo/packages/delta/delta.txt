@@ -15504,6 +15504,7 @@ dogmas
 diaries
 dacryostenosis
 dihydrocuprin
+doucet
 dispendious
 dismalness
 diabolism
@@ -15704,7 +15705,6 @@ dorbugs
 defeatist
 dorcastry
 diadermic
-doucet
 doria
 demiturned
 disour
