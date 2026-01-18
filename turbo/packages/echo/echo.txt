@@ -2173,7 +2173,6 @@ ethynes
 environmentalists
 encoronal
 entozoologist
-examination
 elderberries
 erythemic
 emissitious
@@ -3343,6 +3342,7 @@ entitative
 eyry
 eulogic
 expresses
+examination
 environed
 elegies
 encheer
