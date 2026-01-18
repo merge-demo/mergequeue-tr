@@ -5487,7 +5487,6 @@ garnishment
 gadaria
 gastroparietal
 gazingly
-garring
 gentian
 gloams
 granadillo
@@ -9193,6 +9192,7 @@ guiled
 geologists
 guaka
 gavelage
+garring
 glairing
 gunebo
 geoscience
