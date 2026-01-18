@@ -16691,7 +16691,6 @@ antimosquito
 ammochryse
 anocithesia
 aberrance
-apertures
 assisa
 apes
 apesthetic
@@ -23516,6 +23515,7 @@ augustus
 academicism
 affixment
 aneroidograph
+apertures
 auh
 acrimonies
 autoprogressive
