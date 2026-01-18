@@ -5514,6 +5514,7 @@ catachthonic
 consummation
 cataclastic
 cataclinal
+compoundedness
 cataclysmal
 coumbite
 cratometer
@@ -20886,7 +20887,6 @@ colicine
 carbonyls
 clonked
 considerative
-compoundedness
 compounder
 comprachico
 comprachicos

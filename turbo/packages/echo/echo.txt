@@ -2234,7 +2234,6 @@ electioneer
 elaphurine
 extramoral
 elevatory
-exocolitis
 effluve
 emblematise
 endoplasma
@@ -11933,6 +11932,7 @@ equestrienne
 ericineous
 excessively
 ecole
+exocolitis
 espousals
 endamebas
 exchanges
