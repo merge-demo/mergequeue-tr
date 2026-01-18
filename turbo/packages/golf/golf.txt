@@ -3199,6 +3199,7 @@ gephyrea
 gwendolen
 gular
 gallomania
+glumal
 gaudiness
 getup
 golilla
@@ -9065,7 +9066,6 @@ graveyards
 glaucomys
 genteel
 greund
-glumal
 girdling
 glires
 gladiatorism
