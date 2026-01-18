@@ -3350,7 +3350,6 @@ fopling
 fossilification
 flappering
 fishermen
-frivols
 filipinos
 follicles
 frothed
@@ -8906,6 +8905,7 @@ fusiformis
 floit
 flywort
 fiacre
+frivols
 footle
 feldspath
 feverwort
