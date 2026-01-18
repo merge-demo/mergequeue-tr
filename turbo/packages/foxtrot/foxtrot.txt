@@ -332,7 +332,6 @@ fluxionary
 feods
 forces
 fail
-froes
 fireplough
 faineancy
 fayles
@@ -7972,6 +7971,7 @@ foredeep
 forespencer
 finicality
 fatbirds
+froes
 fontina
 fellmongered
 frontless
