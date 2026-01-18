@@ -4255,7 +4255,6 @@ delustering
 delved
 dermatopathology
 demimillionaire
-dysarthria
 dissemble
 draggletail
 delver
@@ -11009,6 +11008,7 @@ dorneck
 disconformably
 dramatised
 dieselized
+dysarthria
 degusts
 disclosable
 dozen
