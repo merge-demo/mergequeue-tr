@@ -7525,7 +7525,6 @@ echiuroid
 endungeon
 eaceworm
 ecuelle
-eudaimonism
 eulamellibranch
 eloiners
 epicardia
@@ -9054,6 +9053,7 @@ emlen
 eleoplast
 endothermic
 exocyclic
+eudaimonism
 equiglacial
 episcenium
 empyreans
