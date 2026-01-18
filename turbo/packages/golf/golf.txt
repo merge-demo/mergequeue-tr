@@ -4649,7 +4649,6 @@ galli
 gastroplenic
 getmjlkost
 guttery
-gyrovagues
 gloy
 gaatch
 girshes
@@ -6600,6 +6599,7 @@ gaed
 goncalo
 gyrectomy
 geminating
+gyrovagues
 girlery
 globulysis
 glycosuria
