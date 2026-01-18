@@ -3235,6 +3235,7 @@ flatware
 feelings
 fiddlecome
 frivolizing
+frotted
 fracedinous
 farewells
 fiddlefaced
@@ -8828,7 +8829,6 @@ faulter
 foujdarry
 fibrousness
 foul
-frotted
 fogger
 finesse
 franticness
