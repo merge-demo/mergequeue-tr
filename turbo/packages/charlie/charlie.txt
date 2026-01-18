@@ -1183,7 +1183,6 @@ compeer
 correlate
 calculational
 concaves
-calculator
 calculatory
 calculators
 chorically
@@ -24220,6 +24219,7 @@ convolutedly
 crinoidal
 convoluting
 convolution
+calculator
 convolutional
 convolutions
 convolve
