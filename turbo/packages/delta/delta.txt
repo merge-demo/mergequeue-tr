@@ -8205,7 +8205,6 @@ diadochi
 ductible
 depigment
 deossify
-derning
 dados
 dipus
 disspreading
@@ -11159,6 +11158,7 @@ decanted
 deglaciation
 disbars
 dani
+derning
 disbeliefs
 diarchic
 dissociating
