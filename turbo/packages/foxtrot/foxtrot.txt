@@ -6658,6 +6658,7 @@ frizel
 fluerics
 fasciculated
 foofaraws
+floridans
 furrier
 freshwater
 flaughtbred
@@ -8435,7 +8436,6 @@ frondesce
 factorized
 formatter
 father
-floridans
 flong
 flunkeyite
 fuzztail
