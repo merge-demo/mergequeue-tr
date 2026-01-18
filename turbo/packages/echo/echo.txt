@@ -1318,6 +1318,7 @@ effectuating
 effervesced
 extenuating
 exuberate
+euphuistical
 effectuous
 endostracum
 epigastrical
@@ -5713,7 +5714,6 @@ ergotaminine
 engild
 engilding
 empirism
-euphuistical
 engram
 erupts
 exceptionality
