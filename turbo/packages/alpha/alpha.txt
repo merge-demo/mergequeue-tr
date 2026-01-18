@@ -6584,7 +6584,6 @@ annite
 actinometers
 anaesthesiology
 aigialosauridae
-aigialosaurus
 apothecaries
 archpriest
 antasthenic
@@ -14618,6 +14617,7 @@ anthropotheistic
 anthropotomical
 antonyms
 alhandal
+aigialosaurus
 anthoceros
 antidiphtherin
 anticline
