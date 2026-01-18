@@ -12006,7 +12006,6 @@ daint
 diammine
 decimus
 domicella
-distichous
 disendow
 dagoes
 desmodus
@@ -18084,6 +18083,7 @@ dysphemism
 diabetics
 dogskin
 dongs
+distichous
 dungol
 dulocracy
 dissuasory
