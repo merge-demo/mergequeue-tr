@@ -8435,7 +8435,6 @@ equip
 enjoyment
 eglogue
 endothecate
-ethicosocial
 epizootology
 enwrought
 epocha
@@ -10839,6 +10838,7 @@ execrates
 eupepticity
 eelfish
 eloigners
+ethicosocial
 entosternum
 earache
 educes
