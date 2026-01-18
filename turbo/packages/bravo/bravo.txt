@@ -2275,7 +2275,6 @@ buteo
 butted
 bummil
 burgherdom
-bindoree
 befuddle
 broadsheet
 brier
@@ -8213,6 +8212,7 @@ broid
 briolet
 baleens
 byronically
+bindoree
 beatable
 boone
 battailous
