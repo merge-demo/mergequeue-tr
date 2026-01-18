@@ -20195,6 +20195,7 @@ acidulation
 arratel
 asclepieion
 apothem
+astrogation
 arrau
 assiduously
 arrearage
@@ -22385,7 +22386,6 @@ admitter
 anna
 ataractic
 akra
-astrogation
 astrogational
 antirattler
 antiauthoritarianism
