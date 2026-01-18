@@ -19297,7 +19297,6 @@ addressed
 austroasiatic
 amphigonium
 adynamy
-antilactase
 archpresbyter
 archbishopess
 another
@@ -20096,6 +20095,7 @@ autoplasty
 anxieties
 aroph
 agneau
+antilactase
 argiope
 auscultate
 agitating
