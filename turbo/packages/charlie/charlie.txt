@@ -8735,6 +8735,7 @@ chicos
 chaperonage
 chaperonless
 cerinthe
+coactively
 catesbeiana
 cirsium
 chapes
@@ -17085,7 +17086,6 @@ constituently
 coaction
 coactive
 counterquip
-coactively
 clubwoman
 coacts
 coadamite
