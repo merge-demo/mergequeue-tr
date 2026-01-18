@@ -4422,7 +4422,6 @@ consecutiveness
 ceruloplasmin
 cytogenetics
 caryophyllus
-cares
 crucifixions
 curite
 cutesy
@@ -8226,6 +8225,7 @@ conocarp
 cleaves
 cadalene
 chalcocite
+cares
 compotatory
 christianomastix
 chalcogen
