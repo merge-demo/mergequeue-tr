@@ -3920,7 +3920,6 @@ bazooka
 blunge
 boychik
 buckishly
-bamboos
 bergfall
 bbs
 bassly
@@ -8958,6 +8957,7 @@ botherer
 blattered
 bocal
 bioecological
+bamboos
 bounty
 braider
 bioecologically
