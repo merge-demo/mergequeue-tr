@@ -513,7 +513,6 @@ gruffing
 graff
 galivants
 geneticism
-gleamiest
 galloped
 glissandos
 growthful
@@ -7624,6 +7623,7 @@ gyal
 glossoepiglottic
 gunkholing
 girlies
+gleamiest
 ghoster
 gears
 glancingly
