@@ -1959,7 +1959,6 @@ depressant
 dobla
 deckload
 doze
-dodoism
 dungy
 dicrotism
 debunkers
@@ -3394,6 +3393,7 @@ dragsman
 dimethylhydrazine
 downrightness
 dudgeon
+dodoism
 dissatisfy
 dowly
 deflocculate
