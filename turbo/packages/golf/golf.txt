@@ -4951,7 +4951,6 @@ goldhead
 genealogists
 goofballs
 growled
-guariba
 glandered
 global
 genially
@@ -8178,6 +8177,7 @@ gied
 grim
 gem
 grapes
+guariba
 grapeskin
 galenical
 grapestalk
