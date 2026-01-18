@@ -3320,6 +3320,7 @@ caplin
 caplins
 coherald
 capmaking
+counterturn
 capnoides
 clipping
 creaker
@@ -13396,7 +13397,6 @@ crozzle
 chapping
 chaine
 chlorinates
-counterturn
 cydippe
 cofeatures
 cydonian
