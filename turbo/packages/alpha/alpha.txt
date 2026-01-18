@@ -6559,6 +6559,7 @@ aidenn
 appleringy
 aider
 antiaggressive
+antimetathesis
 auksinu
 awk
 abjunctive
@@ -15724,7 +15725,6 @@ arylamine
 ablet
 annection
 admen
-antimetathesis
 antheridiophore
 antiparliamental
 axons
