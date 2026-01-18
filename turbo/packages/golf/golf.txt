@@ -4453,7 +4453,6 @@ gundog
 generaliter
 greffier
 graveyard
-gipsydom
 giddyhead
 gepoun
 gugu
@@ -6112,6 +6111,7 @@ galenist
 glaserian
 gnotobiosis
 gnotobiotically
+gipsydom
 galactorrhoea
 gnow
 guttulous
