@@ -10612,7 +10612,6 @@ blackprint
 baretta
 bacteriocin
 blathers
-bazookamen
 biomicroscopy
 bivinyls
 bezoardic
@@ -12190,6 +12189,7 @@ bureaucracies
 barbitos
 biclinium
 blaff
+bazookamen
 beaumontia
 balneum
 beeps
