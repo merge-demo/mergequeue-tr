@@ -581,6 +581,7 @@ bacon
 balkar
 boffola
 baubee
+benthoses
 balisaur
 baconian
 benzalacetone
@@ -6307,7 +6308,6 @@ bevors
 benthoscope
 bemoat
 bulgar
-benthoses
 bacteriolysin
 backwashes
 blockhouses

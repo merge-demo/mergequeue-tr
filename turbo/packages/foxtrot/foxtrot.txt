@@ -2477,7 +2477,6 @@ fortunize
 fluters
 fatales
 faradising
-ferociously
 flashforward
 fumarin
 fastus
@@ -5330,6 +5329,7 @@ flanken
 feebleness
 fullmouth
 fascia
+ferociously
 fruiteries
 ferulaic
 foldboater
