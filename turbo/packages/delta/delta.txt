@@ -4457,7 +4457,6 @@ dishling
 dauntlessly
 disjointedly
 duomachy
-devalorize
 developmentist
 dysphoric
 deemphasizes
@@ -10906,6 +10905,7 @@ diapensiaceous
 dioeciodimorphous
 dentelated
 doohinkus
+devalorize
 dignitas
 disabuse
 disbursement

@@ -3715,6 +3715,7 @@ brookflower
 beild
 battier
 brightest
+burbly
 baddest
 batting
 battings
@@ -17490,7 +17491,6 @@ baroko
 blueweeds
 backstopping
 battlefields
-burbly
 bonnie
 bantling
 bedip
