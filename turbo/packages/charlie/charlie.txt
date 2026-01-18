@@ -11346,7 +11346,6 @@ chloropalladates
 chloropalladic
 chlorophenol
 charangos
-chlorophenothane
 confirm
 cestuy
 corollate
@@ -27574,6 +27573,7 @@ cerargyrite
 covetous
 choffer
 choucroute
+chlorophenothane
 coprahs
 cheeriest
 coumara
