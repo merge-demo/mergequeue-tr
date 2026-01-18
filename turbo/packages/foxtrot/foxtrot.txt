@@ -4391,7 +4391,6 @@ frenghi
 fraiser
 fei
 falsary
-flawier
 fovent
 flogmaster
 fumishly
@@ -11689,6 +11688,7 @@ flare
 flyleaves
 fagaceous
 faced
+flawier
 flippancy
 fanlights
 furil
