@@ -10267,7 +10267,6 @@ epilogist
 enspangle
 effodientia
 elasticizer
-ergal
 eulogium
 excipulum
 experimentize
@@ -13752,6 +13751,7 @@ enantiopathic
 euphorbia
 ententophil
 ectoenzym
+ergal
 enzyme
 extinguished
 extinguisher
