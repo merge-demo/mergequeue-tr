@@ -8140,7 +8140,6 @@ coldslaw
 countertrades
 comments
 calliophone
-cyprus
 conduceability
 chairborne
 cabined
@@ -15142,6 +15141,7 @@ covisit
 commanderies
 claye
 clayey
+cyprus
 clayer
 contchar
 clayier
