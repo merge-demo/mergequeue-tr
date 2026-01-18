@@ -786,6 +786,7 @@ eolotropic
 emotionalization
 electrobus
 encaged
+envolume
 exadverso
 endosulfan
 earthmaking
@@ -7140,7 +7141,6 @@ exoner
 episterna
 echeneidid
 effectuation
-envolume
 embarment
 epistemonic
 eucaryote
