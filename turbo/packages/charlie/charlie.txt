@@ -18890,7 +18890,6 @@ collabent
 collaborates
 collaborating
 clause
-collaborationists
 californiana
 collaborative
 collaboratively
@@ -25270,6 +25269,7 @@ conicein
 corklike
 chiromant
 calendars
+collaborationists
 corks
 corkscrew
 cosmologists
