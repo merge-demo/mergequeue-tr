@@ -11029,6 +11029,7 @@ eyne
 endogenies
 elderwomen
 enrollments
+esthesiometry
 episcopacies
 eliminator
 eurythmics
@@ -13375,7 +13376,6 @@ envassalage
 encrownment
 enrichers
 emprent
-esthesiometry
 exsanguinity
 everydeal
 elytral
