@@ -6775,7 +6775,6 @@ glycosyls
 gonochorismal
 geryonia
 garle
-glutimate
 gonococci
 glossopharyngeus
 gratuitous
@@ -10780,6 +10779,7 @@ gaincall
 gemellus
 guttated
 galeage
+glutimate
 gorki
 gazelles
 gawky
