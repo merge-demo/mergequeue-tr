@@ -8266,7 +8266,6 @@ foxglove
 ferrule
 fosterage
 faultiness
-futilize
 freestyler
 fusspots
 forepole
@@ -9149,6 +9148,7 @@ fries
 fragileness
 foreknown
 faceplate
+futilize
 fucus
 fledged
 fumously
