@@ -2175,7 +2175,6 @@ flabellifoliate
 frags
 farmhouse
 felts
-forthtell
 fishworker
 feltwort
 fastidiosity
@@ -7609,6 +7608,7 @@ floruits
 faeculence
 foreimagination
 flashlike
+forthtell
 foregift
 feyness
 foregleam
