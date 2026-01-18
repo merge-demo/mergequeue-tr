@@ -13275,7 +13275,6 @@ amiles
 anisado
 askable
 araks
-antiphysician
 anisandrous
 aberrant
 anisanilide
@@ -19218,6 +19217,7 @@ allituric
 arctostaphylos
 alick
 arcuale
+antiphysician
 arcualia
 acrita
 arcuate
