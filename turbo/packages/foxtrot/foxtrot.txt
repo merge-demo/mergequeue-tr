@@ -5441,6 +5441,7 @@ funniness
 frequentness
 flensed
 frillers
+forswear
 fidelities
 feus
 farouk
@@ -6871,7 +6872,6 @@ flintwood
 flosculous
 februaries
 feculence
-forswear
 footsie
 freekirker
 frithwork

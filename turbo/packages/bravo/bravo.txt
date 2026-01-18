@@ -5506,6 +5506,7 @@ beelines
 bobbled
 beydom
 bechained
+bacteria
 beige
 backers
 becapping
@@ -9559,7 +9560,6 @@ birthless
 bathkol
 blastemata
 berceuses
-bacteria
 branchiostegite
 baffing
 birthmark
