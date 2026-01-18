@@ -7612,6 +7612,7 @@ faeculence
 foreimagination
 flashlike
 forthtell
+flickers
 foregift
 feyness
 foregleam
@@ -8804,7 +8805,6 @@ fostered
 fator
 figeter
 fluidities
-flickers
 fatty
 ferrotypes
 forebye
