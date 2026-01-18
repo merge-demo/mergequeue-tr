@@ -4153,7 +4153,6 @@ bearm
 bagwigs
 baddishness
 bearward
-bearwort
 boanthropy
 bravadoing
 beasthood
@@ -14275,6 +14274,7 @@ butyne
 byword
 boarding
 buglosses
+bearwort
 braehead
 bulblet
 bronchiogenic
