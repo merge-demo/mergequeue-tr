@@ -3644,7 +3644,6 @@ coosify
 chivied
 caracolling
 caracora
-caract
 caractacus
 caradoc
 carafes
@@ -9206,6 +9205,7 @@ clapperboard
 cheering
 corf
 chastity
+caract
 chastities
 chockstone
 chasubled
