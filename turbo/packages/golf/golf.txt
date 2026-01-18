@@ -5679,6 +5679,7 @@ gesundheit
 glossies
 glossiest
 gybed
+garrison
 glossinas
 glowflies
 gertrude
@@ -5894,7 +5895,6 @@ goofs
 gambirs
 glamourizer
 gluepot
-garrison
 gemitorial
 globuliform
 gaylussacia
