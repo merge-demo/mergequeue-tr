@@ -4420,7 +4420,6 @@ barrable
 booleans
 butyrousness
 bouquiniste
-bickers
 bushwhacker
 bathyseism
 beclaw
@@ -8641,6 +8640,7 @@ barbican
 backscatters
 byrlady
 batteau
+bickers
 buhrmill
 barragon
 baldacchino
