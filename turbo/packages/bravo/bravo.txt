@@ -465,6 +465,7 @@ bellonian
 bravoed
 bloodshed
 blackish
+bimestrial
 bronzers
 blaspheming
 bibliographic
@@ -13078,7 +13079,6 @@ borsches
 boehmenist
 boreen
 bowerly
-bimestrial
 breezing
 burdash
 boreiad
