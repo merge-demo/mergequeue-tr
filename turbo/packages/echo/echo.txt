@@ -7932,7 +7932,6 @@ enneastylar
 engender
 enframes
 ecclesiography
-ensiferi
 epaleaceous
 entreater
 epizootiology
@@ -9655,6 +9654,7 @@ emissaries
 epicycles
 espy
 espial
+ensiferi
 electrocoagulation
 escrows
 espinal
