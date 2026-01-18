@@ -5987,7 +5987,6 @@ aclys
 aggrievance
 axweed
 agatize
-actinotherapeutics
 aggrieve
 atake
 aggrievedly
@@ -13757,6 +13756,7 @@ anomia
 acquiet
 anaesthatic
 anutraminosa
+actinotherapeutics
 apparatchik
 andorran
 anomodont
