@@ -9806,6 +9806,7 @@ disenamour
 detonators
 descendant
 dinosaur
+distorts
 dolphinfishes
 dilutedly
 duresses
@@ -14011,7 +14012,6 @@ distinctions
 dumbstruck
 delocalise
 differentiable
-distorts
 dolomitising
 dossals
 dentoid

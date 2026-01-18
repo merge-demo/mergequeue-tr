@@ -6806,6 +6806,7 @@ grandtotal
 graynesses
 gemologies
 gingerade
+glomeli
 gallican
 gamelotte
 gunnings
@@ -8563,7 +8564,6 @@ grave
 gravisphere
 guiltlessly
 gliderport
-glomeli
 gainliest
 globalize
 grat
