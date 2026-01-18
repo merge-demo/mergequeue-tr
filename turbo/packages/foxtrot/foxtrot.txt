@@ -2448,6 +2448,7 @@ fishhood
 faddier
 futility
 fenestrule
+fedoras
 fuddlement
 footscraper
 forcipial
@@ -6220,7 +6221,6 @@ fluidified
 fluoarsenate
 ferromagnet
 fld
-fedoras
 flatfooting
 fustigation
 fearing
