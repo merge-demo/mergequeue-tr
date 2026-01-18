@@ -6910,6 +6910,7 @@ galavanted
 goodrich
 geromorphism
 grayfly
+guitarfishes
 geometrised
 gradients
 geostatics
@@ -9925,7 +9926,6 @@ galerite
 geogenetic
 ghatwal
 glozer
-guitarfishes
 guardianship
 garb
 gumptions

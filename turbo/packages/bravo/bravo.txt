@@ -10173,7 +10173,6 @@ blackbird
 blackbirder
 besoul
 burhmoot
-belknap
 blackbody
 bloodings
 blackbuck
@@ -16161,6 +16160,7 @@ bulletins
 buccocervical
 baseman
 bosomy
+belknap
 brailler
 butylated
 blotting
