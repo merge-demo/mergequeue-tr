@@ -4033,7 +4033,6 @@ empiercement
 enwind
 evirato
 extensibleness
-epirogenetic
 evaporative
 exedent
 evidenced
@@ -13462,6 +13461,7 @@ embolomerous
 echinosphaeritidae
 expropriable
 endome
+epirogenetic
 expropriate
 egalitarian
 elem
