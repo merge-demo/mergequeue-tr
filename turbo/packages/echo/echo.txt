@@ -2542,6 +2542,7 @@ edits
 elections
 euonymous
 endosmose
+edgily
 egremoigne
 encomiologic
 expeditely
@@ -13413,7 +13414,6 @@ eudaemonical
 empire
 earlship
 expressage
-edgily
 edacities
 escalates
 excitatory
