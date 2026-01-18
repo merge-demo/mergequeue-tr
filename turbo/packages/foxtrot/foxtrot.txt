@@ -3328,7 +3328,6 @@ fieldish
 funereality
 flatfoot
 fattener
-fibromatous
 fossores
 foveolate
 fascili
@@ -6654,6 +6653,7 @@ flexura
 flouts
 feudary
 fogfruits
+fibromatous
 frizel
 fluerics
 fasciculated
