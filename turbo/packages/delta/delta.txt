@@ -15603,6 +15603,7 @@ diversionist
 dooputty
 doorhead
 detergible
+dunst
 dooring
 doorknob
 doorless
@@ -17867,7 +17868,6 @@ dabb
 desubstantialize
 dictynidae
 dialogist
-dunst
 dezincing
 dudism
 diaconicum
