@@ -1657,7 +1657,6 @@ accruement
 accruer
 anatta
 adiabatic
-accrues
 accruing
 antiprophet
 aneurismal
@@ -19888,6 +19887,7 @@ astraphobia
 armillae
 armillary
 atonies
+accrues
 antigone
 annist
 ahorse
