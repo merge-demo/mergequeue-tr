@@ -879,7 +879,6 @@ gulinular
 goldfields
 glycerinize
 gazi
-gameness
 galvanizes
 gallowsward
 geegaw
@@ -8315,6 +8314,7 @@ giansar
 glaciated
 ghostwritten
 geomagnetics
+gameness
 gentes
 greeneries
 gladness
