@@ -6731,7 +6731,6 @@ amplifies
 accepters
 alliage
 abucco
-alt
 aftermarket
 arpeggio
 allomerize
@@ -7522,6 +7521,7 @@ albuminising
 albuminize
 arrested
 anchovies
+alt
 adaptor
 albuminofibrin
 albuminoid
