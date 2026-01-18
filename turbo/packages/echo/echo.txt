@@ -1350,7 +1350,6 @@ echelon
 examinative
 efficacy
 ethene
-efficacies
 exhortation
 eleutherodactyli
 epithecium
@@ -12119,6 +12118,7 @@ edrioasteroid
 excerpter
 eubacterium
 ency
+efficacies
 excruciating
 enascent
 excruciator

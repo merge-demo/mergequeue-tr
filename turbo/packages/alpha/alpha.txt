@@ -5365,6 +5365,7 @@ anidiomatic
 adenose
 affronts
 affuse
+acquisitum
 alkarsine
 atropism
 affusion
@@ -18300,7 +18301,6 @@ archont
 arachnomorphae
 arabiyeh
 apparel
-acquisitum
 adjunct
 awshar
 advocating
