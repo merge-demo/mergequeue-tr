@@ -18114,7 +18114,6 @@ coenotypic
 coenotrope
 coenthrone
 colatorium
-coenunuri
 coleochaetaceae
 coequal
 coteful
@@ -23369,6 +23368,7 @@ contactual
 contactually
 contadino
 ceratosaurus
+coenunuri
 contagion
 contagioned
 computation
