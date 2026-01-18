@@ -12726,6 +12726,7 @@ bailsmen
 bookfold
 biometric
 bookhood
+belugas
 bloodhounds
 belamcanda
 baluga
@@ -13929,7 +13930,6 @@ backpointer
 byspell
 broadened
 bargelli
-belugas
 barylite
 brooky
 boxcars
