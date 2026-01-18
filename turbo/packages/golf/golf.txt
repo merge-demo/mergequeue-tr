@@ -41,7 +41,6 @@ gabioned
 glutamate
 gmelina
 guestimate
-grawls
 grammes
 gabions
 gynecologies
@@ -2164,6 +2163,7 @@ gerontine
 gdinfo
 golfings
 gds
+grawls
 gaycat
 gastrotomy
 grainer
