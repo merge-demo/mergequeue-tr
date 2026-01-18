@@ -7275,7 +7275,6 @@ bandora
 bulwarking
 blowsier
 bistetrazole
-bleariness
 bestuds
 besully
 borith
@@ -12067,6 +12066,7 @@ balneography
 boid
 boydekyn
 boydom
+bleariness
 boyer
 beking
 barbascos
