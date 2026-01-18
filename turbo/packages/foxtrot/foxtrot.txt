@@ -314,6 +314,7 @@ flexuosity
 fraternation
 feints
 feint
+frenchize
 fostell
 finagles
 fibrillated
@@ -6417,7 +6418,6 @@ forweary
 flummery
 filth
 folkcraft
-frenchize
 fordy
 fellatrix
 forsar

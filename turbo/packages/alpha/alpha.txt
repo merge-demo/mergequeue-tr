@@ -9823,7 +9823,6 @@ amperage
 amalgamization
 anaphase
 amalic
-argosine
 aircrews
 audacity
 ambery
@@ -10950,6 +10949,7 @@ allegorical
 amniocentesis
 amniochorial
 arado
+argosine
 aboardage
 adamellite
 amniomancy
