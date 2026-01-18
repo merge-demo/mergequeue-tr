@@ -2332,6 +2332,7 @@ gelatinizer
 gradates
 giornatate
 gadbee
+gidgee
 gavials
 guaiacols
 galopin
@@ -6429,7 +6430,6 @@ gangboard
 goldeney
 gillaroo
 goldener
-gidgee
 guary
 goldentop
 glochideous
