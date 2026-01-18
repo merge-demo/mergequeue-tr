@@ -7609,7 +7609,6 @@ groundliness
 gyn
 gowlan
 gunsel
-graphic
 giovanni
 gracilis
 gracing
@@ -9030,6 +9029,7 @@ gyrates
 gnatcatcher
 girasole
 girlism
+graphic
 gryllos
 gaffle
 gimcracky
