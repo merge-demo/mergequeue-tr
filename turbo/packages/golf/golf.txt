@@ -7887,6 +7887,7 @@ gusty
 generic
 gramophonic
 gruelling
+goldfishes
 gametangium
 goi
 gounau
@@ -10319,7 +10320,6 @@ gloomed
 gul
 gaming
 gladiest
-goldfishes
 gabari
 gravemaster
 geogonical
