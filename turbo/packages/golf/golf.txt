@@ -1800,6 +1800,7 @@ granodioritic
 gangwaymen
 gatehouses
 grueler
+guianan
 genii
 gulsach
 glycine
@@ -8581,7 +8582,6 @@ gretchen
 gurgeons
 griped
 guarri
-guianan
 gypping
 gastrolatrous
 gemel
