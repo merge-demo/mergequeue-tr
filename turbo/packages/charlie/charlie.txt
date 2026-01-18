@@ -5431,7 +5431,6 @@ cumacean
 castled
 castlelike
 clitocybe
-castles
 cortaderia
 cordies
 castlet
@@ -15256,6 +15255,7 @@ clamored
 clamorer
 clamorers
 clamorist
+castles
 caccagogue
 columbid
 clamorous
