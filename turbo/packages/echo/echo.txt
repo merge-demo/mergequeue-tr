@@ -8134,6 +8134,7 @@ exhumator
 episclera
 ell
 ensanguined
+enticeable
 enaction
 enkolpia
 enseel
@@ -9604,7 +9605,6 @@ esophago
 esophagogastroscopy
 esophagometer
 emotionalized
-enticeable
 evoked
 esophagoplasty
 enigmatic

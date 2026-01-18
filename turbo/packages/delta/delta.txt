@@ -13910,7 +13910,6 @@ demisable
 diadelphia
 distichlis
 dephased
-dimerous
 discina
 distil
 derisive
@@ -17604,6 +17603,7 @@ dubitant
 dexterical
 decastylar
 dichoree
+dimerous
 dacus
 duant
 dentigerous
