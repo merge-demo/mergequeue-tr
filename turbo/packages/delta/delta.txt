@@ -2430,7 +2430,6 @@ decimole
 dangling
 diparentum
 danization
-dendritiform
 denizenize
 disimprisonment
 dissipable
@@ -17416,6 +17415,7 @@ dropwort
 damlike
 dogeships
 desolative
+dendritiform
 dinarchy
 diener
 danged
