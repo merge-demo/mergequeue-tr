@@ -13,6 +13,7 @@ gobi
 grasswork
 gratuities
 gabelles
+galiot
 gledy
 grece
 genetous
@@ -6746,7 +6747,6 @@ gobbe
 gud
 glossospasm
 gaffsail
-galiot
 gavyuti
 ganglioside
 gossiping
