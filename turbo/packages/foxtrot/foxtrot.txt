@@ -4593,7 +4593,6 @@ fifo
 formazyl
 francophilism
 firked
-factorizations
 fullnesses
 fanging
 frigidities
@@ -7503,6 +7502,7 @@ forecastlehead
 five
 filemaking
 ferroboron
+factorizations
 forespake
 fallacious
 foreboder

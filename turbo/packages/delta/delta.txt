@@ -4226,6 +4226,7 @@ dineros
 deltohedron
 drepanis
 dogvanes
+dialkylic
 delubra
 deluce
 delude
@@ -4783,7 +4784,6 @@ dishonest
 donnot
 daneworts
 dermatome
-dialkylic
 demon
 dyspepsia
 delightsomely
