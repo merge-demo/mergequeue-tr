@@ -988,7 +988,6 @@ doodah
 daredeviltry
 darers
 dargah
-dagos
 dargo
 ding
 dignitaries
@@ -15255,6 +15254,7 @@ disbursal
 demipriest
 depressanth
 dogsleep
+dagos
 derotremate
 domicile
 dal
