@@ -3059,7 +3059,6 @@ defacer
 danes
 dentiscalp
 desole
-delible
 designated
 degradand
 delightfully
@@ -3461,6 +3460,7 @@ dichroscope
 decelerating
 dehydrochlorination
 decompressed
+delible
 deflator
 deforced
 deforces
