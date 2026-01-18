@@ -1576,7 +1576,6 @@ gismos
 globicephala
 gymnura
 gauntlet
-gutteral
 gulanganes
 galleria
 gunlock
@@ -9587,6 +9586,7 @@ garrick
 gemses
 gossipmonger
 gowns
+gutteral
 gr
 guzerat
 glaucophanization
