@@ -2696,7 +2696,6 @@ enduros
 electrotherapy
 electrotheraputic
 emyds
-escribed
 ephippial
 emulsoidal
 exteriorise
@@ -6347,6 +6346,7 @@ espace
 ensheathe
 excitomotion
 eburna
+escribed
 ensheathing
 eruditely
 endoangiitis
