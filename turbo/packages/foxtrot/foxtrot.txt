@@ -3045,7 +3045,6 @@ foreboot
 fillmass
 fibrinose
 fibrinosis
-feringi
 fibro
 fantasia
 fiercehearted
@@ -3425,6 +3424,7 @@ florilegia
 figeater
 floriate
 fascisti
+feringi
 freesp
 filthily
 fortunation
