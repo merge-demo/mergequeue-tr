@@ -1017,7 +1017,6 @@ bayamos
 brigand
 bayano
 birlie
-bewitch
 bourdon
 bipalium
 blinger
@@ -9721,6 +9720,7 @@ boisseau
 bismerpund
 buoyages
 bipartisanism
+bewitch
 bourette
 bismite
 bankrupcy
