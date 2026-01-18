@@ -1094,6 +1094,7 @@ gamboge
 genitives
 gymnodiniidae
 goriest
+guazzo
 giroflore
 groat
 grooviness
@@ -6550,7 +6551,6 @@ gambeson
 grummets
 girons
 gimmerpet
-guazzo
 groyne
 goulan
 ghostwrite
