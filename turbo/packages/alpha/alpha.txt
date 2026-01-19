@@ -175,7 +175,6 @@ antepagments
 abave
 anaberoga
 allosematic
-anthracoid
 apagogical
 apoembryony
 autoschediaze
@@ -11541,6 +11540,7 @@ ascospore
 anapnoeic
 alenu
 amusers
+anthracoid
 abbatical
 amarelles
 astrologous
