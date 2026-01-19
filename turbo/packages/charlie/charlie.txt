@@ -20011,7 +20011,6 @@ contra
 churnstaff
 chrysophyllum
 commemorizing
-commenced
 circumscriptive
 cotillion
 curmurging
@@ -20544,6 +20543,7 @@ chromatophorous
 compellable
 cheirognomy
 compelled
+commenced
 carpogenic
 crumpling
 clarkia
