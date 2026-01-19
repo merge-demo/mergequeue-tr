@@ -365,6 +365,7 @@ greekless
 galactophoritis
 gutwort
 gingerin
+gyrectomies
 grade
 gilet
 gildedness
@@ -10206,7 +10207,6 @@ grun
 generaliser
 guzzled
 guile
-gyrectomies
 galluses
 groundsel
 gastradenitis
