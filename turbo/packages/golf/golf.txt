@@ -4434,7 +4434,6 @@ gommelin
 grandsire
 generics
 giocoso
-gip
 gpd
 gleba
 gluttony
@@ -6944,6 +6943,7 @@ galvanoplastical
 goof
 gwantus
 goofah
+gip
 guaiac
 greystone
 gebanga
