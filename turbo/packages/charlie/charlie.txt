@@ -17949,6 +17949,7 @@ colics
 cecum
 cattlehide
 coelenterate
+canoodler
 catharses
 crotin
 coelenterates
@@ -25249,7 +25250,6 @@ canonicate
 coryza
 cork
 corkage
-canoodler
 cocreates
 culmigenous
 corkages
