@@ -9933,6 +9933,7 @@ abrotin
 antheridium
 alfiona
 alascan
+anglicanize
 amatembu
 attaint
 alloquial
@@ -16530,7 +16531,6 @@ anteroposterior
 asaddle
 aorist
 advertises
-anglicanize
 arecaceous
 athyridae
 alodially
