@@ -574,7 +574,6 @@ gormandiser
 goys
 gagership
 goldflower
-ginhound
 galut
 geohydrology
 gynaecocoenic
@@ -8507,6 +8506,7 @@ go
 goshdarn
 gramaphone
 gametophyte
+ginhound
 ganglioblast
 gompholobium
 gyrophoric
