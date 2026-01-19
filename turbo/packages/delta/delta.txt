@@ -2851,6 +2851,7 @@ diskos
 discretively
 disposure
 dangle
+diaskeuasis
 disjointedness
 doveling
 disgenius
@@ -5557,7 +5558,6 @@ diabolizing
 desmognathae
 deperdite
 diastrophe
-diaskeuasis
 deperditely
 domain
 distinctest
