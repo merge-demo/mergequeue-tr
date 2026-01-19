@@ -4125,7 +4125,6 @@ divagate
 disherit
 delisk
 delists
-delit
 demonstratorship
 dob
 delitescent
@@ -13732,6 +13731,7 @@ doorplate
 divalent
 dejecta
 demulsion
+delit
 dissociations
 directoire
 defluous
