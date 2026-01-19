@@ -8023,7 +8023,6 @@ epiotic
 eutannin
 exopterygota
 exocline
-ethernet
 enigmaticalness
 exscript
 epigonal
@@ -12339,6 +12338,7 @@ eaning
 eviscerations
 evectant
 exertionless
+ethernet
 eschscholtzia
 estuate
 elric
