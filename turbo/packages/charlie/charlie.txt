@@ -18340,7 +18340,6 @@ cogitabundous
 creamcups
 cogitant
 cogitates
-cogitation
 centrosomic
 cogitativity
 comparer
@@ -28825,6 +28824,7 @@ cassena
 corrodant
 countertail
 cresselle
+cogitation
 cringingness
 cresset
 colima
