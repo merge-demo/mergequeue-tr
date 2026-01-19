@@ -13972,7 +13972,6 @@ cyphella
 cypher
 cipherdom
 causeur
-cyphered
 cipherer
 cipherhood
 ciphering
@@ -15396,6 +15395,7 @@ candescently
 calipering
 chaffering
 canneries
+cyphered
 claques
 claqueur
 conducement
