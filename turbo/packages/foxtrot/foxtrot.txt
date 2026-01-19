@@ -4283,7 +4283,6 @@ fretworked
 foddering
 fauces
 frailty
-ferrelled
 fluorins
 fellnesses
 fasteners
@@ -5345,6 +5344,7 @@ fluoridise
 foredetermine
 flunkyistic
 forthset
+ferrelled
 flutists
 fleche
 folliculate
