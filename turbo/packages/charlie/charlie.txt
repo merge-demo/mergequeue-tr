@@ -15888,6 +15888,7 @@ clench
 carbamino
 clenched
 clencher
+cordinar
 contravariant
 clenchers
 clarshech
@@ -25012,7 +25013,6 @@ cordillera
 carbonizes
 cordilleran
 cordilleras
-cordinar
 cordlessly
 crucifyfied
 cordlike
