@@ -3939,7 +3939,6 @@ bdelloid
 bdellometer
 boarts
 booksellerish
-bombardier
 bocstaff
 brickbats
 bdelloura
@@ -12625,6 +12624,7 @@ betises
 bigeminal
 billposting
 braccate
+bombardier
 bakshaish
 beshag
 beaproned
