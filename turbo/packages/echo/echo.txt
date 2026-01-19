@@ -1914,7 +1914,6 @@ emptional
 electropneumatically
 eluting
 exemplary
-endearance
 euhemerized
 excite
 evertebral
@@ -9110,6 +9109,7 @@ equipollent
 epicolic
 euryalae
 electroencephalographic
+endearance
 encyclopedias
 ethinyl
 exsection
