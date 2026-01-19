@@ -7342,7 +7342,6 @@ cephalodium
 cephalogram
 cephaloid
 culminates
-cuticles
 crepuscle
 cephalology
 cephalom
@@ -30959,6 +30958,7 @@ chloroform
 clews
 culverhouse
 churrs
+cuticles
 corsesque
 culverkey
 culvers

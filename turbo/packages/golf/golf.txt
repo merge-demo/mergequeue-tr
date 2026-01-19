@@ -6850,7 +6850,6 @@ gatling
 guyed
 gitterns
 guttiferae
-gombay
 gehenna
 guglio
 gangliomata
@@ -9747,6 +9746,7 @@ gagaku
 gymnastic
 gluttonizing
 gradino
+gombay
 gastriloquial
 gelatinous
 gregarine
