@@ -5475,6 +5475,7 @@ epilobium
 entranced
 elding
 energeticness
+equestrian
 epacrid
 extrasystole
 exospheres
@@ -14013,7 +14014,6 @@ evocation
 extrapunitive
 endogen
 extraregularly
-equestrian
 expirers
 exiling
 exsertile
