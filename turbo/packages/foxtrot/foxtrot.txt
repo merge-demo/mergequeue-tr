@@ -2902,6 +2902,7 @@ flukiness
 freezed
 foxberries
 fac
+floroon
 fenestrato
 furloughs
 fungological
@@ -8731,7 +8732,6 @@ foreplace
 fraud
 fated
 frugality
-floroon
 fashionative
 fumbler
 forhooie
