@@ -172,7 +172,6 @@ drachmai
 dopiest
 damas
 decipherer
-daedaloid
 di
 diel
 diaplasma
@@ -18632,6 +18631,7 @@ dutchmen
 debagging
 dedicatorial
 degreeless
+daedaloid
 duty
 dutiability
 disdains
