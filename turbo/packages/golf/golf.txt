@@ -4304,7 +4304,6 @@ gravidity
 gymnic
 gymnemic
 gloeosporiose
-globosity
 gawks
 geodesist
 galeopsis
@@ -7966,6 +7965,7 @@ goldenmouthed
 gasifiable
 gainer
 guttee
+globosity
 glouts
 goodhap
 galleyman
