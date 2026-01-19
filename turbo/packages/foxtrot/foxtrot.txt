@@ -3404,6 +3404,7 @@ forwards
 frederica
 foreside
 fieriness
+fummle
 fierte
 fifed
 flerried
@@ -9329,7 +9330,6 @@ fardh
 frayne
 frankish
 functionary
-fummle
 fettled
 fastenings
 frisbee
