@@ -2116,6 +2116,7 @@ booms
 blanca
 bosch
 brouillon
+bulging
 barring
 borofluoride
 bantayan
@@ -15117,7 +15118,6 @@ belauder
 blusteringly
 bostrychidae
 balter
-bulging
 berlina
 bushbuck
 breviconic
