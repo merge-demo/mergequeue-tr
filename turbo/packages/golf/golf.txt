@@ -998,6 +998,7 @@ genethlialogy
 gamester
 grimace
 geanticline
+garnel
 gubernia
 gingerberry
 gemmed
@@ -10264,7 +10265,6 @@ gratifies
 gustoish
 guise
 galv
-garnel
 guestimating
 griselda
 gipsyhood
