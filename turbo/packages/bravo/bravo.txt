@@ -2999,6 +2999,7 @@ backhatch
 beaveries
 becowarding
 bioassay
+boors
 blarneyer
 barstools
 bart
@@ -10065,7 +10066,6 @@ bushranger
 bedeviled
 battuto
 becrusted
-boors
 benefiter
 bywalking
 buckleya
