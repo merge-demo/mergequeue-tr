@@ -6974,6 +6974,7 @@ gallerian
 gapes
 guaconize
 glad
+guld
 gossipry
 garrat
 girding
@@ -7722,7 +7723,6 @@ gloea
 gutturopalatine
 grenelle
 gauloiserie
-guld
 grenadier
 gynecicgynecidal
 glycinin
