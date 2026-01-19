@@ -4741,7 +4741,6 @@ gamboised
 groundwork
 grouseless
 gosther
-giveable
 garbline
 gelidly
 gametophyll
@@ -5894,6 +5893,7 @@ gluepot
 gemitorial
 globuliform
 gaylussacia
+giveable
 gluishness
 germy
 glumes
