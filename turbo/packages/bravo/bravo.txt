@@ -21,7 +21,6 @@ bearer
 beneficences
 babaylanes
 branch
-beringite
 bhalu
 babasu
 bureaucratist
@@ -1000,6 +999,7 @@ buddh
 bayadere
 boragineous
 bayal
+beringite
 bottomed
 bosser
 bukidnon
