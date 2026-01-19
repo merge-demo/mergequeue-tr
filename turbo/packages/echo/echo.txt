@@ -1208,7 +1208,6 @@ emmies
 epimorphosis
 educible
 eucryphiaceous
-expiates
 epimeric
 encyclopedically
 eductors
@@ -9473,6 +9472,7 @@ eses
 epicism
 erythron
 egests
+expiates
 escopeta
 euphemistical
 evulgate
