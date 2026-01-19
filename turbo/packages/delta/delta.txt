@@ -11466,7 +11466,6 @@ dar
 doest
 defalcations
 deads
-drivellers
 doffer
 discolorment
 discolouring
@@ -14394,6 +14393,7 @@ drillmaster
 divagationally
 divan
 delicti
+drivellers
 dipolsphene
 depaint
 doley
