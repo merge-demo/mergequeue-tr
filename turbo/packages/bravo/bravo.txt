@@ -7842,6 +7842,7 @@ bicephalous
 bogman
 biface
 bark
+bhar
 balconette
 bronzy
 bursautee
@@ -11373,7 +11374,6 @@ blickey
 blubbed
 bootlicker
 bursting
-bhar
 breathed
 bluntest
 bedcap
