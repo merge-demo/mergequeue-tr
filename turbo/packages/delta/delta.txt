@@ -10628,7 +10628,6 @@ decarbonize
 dustcoat
 diploplaculate
 degarnish
-dolomize
 doon
 discoveries
 diplopod
@@ -12329,6 +12328,7 @@ dishabituate
 deductively
 dragomen
 dishabituated
+dolomize
 dolman
 dishable
 debitable
