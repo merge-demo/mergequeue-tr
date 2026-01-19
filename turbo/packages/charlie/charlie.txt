@@ -5151,6 +5151,7 @@ caprylene
 cackle
 casemaking
 casemates
+cytogeneticist
 casemented
 casements
 copolar
@@ -18018,7 +18019,6 @@ calmy
 cheesy
 coempting
 congresso
-cytogeneticist
 choriphyllous
 clitoridectomy
 chaffingly
