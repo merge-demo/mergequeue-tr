@@ -4396,7 +4396,6 @@ ceriph
 criticizer
 cosmetologist
 confrere
-calandridae
 centimes
 clothlike
 coleochaete
@@ -25131,6 +25130,7 @@ coretomy
 chrysalidian
 conversionist
 crackableness
+calandridae
 cottontail
 coded
 culpate
