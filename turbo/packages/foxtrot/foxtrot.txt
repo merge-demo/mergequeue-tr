@@ -2761,6 +2761,7 @@ furdel
 fistulized
 forbearer
 ftncmd
+fadeout
 forewish
 foxtailed
 fotch
@@ -11161,7 +11162,6 @@ flyblowing
 fungian
 felspar
 fungibility
-fadeout
 fideists
 farmer
 fungicidal
