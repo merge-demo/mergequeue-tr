@@ -12826,6 +12826,7 @@ dialogs
 dorsomedian
 decreptitude
 dehydrogenized
+despoliation
 downhaul
 dyemaking
 daubs
@@ -13418,7 +13419,6 @@ disquisit
 disquisite
 dermophlebitis
 distillment
-despoliation
 diazotic
 diarsenide
 disesteem
