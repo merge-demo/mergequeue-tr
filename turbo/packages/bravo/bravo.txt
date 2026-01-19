@@ -6824,6 +6824,7 @@ berwick
 bummaree
 burley
 baroi
+bacchiac
 bes
 biocide
 bushpig
@@ -12875,7 +12876,6 @@ behorror
 bifoil
 birthplace
 bg
-bacchiac
 bangster
 bkpt
 burk
