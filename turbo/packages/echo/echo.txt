@@ -3863,6 +3863,7 @@ emesa
 emeses
 effigiate
 epalpate
+epauliere
 ethnobotanical
 emesis
 entrapment
@@ -13345,7 +13346,6 @@ enduement
 exponible
 existible
 evolvable
-epauliere
 encowl
 enough
 erithacus
