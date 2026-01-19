@@ -3568,6 +3568,7 @@ gharnao
 gilbertian
 glossa
 gambolled
+glare
 goniaster
 gnomelike
 gregarinaria
@@ -5544,7 +5545,6 @@ grandames
 gconvert
 geoprumnon
 guars
-glare
 gaz
 gesticulacious
 gigglingly
