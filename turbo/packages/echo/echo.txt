@@ -8202,6 +8202,7 @@ episodical
 earsh
 episodically
 eviscerates
+exists
 exuded
 expansiveness
 enchylematous
@@ -11810,7 +11811,6 @@ earthrise
 ectomorphy
 euglenida
 ectothermic
-exists
 exauthorizeexc
 evanescently
 ethoxyl
