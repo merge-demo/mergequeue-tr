@@ -5749,6 +5749,7 @@ fribble
 family
 fevertwig
 flambee
+farfugium
 frett
 facemaker
 fv
@@ -7965,7 +7966,6 @@ fumeless
 forespeaking
 flavorer
 feuter
-farfugium
 fletton
 fissipedia
 foredeep
