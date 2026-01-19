@@ -5274,7 +5274,6 @@ epitomatory
 etaerio
 excommunicated
 entreatable
-embryotegae
 editors
 endopodite
 exagitation
@@ -6328,6 +6327,7 @@ euchred
 ensphered
 eyespot
 enseal
+embryotegae
 estancias
 esophoric
 extrovertish
