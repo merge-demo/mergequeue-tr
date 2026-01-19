@@ -6923,6 +6923,7 @@ ceratinous
 culm
 cenaculum
 cloglike
+copple
 cenation
 cencerro
 coumarane
@@ -16107,7 +16108,6 @@ clarify
 climaciaceae
 crawtae
 carabinero
-copple
 climaciaceous
 culturable
 climacter
