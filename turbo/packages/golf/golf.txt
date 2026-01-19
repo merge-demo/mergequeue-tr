@@ -6290,7 +6290,6 @@ gruneritization
 goblins
 gallivanters
 gebang
-gardevisure
 gobo
 globins
 gaybine
@@ -10467,6 +10466,7 @@ glutei
 graylings
 gastrin
 goli
+gardevisure
 gulfwards
 ginghamed
 gynandromorph
