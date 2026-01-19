@@ -11,7 +11,6 @@ gabbers
 glandulation
 gobi
 grasswork
-gratuities
 gabelles
 galiot
 gledy
@@ -4250,6 +4249,7 @@ greenheaded
 galidictis
 gunshots
 gleamed
+gratuities
 gastroscope
 glaiket
 gangliated
