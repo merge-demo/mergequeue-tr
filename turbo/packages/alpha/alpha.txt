@@ -10536,6 +10536,7 @@ anatinae
 adscendent
 agib
 amyclas
+antichthon
 alboranite
 arrythmical
 amicous
@@ -14873,7 +14874,6 @@ associates
 antipoverty
 aswough
 antineutron
-antichthon
 abkhas
 antichthones
 acuan
