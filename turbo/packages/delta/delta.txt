@@ -1492,7 +1492,6 @@ degenerationist
 dbridement
 decidual
 dracma
-dc
 dcb
 depressure
 deaccessioning
@@ -3303,6 +3302,7 @@ dartrous
 danknesses
 definish
 decolored
+dc
 decapitalization
 definite
 definitely

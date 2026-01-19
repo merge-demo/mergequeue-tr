@@ -6728,7 +6728,6 @@ celebs
 celemin
 celemines
 celery
-cimborio
 cypres
 celerities
 celeste
@@ -16644,6 +16643,7 @@ closes
 closeting
 crampit
 chthonic
+cimborio
 cylindroma
 crusading
 campoo
