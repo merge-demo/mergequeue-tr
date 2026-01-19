@@ -678,7 +678,6 @@ eclogic
 egressor
 eclogite
 eclosion
-emasculative
 eclosions
 ethel
 engaging
@@ -7539,6 +7538,7 @@ epicede
 eroticomaniac
 epicedia
 encephalopathic
+emasculative
 ebriose
 earnie
 electronics
