@@ -7131,7 +7131,6 @@ deambulate
 dreamers
 desulfurs
 desulphur
-desulphurate
 delatorian
 desulphurised
 demonize
@@ -11910,6 +11909,7 @@ dissyllabify
 dianoetic
 dandiacal
 disarming
+desulphurate
 defeasive
 debonaire
 diseasedness
