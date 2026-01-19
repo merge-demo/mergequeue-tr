@@ -3330,7 +3330,6 @@ aggravation
 appassionato
 adagissimo
 achromatise
-amalgamators
 aphototactic
 archiprelatical
 arrestors
@@ -12020,6 +12019,7 @@ anaplasty
 arrogatingly
 anosmia
 appendiculata
+amalgamators
 amination
 adnexa
 aboveground
