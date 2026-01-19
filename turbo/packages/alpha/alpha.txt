@@ -15987,6 +15987,7 @@ americas
 amylase
 aromatise
 acquital
+achaenodon
 aliasing
 antiquated
 anticreational
@@ -22175,7 +22176,6 @@ astriferous
 archeology
 asthenolith
 asthenology
-achaenodon
 anabaptistry
 asthenophobia
 anguid
