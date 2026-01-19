@@ -883,7 +883,6 @@ bauxites
 bouilli
 bicolour
 bravade
-bagful
 baggagemaster
 bedamning
 brachydome
@@ -14432,6 +14431,7 @@ boxfuls
 belloot
 bacchanalian
 blowsed
+bagful
 brainstorming
 balkanic
 brainteaser
