@@ -1361,7 +1361,6 @@ garlion
 gemshorn
 guess
 gesturers
-garmentmaker
 grafting
 gemmel
 gelogenic
@@ -1535,6 +1534,7 @@ grype
 gulfiest
 grandiloquence
 gearless
+garmentmaker
 gurt
 granddaughters
 guara
