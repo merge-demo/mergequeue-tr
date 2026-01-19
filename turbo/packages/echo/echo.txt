@@ -10988,6 +10988,7 @@ epibaterium
 eurybenthic
 endeared
 etacist
+endears
 eusynchite
 eurycephalic
 epiglot
@@ -13981,7 +13982,6 @@ emceed
 embosked
 electrotypy
 enwreathed
-endears
 exundance
 exsuperance
 extraperiosteal
