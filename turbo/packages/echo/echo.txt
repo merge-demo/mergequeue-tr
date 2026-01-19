@@ -5311,7 +5311,6 @@ erectors
 ernest
 estocs
 ergodicity
-elegiast
 eliminability
 endosclerite
 extrahepatic
@@ -9708,6 +9707,7 @@ echoed
 eversible
 extima
 easing
+elegiast
 escry
 eventuated
 entoptoscopic
