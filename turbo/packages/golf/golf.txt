@@ -803,6 +803,7 @@ graf
 gimlet
 garrotting
 gastroenteritic
+galluptious
 gambang
 gastrular
 grazer
@@ -10451,7 +10452,6 @@ geistlich
 gansy
 gastrolienal
 graphitization
-galluptious
 gastroadenitis
 gusset
 goosy
