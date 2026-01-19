@@ -6435,6 +6435,7 @@ endangerments
 electromyography
 espave
 espousal
+enunciate
 expandibility
 ensnared
 ensnarer
@@ -7364,7 +7365,6 @@ exstipulate
 ephedra
 epeiric
 exciseman
-enunciate
 ecclesiastically
 embowerment
 ephesian
