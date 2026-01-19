@@ -6276,6 +6276,7 @@ callosomarginal
 caulks
 chymists
 crazyweed
+cibola
 conferrer
 capuchins
 catalases
@@ -13070,7 +13071,6 @@ cybernion
 cibol
 conjugacy
 curtailments
-cibola
 cibolero
 cibols
 columnea
