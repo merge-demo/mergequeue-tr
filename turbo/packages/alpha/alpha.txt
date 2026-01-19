@@ -371,6 +371,7 @@ acinose
 abetments
 ambulant
 andesitic
+apoidea
 antietam
 arsenide
 abetted
@@ -17159,7 +17160,6 @@ apographical
 apostolic
 antibreakage
 autosensitization
-apoidea
 astucity
 agricultural
 apoious
