@@ -6476,6 +6476,7 @@ forgie
 farweltered
 fip
 failsoft
+fused
 frapping
 forspread
 furcular
@@ -7125,7 +7126,6 @@ footfolk
 ficklewise
 fruticulture
 fictionised
-fused
 fifteener
 foremind
 flukewort
