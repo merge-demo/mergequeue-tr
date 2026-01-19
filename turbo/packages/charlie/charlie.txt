@@ -8229,6 +8229,7 @@ chalcocite
 cares
 compotatory
 christianomastix
+chlorophane
 chalcogen
 chalcogenide
 coenaculum
@@ -27263,7 +27264,6 @@ countrification
 complies
 countrified
 cephalanthous
-chlorophane
 countrifiedness
 countryfiedness
 cryolites
