@@ -321,7 +321,6 @@ escots
 engaze
 eastman
 enclaret
-encephalograph
 estops
 eastre
 enturret
@@ -6311,6 +6310,7 @@ embrocation
 ejusd
 enrolls
 eumycetes
+encephalograph
 equijacent
 embowed
 enrut
