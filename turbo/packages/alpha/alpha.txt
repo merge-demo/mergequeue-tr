@@ -4629,7 +4629,6 @@ ayegreen
 alahee
 avikom
 aecidial
-archical
 adducts
 aecidiospore
 asynchrony
@@ -10298,6 +10297,7 @@ arcticize
 anemious
 agricolite
 amelanchier
+archical
 avarice
 argus
 auxoblast

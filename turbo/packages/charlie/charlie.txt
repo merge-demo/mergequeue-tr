@@ -8664,6 +8664,7 @@ chaology
 chaori
 campholide
 credibilities
+cliffsman
 chaotic
 coccoid
 chaoua
@@ -16098,7 +16099,6 @@ creators
 calamints
 cliffside
 chequerboard
-cliffsman
 cliffweed
 clift
 clifty
