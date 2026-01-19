@@ -17303,7 +17303,6 @@ chlamydomonadidae
 canonically
 cymogenes
 coaptation
-coapted
 conclamant
 coapting
 camarada
@@ -28825,6 +28824,7 @@ countertail
 cresselle
 cogitation
 cringingness
+coapted
 cresset
 colima
 cressets
