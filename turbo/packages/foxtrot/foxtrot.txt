@@ -5499,7 +5499,6 @@ faldage
 furbelowing
 fankle
 feticides
-feynesses
 fossettes
 fleurettee
 fluemen
@@ -6154,6 +6153,7 @@ fog
 flrie
 fadeaway
 frothier
+feynesses
 fluavile
 flubbed
 feudum
