@@ -450,7 +450,6 @@ crocodilean
 chesteine
 cactus
 copying
-civilisable
 chancered
 cactuslike
 cinclidotus
@@ -9953,6 +9952,7 @@ chenar
 cheneaus
 collaborations
 crystallophyllian
+civilisable
 conspurcate
 cambists
 crescographic
