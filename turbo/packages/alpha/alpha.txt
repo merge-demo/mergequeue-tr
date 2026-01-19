@@ -19122,7 +19122,6 @@ antivenine
 alit
 ascophorous
 aristocraticness
-allocute
 absorbant
 alkylamino
 alphanumeric
@@ -19449,6 +19448,7 @@ aahing
 afterstate
 alexins
 actory
+allocute
 athwartwise
 authorship
 augurial
