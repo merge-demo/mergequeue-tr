@@ -311,6 +311,7 @@ benzacridine
 backslided
 backbite
 beeman
+bogey
 burgeon
 baize
 backbitingly
@@ -4761,7 +4762,6 @@ bibliotic
 blackseed
 bord
 bedmate
-bogey
 bedouins
 bauckiebird
 bedown
