@@ -6890,6 +6890,7 @@ dialled
 despair
 delirous
 drunken
+dyadics
 dirgeful
 despairful
 doctrinism
@@ -8200,7 +8201,6 @@ diadic
 disabusing
 demurrer
 decouples
-dyadics
 demidog
 diadkokinesia
 diadochi

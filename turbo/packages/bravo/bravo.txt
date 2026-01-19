@@ -862,7 +862,6 @@ baga
 benzenoid
 blatherer
 biniodide
-biochron
 bromodeoxyuridine
 burnishers
 billikin
@@ -6832,6 +6831,7 @@ boaedon
 bivouac
 busboy
 battalia
+biochron
 bitulithic
 besagne
 bisexually
