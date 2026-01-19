@@ -2399,6 +2399,7 @@ dorsiparous
 deciliter
 druidry
 destituent
+decoat
 doodads
 donny
 dripstick
@@ -2585,7 +2586,6 @@ discouragements
 docetist
 desistence
 diplocephalous
-decoat
 demiquaver
 dashes
 decoctive
