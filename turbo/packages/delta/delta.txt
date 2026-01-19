@@ -13868,7 +13868,6 @@ direxit
 dysteleologist
 dammers
 decipherment
-distemper
 dollship
 doubletone
 ductileness
@@ -16361,6 +16360,7 @@ defilade
 defrost
 downstrokes
 downtake
+distemper
 duodecane
 dewret
 downthrown
