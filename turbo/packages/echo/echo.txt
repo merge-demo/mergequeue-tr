@@ -1446,7 +1446,6 @@ ergonomic
 epanorthotic
 emunct
 exenteritis
-epipleural
 envelop
 enfarce
 euxanthate
@@ -8922,6 +8921,7 @@ ergograph
 epistrophic
 embitter
 ergomaniac
+epipleural
 eragrostis
 eyers
 energumen
