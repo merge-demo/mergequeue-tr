@@ -7659,7 +7659,6 @@ absorbencies
 alcyonium
 abreaction
 amplidyne
-airplaned
 antefurca
 actual
 alectorides
@@ -25095,6 +25094,7 @@ ausforms
 advanceable
 antiastronomical
 atwirl
+airplaned
 accusativeness
 autochronograph
 afflictively
