@@ -4677,6 +4677,7 @@ corespondency
 carotol
 chalcedonian
 carouba
+chlorinated
 caroubier
 conjurership
 cryology
@@ -11254,7 +11255,6 @@ compaternity
 carlin
 chlorimeter
 chlorimetric
-chlorinated
 chlorinating
 curly
 candela
