@@ -4432,7 +4432,6 @@ cariri
 caririan
 commoner
 choke
-carisa
 cabilliau
 concertina
 cleistogamically
@@ -26995,6 +26994,7 @@ counterinsurgency
 critteria
 cartilaginean
 compartmentize
+carisa
 counterpaned
 counterparry
 counterpart
