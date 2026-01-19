@@ -3753,7 +3753,6 @@ glossology
 gouges
 giantship
 glycolate
-garrafa
 gapping
 gastroesophagostomy
 gunong
@@ -4259,6 +4258,7 @@ gaunty
 goon
 gantleting
 gramophones
+garrafa
 gusto
 gnabble
 garnishing
