@@ -5001,6 +5001,7 @@ chevrony
 cartulary
 cartularies
 carapache
+chapped
 cabbagelike
 collaring
 cartware
@@ -21240,7 +21241,6 @@ chinbeak
 chatwood
 concertante
 countersank
-chapped
 concertation
 concertato
 concerted
