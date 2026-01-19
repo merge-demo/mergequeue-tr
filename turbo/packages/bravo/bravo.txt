@@ -8623,7 +8623,6 @@ belatedly
 beeswinged
 becowards
 billiards
-banba
 billyboy
 bivalved
 brules
@@ -10831,6 +10830,7 @@ bradford
 bitstalk
 blepharocarcinoma
 balinger
+banba
 bayish
 blesmol
 bestripe
