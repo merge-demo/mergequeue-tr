@@ -7025,7 +7025,6 @@ gastropathic
 gladrags
 gyrinus
 gazy
-gunite
 garava
 gunther
 geikia
@@ -10133,6 +10132,7 @@ greenier
 grandeurs
 grudges
 granophyric
+gunite
 gideonite
 gymslip
 glazement
