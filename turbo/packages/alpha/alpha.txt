@@ -10391,6 +10391,7 @@ airfares
 america
 arrayed
 americanese
+aliyas
 acetosity
 aerobacteriology
 antihemoglobin
@@ -18481,7 +18482,6 @@ adventry
 abrenunciation
 ascorbic
 adeline
-aliyas
 antipendium
 arber
 autolesion
