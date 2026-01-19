@@ -2529,6 +2529,7 @@ banderilla
 bemused
 burmite
 brillolette
+boche
 barid
 bronchostenosis
 bereaving
@@ -8329,7 +8330,6 @@ biconditional
 billie
 bowermaiden
 bourignonist
-boche
 biotitic
 burundi
 benzenes
