@@ -21292,6 +21292,7 @@ concettism
 conch
 concha
 corniches
+cires
 countenance
 celiitis
 cogitated
@@ -29231,7 +29232,6 @@ chattingly
 cryptamnesic
 cryptanalytically
 cryptanalytics
-cires
 cryptanalyze
 cothamore
 characetum
