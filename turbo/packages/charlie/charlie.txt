@@ -15273,7 +15273,6 @@ concuss
 contune
 cordant
 copalchi
-clamouring
 collembolan
 clamourist
 coadmired
@@ -25150,6 +25149,7 @@ coriaceous
 coriamyrtin
 corianders
 conditional
+clamouring
 cuttlebones
 cycled
 calabar
