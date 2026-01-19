@@ -4498,6 +4498,7 @@ adventuress
 adventuresses
 avidiously
 acidimetrically
+articulationes
 alternation
 angiostegnosis
 asellus
@@ -18133,7 +18134,6 @@ apus
 akinesis
 ambulia
 antechoir
-articulationes
 analogising
 aquacade
 amotion
