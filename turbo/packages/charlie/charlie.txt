@@ -4814,6 +4814,7 @@ chibouk
 carposporangial
 catalase
 carlist
+cataclysmatist
 carposporous
 carpsucker
 cavalierish
@@ -5518,7 +5519,6 @@ compoundedness
 cataclysmal
 coumbite
 cratometer
-cataclysmatist
 cataclysmic
 cataclysmically
 crowboot
