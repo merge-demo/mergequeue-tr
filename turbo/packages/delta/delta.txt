@@ -2942,6 +2942,7 @@ deduces
 droil
 dolt
 deducibility
+dermises
 drawstop
 deducted
 devolatilized
@@ -8752,7 +8753,6 @@ decorably
 doge
 dulses
 diazeutic
-dermises
 dittogram
 diazeuxis
 decagonal
