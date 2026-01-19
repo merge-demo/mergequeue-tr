@@ -1624,6 +1624,7 @@ glycolipid
 gaskin
 grists
 grants
+galimatias
 gamobium
 glossophytia
 gastroxynsis
@@ -8293,7 +8294,6 @@ greyness
 guha
 gaingiving
 gynaecia
-galimatias
 glod
 gephyrocercy
 glacon
