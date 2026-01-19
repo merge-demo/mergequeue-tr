@@ -2644,7 +2644,6 @@ genetics
 graffito
 gastrolysis
 gudgeoned
-glow
 germantown
 globulicidal
 genetika
@@ -7831,6 +7830,7 @@ geoglossaceae
 gun
 guhayna
 gond
+glow
 grasserie
 glumpier
 grafship
