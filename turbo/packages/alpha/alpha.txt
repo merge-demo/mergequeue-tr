@@ -6993,6 +6993,7 @@ ayurveda
 aptitudes
 aivers
 adenodiastasis
+attainability
 aiwan
 annamitic
 asepses
@@ -11217,7 +11218,6 @@ agynous
 aerologists
 authority
 attesting
-attainability
 apocyneous
 amphibolitic
 attentiveness
