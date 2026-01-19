@@ -101,7 +101,6 @@ earreach
 engineership
 extraught
 ecphoria
-enamoured
 eusteles
 earrings
 eaves
@@ -11352,6 +11351,7 @@ electrodesiccation
 evenforth
 eryopid
 embarrel
+enamoured
 eruciform
 emanatively
 eathly
