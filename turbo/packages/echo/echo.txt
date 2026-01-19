@@ -1843,6 +1843,7 @@ edaciousness
 elaterin
 equitemporal
 expeller
+entoparasitic
 eremology
 erastian
 eila
@@ -9769,7 +9770,6 @@ exitious
 enthusiast
 expressure
 essentially
-entoparasitic
 exigencies
 expeditation
 eightballs
