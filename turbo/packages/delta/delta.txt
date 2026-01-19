@@ -1881,6 +1881,7 @@ decoy
 daleswoman
 debonair
 dextrorotary
+disseisor
 debonairness
 deboned
 dioxin
@@ -18650,7 +18651,6 @@ disforest
 drowsily
 disubstitution
 discountenanced
-disseisor
 devitrification
 decolorize
 duvetynes
