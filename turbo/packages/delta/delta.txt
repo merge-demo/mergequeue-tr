@@ -8320,7 +8320,6 @@ ditrigonally
 dresses
 dockmaster
 dialectician
-disfavourable
 decapodous
 droopingness
 decurvature
@@ -8812,6 +8811,7 @@ drachmas
 dibbled
 degame
 dybbuk
+disfavourable
 dominantly
 dibbuks
 defied
