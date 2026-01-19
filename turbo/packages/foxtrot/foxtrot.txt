@@ -7060,7 +7060,6 @@ fingerstall
 fadmonger
 forgeability
 fungicide
-foolproof
 foolproofness
 ferret
 fibulare
@@ -11470,6 +11469,7 @@ feminacies
 fairleader
 flays
 froggery
+foolproof
 formular
 fuzzle
 foothill
