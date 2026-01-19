@@ -4448,7 +4448,6 @@ gypped
 giardia
 gyp
 gundog
-generaliter
 greffier
 graveyard
 giddyhead
@@ -8896,6 +8895,7 @@ guidance
 giddies
 giros
 geoducks
+generaliter
 gemming
 ghess
 gaufferer
