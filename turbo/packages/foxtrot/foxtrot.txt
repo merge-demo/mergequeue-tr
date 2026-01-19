@@ -7009,7 +7009,6 @@ fontful
 fantassin
 fonticulus
 ferrocene
-flapmouthed
 foreganger
 fontinas
 forepromise
@@ -9642,6 +9641,7 @@ fringe
 fouquieria
 foldouts
 fourfiusher
+flapmouthed
 fragor
 frigga
 fraising
