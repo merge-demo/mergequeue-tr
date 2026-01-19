@@ -2540,6 +2540,7 @@ chaloth
 confraternities
 candlelighting
 cohusband
+caparisoning
 carvels
 circumcinct
 candlemaker
@@ -3137,7 +3138,6 @@ capanna
 cystolithectomy
 caparison
 caparisoned
-caparisoning
 caparisons
 capataz
 capcase
