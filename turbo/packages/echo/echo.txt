@@ -710,7 +710,6 @@ eidently
 enode
 eyefuls
 enterozoa
-equalable
 expressionable
 epiglottic
 embraciveg
@@ -7739,6 +7738,7 @@ ephapse
 everyness
 erythraea
 epirogeny
+equalable
 epidermic
 epidermical
 enteroplasty
