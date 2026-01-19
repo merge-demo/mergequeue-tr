@@ -6435,7 +6435,6 @@ glimpse
 goldfinny
 guising
 gardenesque
-goldy
 galahads
 guileless
 grandisonianism
@@ -9310,6 +9309,7 @@ gauffre
 gallipot
 gromia
 grinder
+goldy
 geomagnetically
 gront
 gorbellies
