@@ -2612,6 +2612,7 @@ bhaiyachara
 borana
 bunglesome
 barkey
+bonne
 briers
 barkery
 befortune
@@ -12586,7 +12587,6 @@ boterol
 begrudging
 brackets
 bagpiping
-bonne
 bescreens
 bubbly
 bonnet
