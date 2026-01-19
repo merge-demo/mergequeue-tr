@@ -2161,7 +2161,6 @@ ethoxycaffeine
 entrances
 epizoan
 extrabold
-eructate
 endocyclic
 elbowy
 elbowpiece
@@ -5203,6 +5202,7 @@ ending
 endorser
 empathizing
 endolymphatic
+eructate
 ectobatic
 electromagnetic
 eluviums
