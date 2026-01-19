@@ -2071,7 +2071,6 @@ aeropulse
 anhalonidine
 andantini
 acheron
-apheliotropism
 apostematous
 acheronian
 asdics
@@ -8172,6 +8171,7 @@ avoidances
 anacoluthia
 abiogenetic
 artisanship
+apheliotropism
 algoid
 adroitness
 anglophiliac
