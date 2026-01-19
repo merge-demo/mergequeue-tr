@@ -4167,7 +4167,6 @@ adonite
 amberoids
 alkylamine
 adonizing
-androgenous
 ancestrian
 adoperate
 ammonals
@@ -19416,6 +19415,7 @@ albespine
 avouchment
 assortedness
 aseptify
+androgenous
 anagogically
 apothegmatically
 argenteous
