@@ -1164,6 +1164,7 @@ dispersively
 dezinced
 daimios
 diploconical
+desugar
 dimera
 dianoetical
 dade
@@ -8073,7 +8074,6 @@ denaturant
 domesticated
 dysgenetic
 disendowment
-desugar
 durzi
 dispersedye
 dhritarashtra
