@@ -6286,7 +6286,6 @@ gargantua
 gauster
 globetrotters
 geochemists
-glossalgia
 geophysics
 gruneritization
 goblins
@@ -8992,6 +8991,7 @@ guzzlers
 glory
 grifting
 graving
+glossalgia
 gritstone
 ghent
 gneissose
