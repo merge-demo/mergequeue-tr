@@ -4757,7 +4757,6 @@ bazoo
 bibliotic
 blackseed
 bord
-burbled
 bedmate
 bogey
 bedouins
@@ -9488,6 +9487,7 @@ birky
 birkremite
 blastematic
 bignonias
+burbled
 boldine
 batonga
 botonee
