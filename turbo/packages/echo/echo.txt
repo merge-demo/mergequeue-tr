@@ -8040,7 +8040,6 @@ expectorations
 endovasculitis
 euthenist
 equuleus
-encoop
 electrodentistry
 epibasal
 ergs
@@ -8078,6 +8077,7 @@ euphrasy
 exosporal
 empeopled
 emerize
+encoop
 epiphytic
 extensum
 expositor
