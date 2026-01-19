@@ -6832,7 +6832,6 @@ ensky
 etherification
 exceptionless
 epitome
-exterior
 embarque
 enameloma
 extractive
@@ -13016,6 +13015,7 @@ enjoins
 edictally
 expectorative
 ephebos
+exterior
 equipollently
 extubate
 exhaustingly
