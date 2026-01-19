@@ -4616,7 +4616,6 @@ galvanise
 gorillaship
 goatbush
 gammarid
-gentility
 gunlocks
 gaudy
 guerinet
@@ -5025,6 +5024,7 @@ groused
 gradus
 goalkeeper
 golconda
+gentility
 gecarcinus
 gastrogenital
 gv
