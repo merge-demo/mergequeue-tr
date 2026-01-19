@@ -7151,7 +7151,6 @@ bocking
 blotchiest
 blowy
 betongue
-besprinkle
 bandhor
 biaxial
 bonduc
@@ -13755,6 +13754,7 @@ bescurf
 burga
 bufflehorn
 bovaristic
+besprinkle
 bovate
 bonniness
 besmirching
