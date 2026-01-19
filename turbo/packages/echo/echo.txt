@@ -12067,6 +12067,7 @@ ethynyls
 expediate
 entrainer
 esselen
+embarked
 enplanes
 epacridaceae
 excrementive
@@ -12879,7 +12880,6 @@ ecomomist
 ensynopticity
 eburneoid
 evacuators
-embarked
 expandable
 escropulo
 exobiologists
