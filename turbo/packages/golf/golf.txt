@@ -1740,6 +1740,7 @@ guesses
 gamesman
 guernseys
 gastropexy
+goosebeak
 gutte
 greaseproof
 gastrophile
@@ -6063,7 +6064,6 @@ gnaws
 gramineous
 gneiss
 glengarries
-goosebeak
 gullibly
 gryphosaurus
 gnessic
