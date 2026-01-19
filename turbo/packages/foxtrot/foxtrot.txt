@@ -1705,7 +1705,6 @@ fleeching
 fingertip
 foreordaining
 forehandsel
-fanfares
 fearsomeness
 foreshape
 feased
@@ -5227,6 +5226,7 @@ fills
 fstore
 flot
 fissiped
+fanfares
 flavoured
 fondant
 flavourful
