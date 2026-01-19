@@ -6402,6 +6402,7 @@ giddypate
 girnie
 goburra
 glucidic
+gauntleting
 grouselike
 gregorian
 grandeeship
@@ -8799,7 +8800,6 @@ grazed
 grossularia
 grossest
 gelsemia
-gauntleting
 germain
 generalize
 griddler
