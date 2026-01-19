@@ -6491,7 +6491,6 @@ erubescence
 excludable
 estimative
 execration
-ephemeric
 englishes
 ephemeris
 enrollment
@@ -9935,6 +9934,7 @@ exprimable
 euphuists
 embolisms
 estovers
+ephemeric
 estradiol
 electrothermics
 emphasis
