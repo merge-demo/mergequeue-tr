@@ -10576,7 +10576,6 @@ diplogenesis
 deseam
 dirges
 doxographical
-dittology
 displants
 dolorimeter
 documented
@@ -17004,6 +17003,7 @@ dreidels
 dreikanter
 douricouli
 dreynt
+dittology
 distendedly
 disordered
 damkjernite

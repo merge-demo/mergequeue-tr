@@ -6335,7 +6335,6 @@ enseated
 exgorgitation
 endostylic
 endodynamomorphic
-enveigle
 enseating
 emulgence
 elucidates
@@ -13730,6 +13729,7 @@ ecologies
 eliciting
 elementarity
 epicarid
+enveigle
 elatine
 endnote
 extratemporal
