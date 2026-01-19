@@ -6751,6 +6751,7 @@ foldaway
 feretory
 ferryman
 farfal
+fourpenny
 flaunts
 forethink
 furcation
@@ -8922,7 +8923,6 @@ feltings
 fourpence
 farcist
 flavine
-fourpenny
 fernless
 fableist
 fabricate
