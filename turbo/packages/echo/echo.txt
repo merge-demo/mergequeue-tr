@@ -3890,6 +3890,7 @@ emigrating
 excogitating
 enflagellate
 epidotic
+enculturated
 enfeebled
 eclipsis
 executers
@@ -10121,7 +10122,6 @@ emprosthotonos
 etherealness
 escherichia
 equisetum
-enculturated
 excused
 extranean
 etabelli

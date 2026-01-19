@@ -1160,7 +1160,6 @@ gnawings
 galactometry
 gnetums
 guffin
-gaol
 gulls
 grinners
 galliney
@@ -10468,6 +10467,7 @@ gastrin
 goli
 gardevisure
 gulfwards
+gaol
 ginghamed
 gynandromorph
 generalising
