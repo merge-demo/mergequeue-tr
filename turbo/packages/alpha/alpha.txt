@@ -5121,7 +5121,6 @@ acquainting
 amenia
 aestivating
 aestive
-aestuate
 ahchoo
 aestus
 alamos
@@ -10061,6 +10060,7 @@ avellan
 axion
 asyllabical
 ambiency
+aestuate
 adiposogenital
 anomy
 ambients
