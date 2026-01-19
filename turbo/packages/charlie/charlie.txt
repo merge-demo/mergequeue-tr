@@ -9519,6 +9519,7 @@ checkers
 chroncmeter
 cabbalah
 cardanic
+coadjutrices
 capos
 checky
 cityful
@@ -16802,7 +16803,6 @@ clownery
 capitative
 clowneries
 clownheal
-coadjutrices
 clownship
 crinkle
 cymtia

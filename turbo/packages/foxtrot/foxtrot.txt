@@ -2058,6 +2058,7 @@ foremasthand
 felicity
 fructidor
 freeform
+ferris
 fanes
 floes
 fideistic
@@ -10884,7 +10885,6 @@ fucused
 forthcoming
 fractural
 ferrum
-ferris
 fulled
 feeing
 fieldwort
