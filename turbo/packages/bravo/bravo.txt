@@ -3606,6 +3606,7 @@ buvette
 bathos
 bathrobes
 bunkmates
+buttle
 brach
 balneophysiology
 benday
@@ -16039,7 +16040,6 @@ breastsummer
 bronchoscopist
 backbear
 bronchospasm
-buttle
 bellbottle
 birdstone
 bronchotomy
