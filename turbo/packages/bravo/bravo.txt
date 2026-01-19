@@ -10841,7 +10841,6 @@ batyphone
 bienvenu
 bakership
 boul
-bavin
 baulkier
 birthrate
 blocks
@@ -15270,6 +15269,7 @@ bluffed
 bourses
 blooddrop
 bulgarophil
+bavin
 blackfire
 bumpsy
 beveler
