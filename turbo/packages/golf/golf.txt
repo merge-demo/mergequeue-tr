@@ -3294,6 +3294,7 @@ gorgonian
 grimmia
 graduses
 gregaritic
+gametophagia
 glancer
 ganister
 glycosin
@@ -9829,7 +9830,6 @@ gallicism
 gongoresque
 gips
 grousy
-gametophagia
 guajiras
 guama
 garcinia
