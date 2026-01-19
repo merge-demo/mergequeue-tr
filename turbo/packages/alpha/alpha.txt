@@ -12603,7 +12603,6 @@ alulae
 archpatriarch
 argent
 arvo
-anencephalus
 anorexigenic
 anenst
 antifame
@@ -17030,6 +17029,7 @@ apoatropine
 apobiotic
 apoblast
 aview
+anencephalus
 adhamant
 apocalypse
 anococcygeal
