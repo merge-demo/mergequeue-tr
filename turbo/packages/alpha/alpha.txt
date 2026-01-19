@@ -2839,7 +2839,6 @@ autocamping
 acromicria
 antimeres
 aspersers
-athonite
 autodiagnosis
 acromiocoracoid
 amateurishly
@@ -3976,6 +3975,7 @@ amelification
 anecdotical
 adlumidin
 apoplexious
+athonite
 ardently
 acousticolateral
 adlumidine
