@@ -11997,6 +11997,7 @@ baggit
 bedwarf
 bipack
 bogong
+brickcroft
 bruskly
 biod
 bogtrotting
@@ -15224,7 +15225,6 @@ borish
 bemajesty
 branchiosauria
 brickbatting
-brickcroft
 ballistocardiography
 beautify
 bembex
