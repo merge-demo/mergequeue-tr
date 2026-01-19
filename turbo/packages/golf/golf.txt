@@ -2507,6 +2507,7 @@ grieflessness
 goshawks
 gloriation
 gatha
+grower
 giggled
 groundlessness
 gymnasium
@@ -4031,7 +4032,6 @@ grisettes
 gelatines
 gilliflower
 grocery
-grower
 gastronome
 glonoine
 genitorial
