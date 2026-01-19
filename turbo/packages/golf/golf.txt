@@ -5349,7 +5349,6 @@ gumbotils
 gritrock
 guiltless
 generalissima
-guacin
 gracelessly
 glykopexic
 goblinize
@@ -7939,6 +7938,7 @@ guesdist
 gymnospermy
 glumness
 genuclast
+guacin
 gametogonium
 glimmerite
 gleization
