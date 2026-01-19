@@ -16511,7 +16511,6 @@ cloyless
 cloyment
 coronale
 compensations
-cleistothecia
 chondrolipoma
 cloisonless
 chancering
@@ -21330,6 +21329,7 @@ crosscurrent
 conchospiral
 cowboys
 conchostraca
+cleistothecia
 corotated
 computed
 conchs
