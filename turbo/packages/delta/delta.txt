@@ -5724,6 +5724,7 @@ depolishes
 depoliticized
 donia
 dredged
+drainageway
 dreck
 depones
 deponing
@@ -11261,7 +11262,6 @@ dimmable
 discarded
 dulceness
 dalliers
-drainageway
 difluoride
 discarding
 discardment
