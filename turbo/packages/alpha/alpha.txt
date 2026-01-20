@@ -9118,7 +9118,6 @@ alloxantin
 alloxuraemia
 alloxuremia
 alveolary
-anadicrotic
 alphyl
 amidoacetal
 anaeroplastic
@@ -24041,6 +24040,7 @@ autocraticalness
 autocratrix
 autodecremented
 affeeble
+anadicrotic
 autodepolymerization
 autodiagnostic
 artemas
