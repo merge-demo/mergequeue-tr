@@ -2791,7 +2791,6 @@ gascoigny
 greatcoat
 gyro
 guydom
-gramophonist
 gyne
 gershon
 guzzledom
@@ -4243,6 +4242,7 @@ goniopholis
 gubbo
 gnu
 gynecocracies
+gramophonist
 goby
 gynecocrat
 greenheaded
