@@ -778,7 +778,6 @@ fibroangioma
 ferv
 frequently
 forelouper
-fanciful
 fibreboard
 footbridge
 fanciless
@@ -11146,6 +11145,7 @@ foederal
 flywire
 fruitiest
 frumple
+fanciful
 francas
 fingerhold
 funeralize
