@@ -5260,7 +5260,6 @@ euphonium
 endopods
 epistolarily
 endoproctous
-elutor
 enigmatizing
 endopterygota
 errorist
@@ -7278,6 +7277,7 @@ equiatomic
 efferous
 expeditating
 explodent
+elutor
 exoascaceae
 ejicient
 enclitics

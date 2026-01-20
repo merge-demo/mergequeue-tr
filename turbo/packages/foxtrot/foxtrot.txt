@@ -3296,7 +3296,6 @@ frist
 fruggan
 fullmouthedly
 fenester
-fandom
 fulcra
 fleshlike
 flon
@@ -5330,6 +5329,7 @@ feedbin
 fettles
 flanken
 feebleness
+fandom
 fullmouth
 fascia
 ferociously
