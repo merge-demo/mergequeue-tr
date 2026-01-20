@@ -9685,6 +9685,7 @@ biol
 bishopstool
 bishopweed
 bobbinets
+bathochromic
 bestir
 benison
 barterers
@@ -14447,7 +14448,6 @@ bowldery
 bewailment
 blackbeetle
 bingee
-bathochromic
 breeds
 babuina
 burbliest
