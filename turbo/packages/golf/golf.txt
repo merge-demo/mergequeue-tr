@@ -7703,7 +7703,6 @@ gin
 girba
 glasseye
 glycuresis
-geist
 glaciolacustrine
 gashly
 gruiform
@@ -9675,6 +9674,7 @@ gregale
 gratifying
 guachipilin
 gamahe
+geist
 gropple
 galloflavin
 gasses
