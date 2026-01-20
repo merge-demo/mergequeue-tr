@@ -7350,7 +7350,6 @@ cleansing
 cephalomere
 cyclostylar
 cephalometric
-clysis
 cephalonasal
 cephalopharyngeal
 cephalophyma
@@ -9362,6 +9361,7 @@ countertree
 chauvinism
 chauvinist
 chauvinistic
+clysis
 cumbrance
 colds
 chavante
