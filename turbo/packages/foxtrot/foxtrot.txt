@@ -1249,7 +1249,6 @@ fama
 favella
 forevouch
 femalize
-footwall
 fatuate
 footles
 fearful
@@ -6756,6 +6755,7 @@ floridean
 foldaway
 feretory
 ferryman
+footwall
 farfal
 fourpenny
 flaunts
