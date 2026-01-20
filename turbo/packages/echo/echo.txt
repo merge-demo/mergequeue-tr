@@ -2756,6 +2756,7 @@ ergastic
 eucatropine
 elegised
 elegising
+epidemiography
 excuderunt
 elegized
 elegizes
@@ -7710,7 +7711,6 @@ escurialize
 evidentiary
 erythrine
 enfevered
-epidemiography
 elytroplastic
 ergo
 epeirogeny
