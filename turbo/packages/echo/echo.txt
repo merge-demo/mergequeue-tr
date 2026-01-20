@@ -4566,6 +4566,7 @@ enchancement
 empeoplement
 enchanted
 eschara
+empiry
 eunuchise
 euthycomic
 encephalola
@@ -6034,7 +6035,6 @@ ekatantalum
 enterospasm
 empaler
 evenminded
-empiry
 eyrie
 estoque
 expromissor
