@@ -7748,7 +7748,6 @@ endrins
 exterritorially
 emergents
 erysipelatoid
-englify
 endosomes
 emendable
 estopping
@@ -9833,6 +9832,7 @@ enanthema
 estats
 eternise
 elenchtical
+englify
 exact
 estrich
 etagre
