@@ -15543,7 +15543,6 @@ allthorn
 alkyl
 aspermous
 antimodern
-antimodernistic
 almshouse
 appendicularian
 aramidae
@@ -18474,6 +18473,7 @@ arbacia
 amebae
 arbacin
 agogics
+antimodernistic
 aerodone
 albeston
 arbalestrier
