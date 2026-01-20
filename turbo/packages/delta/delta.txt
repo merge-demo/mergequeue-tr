@@ -8230,6 +8230,7 @@ diaglyphic
 diiambus
 desmopelmous
 dell
+demodulation
 davainea
 ductus
 distrito
@@ -10014,7 +10015,6 @@ deadcenter
 denudement
 dimpsy
 dimwittedly
-demodulation
 detailer
 demist
 deck
