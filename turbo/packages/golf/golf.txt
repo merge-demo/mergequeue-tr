@@ -3784,6 +3784,7 @@ galliass
 grungier
 gastrosuccorrhea
 gibbosely
+gobia
 gibbous
 ganching
 gloriously
@@ -9409,7 +9410,6 @@ gitksan
 goldtit
 guanabano
 glorify
-gobia
 galliot
 gouramis
 gemmate

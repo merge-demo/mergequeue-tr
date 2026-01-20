@@ -13533,6 +13533,7 @@ erected
 electrocauterization
 elbert
 earcap
+evensongs
 epitimesis
 epicranial
 error
@@ -14145,7 +14146,6 @@ entocuneiform
 excussion
 endearment
 entrails
-evensongs
 extrachromosomal
 encomium
 electly
