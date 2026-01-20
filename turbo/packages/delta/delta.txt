@@ -2591,7 +2591,6 @@ demiquaver
 dashes
 decoctive
 deaminizing
-demishirt
 decoctum
 drudgery
 decode
@@ -11559,6 +11558,7 @@ dements
 dyspnoi
 drees
 dispassionately
+demishirt
 dipt
 defrocks
 dosology
