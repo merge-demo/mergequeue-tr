@@ -4632,7 +4632,6 @@ figurante
 flaunched
 flections
 flexibilities
-frighten
 fumariaceae
 flagelliform
 fragrantly
@@ -10909,6 +10908,7 @@ fruitist
 forgeful
 footgrip
 fi
+frighten
 foilable
 federacy
 fiscalizing
