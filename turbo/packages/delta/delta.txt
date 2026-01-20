@@ -4830,6 +4830,7 @@ demonists
 disquarter
 demonized
 dobe
+dogeship
 demonizes
 demandative
 demonizing
@@ -14988,7 +14989,6 @@ dirtied
 dipppy
 dyslogistic
 dogeys
-dogeship
 dagbane
 dicentrine
 dustproof
