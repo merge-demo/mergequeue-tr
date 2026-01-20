@@ -6481,6 +6481,7 @@ cavernously
 cavernulous
 caves
 cavetti
+corybant
 calusar
 conchie
 cavia
@@ -25159,7 +25160,6 @@ clinocephalus
 coriaria
 coriariaceae
 coriaus
-corybant
 corporealize
 corybantian
 corybantiasm
