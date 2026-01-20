@@ -12383,6 +12383,7 @@ adipocerite
 afterfall
 americanism
 alkenna
+androclinia
 apolytikion
 assiduous
 andesites
@@ -12438,7 +12439,6 @@ andrias
 acervuli
 anticourt
 anisotropic
-androclinia
 atrabilaire
 apprest
 abjection
