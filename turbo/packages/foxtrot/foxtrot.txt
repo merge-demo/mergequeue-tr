@@ -860,7 +860,6 @@ fragilities
 fantasying
 falterer
 forthbrought
-fustigated
 failsafe
 farforthly
 flexing
@@ -5040,6 +5039,7 @@ fiord
 fessely
 flumps
 flamelet
+fustigated
 fun
 fuligo
 fundless
