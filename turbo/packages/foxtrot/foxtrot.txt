@@ -8652,6 +8652,7 @@ forthgo
 ferreling
 footcandle
 foxings
+fraternal
 furlong
 febrifuge
 fissility
@@ -11598,7 +11599,6 @@ fontinal
 fealty
 forced
 ferrado
-fraternal
 febrifugal
 for
 fetch
