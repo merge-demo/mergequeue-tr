@@ -3959,7 +3959,6 @@ frontlessness
 formability
 forechoose
 furcula
-foreknow
 forestalled
 friese
 flattish
@@ -11016,6 +11015,7 @@ falafel
 fumets
 fumiest
 fluoroscope
+foreknow
 frivolist
 fossilizes
 fillets
