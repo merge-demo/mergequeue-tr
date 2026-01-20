@@ -12519,7 +12519,6 @@ cranemen
 chromotypy
 cynegetics
 chromotypography
-chromotypographic
 chromotropy
 chromotropic
 commonplaceness
@@ -21184,6 +21183,7 @@ cicatricial
 codirect
 contrabasso
 concentrativeness
+chromotypographic
 correctly
 concentrator
 communitywide

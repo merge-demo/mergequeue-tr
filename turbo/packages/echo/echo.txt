@@ -2732,7 +2732,6 @@ estadal
 euphrates
 electrostenolytic
 enceint
-equipotent
 electees
 edentate
 envoi
@@ -11495,6 +11494,7 @@ endocrinous
 exsecant
 exoergic
 exaction
+equipotent
 echinopanax
 exhibited
 electromyogram
