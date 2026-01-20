@@ -1089,7 +1089,6 @@ gestes
 galactolipin
 goularo
 glossopharyngeal
-gormandizers
 gamboge
 genitives
 gymnodiniidae
@@ -5852,6 +5851,7 @@ glucoside
 geophagy
 goshawk
 glissading
+gormandizers
 grandparents
 gestening
 galvaniser
