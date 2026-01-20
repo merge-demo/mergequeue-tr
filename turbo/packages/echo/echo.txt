@@ -10772,6 +10772,7 @@ elasticate
 egling
 embryomas
 eumemorrhea
+enface
 englishwoman
 entrapped
 epharmony
@@ -13969,7 +13970,6 @@ expressless
 epimer
 eozoonal
 endokaryogamy
-enface
 escheatage
 extraparochial
 equicurve
