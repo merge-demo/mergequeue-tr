@@ -126,7 +126,6 @@ cabinetworker
 cabinlike
 crafter
 cabio
-chemisorptive
 costotransverse
 cabiria
 cabirian
@@ -31876,6 +31875,7 @@ cirrhosis
 cursement
 cutterhead
 chemicals
+chemisorptive
 cutthroat
 chylopoietic
 cuttyhunk
