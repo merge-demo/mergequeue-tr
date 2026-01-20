@@ -6215,7 +6215,6 @@ felloes
 freewheelers
 farmtown
 fizzles
-firnismalerei
 fluidic
 friendlike
 frankeniaceous
@@ -8016,6 +8015,7 @@ flowerist
 frontward
 fellahs
 flash
+firnismalerei
 fluidises
 falconnoid
 foredevote
