@@ -2326,6 +2326,7 @@ breloque
 bathyscape
 barbicel
 bemitred
+bougies
 bathonian
 bepuff
 barbierite
@@ -11169,7 +11170,6 @@ basophobia
 becrimes
 bache
 bipedism
-bougies
 bygane
 barotaxy
 bizygomatic
