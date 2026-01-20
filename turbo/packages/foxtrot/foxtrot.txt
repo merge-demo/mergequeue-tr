@@ -3833,6 +3833,7 @@ focalising
 fulgurous
 feces
 frustulum
+felonweed
 fleshpots
 forewoman
 fieldball
@@ -6724,7 +6725,6 @@ frized
 fleece
 feering
 foresworn
-felonweed
 foiter
 frayed
 fried
