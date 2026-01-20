@@ -1201,7 +1201,6 @@ foxproof
 fleckled
 fleckiness
 figury
-feinted
 fash
 friborgh
 fasherie
@@ -3746,6 +3745,7 @@ flightiest
 firstlings
 fissurella
 filming
+feinted
 firnification
 flannelling
 formativeness
