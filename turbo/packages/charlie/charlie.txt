@@ -5933,7 +5933,6 @@ catharping
 correlating
 clapperclaw
 counterreason
-cathartes
 cathartic
 chloroplatinate
 conciliate
@@ -9050,6 +9049,7 @@ charneco
 charnockite
 covarecan
 charnockites
+cathartes
 charnu
 conglomeratic
 ceratostomella
