@@ -10344,6 +10344,7 @@ chicly
 chicness
 chantries
 chico
+chugalugged
 caryocaraceous
 coryneum
 chicories
@@ -12701,7 +12702,6 @@ chuffer
 countercraft
 cauliflowers
 chugalug
-chugalugged
 candidas
 chauvinists
 cholecystoileostomy
