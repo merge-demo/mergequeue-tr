@@ -8877,6 +8877,7 @@ acadia
 asyntrophy
 anglicist
 archaeol
+anomatheca
 allocatur
 acanthocephalan
 astound
@@ -13759,7 +13760,6 @@ alibis
 aeroperitonia
 alertly
 avant
-anomatheca
 anomia
 acquiet
 anaesthatic
