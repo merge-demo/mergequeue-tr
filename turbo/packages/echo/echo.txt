@@ -4719,6 +4719,7 @@ embrowned
 emittent
 elocutive
 entryway
+epulo
 euchologion
 euripides
 electrowin
@@ -8506,7 +8507,6 @@ evolutive
 eupyrene
 empties
 enneatical
-epulo
 ecphoriae
 eurindic
 erases
