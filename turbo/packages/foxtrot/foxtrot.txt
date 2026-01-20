@@ -1575,6 +1575,7 @@ flights
 farcelike
 frisca
 fissirostres
+fourer
 faltche
 facially
 farcetta
@@ -11253,7 +11254,6 @@ faciest
 featherwork
 funnels
 fondon
-fourer
 funny
 fundamentality
 flagellants
