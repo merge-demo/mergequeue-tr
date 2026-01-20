@@ -7475,7 +7475,6 @@ fastly
 fullface
 forebode
 fauld
-frictionlessness
 fest
 forebodes
 forebody
@@ -9952,6 +9951,7 @@ federatist
 faradomuscular
 fingerprints
 foundation
+frictionlessness
 fluocerine
 forthfigured
 facecloth
