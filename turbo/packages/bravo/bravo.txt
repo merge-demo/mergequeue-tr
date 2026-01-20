@@ -1156,7 +1156,6 @@ brunets
 banqueter
 bridges
 baitfish
-ballard
 barm
 baiting
 baittle
@@ -6117,6 +6116,7 @@ bub
 bendee
 bullwhips
 buttinsky
+ballard
 beamier
 bittering
 bibliographical
