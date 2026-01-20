@@ -383,6 +383,7 @@ grimsire
 gauric
 galactotrophy
 grf
+gastrostaxis
 goodhumoredness
 gynobasic
 gelded
@@ -4472,7 +4473,6 @@ gloeocapsoid
 girlie
 grantiidae
 grammontine
-gastrostaxis
 glint
 ginning
 garvance
