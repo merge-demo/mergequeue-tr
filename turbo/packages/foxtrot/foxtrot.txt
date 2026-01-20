@@ -1658,7 +1658,6 @@ faddisms
 flamboyantly
 furbelowed
 focally
-fustiest
 fice
 feaberry
 ferrandin
@@ -3164,6 +3163,7 @@ falconiformes
 flouse
 fices
 focal
+fustiest
 fuchsinophilous
 fesels
 fermentitious
