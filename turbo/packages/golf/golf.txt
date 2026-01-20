@@ -4330,6 +4330,7 @@ graham
 gallacetophenone
 golfdom
 gravitated
+garterless
 glittersome
 ganancial
 gigerium
@@ -6644,7 +6645,6 @@ gymnoglossa
 gawk
 genuflected
 goniatites
-garterless
 guttler
 grint
 gibbet
