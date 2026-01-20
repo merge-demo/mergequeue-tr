@@ -2682,6 +2682,7 @@ emborder
 electrotechnician
 epistena
 exports
+euphrasies
 emphyteuta
 enfant
 eudaemonics
@@ -8377,7 +8378,6 @@ erosive
 endogenetic
 electrobiology
 ecch
-euphrasies
 eosin
 equivocating
 etherealism
