@@ -3386,6 +3386,7 @@ buccheros
 branchiopulmonate
 bassalia
 bootable
+bullionism
 brythonic
 baculum
 benzilic
@@ -13898,7 +13899,6 @@ bumpingly
 baptizee
 bowsman
 botanomancy
-bullionism
 bows
 benzopyran
 bankroll
