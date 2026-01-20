@@ -14390,7 +14390,6 @@ amasesis
 antinovels
 anthol
 anodes
-apiaceous
 antireaction
 aniseikonia
 antholite
@@ -22986,6 +22985,7 @@ atrociously
 abysmally
 atrocities
 atrolactic
+apiaceous
 astrion
 archfiends
 atropal
