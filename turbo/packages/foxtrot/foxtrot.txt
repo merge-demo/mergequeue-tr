@@ -4198,6 +4198,7 @@ feistier
 felicide
 footsies
 fowls
+footpaths
 farinosely
 formed
 firepinks
@@ -9978,7 +9979,6 @@ frijole
 frightening
 footprint
 forewarner
-footpaths
 foreshroud
 framableness
 fenceless
