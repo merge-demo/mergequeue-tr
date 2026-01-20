@@ -4712,7 +4712,6 @@ antedawn
 allographic
 acrotisms
 alphard
-aenach
 aphrodistic
 addaxes
 affricate
@@ -14969,6 +14968,7 @@ autocoprophagous
 anticoagulation
 anticoagulative
 acariasis
+aenach
 ampliate
 acosmistic
 argental
