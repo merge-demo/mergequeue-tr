@@ -6701,6 +6701,7 @@ grouters
 gaveller
 goniodoridae
 granitized
+glossina
 gametophore
 gagging
 grannie
@@ -7955,7 +7956,6 @@ generativeness
 gangster
 gaboons
 galvanotaxis
-glossina
 goniatitid
 ghettoize
 gynecologic
