@@ -1008,7 +1008,6 @@ generously
 glissette
 glossed
 gordunite
-ganga
 givers
 gangava
 groundward
@@ -10620,6 +10619,7 @@ gunsmithing
 grossification
 grank
 gunstocker
+ganga
 glendale
 geronto
 girns
