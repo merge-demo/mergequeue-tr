@@ -1366,6 +1366,7 @@ fanning
 fatigue
 fossicks
 fatiguesome
+frownless
 fragmenting
 fishbones
 fulminuric
@@ -3668,7 +3669,6 @@ franchisal
 flannelboard
 folder
 fillable
-frownless
 flavorlessness
 featherers
 feodal
