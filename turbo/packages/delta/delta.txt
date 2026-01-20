@@ -9045,7 +9045,6 @@ delia
 dehort
 droukit
 diplomatist
-dictamina
 dernier
 drinkproof
 dictaphones
@@ -9071,6 +9070,7 @@ dermatophobia
 dictionarian
 dollying
 dropsywort
+dictamina
 disembattle
 dyester
 discommodity
