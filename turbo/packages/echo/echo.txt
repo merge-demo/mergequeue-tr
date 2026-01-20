@@ -6611,6 +6611,7 @@ excitator
 echinopsine
 empyreumata
 enantiomeric
+epistases
 encraty
 elephantlike
 enzymologies
@@ -8229,7 +8230,6 @@ extracting
 ermani
 elydoric
 exaltee
-epistases
 epistasies
 energy
 enhancers
