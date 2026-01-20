@@ -408,6 +408,7 @@ essera
 exomphalus
 entocondyle
 elfish
+enamorato
 exposits
 exacerbation
 ebullioscopic
@@ -4344,7 +4345,6 @@ emit
 edibles
 enami
 enamorado
-enamorato
 extraordinariness
 enamorment
 endoute
