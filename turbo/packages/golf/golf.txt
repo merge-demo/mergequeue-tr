@@ -7489,7 +7489,6 @@ galliardize
 glossodynia
 generalization
 glassiness
-glial
 gamogenesis
 gaen
 glycolytic
@@ -9442,6 +9441,7 @@ grocerly
 garad
 garniec
 grapple
+glial
 glorified
 gauntness
 grassiest
