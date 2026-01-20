@@ -7334,7 +7334,6 @@ evangeliser
 embryonically
 exosphere
 expulsing
-exile
 erinaceus
 eunomian
 environmentalism
@@ -10291,6 +10290,7 @@ esquamate
 empemata
 enteromycosis
 escorial
+exile
 emulsifiability
 ethylamine
 extralite
