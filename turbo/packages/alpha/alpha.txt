@@ -12665,6 +12665,7 @@ aneuric
 azo
 amentiferae
 aleuron
+aquaria
 arrayan
 aesopic
 archbeadle
@@ -18055,7 +18056,6 @@ antithetical
 ascaridia
 april
 abadia
-aquaria
 anguiform
 attrap
 appropriativeness
