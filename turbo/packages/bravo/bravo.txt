@@ -8538,6 +8538,7 @@ bannerer
 bilingually
 bilinguar
 balks
+bruchidae
 berycine
 bijoux
 brushet
@@ -13012,7 +13013,6 @@ balanid
 boracite
 boracous
 borage
-bruchidae
 barbecued
 bombarde
 bibles
