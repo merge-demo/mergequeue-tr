@@ -4259,6 +4259,7 @@ eaux
 eumeristic
 expolish
 expendible
+endoglobular
 expressways
 equidiagonal
 escutcheons
@@ -5188,7 +5189,6 @@ endogenous
 enlistment
 electo
 embroider
-endoglobular
 eleme
 existibility
 ecchymoses
