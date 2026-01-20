@@ -1184,7 +1184,6 @@ bajochi
 bemeaned
 bajra
 bogeyed
-beltmen
 baized
 bajury
 blackbelly
@@ -11501,6 +11500,7 @@ bluffly
 bullhoof
 bejade
 bulbul
+beltmen
 bluetongue
 bedmates
 bluetop
