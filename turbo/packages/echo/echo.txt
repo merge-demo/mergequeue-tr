@@ -3592,6 +3592,7 @@ embossed
 embossing
 embossman
 esophagoplegia
+ethide
 enchantery
 emanent
 edifier
@@ -10800,7 +10801,6 @@ elastance
 eurodollar
 eleanor
 expurgatory
-ethide
 estivates
 euphemizer
 emanation
