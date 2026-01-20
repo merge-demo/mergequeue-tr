@@ -4263,7 +4263,6 @@ gramophones
 garrafa
 gusto
 gnabble
-garnishing
 guncotton
 gantang
 gruelled
@@ -4428,6 +4427,7 @@ gadsman
 glucuronide
 gobby
 giobertite
+garnishing
 grazierdom
 grainsickness
 gosplan
