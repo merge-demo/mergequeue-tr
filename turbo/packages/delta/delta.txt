@@ -11332,7 +11332,6 @@ dilatometric
 dehydrogenise
 delimiter
 dischevel
-dentalization
 dissimulator
 disprivacied
 disci
@@ -13838,6 +13837,7 @@ distanceless
 distancy
 dissimilar
 diabolarchy
+dentalization
 distancing
 dalmatian
 disjoining
