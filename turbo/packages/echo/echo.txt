@@ -4720,7 +4720,6 @@ euchologion
 euripides
 electrowin
 erythrodegenerative
-eelware
 exalbuminose
 encist
 electrokinetics
@@ -6795,6 +6794,7 @@ eutrophies
 exostema
 elaphine
 enrooted
+eelware
 entoil
 eggler
 entom
