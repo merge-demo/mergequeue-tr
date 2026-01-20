@@ -5436,7 +5436,6 @@ gladful
 goethite
 gentlest
 grill
-garancin
 gilenyie
 granddad
 gyrfalcons
@@ -7649,6 +7648,7 @@ ghostwriting
 gool
 gnathometer
 guachamaca
+garancin
 geira
 grounding
 geodynamics
