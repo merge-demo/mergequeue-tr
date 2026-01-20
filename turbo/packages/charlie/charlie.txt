@@ -9970,6 +9970,7 @@ cajuputs
 chequebook
 croup
 chequer
+caryophyllene
 chequered
 chequers
 creosoted
@@ -25070,7 +25071,6 @@ chetif
 configures
 coreigns
 corejoice
-caryophyllene
 corelated
 corelates
 corelating
