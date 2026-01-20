@@ -954,6 +954,7 @@ galactically
 gainsaid
 gospodar
 garrottes
+gnetum
 gnathonically
 gopher
 gammoners
@@ -9138,7 +9139,6 @@ gouldian
 glauconitization
 gripgrass
 grouchily
-gnetum
 grantsman
 gora
 gridding
