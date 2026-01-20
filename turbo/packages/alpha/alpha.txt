@@ -1876,7 +1876,6 @@ abiezer
 anadyomene
 athlothete
 acestes
-acceleration
 adstrict
 anthropomorphological
 advanced
@@ -24521,6 +24520,7 @@ ayubite
 auxeses
 altercative
 antispreader
+acceleration
 aoristic
 ascaron
 ame
