@@ -8916,7 +8916,6 @@ branchiopodan
 belialist
 biochemic
 bromvogel
-boeotian
 bonedog
 bearhugs
 buggeries
@@ -13781,6 +13780,7 @@ bootlickers
 burker
 brunion
 baddishly
+boeotian
 blessing
 bowbent
 bowdichia
