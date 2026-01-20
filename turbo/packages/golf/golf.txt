@@ -4633,7 +4633,6 @@ griggles
 graphometer
 gastrodialysis
 gorst
-gaonic
 gasconade
 gummosis
 gentrice
@@ -9294,6 +9293,7 @@ guignol
 glopnen
 gerland
 groins
+gaonic
 grolieresque
 granulative
 gimbri
