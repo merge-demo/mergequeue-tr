@@ -1868,7 +1868,6 @@ gambles
 gyratory
 gazehound
 growlery
-guffaw
 gigantostracan
 gilgai
 goofy
@@ -2435,6 +2434,7 @@ gimels
 grillage
 gemmulation
 graniferous
+guffaw
 gotched
 gaullism
 glycohemia
