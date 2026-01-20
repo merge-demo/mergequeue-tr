@@ -3342,7 +3342,6 @@ beings
 bandurria
 basketmaking
 bonnets
-blatant
 batikuling
 basketware
 bluecoat
@@ -9460,6 +9459,7 @@ befitting
 basichromatic
 bluegums
 belabours
+blatant
 biophotometer
 bullyhuff
 brattach
