@@ -12062,7 +12062,6 @@ complicators
 centralia
 chou
 chinkiest
-chouan
 casque
 chouanize
 committment
@@ -23463,6 +23462,7 @@ cruelty
 cholecystocolotomy
 contended
 contendent
+chouan
 contending
 contendress
 cornstalk
