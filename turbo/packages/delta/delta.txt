@@ -12063,7 +12063,6 @@ dysenterical
 disenthral
 dehisces
 disgorging
-discoplacentalia
 disenthrone
 denizened
 demerits
@@ -18043,6 +18042,7 @@ diffusiometer
 duler
 dissimilating
 dull
+discoplacentalia
 dillydallier
 dullard
 debind
