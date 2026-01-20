@@ -5810,7 +5810,6 @@ flotas
 floatier
 fulcrums
 flidge
-farine
 fertilisable
 fowling
 factorially
@@ -11270,6 +11269,7 @@ fallaciously
 flatters
 furanoid
 fricandeaus
+farine
 faveolate
 fantasticism
 familiarizer
