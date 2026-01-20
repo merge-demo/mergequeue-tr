@@ -4592,7 +4592,6 @@ brike
 bedaub
 ballplayer
 barks
-besuit
 bundeli
 borborus
 bedaubing
@@ -15737,6 +15736,7 @@ bamangwato
 bromethyl
 betorcin
 bolder
+besuit
 blithesomeness
 brocardic
 biaxially
