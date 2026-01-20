@@ -4003,6 +4003,7 @@ furfooz
 finish
 flatling
 fletchings
+furbelows
 fungoid
 finishable
 flemer
@@ -5111,7 +5112,6 @@ fastuousness
 foretooth
 floccular
 fellifluous
-furbelows
 froom
 flatlands
 fiberized
