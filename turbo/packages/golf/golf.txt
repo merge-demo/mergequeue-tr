@@ -7821,6 +7821,7 @@ gulaman
 goosander
 gooroo
 grumble
+gunny
 gurlet
 gasometric
 guttide
@@ -10767,7 +10768,6 @@ glamourie
 geranyl
 glycyl
 gutt
-gunny
 gerenuk
 genialness
 gonadectomy
