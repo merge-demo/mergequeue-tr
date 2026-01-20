@@ -7666,7 +7666,6 @@ backened
 biogenies
 beeper
 bewraps
-basilisks
 belesprit
 bewrapt
 bewreck
@@ -13382,6 +13381,7 @@ bothriocephalus
 brosimum
 becut
 bothrium
+basilisks
 bromothymol
 blackcap
 bisulc
