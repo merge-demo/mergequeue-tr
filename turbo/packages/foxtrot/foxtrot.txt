@@ -5748,7 +5748,6 @@ faailk
 fluorocarbon
 faunated
 foreheads
-fulgurant
 fause
 fribble
 family
@@ -10926,6 +10925,7 @@ foreshadows
 fub
 foehn
 flexure
+fulgurant
 field
 fetal
 floorage
