@@ -1647,6 +1647,7 @@ fiard
 flophouse
 foreannounce
 fellowless
+fierce
 fipenny
 four
 fdnames
@@ -11022,7 +11023,6 @@ fossilizes
 fillets
 fumigated
 fuseboard
-fierce
 flutidae
 femororotulian
 floriferously
