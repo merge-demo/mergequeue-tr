@@ -5043,7 +5043,6 @@ copaibic
 carvership
 chimu
 cuisten
-chromatoid
 cytozoon
 carves
 carvestrene
@@ -29778,6 +29777,7 @@ causticize
 criminatory
 chatelainry
 crooknosed
+chromatoid
 crooksided
 crooksterned
 crool
