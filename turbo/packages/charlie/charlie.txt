@@ -7177,7 +7177,6 @@ catawba
 clamors
 centrifugaller
 cladoceran
-centrifugate
 centrifuge
 centrifugence
 centrifuging
@@ -24377,6 +24376,7 @@ coolheadedly
 conchyle
 coolie
 coprincipal
+centrifugate
 cooliman
 cooling
 concaver
