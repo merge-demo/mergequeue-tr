@@ -9612,6 +9612,7 @@ aworth
 accentuate
 atheism
 algorithmic
+alula
 antepileptic
 amuse
 antecommunion
@@ -17668,7 +17669,6 @@ appetence
 automobilist
 aquotize
 appetibleness
-alula
 acinaces
 appetiser
 atlantad

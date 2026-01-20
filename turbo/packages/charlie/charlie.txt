@@ -6862,6 +6862,7 @@ consortiums
 celtis
 celtism
 cotyla
+colorimetric
 contemporaries
 clockroom
 contingencies
@@ -26281,7 +26282,6 @@ cervicicardiac
 coloradans
 causational
 crowfoots
-colorimetric
 countersea
 costmaries
 counterdemonstrator
