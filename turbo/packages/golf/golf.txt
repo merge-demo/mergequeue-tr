@@ -639,7 +639,6 @@ geodetic
 genarchship
 gweducs
 grottowork
-glutathione
 gallomaniac
 gonapophysis
 gonangial
@@ -6759,6 +6758,7 @@ gelsemin
 garbleable
 gesticulate
 gradate
+glutathione
 goniunia
 groceteria
 goitrogen
