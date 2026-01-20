@@ -2603,6 +2603,7 @@ acquaint
 acquaintanceship
 acidophilus
 acquisible
+atropism
 aggeration
 acquaintanceships
 asymmetrocarpous
@@ -5370,7 +5371,6 @@ affronts
 affuse
 acquisitum
 alkarsine
-atropism
 affusion
 afghan
 acroneurosis
