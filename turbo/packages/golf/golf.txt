@@ -9272,7 +9272,6 @@ graduale
 geoffrey
 gooney
 groenlandicus
-glucuronic
 goyana
 gurge
 gangliate
@@ -9864,6 +9863,7 @@ garble
 gustless
 guanin
 gagate
+glucuronic
 ghoom
 glycerose
 gifblaar
