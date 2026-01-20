@@ -4273,7 +4273,6 @@ dermophytic
 dem
 dryfarmer
 dcolletage
-demagnetisation
 dovelet
 detraining
 divisiveness
@@ -8625,6 +8624,7 @@ diaglyph
 diarist
 dibbuk
 denatured
+demagnetisation
 diarrhea
 dows
 decarchy
