@@ -69,7 +69,6 @@ flagships
 flecken
 facellite
 felonious
-furthers
 flysch
 fordeal
 fullfaces
@@ -9466,6 +9465,7 @@ forechoir
 filicinian
 frontomaxillary
 freaky
+furthers
 fliffus
 frappes
 familiarisingly
