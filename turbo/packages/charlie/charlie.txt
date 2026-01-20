@@ -10416,6 +10416,7 @@ chifforobe
 chlorinity
 commissionership
 comitadji
+clydesider
 cop
 clear
 crackskull
@@ -16052,7 +16053,6 @@ clidastes
 cinclidae
 clyde
 collards
-clydesider
 clientage
 cliental
 classer
