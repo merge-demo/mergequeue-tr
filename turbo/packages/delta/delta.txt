@@ -1880,7 +1880,6 @@ douc
 decoy
 daleswoman
 debonair
-dextrorotary
 disseisor
 debonairness
 deboned
@@ -15888,6 +15887,7 @@ dossels
 disclaiming
 drench
 dossennus
+dextrorotary
 dressings
 decapodiform
 dosser
