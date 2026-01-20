@@ -1071,6 +1071,7 @@ gipsology
 gomphiasis
 gasserian
 grays
+glochis
 glossic
 gangplows
 geomalic
@@ -7848,7 +7849,6 @@ grammalogue
 gastrohysteropexy
 gumby
 gumptious
-glochis
 gour
 gardevin
 greece
