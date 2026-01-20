@@ -252,7 +252,6 @@ adenomata
 abbreviates
 achariaceous
 atmiatry
-abbreviation
 abc
 angiohypotonia
 abcoulomb
@@ -7234,6 +7233,7 @@ alexandrines
 alamonti
 archpillar
 alamort
+abbreviation
 alamosite
 ardent
 alange
