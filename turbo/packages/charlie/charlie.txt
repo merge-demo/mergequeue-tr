@@ -2600,7 +2600,6 @@ cliffing
 canebrake
 cardioschisis
 cementmaking
-canebrakes
 cephalodynia
 cowskins
 counterdisengage
@@ -20685,6 +20684,7 @@ contortuplicate
 croftland
 coelian
 completers
+canebrakes
 chemosmosis
 coeffluential
 circumcrescence
