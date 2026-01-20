@@ -11755,7 +11755,6 @@ bolsterwork
 bosselated
 biogenetic
 bobfloat
-bobierrite
 bobjerom
 bioelectricity
 boorish
@@ -16817,6 +16816,7 @@ bellerophontidae
 budging
 bradoon
 budh
+bobierrite
 bronc
 beseecher
 budlet
