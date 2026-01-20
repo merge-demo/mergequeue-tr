@@ -1047,6 +1047,7 @@ gnarl
 geriatrics
 gentles
 gastrectomy
+glochis
 gossamer
 garvock
 gestapo
@@ -7848,7 +7849,6 @@ grammalogue
 gastrohysteropexy
 gumby
 gumptious
-glochis
 gour
 gardevin
 greece
