@@ -2985,6 +2985,7 @@ galliardness
 geoids
 gloriole
 gastrostomy
+gozell
 gendered
 galatine
 ghetti
@@ -9945,7 +9946,6 @@ galvayned
 goldi
 gymnodinium
 greisen
-gozell
 gazetted
 gamasoidea
 guaiocums
