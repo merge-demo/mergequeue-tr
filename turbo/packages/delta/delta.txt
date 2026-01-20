@@ -2630,6 +2630,7 @@ dogmatism
 dryasdust
 dumpcarts
 dinglebird
+demarcators
 decreers
 decolours
 decommission
@@ -17355,7 +17356,6 @@ druggier
 droopier
 despicableness
 droopiest
-demarcators
 doney
 disphenoid
 divisural
