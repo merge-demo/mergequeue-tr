@@ -7672,7 +7672,6 @@ eumenid
 enemylike
 epithalamus
 encefalon
-enringed
 engagingly
 ectocrine
 envying
@@ -13835,6 +13834,7 @@ extracerebral
 embolo
 elucidative
 effervescingly
+enringed
 electrophilic
 earworm
 extracystic
