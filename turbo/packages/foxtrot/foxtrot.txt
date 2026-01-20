@@ -4754,7 +4754,6 @@ feuillants
 fortunetelling
 flocculable
 feltmonger
-fortunately
 flaunching
 freshened
 fooling
@@ -7719,6 +7718,7 @@ facer
 fanfaronade
 flower
 flanes
+fortunately
 firearms
 foremast
 fritters
