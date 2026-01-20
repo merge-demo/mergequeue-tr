@@ -4298,6 +4298,7 @@ campulitropal
 casebook
 cargoes
 carhop
+chalicothere
 carhops
 contorted
 continuing
@@ -8264,7 +8265,6 @@ conservatively
 chancelry
 chaliced
 chalicosis
-chalicothere
 chalicotheriid
 carlism
 crummable
