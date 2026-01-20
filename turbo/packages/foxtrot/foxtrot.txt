@@ -6828,7 +6828,6 @@ foliose
 flachery
 flittingly
 foliot
-floribunda
 forthby
 ferritungstite
 fattiest
@@ -10332,6 +10331,7 @@ focometer
 frustrated
 fikey
 friendless
+floribunda
 foxinesses
 fosterers
 fraternise
