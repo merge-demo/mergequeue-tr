@@ -820,7 +820,6 @@ frizado
 flatulently
 frowsy
 flypast
-forgedly
 flusher
 florilege
 faucial
@@ -3132,6 +3131,7 @@ foreright
 fibrositis
 farreate
 ferrugo
+forgedly
 failingly
 fingerpost
 farnovian
