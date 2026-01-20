@@ -815,6 +815,7 @@ gambe
 gourmanderie
 gambeered
 glauke
+gauk
 gonadotrophic
 greenlandite
 gastrostenosis
@@ -5419,7 +5420,6 @@ golaseccan
 gingivitis
 gaea
 graphitized
-gauk
 glyptolith
 galvanocontractility
 groomishly
