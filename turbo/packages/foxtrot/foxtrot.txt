@@ -249,6 +249,7 @@ forspend
 fidgets
 fluviation
 forwhy
+febrifuge
 florigenic
 founder
 feoffeeship
@@ -8655,7 +8656,6 @@ footcandle
 foxings
 fraternal
 furlong
-febrifuge
 fissility
 frankhearted
 favoress
