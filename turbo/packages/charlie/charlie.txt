@@ -21451,7 +21451,6 @@ concoctions
 cornerpiece
 conspectuity
 calcination
-carotic
 cloaking
 comediennes
 chelingos
@@ -23472,6 +23471,7 @@ contendress
 cornstalk
 civil
 contends
+carotic
 cimeter
 contenement
 contrapuntal
