@@ -6670,6 +6670,7 @@ celtophobia
 ceilometer
 couac
 ceylonite
+chiococcine
 ceils
 compound
 counterquestion
@@ -26980,7 +26981,6 @@ counteropponent
 culotte
 carbethoxyl
 counteropposite
-chiococcine
 copen
 counterorder
 cranium
