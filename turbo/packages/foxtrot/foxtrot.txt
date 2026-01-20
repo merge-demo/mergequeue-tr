@@ -6374,7 +6374,6 @@ fireworm
 fatiguabilities
 fossae
 fluoride
-fibromyositis
 frasera
 flyboat
 flannelled
@@ -7070,6 +7069,7 @@ footstick
 figurant
 fractionator
 fripper
+fibromyositis
 flaker
 fiddleback
 fusel
