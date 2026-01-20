@@ -7426,6 +7426,7 @@ behaviours
 bookbinders
 bodicemaker
 bromated
+biobibliographic
 betrayed
 bequeathment
 bimarginate
@@ -14726,7 +14727,6 @@ boundlessly
 bescorching
 brattie
 betrothal
-biobibliographic
 bowpots
 bowlings
 benumbment
