@@ -3872,7 +3872,6 @@ deja
 dejection
 devested
 derivation
-dejects
 drake
 dejeration
 dejeuner
@@ -4229,6 +4228,7 @@ delude
 dishonored
 dipperful
 detribalized
+dejects
 decorously
 deratized
 debruising
