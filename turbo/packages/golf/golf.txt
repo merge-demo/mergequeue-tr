@@ -2131,6 +2131,7 @@ glumiferous
 galla
 gaudete
 graced
+gabbros
 garon
 gazellelike
 gaviae
@@ -7126,7 +7127,6 @@ guango
 gingerbready
 giggler
 gastrotaxis
-gabbros
 gabelle
 glistering
 geometrise
