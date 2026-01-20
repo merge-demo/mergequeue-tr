@@ -3905,6 +3905,7 @@ glens
 glossocarcinoma
 grossly
 gubbertush
+goustrous
 grecing
 gawkies
 giving
@@ -8720,7 +8721,6 @@ glucosuric
 garrets
 games
 glom
-goustrous
 galeus
 gnathobase
 gobbin
