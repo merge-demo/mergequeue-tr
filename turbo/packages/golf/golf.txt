@@ -2047,6 +2047,7 @@ gazzetta
 gutterize
 gavels
 gavia
+gisants
 geminiform
 gederathite
 gio
@@ -5496,7 +5497,6 @@ gastropoda
 gustier
 genear
 globalizing
-gisants
 growls
 groggeries
 gyrovagi
