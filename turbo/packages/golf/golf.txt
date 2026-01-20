@@ -1160,7 +1160,6 @@ galactometry
 gnetums
 guffin
 gulls
-grinners
 galliney
 grifters
 grogs
@@ -8832,6 +8831,7 @@ gypsiologist
 groundedly
 gneisses
 gyrosyn
+grinners
 guardfully
 greylag
 groundout
