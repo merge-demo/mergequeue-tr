@@ -5852,7 +5852,6 @@ feague
 fangas
 flinted
 ferrichloride
-furnishings
 flocculent
 flushes
 flaxier
@@ -9870,6 +9869,7 @@ feverless
 filibusters
 forgiven
 fastuously
+furnishings
 forcelessness
 flintstone
 folksey
