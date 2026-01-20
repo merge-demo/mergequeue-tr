@@ -21476,7 +21476,6 @@ concordal
 circumundulation
 concordance
 concordancer
-commands
 colons
 curliewurly
 cardiophobia
@@ -23747,6 +23746,7 @@ contrapositives
 contrapposto
 contrappostos
 contraproposal
+commands
 crowdle
 contraption
 contraptions
