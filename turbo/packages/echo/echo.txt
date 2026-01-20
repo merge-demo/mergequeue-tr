@@ -11396,7 +11396,6 @@ eventuating
 emulsifications
 evictors
 effendi
-epileptogenous
 evergreen
 exsputory
 evergreens
@@ -13722,6 +13721,7 @@ epinephelidae
 epiplasm
 ersatzes
 equiaxe
+epileptogenous
 ergocalciferol
 externs
 endothelioblastoma
