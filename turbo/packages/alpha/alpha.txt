@@ -1011,7 +1011,6 @@ award
 artifice
 arthrochondritis
 acroaesthesia
-abtruse
 aquitanian
 affluxes
 abstractive
@@ -1521,6 +1520,7 @@ antiglyoxalase
 accompanies
 accompanyist
 asperggilla
+abtruse
 aminotransferase
 aphasiac
 arctisca
