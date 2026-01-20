@@ -1054,7 +1054,6 @@ abthainrie
 abuilding
 abuleia
 antitorpedo
-abulia
 atticizing
 acustom
 axhammered
@@ -6087,6 +6086,7 @@ apothegmatic
 anostosis
 axumite
 availment
+abulia
 apogeny
 agitatorial
 aromaticness
