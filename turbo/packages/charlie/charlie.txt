@@ -11489,7 +11489,6 @@ choirman
 conspirers
 counterflux
 colonizations
-corelysis
 choirmasters
 cornaceous
 charthouse
@@ -29388,6 +29387,7 @@ cryptous
 cryptovalence
 cholane
 cymoidium
+corelysis
 cryptovolcanism
 cryptozygy
 cannele
