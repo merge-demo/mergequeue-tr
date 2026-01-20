@@ -9058,7 +9058,6 @@ defang
 denaturalize
 diss
 dermatophobia
-defigure
 dictionarian
 dollying
 dropsywort
@@ -11841,6 +11840,7 @@ dissociableness
 discurtain
 discusses
 disciplinate
+defigure
 discussion
 dominations
 drumfires
