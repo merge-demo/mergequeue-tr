@@ -4488,6 +4488,7 @@ feer
 forheed
 foreigner
 forslake
+flensing
 flooded
 fountainhead
 fructify
@@ -6507,7 +6508,6 @@ fluttering
 forswears
 flameless
 feedboard
-flensing
 flutterment
 flimflammed
 fluviolacustrine
