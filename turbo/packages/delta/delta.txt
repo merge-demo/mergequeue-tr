@@ -1036,7 +1036,6 @@ darkliest
 draffsack
 distains
 drabbed
-darkmans
 daggly
 darkskin
 disseises
@@ -9524,6 +9523,7 @@ deputationize
 dispergator
 digitated
 demissly
+darkmans
 doneness
 digitigradism
 determa
