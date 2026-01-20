@@ -2222,6 +2222,7 @@ guanidopropionic
 galas
 gaster
 gonfalonierate
+gibbets
 gastrocatarrhal
 goodbyes
 generosities
@@ -9804,7 +9805,6 @@ garpikes
 greasewood
 generous
 gesticulatively
-gibbets
 guayabi
 goitcho
 gymnotid
