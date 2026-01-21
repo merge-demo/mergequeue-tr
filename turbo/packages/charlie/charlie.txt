@@ -13653,7 +13653,6 @@ closeups
 cynareous
 cynaroid
 chromatical
-cinch
 colleges
 cytomorphology
 cinches
@@ -15856,6 +15855,7 @@ cleidocostal
 cleidoic
 chiromance
 cleidomancy
+cinch
 cleidorrhexis
 chiripa
 cleidotripsy
