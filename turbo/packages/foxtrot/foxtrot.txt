@@ -1041,7 +1041,6 @@ fireling
 flerrying
 farmerly
 forrel
-ferash
 fletcherize
 folates
 farmership
@@ -4347,6 +4346,7 @@ fishboats
 fonduk
 flubdubberies
 fishbolts
+ferash
 flechette
 funt
 floorshifts
