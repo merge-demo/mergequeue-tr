@@ -9317,7 +9317,6 @@ afflate
 along
 ambeer
 ataxiameter
-alongships
 abasements
 alongshore
 archbishops
@@ -9511,6 +9510,7 @@ advoke
 asynchronously
 alternamente
 aframerican
+alongships
 antilocapridae
 ambilateral
 acidulant
