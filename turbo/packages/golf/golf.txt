@@ -3155,7 +3155,6 @@ glowered
 ginnings
 graduating
 gelechiidae
-geoscopy
 gordonia
 gelasian
 germanophobe
@@ -3902,6 +3901,7 @@ geminated
 glens
 glossocarcinoma
 grossly
+geoscopy
 gubbertush
 goustrous
 grecing
