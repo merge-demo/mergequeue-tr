@@ -5548,7 +5548,6 @@ catadupe
 catafalco
 civilisation
 catagenetic
-catakinetic
 catakinomeric
 corkscrewy
 catalanganes
@@ -14573,6 +14572,7 @@ criminology
 cystis
 circulates
 cystitides
+catakinetic
 cystitis
 coz
 carburant
