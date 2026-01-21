@@ -1841,7 +1841,6 @@ epidiorite
 encystments
 errabund
 edaciousness
-elaterin
 equitemporal
 expeller
 entoparasitic
@@ -5279,6 +5278,7 @@ etaerio
 excommunicated
 entreatable
 editors
+elaterin
 endopodite
 exagitation
 eskimoid
