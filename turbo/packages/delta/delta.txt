@@ -12045,7 +12045,6 @@ donut
 deacon
 disensanity
 dismayedness
-dunderheaded
 discous
 discontinuity
 doorlike
@@ -16776,6 +16775,7 @@ dravidian
 delaying
 dayboy
 directions
+dunderheaded
 dravidic
 drightin
 diplomate
