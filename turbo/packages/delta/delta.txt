@@ -5475,7 +5475,6 @@ dynatron
 directionality
 drought
 dyvour
-disilicate
 disattire
 debunked
 deutomala
@@ -10652,6 +10651,7 @@ dainful
 disparpled
 dhuti
 decapitates
+disilicate
 diplopteryga
 deprecates
 dioti
