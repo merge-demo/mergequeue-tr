@@ -5037,7 +5037,6 @@ derailed
 donatary
 decalogist
 dendrochirota
-drapetomania
 dessicate
 describing
 disenabling
@@ -13866,6 +13865,7 @@ donee
 distaves
 dern
 dioxide
+drapetomania
 differency
 dystaxias
 dedicational
