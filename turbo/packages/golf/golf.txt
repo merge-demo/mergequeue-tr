@@ -1085,7 +1085,6 @@ gegenion
 glares
 guarding
 graphicness
-ghalva
 gowdy
 gestes
 galactolipin
@@ -1633,6 +1632,7 @@ groovier
 grousewards
 garawi
 gumlikeness
+ghalva
 geode
 goyish
 gastroenteroptosis
