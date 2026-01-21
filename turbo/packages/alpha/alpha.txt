@@ -3331,6 +3331,7 @@ adagissimo
 achromatise
 aphototactic
 archiprelatical
+apardon
 arrestors
 abiogenous
 aerology
@@ -12807,7 +12808,6 @@ achordate
 angiocarpic
 angiocarpous
 anaunter
-apardon
 aubergine
 angiodermatitis
 angiodiascopy
