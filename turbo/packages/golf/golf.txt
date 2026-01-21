@@ -9209,7 +9209,6 @@ grisons
 grandees
 genethlialogic
 goliard
-graphitoid
 grisly
 glagolitic
 gravigrade
@@ -9781,6 +9780,7 @@ grylle
 gonothecal
 gobstick
 geognosies
+graphitoid
 gunnung
 graybearded
 guacacoa
