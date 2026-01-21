@@ -10068,7 +10068,6 @@ galivanting
 glore
 gudgeon
 grobianism
-gauntest
 graecize
 gainings
 gramophonically
@@ -10631,6 +10630,7 @@ gambette
 greenly
 gossipries
 gorebill
+gauntest
 gaylies
 gnomide
 gerontologies
