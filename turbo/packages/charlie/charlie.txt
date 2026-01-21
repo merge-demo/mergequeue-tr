@@ -26149,7 +26149,6 @@ convocant
 caudatum
 compages
 chiromancist
-cercopidae
 cosmonautical
 countdowns
 cosmonautically
@@ -26473,6 +26472,7 @@ cacoplastic
 corkiest
 curet
 catocalid
+cercopidae
 cotripper
 cotrustee
 cottiform
