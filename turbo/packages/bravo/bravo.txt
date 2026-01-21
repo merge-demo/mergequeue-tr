@@ -11789,7 +11789,6 @@ bobtailed
 bothria
 bobwhites
 bargees
-benevolentness
 biopyribole
 besmoothed
 burmannia
@@ -12151,6 +12150,7 @@ burbler
 backstop
 boldly
 baedekers
+benevolentness
 balanops
 baalshem
 burbots
