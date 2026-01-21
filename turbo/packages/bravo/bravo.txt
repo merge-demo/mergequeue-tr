@@ -4759,7 +4759,6 @@ bord
 bedmate
 bogey
 bedouins
-bauckiebird
 bedown
 bradding
 bedpans
@@ -18109,6 +18108,7 @@ ballock
 brins
 benzal
 bealtared
+bauckiebird
 bloodlettings
 buskin
 barognosis
