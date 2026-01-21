@@ -16523,7 +16523,6 @@ cloisonnism
 cockaded
 cloistered
 cloisterer
-columellate
 clappermaclaw
 cloistering
 comal
@@ -20754,6 +20753,7 @@ compliances
 compliancy
 cyanauric
 compliant
+columellate
 cupcake
 complicacy
 ceramiaceae
