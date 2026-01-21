@@ -3056,7 +3056,6 @@ exogamy
 epidermis
 exequies
 experimentalists
-elaidin
 embryotroph
 eumycetic
 elkslip
@@ -3258,6 +3257,7 @@ embourgeoisement
 esthesiometric
 enzymatically
 estocada
+elaidin
 effuso
 epigon
 embryoscope
