@@ -2717,7 +2717,6 @@ festally
 festellae
 ficary
 faliscan
-frizer
 foreparts
 freddo
 fibroserous
@@ -9211,6 +9210,7 @@ fretwise
 fascinery
 frontispieced
 fraktur
+frizer
 fasciolet
 fresnel
 flavoury
