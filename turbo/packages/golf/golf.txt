@@ -459,7 +459,6 @@ glandlike
 garliclike
 gloating
 gaping
-glaciaria
 galeid
 genny
 gyms
@@ -5632,6 +5631,7 @@ gonophoric
 glorifications
 garefowls
 gentlefolks
+glaciaria
 granado
 gnatlike
 glissando
