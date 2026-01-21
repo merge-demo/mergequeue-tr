@@ -13509,7 +13509,6 @@ cilium
 chloroformize
 coxcombhood
 cyllenius
-cillosis
 conundrum
 compliance
 contours
@@ -24195,6 +24194,7 @@ counterclaims
 coccolobis
 communalising
 convives
+cillosis
 convivially
 chylocauly
 chronologically
