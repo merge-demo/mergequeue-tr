@@ -111,6 +111,7 @@ cabezone
 cabful
 cabiai
 canephorus
+cojusticiar
 cronish
 cabildo
 catoblepas
@@ -18689,7 +18690,6 @@ cabot
 cannonade
 conglobation
 caressive
-cojusticiar
 confessionalian
 campily
 connect
