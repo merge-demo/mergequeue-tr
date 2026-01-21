@@ -986,7 +986,6 @@ compensational
 calaminaris
 callipygian
 calamine
-cervidae
 calamines
 cypseline
 confiscating
@@ -20576,6 +20575,7 @@ cypruses
 chivareed
 colometrically
 catmalison
+cervidae
 cacodyls
 cherishable
 compensator
