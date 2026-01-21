@@ -4170,7 +4170,6 @@ ammonals
 anticrotalic
 adjag
 apoapsis
-armorers
 acetoxyls
 anabaptistically
 amalgamable
@@ -23561,6 +23560,7 @@ appennage
 augmented
 aumery
 abyssolith
+armorers
 aumildar
 arrhythmy
 aaronical

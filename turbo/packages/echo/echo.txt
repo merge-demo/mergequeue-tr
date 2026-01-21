@@ -10938,7 +10938,6 @@ err
 emotiometabolic
 embalmer
 excess
-exdie
 editorializer
 equability
 eggnogs
@@ -12818,6 +12817,7 @@ exoteric
 exoterica
 elementalistically
 excitomotor
+exdie
 embryology
 epicystotomy
 equine
