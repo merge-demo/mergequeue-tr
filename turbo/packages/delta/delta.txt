@@ -1503,7 +1503,6 @@ definiendum
 deformers
 diazines
 downlinked
-deacetylate
 duststorm
 donas
 duppies
@@ -12973,6 +12972,7 @@ distannic
 disorderer
 dormantly
 daughterkin
+deacetylate
 disacceptance
 dactylitis
 disordering
