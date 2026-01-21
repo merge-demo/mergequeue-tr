@@ -2967,7 +2967,6 @@ actinenchyma
 artiness
 antijam
 acting
-actiniae
 appalment
 amplexifoliate
 automatize
@@ -19791,6 +19790,7 @@ armadas
 assecure
 agrologies
 armadilla
+actiniae
 acetylide
 anhydridize
 adjudger
