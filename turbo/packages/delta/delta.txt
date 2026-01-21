@@ -5052,7 +5052,6 @@ decollating
 ductings
 defraying
 dravya
-dipsomania
 dendrocoelan
 dasypygal
 dendrocoele
@@ -5445,6 +5444,7 @@ depaints
 divestitures
 dilatation
 deoxyribonucleotide
+dipsomania
 disportive
 diaphragm
 dogtrot
