@@ -3350,7 +3350,6 @@ goog
 giftie
 guan
 gaults
-gasteropod
 gobemouche
 gymnurine
 gneu
@@ -8913,6 +8912,7 @@ gnocchetti
 gladelike
 grandiloquous
 galvanising
+gasteropod
 gnaw
 glycosidic
 geranomorphic
