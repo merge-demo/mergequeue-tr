@@ -2800,6 +2800,7 @@ gyges
 guemul
 glovelike
 gathers
+gymnasiast
 gazettal
 grigris
 gormless
@@ -4698,7 +4699,6 @@ guzmania
 guanacos
 gallinula
 gynodioecism
-gymnasiast
 gentilities
 gumshoe
 glucosuria
