@@ -12919,7 +12919,6 @@ anglicanisms
 antispiritual
 abscise
 arverni
-apolysin
 anatabine
 aditio
 ameer
@@ -24304,6 +24303,7 @@ aftertaste
 althaein
 ablepsy
 anciennete
+apolysin
 anthrasilicosis
 autophotoelectric
 autopilot
