@@ -332,6 +332,7 @@ bluming
 backcap
 backchats
 boule
+bogieman
 burg
 bohemian
 beneficially
@@ -16002,7 +16003,6 @@ biffy
 bardocucullus
 bronchodilator
 brideship
-bogieman
 boudin
 bronchogenic
 bushwhack
