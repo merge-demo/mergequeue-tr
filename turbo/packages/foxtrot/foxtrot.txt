@@ -1117,6 +1117,7 @@ familiarizing
 fervidness
 fusileer
 frizzling
+fluor
 farthing
 foresay
 fluffing
@@ -7446,7 +7447,6 @@ faultlessness
 faltered
 foresheet
 flatuses
-fluor
 fourbagger
 fluellin
 fillip
