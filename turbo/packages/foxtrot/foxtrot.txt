@@ -1731,6 +1731,7 @@ forayers
 frouze
 fu
 felonies
+fashious
 feastraw
 fledgling
 formican
@@ -10775,7 +10776,6 @@ fructiculose
 femme
 footglove
 fatalism
-fashious
 fascisticize
 flutter
 finials
