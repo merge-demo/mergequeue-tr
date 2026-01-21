@@ -3525,6 +3525,7 @@ gilt
 grogginess
 gigtree
 griffe
+gamines
 gents
 ghastily
 gottlieb
@@ -4925,7 +4926,6 @@ grenadierly
 guddle
 grondwet
 gynaecol
-gamines
 gladioluses
 ginney
 girondist
