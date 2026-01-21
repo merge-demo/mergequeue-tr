@@ -5305,7 +5305,6 @@ fldxt
 foolhardier
 frower
 frock
-frugalism
 featherweight
 flayflint
 fleabag
@@ -11097,6 +11096,7 @@ foulard
 functus
 furivae
 fessewise
+frugalism
 frostwork
 flatter
 functionalist
