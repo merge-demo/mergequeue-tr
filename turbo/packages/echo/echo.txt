@@ -8755,6 +8755,7 @@ euphemisms
 ethysulphuric
 embrowd
 equities
+ethician
 equivalenced
 equivalent
 ensiles
@@ -10204,7 +10205,6 @@ exuberating
 esperantic
 esophagomycosis
 envenomation
-ethician
 erogeneity
 emydian
 ethicians
