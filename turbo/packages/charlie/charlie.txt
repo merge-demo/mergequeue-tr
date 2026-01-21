@@ -3365,7 +3365,6 @@ capons
 caporal
 caporals
 condyle
-candlestick
 catapetalous
 counterweighing
 capotasto
@@ -13131,6 +13130,7 @@ cacan
 crackability
 cicatrising
 cystoflagellata
+candlestick
 cicatrisive
 cicatrizate
 canalize
