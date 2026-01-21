@@ -2461,6 +2461,7 @@ fibrinoid
 fry
 fernyear
 furison
+fiorin
 funs
 fernshaw
 fordo
@@ -4085,7 +4086,6 @@ fiendful
 feuilletons
 frameworks
 floridan
-fiorin
 faintheartedness
 fusiladed
 fiorite
