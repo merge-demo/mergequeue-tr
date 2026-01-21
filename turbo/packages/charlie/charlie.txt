@@ -9093,6 +9093,7 @@ chylocaulous
 coagulin
 controversional
 charruas
+combinative
 cloamer
 charshaf
 charsingha
@@ -19707,7 +19708,6 @@ cloots
 combinations
 corallike
 cells
-combinative
 counterrotating
 combinator
 combinatory
