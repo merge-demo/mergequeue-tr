@@ -7907,7 +7907,6 @@ freshing
 forslow
 frondesced
 forefit
-fortnightlies
 feudatories
 ferahan
 frowzily
@@ -8440,6 +8439,7 @@ fortin
 frondesce
 factorized
 formatter
+fortnightlies
 father
 flong
 flunkeyite
