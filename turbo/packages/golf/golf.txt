@@ -1654,7 +1654,6 @@ gryphon
 grungiest
 gastrocoel
 gamuts
-gamelion
 gorkiesque
 grates
 gif
@@ -2108,6 +2107,7 @@ gawking
 glucinic
 gastrins
 galactopoietic
+gamelion
 generality
 gawkish
 grecomania
