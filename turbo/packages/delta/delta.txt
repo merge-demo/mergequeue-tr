@@ -2618,6 +2618,7 @@ desalter
 decoloring
 disavowed
 diogenes
+doedicurus
 deforce
 dispose
 decolors
@@ -9468,7 +9469,6 @@ digenite
 digerent
 dereistically
 dowel
-doedicurus
 dustiest
 detester
 desultor
