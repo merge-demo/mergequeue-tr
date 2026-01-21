@@ -8124,7 +8124,6 @@ deepener
 diacaustic
 diamminonitrate
 diapasons
-destitution
 dipsetic
 dakotan
 divaricated
@@ -16306,6 +16305,7 @@ dispeace
 downriver
 defended
 downshift
+destitution
 demigod
 downshifted
 dight
