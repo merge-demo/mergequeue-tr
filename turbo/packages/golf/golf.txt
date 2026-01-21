@@ -334,7 +334,6 @@ galvanoglyph
 gradualist
 gamaliel
 greekism
-gamogenetically
 galactagogue
 gesneria
 garlic
@@ -6962,6 +6961,7 @@ gunnership
 grunch
 gnotobiology
 getpenny
+gamogenetically
 grimmest
 guarantor
 greengrocers
