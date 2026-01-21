@@ -6895,7 +6895,6 @@ curvirostres
 charros
 cementer
 cementification
-cyborgs
 cementin
 catapuce
 carane
@@ -13099,6 +13098,7 @@ cooner
 cotys
 catstone
 cycadofilicales
+cyborgs
 commonsensibly
 cannikins
 cycadophyta
