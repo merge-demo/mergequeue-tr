@@ -2485,6 +2485,7 @@ femorocele
 faction
 farted
 facinorousness
+feoffers
 fluxgraph
 fatihah
 fuzzily
@@ -2988,7 +2989,6 @@ flogster
 fioriture
 fairyology
 firemanship
-feoffers
 footwears
 feldspathoid
 frostflower
