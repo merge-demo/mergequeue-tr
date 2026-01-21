@@ -7139,7 +7139,6 @@ awber
 akontae
 abdominalia
 azotea
-anisotropies
 andromonoecious
 agrobiology
 abacisci
@@ -20267,6 +20266,7 @@ arrivist
 attender
 acropodia
 amphiblastula
+anisotropies
 archisymbolical
 accumber
 antinomian
