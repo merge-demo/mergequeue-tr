@@ -6340,7 +6340,6 @@ grouty
 gunarchy
 gossaniferous
 gog
-gamin
 graymill
 gugal
 gospelwards
@@ -10850,6 +10849,7 @@ genesiurgic
 galianes
 gunneress
 grewsomer
+gamin
 granoblastic
 garruline
 grewsomeness
