@@ -7831,6 +7831,7 @@ forepossessed
 formulate
 filler
 foreshots
+fulgurant
 furfuraldehyde
 facings
 flenses
@@ -10928,7 +10929,6 @@ foreshadows
 fub
 foehn
 flexure
-fulgurant
 field
 fetal
 floorage
