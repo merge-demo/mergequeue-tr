@@ -4997,7 +4997,6 @@ grovels
 glider
 gonocheme
 granulose
-genesiology
 garavance
 glowed
 gelt
@@ -7267,6 +7266,7 @@ grumness
 gladstonian
 geochronic
 glowbird
+genesiology
 gallophobe
 gerated
 gastraeadae
