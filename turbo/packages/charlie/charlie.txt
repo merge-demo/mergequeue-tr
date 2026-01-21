@@ -8560,6 +8560,7 @@ countercross
 chandul
 chane
 caitiff
+capes
 chanfrons
 capitelliform
 changeable
@@ -22228,7 +22229,6 @@ congenial
 chemakuan
 cartopper
 commiserative
-capes
 calaber
 congeniality
 comonte
