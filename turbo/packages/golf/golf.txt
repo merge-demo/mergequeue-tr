@@ -5467,6 +5467,7 @@ ganoids
 gentlemen
 goodyera
 goldilocks
+goulan
 glisten
 guttering
 gigeria
@@ -6545,7 +6546,6 @@ grummets
 girons
 gimmerpet
 groyne
-goulan
 ghostwrite
 gingivolabial
 gabbing
