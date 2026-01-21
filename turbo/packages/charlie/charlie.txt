@@ -32,6 +32,7 @@ cabalist
 congii
 courier
 caballer
+calabashes
 corrosiving
 cranebill
 cineols
@@ -17604,7 +17605,6 @@ concyclically
 coccoidal
 coccolite
 counterresolution
-calabashes
 cardiodysneuria
 cavilingness
 columelliform

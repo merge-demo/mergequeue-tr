@@ -4979,7 +4979,6 @@ argentate
 auriculate
 admissibleness
 arthritides
-aerope
 acinetae
 aeroperitoneum
 alburnum
@@ -9864,6 +9863,7 @@ amapa
 approvably
 ainsell
 amarantaceae
+aerope
 aestuous
 attornment
 amarantaceous
