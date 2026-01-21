@@ -320,7 +320,6 @@ gadolinium
 grognard
 gangrels
 grundsil
-gelatins
 galeorhinus
 galliferous
 gastrocoele
@@ -5263,6 +5262,7 @@ guatemala
 gemitores
 glyoxilin
 glacialism
+gelatins
 granitical
 graveling
 geometries
