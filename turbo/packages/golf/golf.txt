@@ -3512,6 +3512,7 @@ getling
 goldenest
 gibberish
 greaselessness
+gaingiving
 gatewayman
 girlfully
 gullied
@@ -8291,7 +8292,6 @@ guaiaconic
 grucche
 greyness
 guha
-gaingiving
 gynaecia
 glod
 gephyrocercy
