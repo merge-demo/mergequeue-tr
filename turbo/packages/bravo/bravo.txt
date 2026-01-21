@@ -5812,7 +5812,6 @@ bellhouse
 belli
 buckstone
 bellyache
-biremes
 butlerism
 bandstop
 bellyached
@@ -8154,6 +8153,7 @@ bidimensional
 binucleate
 barble
 befouls
+biremes
 biding
 bidirectional
 biophagy
