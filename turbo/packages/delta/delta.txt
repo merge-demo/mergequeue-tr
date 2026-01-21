@@ -10548,6 +10548,7 @@ diceratidae
 diazotate
 deipotent
 dimpling
+dragonroot
 dyemaker
 demiking
 dauw
@@ -16617,7 +16618,6 @@ dwellers
 decorates
 dragonish
 drunkeness
-dragonroot
 dilutant
 detesting
 dragonwort
