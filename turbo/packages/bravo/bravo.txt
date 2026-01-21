@@ -2219,7 +2219,6 @@ barauna
 barba
 bayards
 boneheadedness
-bromize
 barbados
 broggle
 blobs
@@ -2767,6 +2766,7 @@ bailouts
 boose
 boatloading
 bookit
+bromize
 been
 baroneting
 baronetize
