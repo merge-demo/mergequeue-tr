@@ -7271,6 +7271,7 @@ cep
 cholangioitis
 crisis
 cepaceous
+cycadeoid
 comitatus
 cepe
 crossroads
@@ -13093,7 +13094,6 @@ crimpiest
 convulsional
 cicadas
 cliffiest
-cycadeoid
 cycadeoidea
 cycadite
 cooner
