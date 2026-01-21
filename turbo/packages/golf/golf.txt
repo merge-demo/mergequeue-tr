@@ -701,6 +701,7 @@ gimmals
 grassworm
 goldney
 genteelness
+gorgonising
 grass
 gals
 galtrap
@@ -8128,7 +8129,6 @@ gynaecocracy
 gnatsnap
 goatling
 granulet
-gorgonising
 gemsboks
 gallies
 granulization
