@@ -28889,7 +28889,6 @@ combo
 coventries
 coadunated
 cyanophose
-cardiacean
 chiffrobe
 crevis
 crew
@@ -31792,6 +31791,7 @@ chiniofon
 chinkier
 cutbank
 cutch
+cardiacean
 cutchery
 caryopses
 cumshaws
