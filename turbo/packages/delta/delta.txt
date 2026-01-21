@@ -4599,7 +4599,6 @@ denarius
 diswench
 demiscible
 dicebox
-denticulate
 demise
 demisecond
 demised
@@ -10334,6 +10333,7 @@ dioptrical
 duhr
 diorama
 daroo
+denticulate
 douziemes
 diophantine
 driftpiece
