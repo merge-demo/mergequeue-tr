@@ -6168,6 +6168,7 @@ geadephaga
 guinde
 goaltender
 grandmontine
+glaziers
 gushiness
 graddan
 guides
@@ -10113,7 +10114,6 @@ galavanting
 glia
 gipsyhead
 guffer
-glaziers
 gamasid
 guggle
 glottologic
