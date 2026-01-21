@@ -4876,7 +4876,6 @@ backsplicing
 beaded
 bedeswomen
 belavendered
-blanket
 boucl
 ballot
 bedwarfing
@@ -17954,6 +17953,7 @@ byssinosis
 bedot
 blackheartedness
 bolty
+blanket
 brahui
 bemoult
 bushwhacked
