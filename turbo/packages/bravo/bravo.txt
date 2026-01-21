@@ -11196,6 +11196,7 @@ balsamina
 bawley
 brachypnea
 bloodstream
+busbar
 butylation
 bloodstreams
 bolivars
@@ -17852,7 +17853,6 @@ bus
 busaos
 bloodleaf
 bine
-busbar
 busbars
 barotse
 biscanism
