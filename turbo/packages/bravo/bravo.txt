@@ -3949,7 +3949,6 @@ bunch
 bristols
 behelp
 bdellovibrio
-brushbird
 butanes
 bea
 beautification
@@ -11989,6 +11988,7 @@ bostons
 bogymen
 bogland
 budgerigah
+brushbird
 bytalk
 bogled
 boglet
