@@ -2987,7 +2987,6 @@ arginine
 anopias
 actiniums
 antiacid
-austerest
 alisma
 actinobaccilli
 anchusins
@@ -19739,6 +19738,7 @@ ambatch
 antinihilistic
 arithmancy
 anticommerciality
+austerest
 accelerations
 autophthalmoscope
 ammonium
