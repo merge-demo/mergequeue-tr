@@ -464,7 +464,6 @@ bellonian
 bravoed
 bloodshed
 blackish
-bimestrial
 bronzers
 blaspheming
 bibliographic
@@ -7597,6 +7596,7 @@ bastardize
 bloodripe
 begiggle
 barnacle
+bimestrial
 biplicate
 bleater
 burele
