@@ -5752,6 +5752,7 @@ emplectite
 engirds
 electroblasting
 eyeglance
+eluent
 extraverted
 extemporised
 endofaradism
@@ -10824,7 +10825,6 @@ extracultural
 eupatorium
 ethnobiology
 eupatrids
-eluent
 edificial
 exemplars
 enoptromancy

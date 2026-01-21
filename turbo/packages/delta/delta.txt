@@ -3765,6 +3765,7 @@ dismutation
 deictical
 devilkin
 dreissiger
+diarch
 dunno
 deific
 dhobey
@@ -14431,7 +14432,6 @@ diversify
 daddle
 diversification
 disporous
-diarch
 diversified
 devils
 diversifier
