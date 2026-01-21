@@ -4462,7 +4462,6 @@ dulnesses
 deception
 diaspora
 divulse
-dividingly
 demicircular
 divulsor
 drowningly
@@ -10520,6 +10519,7 @@ dipyridyl
 dichter
 duper
 daughter
+dividingly
 diplantidian
 drynaria
 diplarthrism
