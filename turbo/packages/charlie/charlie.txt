@@ -113,6 +113,7 @@ cabiai
 canephorus
 cronish
 cabildo
+catoblepas
 cabildos
 cabin
 cabinet
@@ -6076,7 +6077,6 @@ chilotomy
 catnip
 comical
 coroado
-catoblepas
 catocarthartic
 catoctin
 chirpy
