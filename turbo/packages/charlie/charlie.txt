@@ -1238,6 +1238,7 @@ calefactor
 carbonised
 cobaltammine
 cnemic
+cornstarch
 cynipidae
 chalcidica
 calefactory
@@ -25424,7 +25425,6 @@ cohert
 cornrick
 cornrow
 cornstalks
-cornstarch
 crystallographers
 cornstone
 cajang

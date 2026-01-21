@@ -1110,7 +1110,6 @@ gearshifts
 gravitate
 graptolitic
 gallants
-guillotining
 gwyniad
 granet
 giddier
@@ -8280,6 +8279,7 @@ gambits
 gutturalise
 gleets
 genian
+guillotining
 grandee
 ginglymi
 graphicly
