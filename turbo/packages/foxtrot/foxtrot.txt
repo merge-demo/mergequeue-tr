@@ -1327,7 +1327,6 @@ fyttes
 famose
 frescoer
 flyable
-factionally
 frantically
 fluxible
 fatherly
@@ -2597,6 +2596,7 @@ folkfree
 ferruginating
 fulful
 flashly
+factionally
 framesmith
 fibrinogenic
 forecastles
