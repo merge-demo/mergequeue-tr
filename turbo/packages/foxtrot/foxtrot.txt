@@ -2238,6 +2238,7 @@ forgetters
 fenchene
 favn
 feluccas
+floralize
 fastigated
 ficoid
 facaded
@@ -5984,7 +5985,6 @@ fetich
 fourierist
 flitchplate
 floral
-floralize
 floras
 furnaced
 focusless
