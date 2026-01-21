@@ -6636,7 +6636,6 @@ glitters
 garmentless
 giantism
 gastroscopies
-gallflies
 golach
 gimlets
 gayway
@@ -9614,6 +9613,7 @@ gaeltacht
 granulomata
 grozer
 grubbery
+gallflies
 grintern
 garse
 glochidian
