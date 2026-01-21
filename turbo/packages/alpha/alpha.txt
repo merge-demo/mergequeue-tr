@@ -4098,7 +4098,6 @@ accomplishes
 astrophotographer
 aeolididae
 affinal
-anglification
 admonishments
 appressor
 agrief
@@ -21984,6 +21983,7 @@ astrologer
 alectoropodous
 anthropic
 antiphagocytic
+anglification
 attestator
 arterin
 aquameter
