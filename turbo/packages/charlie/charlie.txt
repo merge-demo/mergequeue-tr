@@ -3651,7 +3651,6 @@ confucianist
 clangor
 caraganas
 crateful
-coronado
 carageens
 chromatography
 caraibe
@@ -11470,6 +11469,7 @@ chine
 chocolates
 chocolatiere
 concentred
+coronado
 choctaw
 choga
 chogset
