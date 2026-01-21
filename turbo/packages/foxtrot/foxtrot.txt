@@ -2642,7 +2642,6 @@ fittonia
 fluoridating
 fertilise
 foremostly
-fistular
 fertilizational
 funeral
 fallowed
@@ -7310,6 +7309,7 @@ flabbily
 france
 foraneen
 ferrateen
+fistular
 ferocious
 fluoridising
 formaldehydesulphoxylic
