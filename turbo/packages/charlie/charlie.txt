@@ -4279,7 +4279,6 @@ concorporation
 carex
 cottages
 carfare
-carfares
 carfloat
 crenic
 coater
@@ -25338,6 +25337,7 @@ corneosclerotic
 cirsectomy
 cheer
 cambogias
+carfares
 cornigeous
 corneosiliceous
 corner
