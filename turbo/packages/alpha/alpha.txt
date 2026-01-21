@@ -893,7 +893,6 @@ amphineurous
 aeronomy
 alachah
 akroterion
-anabong
 audiometric
 apogeotropic
 anaemia
@@ -11507,6 +11506,7 @@ amu
 arteriae
 amuchco
 amuck
+anabong
 abdominovaginal
 asiaticization
 amuyon
