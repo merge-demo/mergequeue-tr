@@ -5856,7 +5856,6 @@ fangas
 flinted
 ferrichloride
 flocculent
-flushes
 flaxier
 flocker
 frogged
@@ -8830,6 +8829,7 @@ flambage
 froghopper
 faulter
 foujdarry
+flushes
 fibrousness
 foul
 fogger
