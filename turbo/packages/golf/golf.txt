@@ -2450,7 +2450,6 @@ ghettoed
 glycocoll
 guitermanite
 geographers
-gemologist
 glacionatant
 gloaming
 gaiting
@@ -10304,6 +10303,7 @@ goralog
 ghettoing
 guichet
 gnathions
+gemologist
 gujarati
 gametic
 girondin
