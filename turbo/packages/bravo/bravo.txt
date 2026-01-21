@@ -2607,7 +2607,6 @@ bifronted
 balletomane
 bhaiyachara
 borana
-bunglesome
 barkey
 bonne
 briers
@@ -17194,6 +17193,7 @@ beneficiaryship
 barkantine
 bullpen
 bullpoll
+bunglesome
 bemirror
 bullpup
 brughs
