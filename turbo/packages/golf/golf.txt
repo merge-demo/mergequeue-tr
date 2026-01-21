@@ -6549,7 +6549,6 @@ gingivolabial
 gabbing
 guttiferal
 gruis
-gawkiest
 geldesprung
 graduateship
 gluconeogenetic
@@ -8403,6 +8402,7 @@ glassweed
 guadagnini
 gavottes
 gawked
+gawkiest
 grumphy
 greenbacker
 gauntree
