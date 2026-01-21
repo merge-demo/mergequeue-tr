@@ -7245,7 +7245,6 @@ emulsification
 electrography
 exsector
 electrocatalytic
-encephalomere
 epidemiology
 energetics
 eccaleobion
@@ -8433,6 +8432,7 @@ equip
 enjoyment
 eglogue
 endothecate
+encephalomere
 epizootology
 estensible
 enwrought
