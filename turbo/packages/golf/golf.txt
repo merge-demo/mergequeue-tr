@@ -2714,7 +2714,6 @@ glashan
 globularness
 glandule
 gravitons
-gamey
 gusle
 grith
 gemmoid
@@ -8114,6 +8113,7 @@ gibsons
 gastrolavage
 gudebrother
 gallygaskins
+gamey
 gazabos
 garderobe
 goldbeating
