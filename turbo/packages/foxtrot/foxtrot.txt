@@ -5262,7 +5262,6 @@ footloose
 fluorosis
 flawlessness
 fangy
-foamed
 flings
 fleshlily
 farmsteads
@@ -8378,6 +8377,7 @@ foreking
 fictively
 fm
 filcher
+foamed
 futhark
 fluoroscopes
 fullerboard
