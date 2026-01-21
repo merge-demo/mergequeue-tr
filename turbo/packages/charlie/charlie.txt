@@ -9098,7 +9098,6 @@ cloamer
 charshaf
 charsingha
 container
-charta
 curialities
 chartable
 charter
@@ -24479,6 +24478,7 @@ candles
 chlorosis
 copa
 carrs
+charta
 carphophis
 confraternity
 copacetic
