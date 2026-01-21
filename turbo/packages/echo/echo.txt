@@ -619,7 +619,6 @@ echeneidoid
 enchant
 enneaeteric
 empyreumatic
-epipaleolithic
 emblic
 evincement
 eclamptic
@@ -13927,6 +13926,7 @@ extramission
 erythrism
 eom
 enhusk
+epipaleolithic
 expiscated
 eruditeness
 eliminatory
