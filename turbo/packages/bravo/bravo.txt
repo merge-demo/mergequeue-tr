@@ -5917,6 +5917,7 @@ bisnagas
 bouillabaisse
 belostomidae
 belotte
+bioxide
 bowden
 bechancing
 benzalcyanhydrin
@@ -13480,7 +13481,6 @@ betweenness
 balderdash
 bradyseismism
 basementward
-bioxide
 bebouldered
 bandoliered
 barbaloin
