@@ -19225,6 +19225,7 @@ cuidado
 coloenteritis
 closefitting
 colog
+cheiropompholyx
 colleri
 choel
 colognes
@@ -21485,7 +21486,6 @@ cantalas
 concordancy
 concordant
 carpidium
-cheiropompholyx
 concordatory
 concordity
 circline
