@@ -8925,7 +8925,6 @@ bedrench
 biocycle
 biocycles
 biocidal
-bookcases
 bioclimatic
 bowwoman
 bioclimatician
@@ -17845,6 +17844,7 @@ burtonization
 blockheadedly
 burundians
 burushaski
+bookcases
 barmfel
 balanites
 ballistocardiogram
