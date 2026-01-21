@@ -1183,7 +1183,6 @@ gaped
 genitory
 geonic
 gig
-gothic
 glabrescent
 grinned
 gezerah
@@ -3577,6 +3576,7 @@ gavial
 geopositive
 guidon
 glutinose
+gothic
 galvanic
 gyrocar
 greg
