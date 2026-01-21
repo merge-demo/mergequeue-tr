@@ -19414,7 +19414,6 @@ crosshaul
 colormaker
 cornicing
 colorman
-cerealose
 cutose
 colossal
 colossality
@@ -27224,6 +27223,7 @@ chlorhydrate
 catbird
 coetus
 counterweigh
+cerealose
 counterweight
 counterweighted
 counterweights
