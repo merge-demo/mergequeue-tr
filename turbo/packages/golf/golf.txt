@@ -911,7 +911,6 @@ gnaphalium
 genome
 gravata
 gaverick
-geld
 guna
 gelatinate
 gambia
@@ -10605,6 +10604,7 @@ glumose
 gallinules
 graveolence
 gemmiform
+geld
 goy
 guildite
 gunpoints
