@@ -724,7 +724,6 @@ bathetically
 baddies
 boral
 bade
-bite
 badness
 baff
 blueish
@@ -9109,6 +9108,7 @@ bailliage
 byssaceous
 bespice
 benightmare
+bite
 biopsychological
 breunnerite
 biliously
