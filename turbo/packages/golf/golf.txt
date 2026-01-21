@@ -6902,7 +6902,6 @@ gomeral
 galavanted
 goodrich
 geromorphism
-grayfly
 guitarfishes
 geometrised
 gradients
@@ -7494,6 +7493,7 @@ gortonian
 glaucophanize
 gangs
 glitzy
+grayfly
 glabellous
 gryllus
 gubernaculum
