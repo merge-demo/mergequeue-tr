@@ -6167,7 +6167,6 @@ gagster
 geadephaga
 guinde
 goaltender
-goanna
 grandmontine
 gushiness
 graddan
@@ -8002,6 +8001,7 @@ glaucine
 gunstocking
 gastronomy
 gata
+goanna
 gunstock
 gossiper
 geta
