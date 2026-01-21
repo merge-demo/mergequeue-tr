@@ -2484,6 +2484,7 @@ duds
 dishonourary
 declaim
 dichorisandra
+dehorners
 dresser
 declaimer
 dilaters
@@ -3723,7 +3724,6 @@ dreadful
 dytiscidae
 dehorner
 diplography
-dehorners
 desiredness
 dehorning
 disconcertingly
