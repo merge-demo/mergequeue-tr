@@ -8115,7 +8115,6 @@ bicuspid
 bruxism
 brast
 biddability
-biddably
 benedict
 boread
 bouillone
@@ -10743,6 +10742,7 @@ banksias
 bleymes
 blellums
 blemished
+biddably
 bogeys
 brandies
 blemmatrope
