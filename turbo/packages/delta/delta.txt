@@ -11274,6 +11274,7 @@ dalliers
 difluoride
 discarding
 discardment
+deflectometer
 discards
 dentals
 discarnate
@@ -15712,7 +15713,6 @@ disgig
 dacryocystocele
 doricism
 dorylinae
-deflectometer
 dakota
 dendrochronologist
 denunciation
