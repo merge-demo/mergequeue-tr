@@ -8548,6 +8548,7 @@ fieldman
 frameshift
 fullfil
 fissionable
+footlicker
 fungating
 farmsteading
 forninst
@@ -9718,7 +9719,6 @@ frenetically
 forlorner
 frenula
 frenular
-footlicker
 forehill
 fornicate
 friends
