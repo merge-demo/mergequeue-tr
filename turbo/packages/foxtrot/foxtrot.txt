@@ -8190,7 +8190,6 @@ fauvists
 filioque
 fruticulose
 florence
-forfending
 fundulinae
 fringes
 fairyologist
@@ -9663,6 +9662,7 @@ functorial
 filch
 filosofe
 fanit
+forfending
 flied
 femes
 feaking
