@@ -873,6 +873,7 @@ boohoos
 bravura
 baroclinity
 bleachs
+bizarrely
 blackboards
 backband
 bagdad
@@ -5823,7 +5824,6 @@ blinking
 billowiness
 bracozzo
 bellyaching
-bizarrely
 benevolences
 backsetting
 bemata
