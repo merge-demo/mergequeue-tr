@@ -3518,7 +3518,6 @@ capsulizing
 cabman
 capsulogenous
 cataphyllum
-callus
 capsulolenticular
 capsulopupillary
 chromospheres
@@ -15839,6 +15838,7 @@ cachaca
 comstockery
 calisthenical
 cobcab
+callus
 compends
 clef
 cassinese
