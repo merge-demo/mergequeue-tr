@@ -6801,6 +6801,7 @@ firetower
 fustigator
 fussify
 frizziest
+funnelform
 flipjack
 fourhanded
 fabled
@@ -9830,7 +9831,6 @@ foozlers
 foredestine
 fortyfive
 foxily
-funnelform
 fibrosarcoma
 flexanimous
 flexibleness
