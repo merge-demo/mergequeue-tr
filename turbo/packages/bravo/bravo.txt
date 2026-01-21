@@ -6672,6 +6672,7 @@ bering
 broughtas
 burghs
 busto
+benamidar
 ballhausplatz
 babbles
 berytidae
@@ -7520,7 +7521,6 @@ burgul
 booteries
 blubbered
 beurre
-benamidar
 beveil
 bevelled
 bardism
