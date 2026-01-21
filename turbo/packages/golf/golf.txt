@@ -3340,7 +3340,6 @@ gomorrean
 gaging
 gildhalls
 gonydial
-glanditerous
 gahnite
 globed
 gasogen
@@ -9922,6 +9921,7 @@ guardable
 gastroparalysis
 greening
 gathered
+glanditerous
 geoglyphic
 gedd
 galerite
