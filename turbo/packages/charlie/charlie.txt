@@ -22806,6 +22806,7 @@ caulicles
 consentable
 consentaneous
 consentaneousness
+cryptozygy
 continently
 consecutives
 cabinetwork
@@ -29386,7 +29387,6 @@ cholane
 cymoidium
 corelysis
 cryptovolcanism
-cryptozygy
 cannele
 cryptozygosity
 cryptozygous
