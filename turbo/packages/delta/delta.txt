@@ -10536,6 +10536,7 @@ defected
 dionysian
 dimeric
 dipleurulas
+delime
 disbowels
 dialyzate
 demipagan
@@ -17377,7 +17378,6 @@ deficiencies
 drib
 doigt
 derivability
-delime
 deallocation
 delactation
 deviants
