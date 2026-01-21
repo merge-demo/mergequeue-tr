@@ -5646,6 +5646,7 @@ delegacies
 demigods
 desterilized
 dialysed
+derve
 disposit
 deplenish
 dialup
@@ -15458,7 +15459,6 @@ divinities
 diazepams
 dressy
 dompteuse
-derve
 don
 danker
 donaciform
