@@ -4689,6 +4689,7 @@ bozze
 blondest
 blindcat
 bignesses
+bordage
 bulnbuln
 buckstay
 blastoid
@@ -17672,7 +17673,6 @@ brodyaga
 balancement
 bevomits
 birgus
-bordage
 blackfin
 blueings
 bonuses
