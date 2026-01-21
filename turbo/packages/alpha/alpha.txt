@@ -1229,7 +1229,6 @@ acanthuridae
 acanthuthi
 ascetical
 adenocarcinomata
-articulator
 adelite
 antiproductiveness
 acarapis
@@ -5650,6 +5649,7 @@ aeschylean
 again
 adorsed
 aquapuncture
+articulator
 amylaceous
 asphalts
 againsay
