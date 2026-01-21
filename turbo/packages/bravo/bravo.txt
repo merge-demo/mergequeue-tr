@@ -9935,7 +9935,6 @@ besmirches
 bitter
 bitterbloom
 bethorns
-bittered
 beyerite
 bitterender
 ballooning
@@ -12849,6 +12848,7 @@ bonderize
 boomslang
 boomslange
 buccula
+bittered
 bacterins
 basinerved
 brushoff
