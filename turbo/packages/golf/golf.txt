@@ -4436,6 +4436,7 @@ garnishing
 grazierdom
 grainsickness
 gosplan
+gallet
 gonadotropic
 gammelost
 graminology
@@ -8097,7 +8098,6 @@ gourdworm
 grantia
 greekist
 grassplat
-gallet
 graustark
 grindelia
 gastrostomize
