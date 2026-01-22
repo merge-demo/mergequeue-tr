@@ -1560,7 +1560,6 @@ crystal
 calliphorid
 celosia
 calliphoridae
-calliphorine
 callipygous
 callirrhoe
 callisaurus
@@ -6046,6 +6045,7 @@ cating
 cativo
 cheapo
 catkin
+calliphorine
 catkinate
 catkins
 curatory
