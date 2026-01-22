@@ -3681,6 +3681,7 @@ families
 feetless
 firedogs
 foalfoot
+forwake
 flaccidities
 fillings
 furfuryl
@@ -8117,7 +8118,6 @@ forecastleman
 faddists
 fountful
 frequentable
-forwake
 foreuse
 foreutter
 fillercap
