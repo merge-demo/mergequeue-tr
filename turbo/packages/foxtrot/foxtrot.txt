@@ -422,6 +422,7 @@ foredesk
 fusetron
 friendliwise
 festive
+frondless
 flints
 fibrotic
 festae
@@ -10324,7 +10325,6 @@ formful
 faceman
 fortiori
 flexible
-frondless
 feezing
 federalese
 fantasized
