@@ -2725,6 +2725,7 @@ earwigged
 eightyfold
 esquamulose
 evaporated
+electrolytical
 electrovalent
 electrowinning
 exaggerators
@@ -7374,7 +7375,6 @@ ennobler
 eelblennies
 epeirogenically
 erythrina
-electrolytical
 exuviate
 encloses
 exonship
