@@ -12830,6 +12830,7 @@ churchgoers
 calorifacient
 churchy
 churchianity
+crosshatches
 churchyard
 crawlways
 churchyards
@@ -29900,7 +29901,6 @@ crossflower
 crossfoot
 crosshair
 crosshand
-crosshatches
 capillation
 cogwheel
 coadjutator
