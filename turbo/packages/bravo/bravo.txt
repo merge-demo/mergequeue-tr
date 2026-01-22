@@ -8647,6 +8647,7 @@ behind
 burgees
 billionism
 billionth
+bilgy
 braggartism
 brethel
 beldames
@@ -13144,7 +13145,6 @@ berob
 borofluohydric
 boroglycerine
 bowers
-bilgy
 borophenylic
 bororoan
 beadman

@@ -464,7 +464,6 @@ cacuminous
 cacur
 cad
 cadamba
-cryptocrystalline
 cadaster
 cadasters
 cadastral
@@ -6397,6 +6396,7 @@ coulterneb
 copsing
 compurgatorial
 collocationable
+cryptocrystalline
 cautioner
 cautioners
 caff
