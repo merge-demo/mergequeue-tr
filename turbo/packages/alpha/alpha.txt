@@ -8342,7 +8342,6 @@ alikeness
 alikewise
 abr
 alilonghi
-arundinaceous
 arnaut
 animadversive
 alimentariness
@@ -8679,6 +8678,7 @@ agaric
 annulosan
 africanization
 alienee
+arundinaceous
 archigenesis
 askeses
 australoid
