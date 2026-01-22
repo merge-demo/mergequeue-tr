@@ -5750,6 +5750,7 @@ goosecap
 groovers
 galacaceae
 gangways
+glossophobia
 gadflies
 goofiest
 garlicky
@@ -10156,7 +10157,6 @@ grazioso
 guato
 genres
 guidepost
-glossophobia
 geostrategist
 gurneyite
 gerusia
