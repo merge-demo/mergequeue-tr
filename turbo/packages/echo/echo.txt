@@ -2683,6 +2683,7 @@ emmanuel
 earhead
 emborder
 electrotechnician
+enthelminthic
 epistena
 exports
 euphrasies
@@ -6715,7 +6716,6 @@ exstill
 entete
 eurytherm
 epistrophy
-enthelminthic
 exungulate
 effume
 ectosomal
