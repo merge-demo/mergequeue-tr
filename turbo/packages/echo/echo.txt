@@ -2510,7 +2510,6 @@ emender
 enervators
 endostylar
 epilepsia
-enmeshed
 ensate
 eparcuale
 expostulations
@@ -14100,6 +14099,7 @@ elfin
 exterminable
 exhaustless
 excubittoria
+enmeshed
 etyma
 entour
 extremuma
