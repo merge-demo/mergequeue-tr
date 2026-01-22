@@ -5696,6 +5696,7 @@ eppie
 extraventricular
 extras
 episcopalism
+eelgrass
 egotisticalness
 emerson
 eagerest
@@ -6784,7 +6785,6 @@ ecclesioclastic
 entoblastic
 entobronchium
 equitriangular
-eelgrass
 ellinge
 entocyemate
 everett
