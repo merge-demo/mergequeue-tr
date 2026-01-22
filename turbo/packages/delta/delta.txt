@@ -5413,7 +5413,6 @@ doss
 deorganization
 decolouriser
 doubtfully
-deorganize
 deregister
 donation
 disenablement
@@ -6845,6 +6844,7 @@ deheathenize
 dreamer
 dentary
 desmorrhexis
+deorganize
 deifies
 demilitarization
 desmoscolecidae
