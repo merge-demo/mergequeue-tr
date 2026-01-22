@@ -6744,6 +6744,7 @@ abnormities
 ainus
 ayont
 anterodorsal
+anapaest
 antemetic
 ardour
 agribusiness
@@ -8059,7 +8060,6 @@ alfaje
 alfaki
 alfalfas
 aer
-anapaest
 assertoric
 algesia
 alfaqui
