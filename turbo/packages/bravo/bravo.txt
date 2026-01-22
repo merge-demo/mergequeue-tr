@@ -7019,7 +7019,6 @@ boardly
 bowingly
 balnea
 brothel
-balor
 brulzie
 bollixed
 bicephalic
@@ -10002,6 +10001,7 @@ biologically
 bennettitaceae
 bravas
 boree
+balor
 brian
 bx
 bituminous
