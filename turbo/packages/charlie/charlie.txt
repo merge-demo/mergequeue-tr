@@ -7889,7 +7889,6 @@ cetera
 ceterach
 ceti
 cetic
-cocytus
 chitinization
 cetyl
 cetylic
@@ -30791,6 +30790,7 @@ culett
 climatologic
 culeus
 culices
+cocytus
 cramble
 cytoparaplastin
 culicifugal
