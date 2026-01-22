@@ -957,6 +957,7 @@ effluvium
 ecumenicism
 expulser
 embalming
+evader
 entailments
 euchrone
 effronteries
@@ -3958,7 +3959,6 @@ endosymbiosis
 excretitious
 emolumental
 extemporiser
-evader
 enstate
 emory
 exopathic
