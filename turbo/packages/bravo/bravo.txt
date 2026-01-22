@@ -13372,7 +13372,6 @@ buffoonery
 boondoggler
 buckety
 boundlessness
-blasted
 backshift
 bothrenchyma
 bluenoses
@@ -15209,6 +15208,7 @@ bloater
 breastplough
 blunted
 brushman
+blasted
 blockheadedness
 bryce
 brick

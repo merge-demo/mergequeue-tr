@@ -4697,7 +4697,6 @@ dawdles
 douar
 dogbody
 depraves
-dsnames
 democratic
 dividedness
 democratisation
@@ -12218,6 +12217,7 @@ disfrocking
 dysfunctional
 documentaries
 dysfunctioning
+dsnames
 doweling
 deltoidal
 durous
