@@ -1010,6 +1010,7 @@ foreplan
 formate
 foreorder
 flustrating
+falisci
 factorability
 forweend
 flashes
@@ -8082,7 +8083,6 @@ foretaster
 forefin
 foretasting
 fretsaw
-falisci
 forewrought
 fractionate
 fanaticalness
