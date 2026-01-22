@@ -7141,7 +7141,6 @@ guans
 gaffs
 glycid
 gross
-glycolylurea
 genecor
 gorgeret
 gangrenescent
@@ -10840,6 +10839,7 @@ guaiacum
 grudgefully
 guzul
 genotypical
+glycolylurea
 gasworker
 grailer
 gregarian
