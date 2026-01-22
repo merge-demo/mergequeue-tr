@@ -18204,7 +18204,6 @@ coexistence
 coexisting
 coexpand
 coexpanded
-coexperiencer
 catchment
 clubbiness
 coextends
@@ -25961,6 +25960,7 @@ codifier
 corvet
 corvette
 commentable
+coexperiencer
 coenenchymatous
 corvettes
 cahuapana
