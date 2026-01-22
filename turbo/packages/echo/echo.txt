@@ -3145,6 +3145,7 @@ epiphytology
 elogy
 exhorting
 elogium
+enthrallingly
 egohood
 eloigned
 eleometer
@@ -14032,7 +14033,6 @@ exordize
 enigmatography
 endothecia
 exr
-enthrallingly
 enteroclisis
 extractorship
 extrasterile
