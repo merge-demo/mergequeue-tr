@@ -4694,6 +4694,7 @@ fijian
 fulgor
 ferrugineous
 flabella
+folksey
 flyweight
 frises
 fernseed
@@ -9874,7 +9875,6 @@ fastuously
 furnishings
 forcelessness
 flintstone
-folksey
 flitching
 fraghan
 filmsets
