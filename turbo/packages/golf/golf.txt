@@ -6562,6 +6562,7 @@ gonycampsis
 gastrohyperneuria
 guerillas
 galeass
+gambades
 grenadiers
 gigolos
 graphalloy
@@ -9705,7 +9706,6 @@ gargantuan
 guidonian
 georgiana
 gandurah
-gambades
 greyhounds
 grocerwise
 greenhorn
