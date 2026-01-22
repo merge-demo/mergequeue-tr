@@ -5693,7 +5693,6 @@ arteries
 ascertainer
 argillocalcareous
 alderney
-agamidae
 assheadedness
 aftertouch
 achaeta
@@ -13331,6 +13330,7 @@ abobra
 anthelminthic
 apoturmeric
 aeroballistic
+agamidae
 anisometric
 antimerger
 abcess

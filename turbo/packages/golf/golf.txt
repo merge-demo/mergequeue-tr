@@ -841,6 +841,7 @@ genseng
 gambogian
 gombroons
 grangerise
+gonagia
 goban
 genistin
 granulater
@@ -872,7 +873,6 @@ greeing
 gastromyxorrhea
 gire
 grammaticality
-gonagia
 gonadotropin
 gameless
 gammy
