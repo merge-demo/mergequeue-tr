@@ -6483,6 +6483,7 @@ cavetti
 corybant
 calusar
 conchie
+commandant
 cavia
 cavicorn
 calve
@@ -22309,7 +22310,6 @@ costumire
 congratulations
 congratulatory
 congree
-commandant
 congregable
 congreganist
 crooks
