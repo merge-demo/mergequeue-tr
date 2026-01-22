@@ -11233,6 +11233,7 @@ crisps
 chlorhexidine
 coemperor
 chlorhydric
+constriction
 chloriamb
 chloriambus
 chlorid
@@ -23209,7 +23210,6 @@ constricted
 cobby
 carpomania
 constricting
-constriction
 coelomic
 constrictive
 constrictor
