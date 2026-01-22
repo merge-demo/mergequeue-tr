@@ -13285,7 +13285,6 @@ berakes
 birdmen
 blennies
 botanic
-baltei
 bobbery
 backlet
 botanica
@@ -16883,6 +16882,7 @@ breekums
 bounders
 buffont
 bactericidally
+baltei
 buffooneries
 benzoxycamphor
 balancelle
