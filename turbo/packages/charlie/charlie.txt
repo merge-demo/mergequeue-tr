@@ -8886,7 +8886,6 @@ charbonnier
 coadjacently
 coldheartedly
 crumby
-compassing
 chancellery
 chaetitidae
 charuk
@@ -11542,6 +11541,7 @@ catagenesis
 chola
 costoxiphoid
 cholalic
+compassing
 coquimbite
 cliseometer
 cavers
