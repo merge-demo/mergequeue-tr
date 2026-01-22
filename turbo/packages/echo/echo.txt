@@ -8056,7 +8056,6 @@ enray
 ealdormen
 epiphanous
 expiator
-embarred
 epigrammatizer
 earnests
 epiphegus
@@ -10703,6 +10702,7 @@ evenworthy
 ecossaise
 egosyntonic
 etiquet
+embarred
 excusable
 eugonic
 eggheaded
