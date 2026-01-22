@@ -157,7 +157,6 @@ faradopalpation
 fictionary
 felaheen
 foreribs
-farcialize
 formicaroid
 factionistism
 flips
@@ -245,6 +244,7 @@ formalising
 furmint
 fibrillous
 freeload
+farcialize
 forspend
 fidgets
 fluviation
