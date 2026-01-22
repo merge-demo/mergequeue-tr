@@ -9058,7 +9058,6 @@ grillroom
 gleet
 gerent
 gripper
-ganglionectomies
 girthline
 glutination
 gyres
@@ -9516,6 +9515,7 @@ griminess
 groundkeeper
 glidder
 grumbler
+ganglionectomies
 greenlander
 ger
 glandulose
