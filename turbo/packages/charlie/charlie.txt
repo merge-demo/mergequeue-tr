@@ -665,6 +665,7 @@ cinemize
 crownal
 caestus
 creatins
+cocobolo
 caestuses
 caesura
 cybernated
@@ -17745,7 +17746,6 @@ choup
 cocotte
 cheniller
 cocottes
-cocobolo
 condemnate
 cockalan
 cc

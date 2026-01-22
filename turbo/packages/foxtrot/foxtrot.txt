@@ -3681,6 +3681,7 @@ facebread
 fillies
 families
 feetless
+fractionalized
 firedogs
 foalfoot
 forwake
@@ -9090,7 +9091,6 @@ flopover
 fluosilicate
 fuzee
 fruitarian
-fractionalized
 ferriprussic
 fodient
 feoffees
