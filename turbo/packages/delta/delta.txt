@@ -6089,7 +6089,6 @@ dissolvable
 deckedout
 derated
 diphtheroid
-derater
 dijudicant
 disilane
 duperies
@@ -11419,6 +11418,7 @@ disclusion
 deadnesses
 dispauper
 designlessness
+derater
 dollar
 deoccidentalize
 discoactine
