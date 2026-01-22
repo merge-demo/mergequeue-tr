@@ -9065,6 +9065,7 @@ dermatophobia
 dictionarian
 dollying
 dropsywort
+dermatophytic
 dictamina
 disembattle
 dyester
@@ -15301,7 +15302,6 @@ dwamish
 dolores
 decemflorous
 dispenditure
-dermatophytic
 dochter
 delusional
 dialler
