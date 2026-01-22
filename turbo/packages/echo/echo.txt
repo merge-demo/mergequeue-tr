@@ -10020,6 +10020,7 @@ enweb
 electrically
 extradict
 emotiomuscular
+eigenvector
 electrode
 eurhythmical
 encollar
@@ -10758,7 +10759,6 @@ endorsee
 extort
 ephemeran
 extramoralist
-eigenvector
 emer
 endogalvanism
 eucnemidae
