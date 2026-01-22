@@ -5824,7 +5824,6 @@ chemicopharmaceutical
 contraplex
 cuemanship
 categorization
-coryzal
 corona
 crumbs
 commercia
@@ -6248,6 +6247,7 @@ cauldrons
 cottar
 caulds
 camize
+coryzal
 caulescent
 caulicle
 caulicole
