@@ -647,6 +647,7 @@ decoyman
 dextroversion
 dinoflagellata
 deploitation
+decartelization
 damnify
 dearth
 damnificatus
@@ -2192,7 +2193,6 @@ disgraceful
 decarnated
 dongolese
 disinfective
-decartelization
 decartelize
 decatize
 doggeries
