@@ -7236,7 +7236,6 @@ excrescences
 expunge
 electronegativity
 eoith
-eoiths
 entamebae
 eradicably
 enterally
@@ -11814,6 +11813,7 @@ evanescently
 ethoxyl
 exceptio
 epileptics
+eoiths
 eplot
 externization
 enviably
