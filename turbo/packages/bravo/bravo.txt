@@ -4932,7 +4932,6 @@ blackwash
 bunomastodontidae
 beefier
 bequest
-beefiest
 beefsteak
 beeftongue
 biers
@@ -13679,6 +13678,7 @@ befoolable
 bespawl
 bourgade
 beeped
+beefiest
 bonailie
 bourgeoisie
 blessingly
