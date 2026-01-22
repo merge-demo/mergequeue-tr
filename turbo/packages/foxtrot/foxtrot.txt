@@ -4280,7 +4280,6 @@ florescence
 fluyt
 factive
 fet
-ferd
 flamethrower
 fruticous
 funditor
@@ -5529,6 +5528,7 @@ fleecer
 foraminiferous
 flirtish
 flexuously
+ferd
 fram
 fluffiest
 forecited
