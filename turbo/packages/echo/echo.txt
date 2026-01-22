@@ -11723,7 +11723,6 @@ eschewer
 enscrolled
 exceptless
 examinatory
-estrepe
 endochrome
 encumbering
 equivocacies
@@ -12061,6 +12060,7 @@ expurgatorial
 embalmed
 excortication
 eschewals
+estrepe
 enlightener
 eruptions
 ethynyls
