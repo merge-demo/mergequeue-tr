@@ -2615,7 +2615,6 @@ discontinues
 desalter
 decoloring
 disavowed
-diogenes
 doedicurus
 deforce
 dispose
@@ -13349,6 +13348,7 @@ decompile
 drumble
 disputacity
 dahabiehs
+diogenes
 disfen
 delayers
 dazing
