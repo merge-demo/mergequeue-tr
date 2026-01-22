@@ -3862,7 +3862,6 @@ adipopexis
 apolline
 aleft
 acrook
-adiposuria
 andante
 adipsy
 attainableness
@@ -25089,6 +25088,7 @@ arsine
 axenic
 axenically
 abbreviators
+adiposuria
 annual
 ausforms
 advanceable
