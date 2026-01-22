@@ -12323,7 +12323,6 @@ chromaffinic
 chromamamin
 chilodon
 corelate
-chromammine
 corticopeduncular
 chromaphore
 chromas
@@ -16806,6 +16805,7 @@ clowders
 clower
 clownade
 clownage
+chromammine
 clownery
 capitative
 clowneries
