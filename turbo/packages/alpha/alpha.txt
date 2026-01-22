@@ -10117,7 +10117,6 @@ antasthmatic
 amblystegite
 autodialer
 amblotic
-apostrophizing
 arenosity
 anythings
 acanthin
@@ -15136,6 +15135,7 @@ atrocious
 advential
 antispeculation
 aggrandisement
+apostrophizing
 athena
 admonish
 antieducation
