@@ -2795,7 +2795,6 @@ gyne
 gershon
 guzzledom
 gyges
-guemul
 glovelike
 gathers
 gymnasiast
@@ -7404,6 +7403,7 @@ gentianales
 gravecloth
 gastrocolotomy
 gaudery
+guemul
 galen
 gruffiest
 googly
