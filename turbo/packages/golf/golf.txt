@@ -5222,6 +5222,7 @@ gorgonzola
 gamecraft
 garten
 gentilic
+glorify
 gammer
 gawkier
 genial
@@ -9411,7 +9412,6 @@ geminally
 gitksan
 goldtit
 guanabano
-glorify
 gouramis
 gemmate
 garroted
