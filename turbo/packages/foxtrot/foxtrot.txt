@@ -2200,6 +2200,7 @@ fluorinates
 foals
 feminineness
 frivolity
+fcy
 feudee
 freshmanhood
 fikie
@@ -5492,7 +5493,6 @@ faceteness
 flacker
 feminization
 fleshmonger
-fcy
 flagfall
 fletcherism
 frontignac
