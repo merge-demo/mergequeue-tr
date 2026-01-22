@@ -1568,7 +1568,6 @@ attaintment
 antidrag
 accorporation
 antilogism
-anglicizes
 accost
 arbuscule
 aecidium
@@ -13574,6 +13573,7 @@ atwain
 allo
 announce
 anthropophagical
+anglicizes
 announced
 agronomial
 astrophyllite
