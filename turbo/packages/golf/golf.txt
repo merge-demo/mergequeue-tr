@@ -8520,6 +8520,7 @@ graveolent
 gymnoderinae
 gozzan
 gramineae
+gulpier
 graverobbing
 ghettoization
 gravers
@@ -10289,7 +10290,6 @@ graying
 grather
 gridded
 galliard
-gulpier
 galactosidase
 girasol
 gault
