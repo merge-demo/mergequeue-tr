@@ -18051,7 +18051,6 @@ coalitional
 cardiolysis
 coendidae
 congiaries
-coendure
 coendures
 coenenchym
 casualness
@@ -19107,6 +19106,7 @@ collywobbles
 completeness
 chondriomite
 collobrierite
+coendure
 cateress
 collocated
 cord
