@@ -5231,6 +5231,7 @@ castings
 casparian
 caspian
 coriariaceous
+clovery
 casqued
 cushat
 casquetel
@@ -6679,7 +6680,6 @@ colligation
 ceinture
 ceyx
 ceja
-clovery
 charcia
 celadon
 cutidure
