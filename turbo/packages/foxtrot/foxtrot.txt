@@ -1246,6 +1246,7 @@ fastbacks
 frigor
 flatdom
 faradism
+featherfoil
 futteret
 fama
 favella
@@ -9601,7 +9602,6 @@ freemasonical
 finitesimal
 flatfootedness
 freen
-featherfoil
 flowerer
 forwardly
 flotations
