@@ -4402,7 +4402,6 @@ bagne
 bounties
 breakwater
 balloter
-behoney
 bullshit
 beanweed
 bunyas
@@ -6081,6 +6080,7 @@ bequeathable
 becowarded
 blueball
 berat
+behoney
 basketful
 biochemistries
 benasty
