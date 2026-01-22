@@ -1214,7 +1214,6 @@ anlia
 acanthophorous
 alloploidy
 aboded
-acanthopodous
 aqueously
 acanthopteran
 ataunt
@@ -19761,6 +19760,7 @@ amphoral
 anhistous
 amortized
 achigan
+acanthopodous
 arjun
 anglophil
 awkwardness
