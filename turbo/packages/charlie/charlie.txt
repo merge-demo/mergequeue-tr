@@ -15325,6 +15325,7 @@ chalcotript
 clanjamphrey
 clanked
 choledocholithotomy
+corteges
 caracter
 clanking
 chlorimetry
@@ -25898,7 +25899,6 @@ chokered
 corsite
 corsos
 cancrivorous
-corteges
 capitalization
 congas
 coeternally

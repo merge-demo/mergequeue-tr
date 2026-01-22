@@ -9178,7 +9178,6 @@ buckone
 barotropy
 banderlog
 brahmanhood
-behalf
 bianchi
 besprinkled
 badgir
@@ -14647,6 +14646,7 @@ bluepoints
 brasher
 brashiest
 babylonians
+behalf
 bunches
 brashiness
 besmirchment
