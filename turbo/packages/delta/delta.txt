@@ -5091,6 +5091,7 @@ densation
 dadoed
 doggiest
 denebola
+diplonts
 dulbert
 disburdened
 denervation
@@ -10624,7 +10625,6 @@ dunnaged
 diplont
 decamping
 delisting
-diplonts
 diplophase
 difficultness
 dosology
