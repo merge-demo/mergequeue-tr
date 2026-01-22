@@ -4707,7 +4707,6 @@ broadcloth
 butylenes
 bedimming
 borotungstic
-bordereaux
 birlings
 bedimple
 bulllike
@@ -5410,6 +5409,7 @@ betwit
 behammer
 bacula
 beshine
+bordereaux
 boarstaff
 bigarreau
 behaved
