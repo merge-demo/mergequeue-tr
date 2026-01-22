@@ -8894,7 +8894,6 @@ anticosmetic
 aeolodicon
 allochthon
 antlike
-archtempter
 askant
 ambilevous
 azurous
@@ -24125,6 +24124,7 @@ andiron
 autognostic
 articulus
 acanthocarpous
+archtempter
 anticapitalistic
 autografting
 autogram
