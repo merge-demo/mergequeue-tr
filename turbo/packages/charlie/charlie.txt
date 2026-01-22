@@ -4888,7 +4888,6 @@ craftly
 carrotiest
 carrotin
 congregants
-carrotins
 carrotweed
 corporation
 canonization
@@ -14894,6 +14893,7 @@ cytospora
 caprioling
 cytost
 conceit
+carrotins
 conveys
 counterpray
 curding
