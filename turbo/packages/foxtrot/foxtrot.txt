@@ -4773,6 +4773,7 @@ frontoorbital
 fou
 francisco
 foothills
+forehear
 flagman
 fasciolaria
 fancifulness
@@ -5465,7 +5466,6 @@ fenderless
 friezy
 fiduciarily
 fasts
-forehear
 fullwords
 fiant
 friseurs
