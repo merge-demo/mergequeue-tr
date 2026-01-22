@@ -3790,6 +3790,7 @@ despatched
 discommender
 deimos
 diastataxic
+dowdies
 daffs
 dallan
 decharm
@@ -17844,7 +17845,6 @@ darktown
 darrell
 dorper
 ductor
-dowdies
 ductules
 drawlatch
 ductwork
