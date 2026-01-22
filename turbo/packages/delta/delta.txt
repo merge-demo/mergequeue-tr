@@ -12732,7 +12732,6 @@ drizzle
 dacryoadenitis
 declassing
 divel
-drafty
 dialysing
 decodings
 dolabriform
@@ -15536,6 +15535,7 @@ doloriferous
 dedicatee
 donkeyman
 draffman
+drafty
 decahedra
 draegerman
 dudley
