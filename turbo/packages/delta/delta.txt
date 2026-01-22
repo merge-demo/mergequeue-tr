@@ -363,7 +363,6 @@ dayman
 droughtiness
 detruss
 daymares
-disseizes
 diarists
 discoloured
 dasher
@@ -9812,6 +9811,7 @@ duresses
 duelist
 dilutely
 draffish
+disseizes
 diagonality
 decertified
 darting
