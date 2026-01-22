@@ -4573,6 +4573,7 @@ gladiole
 guardrail
 garotter
 guttiferales
+globalize
 genoms
 gigantopithecus
 galionji
@@ -8561,7 +8562,6 @@ gravisphere
 guiltlessly
 gliderport
 gainliest
-globalize
 grat
 governess
 growths
