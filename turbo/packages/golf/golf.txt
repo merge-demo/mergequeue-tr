@@ -742,6 +742,7 @@ galvanologist
 giantlikeness
 gollywog
 gonoplasm
+geostrategic
 gerbillinae
 gar
 goniometric
@@ -7474,7 +7475,6 @@ gymnotidae
 gordon
 greenleaf
 globulousness
-geostrategic
 gaet
 galilean
 gelatinizable
