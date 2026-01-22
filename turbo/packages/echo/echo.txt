@@ -4578,7 +4578,6 @@ enlightened
 exigence
 exploited
 enchanting
-englante
 exition
 expel
 expatiations
@@ -6350,6 +6349,7 @@ exuberant
 enserfed
 ekamanganese
 enshade
+englante
 enshawl
 espace
 ensheathe
