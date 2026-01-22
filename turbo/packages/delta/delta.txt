@@ -5463,7 +5463,6 @@ departer
 devastated
 dehistoricize
 drama
-dematiaceous
 denotement
 dynatron
 directionality
@@ -13876,6 +13875,7 @@ dystaxias
 dedicational
 direxit
 dysteleologist
+dematiaceous
 dammers
 decipherment
 dollship
