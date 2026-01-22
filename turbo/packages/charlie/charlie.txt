@@ -12933,7 +12933,6 @@ cubs
 cyanformate
 chockful
 chloropal
-consecution
 cyanhydric
 cyanhydrin
 citron
@@ -16750,6 +16749,7 @@ coactivity
 clouee
 culpon
 cyclosporous
+consecution
 congested
 cloughs
 cloured
