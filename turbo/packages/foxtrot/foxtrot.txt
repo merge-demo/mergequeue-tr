@@ -7567,6 +7567,7 @@ foreshadow
 forespeak
 freezable
 fervors
+forgathers
 forril
 festino
 fatalize
@@ -10880,7 +10881,6 @@ fullish
 foeman
 frigorifico
 fulgurated
-forgathers
 finished
 fucused
 forthcoming
