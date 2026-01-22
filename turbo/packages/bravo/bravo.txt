@@ -2234,6 +2234,7 @@ bung
 bandgap
 barbara
 barbary
+boisterously
 baculiferous
 blastier
 bast
@@ -15356,7 +15357,6 @@ barramunda
 bandylegged
 blisterwort
 bohorok
-boisterously
 brieflessly
 besieges
 briefness
