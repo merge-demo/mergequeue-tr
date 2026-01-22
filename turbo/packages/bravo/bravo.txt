@@ -4977,7 +4977,6 @@ beerhouses
 breech
 breastband
 barbecueing
-beladied
 basement
 bluebeardism
 beermaker
@@ -6604,6 +6603,7 @@ bicolourous
 bronchioles
 boychicks
 blacknob
+beladied
 berenice
 beresite
 beret

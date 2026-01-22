@@ -6518,7 +6518,6 @@ cavitated
 consulter
 changefulness
 cavity
-cavitied
 cavorted
 cavorting
 cavu
@@ -9942,6 +9941,7 @@ cheoplastic
 chempaduk
 chemurgical
 chemurgically
+cavitied
 chen
 chena
 chenar
