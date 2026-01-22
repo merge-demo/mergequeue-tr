@@ -7889,7 +7889,6 @@ cete
 cetera
 ceterach
 ceti
-cetic
 chitinization
 cetyl
 cetylic
@@ -16418,6 +16417,7 @@ ceriferous
 cloacinal
 cordelled
 cloacitis
+cetic
 crispature
 chervil
 corsned
