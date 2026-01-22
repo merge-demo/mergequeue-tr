@@ -6626,7 +6626,6 @@ frankfold
 flaringly
 foetation
 filt
-frontad
 felonous
 figurism
 foeti
@@ -7051,6 +7050,7 @@ fraken
 fledge
 fedayeen
 foolish
+frontad
 ferryboats
 fascinating
 fleapit
