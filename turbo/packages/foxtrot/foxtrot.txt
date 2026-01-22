@@ -7676,7 +7676,6 @@ falsified
 finnack
 fasciated
 fernier
-frayproof
 feature
 foreigneering
 flexes
@@ -10793,6 +10792,7 @@ fth
 feuars
 footsoldiers
 fanned
+frayproof
 factualistic
 flue
 fubbery
