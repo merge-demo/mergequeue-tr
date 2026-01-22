@@ -1899,7 +1899,6 @@ generalists
 gerbillus
 germaniums
 groundable
-gowd
 grails
 golland
 grelot
@@ -6830,6 +6829,7 @@ genitival
 geed
 gaposises
 goniatitic
+gowd
 grainman
 granma
 goshen
