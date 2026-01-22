@@ -7050,6 +7050,7 @@ entwines
 epinikian
 enzymolytic
 encompassed
+encompassing
 enumerability
 epris
 expansionary
@@ -8601,7 +8602,6 @@ engagements
 eyebar
 endemial
 electrotherapeutic
-encompassing
 epigrammatism
 egall
 ergatomorph
