@@ -4873,7 +4873,6 @@ compense
 carryout
 carryouts
 crosshatched
-carrocci
 carroch
 connivers
 carrollite
@@ -18056,6 +18055,7 @@ coendures
 coenenchym
 casualness
 cephalosporin
+carrocci
 coenenchymal
 communality
 capouch
