@@ -728,7 +728,6 @@ aver
 anglicized
 aptote
 animine
-antivaccination
 abrade
 angaralite
 accourt
@@ -14410,6 +14409,7 @@ acrostically
 amylodyspepsia
 aerometric
 anaphrodisia
+antivaccination
 actualizing
 appealing
 antimedieval

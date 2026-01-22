@@ -15472,6 +15472,7 @@ deduit
 dogless
 donat
 donatee
+define
 dentilation
 degranulation
 durra
@@ -16407,7 +16408,6 @@ defibrillative
 dihydric
 drolled
 defyingly
-define
 diplacanthidae
 dulc
 drawcansir
