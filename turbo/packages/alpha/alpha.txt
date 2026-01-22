@@ -6359,6 +6359,7 @@ agriculturist
 aftergood
 anticreep
 agrilus
+abolla
 aureola
 adultress
 abohms
@@ -23179,7 +23180,6 @@ attestable
 amphibology
 artel
 arsonvalization
-abolla
 alytarch
 anisotonic
 aneared
