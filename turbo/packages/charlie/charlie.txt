@@ -13734,6 +13734,7 @@ crambid
 cubbyholes
 cinema
 cinemactic
+complementary
 cinemagoer
 caxiri
 cinemagoers
@@ -20663,7 +20664,6 @@ complect
 cottierism
 collapsible
 converser
-complementary
 carty
 complementariness
 complementarity
