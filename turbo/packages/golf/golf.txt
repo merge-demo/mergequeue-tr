@@ -2302,6 +2302,7 @@ gooiest
 gonostyle
 geomoroi
 grange
+gunite
 granulosa
 gynarchy
 galante
@@ -10131,7 +10132,6 @@ greenier
 grandeurs
 grudges
 granophyric
-gunite
 gideonite
 gymslip
 glazement
