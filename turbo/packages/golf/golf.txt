@@ -1378,6 +1378,7 @@ glugglug
 garotters
 garnetlike
 grabbles
+gnathal
 gorb
 gastrostegal
 gravitometer
@@ -3133,7 +3134,6 @@ germanite
 gurgles
 georgics
 glycosyl
-gnathal
 goosetongue
 gnathobasic
 gnast
