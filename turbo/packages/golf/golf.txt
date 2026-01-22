@@ -558,7 +558,6 @@ gravidness
 garde
 goolah
 gamest
-geranomorphae
 gazometer
 gnatflower
 galempong
@@ -7829,6 +7828,7 @@ gunny
 gurlet
 gasometric
 guttide
+geranomorphae
 grovelled
 gtc
 geoglossaceae
