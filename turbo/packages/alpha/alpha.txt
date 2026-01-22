@@ -11583,6 +11583,7 @@ autochthons
 anabiotic
 autosauria
 antihypertensive
+alismataceae
 androdioecism
 acheweed
 abscessed
@@ -15822,7 +15823,6 @@ antiphons
 athericera
 agiotage
 assistants
-alismataceae
 abiogenist
 alloisomeric
 antiphrases
