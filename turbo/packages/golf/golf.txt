@@ -2273,7 +2273,6 @@ glamoury
 gigantoblast
 garlicmonger
 goodby
-gunroom
 gammoning
 garrisoned
 giust
@@ -5159,6 +5158,7 @@ grandioseness
 gaussbergite
 gleamy
 gorer
+gunroom
 gangliglions
 gumboots
 gracility
