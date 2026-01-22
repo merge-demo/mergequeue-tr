@@ -1436,6 +1436,7 @@ baline
 bundahish
 bugler
 bloodthirstiest
+bowing
 bowsprit
 biogen
 bathtubful
@@ -13873,7 +13874,6 @@ bowyers
 bieldy
 birches
 bedrite
-bowing
 bowkail
 barkentine
 blad
