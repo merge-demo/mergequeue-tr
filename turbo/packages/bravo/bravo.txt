@@ -6037,7 +6037,6 @@ butcherless
 balaenid
 balarama
 bole
-bibliological
 brahmanical
 bort
 bablah
@@ -7225,6 +7224,7 @@ burgee
 breaching
 blades
 beveled
+bibliological
 buckjump
 bongrace
 bauta
