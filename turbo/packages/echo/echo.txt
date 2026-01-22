@@ -8577,7 +8577,6 @@ eumorphic
 enunciative
 equatorward
 etesians
-etheriform
 equatorwards
 excessmen
 ectomeric
@@ -10853,6 +10852,7 @@ euphemian
 elapse
 electrolyzed
 enlivenments
+etheriform
 emborders
 econometrics
 everts
