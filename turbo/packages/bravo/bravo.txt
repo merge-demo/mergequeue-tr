@@ -4596,6 +4596,7 @@ bloodstone
 belial
 biddelian
 beats
+bioscientist
 bedazement
 bigeminate
 bedazzle
@@ -12321,7 +12322,6 @@ bombacaceae
 bombace
 behang
 bedoctor
-bioscientist
 bombardiers
 bisulphite
 bombarding
