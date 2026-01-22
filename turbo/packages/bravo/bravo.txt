@@ -8468,6 +8468,7 @@ bagirmi
 bundu
 bilby
 banqueteering
+begirdling
 baignet
 bilbo
 bandsawed
@@ -11954,7 +11955,6 @@ brut
 bawke
 betweens
 bolivianos
-begirdling
 boggard
 blindfoldly
 boggier
