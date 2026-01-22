@@ -10941,7 +10941,6 @@ disadvance
 disadvancing
 disbursals
 ditetragonal
-deminude
 disadvising
 dysaesthesia
 dropvie
@@ -12473,6 +12472,7 @@ dentally
 deracinate
 declassifying
 doubtably
+deminude
 dertrum
 damageableness
 dancette
