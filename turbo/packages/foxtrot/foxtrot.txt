@@ -2951,6 +2951,7 @@ fluvanna
 fallway
 fadings
 felucca
+foster
 frothing
 fy
 fiacres
@@ -5600,7 +5601,6 @@ flummydiddle
 faddiest
 florescent
 flightier
-foster
 facund
 foetor
 fernery
