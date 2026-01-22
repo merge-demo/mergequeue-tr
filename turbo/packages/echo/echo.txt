@@ -5593,7 +5593,6 @@ enflower
 essexite
 evaporate
 ectognatha
-equalization
 epidendrum
 elutions
 enfold
@@ -5731,6 +5730,7 @@ excusability
 engage
 etymologic
 exampless
+equalization
 engineers
 engineless
 engineman
