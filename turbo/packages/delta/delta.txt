@@ -6520,7 +6520,6 @@ descries
 dagbamba
 dodgers
 decimates
-descript
 descriptionist
 dogsled
 descriptionless
@@ -10030,6 +10029,7 @@ dynamically
 debarkations
 deflate
 defailance
+descript
 divertingly
 diselectrify
 dozier
