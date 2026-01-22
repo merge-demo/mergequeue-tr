@@ -272,6 +272,7 @@ dreadnaught
 docken
 debugged
 diarthroses
+denticle
 disassiduity
 doliolidae
 diploperistomic
@@ -5301,7 +5302,6 @@ daraf
 deflect
 diaphoretic
 displaced
-denticle
 dentiferous
 desegmented
 dentifrice
