@@ -7382,7 +7382,6 @@ decenyl
 detonation
 disowned
 detonations
-dusking
 demean
 detonative
 detonize
@@ -11516,6 +11515,7 @@ discomycetous
 druggy
 dirham
 defter
+dusking
 dextrorotatary
 dunciad
 dovewood
