@@ -4118,7 +4118,6 @@ fatling
 fenchyl
 feezed
 fireboy
-flying
 fiendishly
 fraticelli
 firebomb
@@ -7346,6 +7345,7 @@ fenestellae
 festiveness
 floodlighting
 forbiddingly
+flying
 farfels
 fewnes
 flatworms
