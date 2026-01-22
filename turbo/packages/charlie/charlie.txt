@@ -9186,7 +9186,6 @@ chaste
 chastelain
 carritch
 catarrh
-carettochelydidae
 carbonylic
 chastener
 cashaw
@@ -11184,6 +11183,7 @@ chloragogue
 chloral
 chloralformamide
 cupelling
+carettochelydidae
 comburimeter
 cymbocephalic
 chloralize
