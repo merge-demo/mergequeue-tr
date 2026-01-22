@@ -965,6 +965,7 @@ effronteries
 erythroblastotic
 enhearse
 eudiagnostic
+extensibleness
 execution
 eidolology
 effluviable
@@ -4045,7 +4046,6 @@ empyemic
 empiercement
 enwind
 evirato
-extensibleness
 evaporative
 exedent
 evidenced
