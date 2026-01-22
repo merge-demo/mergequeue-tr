@@ -9936,6 +9936,7 @@ dowing
 disingenuous
 digitule
 discursus
+duellist
 denticulation
 daintily
 drossiness
@@ -17894,7 +17895,6 @@ dinks
 dayflowers
 docible
 duelling
-duellist
 diplomata
 dillydallies
 debromination
