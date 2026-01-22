@@ -198,6 +198,7 @@ factotum
 felsitic
 ferrihemoglobin
 furloughing
+furcate
 frasier
 factrix
 footmanship
@@ -11301,7 +11302,6 @@ finnoc
 florikan
 fleming
 foyer
-furcate
 fenagled
 fusspot
 firearm
