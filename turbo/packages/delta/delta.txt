@@ -5731,6 +5731,7 @@ doodler
 dewormed
 depopulation
 denitrize
+deferens
 disimitation
 demipuppet
 dicyanodiamide
@@ -14667,7 +14668,6 @@ djave
 drill
 djebels
 djehad
-deferens
 dulias
 djellabah
 decanically
