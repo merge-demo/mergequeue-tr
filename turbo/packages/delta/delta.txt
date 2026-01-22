@@ -7142,6 +7142,7 @@ dispersement
 diductor
 drawboring
 deerkill
+deliria
 desulphurize
 depauperate
 depullulation
@@ -13033,7 +13034,6 @@ disestablish
 disparation
 downlike
 dromiceiidae
-deliria
 diotrephes
 durant
 dopiness
