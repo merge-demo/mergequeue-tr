@@ -3873,6 +3873,7 @@ effigiate
 epalpate
 epauliere
 ethnobotanical
+expectoration
 emesis
 entrapment
 easiness
@@ -10683,7 +10684,6 @@ erioglaucine
 elaterins
 effetmen
 enterpriser
-expectoration
 enveloper
 extirpatory
 electrotelegraphy
