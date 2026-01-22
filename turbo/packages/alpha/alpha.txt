@@ -10941,6 +10941,7 @@ aitches
 anticult
 allonymously
 amphib
+anorthographically
 afrits
 ammonolyzing
 athwarthawse
@@ -23793,7 +23794,6 @@ aspish
 alcogel
 atwixt
 australian
-anorthographically
 australioid
 anticonservatively
 allicit

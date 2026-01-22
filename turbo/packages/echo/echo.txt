@@ -57,6 +57,7 @@ eyn
 excuss
 estuarine
 earlier
+expedited
 elf
 empaneling
 earliest
@@ -3747,7 +3748,6 @@ ectoderms
 extravagantness
 enfranchise
 erodability
-expedited
 excessiveness
 enslaving
 encumbers
