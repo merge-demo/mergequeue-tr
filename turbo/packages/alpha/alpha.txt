@@ -11371,6 +11371,7 @@ avowries
 amphithyra
 ana
 amphithyron
+atelomyelia
 apetalies
 amphithura
 amphipnous
@@ -22576,7 +22577,6 @@ atelocephalous
 alternativo
 ateloglossia
 abacist
-atelomyelia
 ateloprosopia
 acoenaesthesia
 axifera
