@@ -478,7 +478,6 @@ expunged
 egregiously
 eucaryotic
 epiphylline
-eccrisis
 enregistered
 extincting
 edifiers
@@ -9124,6 +9123,7 @@ enveil
 escrowee
 ephors
 equinoxes
+eccrisis
 egyptologist
 evasion
 embordered
