@@ -13071,6 +13071,7 @@ deprecators
 deccennia
 dispatched
 devaster
+diathermance
 duckish
 disesteeming
 dispatches
@@ -17269,7 +17270,6 @@ debt
 disseizee
 droghlin
 discrepant
-diathermance
 didactic
 discountenancing
 discombobulating
