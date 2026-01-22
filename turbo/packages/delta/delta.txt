@@ -4488,7 +4488,6 @@ donmeh
 debentureholder
 detroiter
 demigauntlet
-doting
 disclosing
 decussis
 dendrite
@@ -6063,6 +6062,7 @@ demasculinising
 domiciliar
 deracination
 divinising
+doting
 decurring
 dispraiser
 dictyostele
