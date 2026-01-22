@@ -2530,6 +2530,7 @@ banderilla
 bemused
 burmite
 brillolette
+butcherous
 boche
 barid
 bronchostenosis
@@ -18091,7 +18092,6 @@ butanol
 bonked
 bibliopegistical
 butanols
-butcherous
 bind
 bergander
 bouderie

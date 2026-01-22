@@ -13450,6 +13450,7 @@ corsetless
 cloying
 cilia
 cloakedly
+covisitor
 ciliate
 ciliated
 ciliately
@@ -27584,7 +27585,6 @@ coving
 carapus
 covinous
 charioteership
-covisitor
 conventicler
 covite
 covolume
