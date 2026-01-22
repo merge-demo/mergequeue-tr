@@ -371,6 +371,7 @@ gilet
 gildedness
 gley
 graphed
+glaciologists
 gasogenic
 graphium
 gorefish
@@ -3055,7 +3056,6 @@ garnetz
 gossipper
 giant
 gnash
-glaciologists
 graphiter
 greensauce
 gamelin
