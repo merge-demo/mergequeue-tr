@@ -9288,6 +9288,7 @@ erred
 errhines
 encyclopedize
 extraclassroom
+etymologist
 erron
 empathies
 electrotellurograph
@@ -12593,7 +12594,6 @@ enterocolitis
 eaglestone
 embrawn
 epsomite
-etymologist
 euphon
 ethion
 entrance
