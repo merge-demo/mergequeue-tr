@@ -4990,7 +4990,6 @@ breakfasters
 beerpull
 beers
 beest
-babbools
 bibation
 bindweb
 bemuddle
@@ -17313,6 +17312,7 @@ bumpers
 baths
 blazons
 bumpkin
+babbools
 borschts
 boltstrake
 blanketweed
