@@ -20745,6 +20745,7 @@ augmenting
 acquitment
 autoplagiarism
 artifactitious
+aniseroot
 altitonant
 artifactually
 ascents
@@ -22907,7 +22908,6 @@ amitie
 adjutants
 annat
 anticentralist
-aniseroot
 atragene
 amphineura
 atrament
