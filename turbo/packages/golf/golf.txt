@@ -2492,7 +2492,6 @@ gotch
 glunches
 gastroalbuminorrhea
 gliriform
-gerontoxon
 gubbin
 gigacycle
 garlanding
@@ -6063,6 +6062,7 @@ gramineous
 gneiss
 glengarries
 gullibly
+gerontoxon
 gryphosaurus
 gnessic
 gastromancy
