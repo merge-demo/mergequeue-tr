@@ -1529,7 +1529,6 @@ dupondius
 dedoggerelize
 deacons
 demobilizes
-diphygenic
 deactivate
 discoglossid
 distractedly
@@ -2713,6 +2712,7 @@ deedful
 dassy
 deductibility
 decoration
+diphygenic
 diogenic
 decorator
 deliberated
