@@ -14679,7 +14679,6 @@ blungers
 brasils
 brasque
 bloc
-bullwhack
 brassages
 brassard
 briefing
@@ -15918,6 +15917,7 @@ bene
 barbarism
 bromination
 broadband
+bullwhack
 beswim
 behest
 berylate
