@@ -6529,7 +6529,6 @@ ariste
 ayapana
 auxetically
 aias
-achomawi
 aldebaranium
 ayatollah
 aiblins
@@ -22178,6 +22177,7 @@ angolans
 arviculture
 archaic
 asthmatical
+achomawi
 aceric
 aeromantic
 asthmatoid
