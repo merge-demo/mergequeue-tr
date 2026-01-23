@@ -1547,7 +1547,6 @@ fussy
 foreteach
 farrow
 forepayment
-festival
 flowcontrol
 fishbowl
 fauvism
@@ -8009,6 +8008,7 @@ favoured
 fredricite
 forestation
 faceup
+festival
 fructiculture
 fractiously
 foresteep
