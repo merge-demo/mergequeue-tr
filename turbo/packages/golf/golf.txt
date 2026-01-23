@@ -1997,7 +1997,6 @@ gageite
 gonadotrope
 granville
 glyconian
-gleefully
 goosewing
 gaspingly
 galleass
@@ -8366,6 +8365,7 @@ gadolinite
 gunport
 gallivanting
 gradientia
+gleefully
 galeeny
 gyroscopically
 ghosting

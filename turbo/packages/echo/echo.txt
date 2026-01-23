@@ -10606,6 +10606,7 @@ ergatandry
 electroendosmose
 electrotherapies
 endorse
+enuretic
 eucritic
 eudaemon
 eurous
@@ -12651,7 +12652,6 @@ enterobacterial
 esrogim
 exogamies
 ephete
-enuretic
 empyemas
 emissarium
 exogen
