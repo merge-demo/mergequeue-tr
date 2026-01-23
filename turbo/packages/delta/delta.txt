@@ -1693,6 +1693,7 @@ dupability
 disadvantage
 dignity
 disentrain
+declines
 dispond
 dendrodic
 duckstone
@@ -2560,7 +2561,6 @@ distelfink
 dynasty
 declinatory
 disentwined
-declines
 declining
 directrices
 declivent

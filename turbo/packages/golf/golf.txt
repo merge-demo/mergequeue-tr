@@ -3484,7 +3484,6 @@ gyrfalcon
 gigantological
 gestatory
 geriatric
-grivoise
 girasols
 graphonomy
 genipaps
@@ -4996,6 +4995,7 @@ grovels
 glider
 gonocheme
 granulose
+grivoise
 garavance
 glowed
 gelt
