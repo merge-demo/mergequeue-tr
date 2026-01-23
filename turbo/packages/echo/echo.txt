@@ -5329,7 +5329,6 @@ everglades
 embryographer
 enuresis
 ethonomic
-exsertion
 endospore
 evidentness
 encharm
@@ -5658,6 +5657,7 @@ enfranchisements
 epididymis
 elaeagnaceous
 extinct
+exsertion
 essayist
 extraterrestrially
 eucalypts
