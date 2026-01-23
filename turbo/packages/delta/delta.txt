@@ -692,7 +692,6 @@ deans
 despairs
 dampproofing
 dyspepsy
-determinist
 doumaist
 debunkers
 distend
@@ -6899,6 +6898,7 @@ despatches
 deoxidise
 dodded
 despatching
+determinist
 despecialization
 disembarrassed
 dispute
