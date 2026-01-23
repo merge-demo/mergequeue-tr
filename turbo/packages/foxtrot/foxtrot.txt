@@ -2765,7 +2765,6 @@ fistulized
 forbearer
 ftncmd
 fadeout
-forewish
 foxtailed
 fotch
 filao
@@ -8694,6 +8693,7 @@ fortis
 filigraned
 flabbella
 fortissimo
+forewish
 fabricatress
 fraenular
 fole
