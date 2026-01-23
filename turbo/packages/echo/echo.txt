@@ -807,7 +807,6 @@ ectasis
 endothia
 enoil
 expulsed
-ectental
 eloigner
 ecthesis
 erythrozincite
@@ -1944,6 +1943,7 @@ endict
 exarchateship
 elementalist
 ejaculatory
+ectental
 erdvark
 elishah
 ejectively
