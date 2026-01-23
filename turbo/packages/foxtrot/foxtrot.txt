@@ -2515,7 +2515,6 @@ feeler
 frugivorous
 fibromembranous
 filamentule
-frangibility
 freebee
 freeboot
 fem
@@ -3699,6 +3698,7 @@ fillips
 flics
 flexibilty
 fecundates
+frangibility
 fillmore
 forwear
 fiscally
