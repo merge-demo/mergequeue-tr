@@ -2204,6 +2204,7 @@ assessably
 abbreviatory
 alginic
 anthropomorph
+ambaris
 amphioxides
 anomalipod
 abattue
@@ -9982,7 +9983,6 @@ abluents
 activator
 authenticities
 assayer
-ambaris
 ambas
 ambassade
 appreciatively

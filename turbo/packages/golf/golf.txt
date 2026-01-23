@@ -7817,6 +7817,7 @@ graphospasm
 gerents
 gulaman
 goosander
+gnaeus
 gooroo
 grumble
 gunny
@@ -9716,7 +9717,6 @@ gratiosolin
 gaelicism
 guying
 grummet
-gnaeus
 genuflector
 gordiidae
 gagroot
