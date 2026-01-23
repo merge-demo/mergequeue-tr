@@ -5016,7 +5016,6 @@ archboutefeu
 aeroscepsy
 achromatizing
 archaeology
-aurum
 altumal
 athletically
 amalaka
@@ -17976,6 +17975,7 @@ authorling
 auspicated
 appropriateness
 appropriating
+aurum
 appropriator
 appellative
 anglaise

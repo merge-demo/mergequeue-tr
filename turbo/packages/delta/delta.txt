@@ -9706,6 +9706,7 @@ decenary
 dehydromucic
 disablers
 detin
+detrimentality
 devolute
 dilatedly
 demythologized
@@ -16000,7 +16001,6 @@ direct
 double
 demos
 dotter
-detrimentality
 doubleheartedness
 doddypoll
 doubleyou
