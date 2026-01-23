@@ -15228,7 +15228,6 @@ alvia
 arterioles
 antifeudalistic
 antifeudalization
-autolaryngoscopy
 ankyroid
 affiancer
 androtauric
@@ -16757,6 +16756,7 @@ apheses
 asclepius
 aggresses
 admirer
+autolaryngoscopy
 aftermast
 accidentals
 amianthiform
