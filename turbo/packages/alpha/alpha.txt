@@ -7838,7 +7838,6 @@ aeried
 aleconner
 aburst
 americomania
-adenology
 antimonopolist
 archimandrite
 agrope
@@ -11231,6 +11230,7 @@ amphicarpium
 aluconidae
 apocalyptist
 alterius
+adenology
 apian
 amphicarpogenous
 amphichroic
