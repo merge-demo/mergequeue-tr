@@ -486,7 +486,6 @@ gemmery
 geelhout
 glairier
 glutoid
-galeorhinidae
 grouches
 galere
 garaged
@@ -9901,6 +9900,7 @@ gurgoyl
 gallop
 galiots
 groundnut
+galeorhinidae
 gratulatorily
 growingly
 genevese
