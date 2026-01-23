@@ -13589,6 +13589,7 @@ dissentation
 dissented
 dissenter
 daemonic
+diastrophy
 dissentience
 duende
 dehydrofrozen
@@ -14722,7 +14723,6 @@ discommission
 deanery
 dibrach
 despumate
-diastrophy
 doats
 dhurrie
 dobby
