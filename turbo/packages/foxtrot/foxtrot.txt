@@ -6172,7 +6172,6 @@ flaxes
 foretops
 feebling
 frequency
-furbished
 fibroareolar
 flisked
 formicating
@@ -7687,6 +7686,7 @@ fossa
 fidessa
 flinchingly
 foreignly
+furbished
 fishy
 foreignness
 foreimpressed
