@@ -9955,7 +9955,6 @@ foundation
 frictionlessness
 fluocerine
 forthfigured
-facecloth
 facias
 fragment
 formularizer
@@ -10650,6 +10649,7 @@ frankness
 fiddlededee
 fruitfuller
 frogstool
+facecloth
 filtrability
 filberts
 facultate
