@@ -2429,6 +2429,7 @@ euphausid
 epitaxial
 etherate
 earthnut
+extinguished
 earmarked
 exciting
 encratite
@@ -13755,7 +13756,6 @@ ententophil
 ectoenzym
 ergal
 enzyme
-extinguished
 extinguisher
 extinguishers
 entoptically
