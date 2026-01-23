@@ -8621,7 +8621,6 @@ commiseratingly
 channelure
 contemptuous
 cestus
-chronoscope
 chansonette
 commissionaire
 chansonnette
@@ -14595,6 +14594,7 @@ cystoepithelioma
 complemental
 crosby
 cystofibroma
+chronoscope
 cystogenesis
 catabibazon
 catholicness
