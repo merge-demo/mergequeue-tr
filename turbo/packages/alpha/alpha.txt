@@ -15341,6 +15341,7 @@ achromatically
 arietation
 acroterion
 antihypochondriac
+adiaphoretic
 annal
 anticoincidence
 agomphosis
@@ -17004,7 +17005,6 @@ apneumonous
 agrammatical
 apneusis
 apnoea
-adiaphoretic
 artificialness
 aplacophorous
 ayahausca
