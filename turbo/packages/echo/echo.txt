@@ -3294,7 +3294,6 @@ etymologising
 endoproct
 eugenols
 erethizon
-eperlan
 embattlement
 elapidae
 eremitish
@@ -11672,6 +11671,7 @@ eadish
 exaggerate
 electrize
 exaggerated
+eperlan
 eccentricity
 electrocautery
 epididymectomy
