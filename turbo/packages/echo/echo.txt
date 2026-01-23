@@ -7993,7 +7993,6 @@ extrusion
 eyebath
 epinyctis
 enheritage
-exhibitable
 ensconced
 energumenon
 expressly
@@ -9638,6 +9637,7 @@ epenthesize
 epacris
 elaeagnus
 enfrai
+exhibitable
 esparsette
 emphases
 encloud
