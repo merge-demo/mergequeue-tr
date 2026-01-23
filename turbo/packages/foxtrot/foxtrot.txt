@@ -5587,7 +5587,6 @@ fourgons
 flight
 frusla
 fortitude
-flighter
 fraik
 foret
 fleysome
@@ -6922,6 +6921,7 @@ fumarase
 fibromatosis
 fauconnier
 ferrocyanic
+flighter
 fisherpeople
 flaky
 fostership
