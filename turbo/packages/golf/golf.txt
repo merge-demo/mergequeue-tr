@@ -4306,7 +4306,6 @@ galeopsis
 gingered
 gaugeable
 guss
-glendover
 garrulity
 gingerline
 glomerular
@@ -7280,6 +7279,7 @@ gynics
 grahams
 gnocchi
 grossness
+glendover
 griddlecake
 goyetian
 gambled
