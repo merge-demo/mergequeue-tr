@@ -6243,7 +6243,6 @@ forewisdom
 fingerwork
 frisian
 fluidist
-fluidized
 ferroconcrete
 firers
 flared
@@ -7884,6 +7883,7 @@ forewarned
 feiseanna
 featherworker
 foresee
+fluidized
 faitor
 frakturs
 foreseeable
