@@ -7932,7 +7932,6 @@ epinikion
 epilogical
 entomophaga
 eurystomatous
-emitter
 eatery
 exudates
 exordia
@@ -8970,6 +8969,7 @@ europeanly
 essex
 enhort
 eon
+emitter
 extraspherical
 evenings
 encephalin
