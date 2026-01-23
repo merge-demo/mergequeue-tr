@@ -2321,6 +2321,7 @@ granulation
 guardful
 graduates
 gelatinating
+geod
 greyfish
 geognosis
 guaranis
@@ -4177,7 +4178,6 @@ glotum
 gatchwork
 greying
 ges
-geod
 gonotokont
 gleesome
 ganef
