@@ -3934,7 +3934,6 @@ endplates
 enanthem
 emmett
 existentialism
-ethnic
 explicitly
 eulamellibranchia
 emmy
@@ -12738,6 +12737,7 @@ eradication
 elderberry
 elaeodochon
 esprove
+ethnic
 enthelminthes
 embryography
 exceeds
