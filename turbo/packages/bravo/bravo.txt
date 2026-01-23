@@ -8830,7 +8830,6 @@ beatnikism
 bucketfuls
 brecia
 bricktimber
-bingos
 binh
 bounden
 besets
@@ -9382,6 +9381,7 @@ buttering
 brines
 birdbaths
 baroqueness
+bingos
 broomroot
 blethers
 brabbles
