@@ -1477,7 +1477,6 @@ flittern
 flix
 felicitators
 flavorings
-fruiter
 favourable
 friedman
 fundholder
@@ -9222,6 +9221,7 @@ fetishist
 fleuret
 fourchet
 friesic
+fruiter
 fayalites
 freckling
 fungate
