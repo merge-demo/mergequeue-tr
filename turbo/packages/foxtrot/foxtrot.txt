@@ -181,6 +181,7 @@ flier
 factorable
 flimsies
 finitary
+fluoridise
 factoryship
 floatiness
 fusinite
@@ -5354,7 +5355,6 @@ floccillation
 ferrocyanide
 faverel
 figged
-fluoridise
 foredetermine
 flunkyistic
 forthset
