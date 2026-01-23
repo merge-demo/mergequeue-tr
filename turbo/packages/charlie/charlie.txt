@@ -3225,7 +3225,6 @@ cellvibrio
 carpodacus
 cameleon
 capillitium
-capillose
 caping
 coelelminthes
 cauli
@@ -15035,6 +15034,7 @@ civisms
 chloralizing
 civitan
 coxalgic
+capillose
 civitas
 caumatic
 civite
