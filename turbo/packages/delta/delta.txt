@@ -10958,7 +10958,6 @@ dictyosiphon
 disaffirmation
 decidedness
 defedation
-disaffirming
 dermococcus
 dayberry
 dissyllabising
@@ -15390,6 +15389,7 @@ domiciliate
 domiciliated
 demineralizer
 detectivism
+disaffirming
 domification
 distoma
 dissemblance
