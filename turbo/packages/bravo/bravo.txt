@@ -6629,7 +6629,6 @@ bagass
 bergman
 bergs
 breastbone
-bordar
 boneshave
 binal
 bodegon
@@ -12420,6 +12419,7 @@ bassariscus
 buckram
 befingering
 blindless
+bordar
 bonbonnieres
 bibliophilist
 bridecake

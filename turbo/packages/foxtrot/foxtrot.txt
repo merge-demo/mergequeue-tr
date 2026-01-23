@@ -5452,7 +5452,6 @@ fernbrake
 ferreter
 flora
 funniness
-frequentness
 flensed
 frillers
 forswear
@@ -10518,6 +10517,7 @@ flees
 frotton
 fum
 fumelike
+frequentness
 firetail
 farandman
 frousty
