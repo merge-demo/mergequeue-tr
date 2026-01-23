@@ -4154,6 +4154,7 @@ cumflutter
 cortaro
 cymric
 cardiologic
+cochleiform
 cariogenic
 calculating
 cardiologist
@@ -17655,7 +17656,6 @@ concertising
 convenery
 crystallograph
 cochleariform
-cochleiform
 cocksfoot
 comedy
 creationistic
