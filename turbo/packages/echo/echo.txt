@@ -3257,7 +3257,6 @@ embuia
 elution
 embourgeoisement
 esthesiometric
-enzymatically
 estocada
 elaidin
 effuso
@@ -13511,6 +13510,7 @@ egocentricities
 edge
 erk
 epifolliculitis
+enzymatically
 ectocondyloid
 editing
 etruscologist
