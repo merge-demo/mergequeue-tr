@@ -11251,7 +11251,6 @@ crocodiloid
 calderon
 ceca
 cokery
-codettas
 canaut
 chloridellidae
 chlorides
@@ -29106,6 +29105,7 @@ crinites
 capriccettos
 crinitory
 craniota
+codettas
 commercialise
 cicadae
 carryover
