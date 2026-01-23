@@ -6829,7 +6829,6 @@ desmoncus
 decolonize
 dissention
 dragnet
-deadflat
 disvalues
 deltic
 domesticative
@@ -9254,6 +9253,7 @@ disemic
 diathermize
 debite
 dateableness
+deadflat
 dyes
 damfoolish
 depicturing

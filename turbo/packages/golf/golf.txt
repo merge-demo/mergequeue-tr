@@ -1809,7 +1809,6 @@ gastrocolostomy
 geodesia
 gthite
 goala
-gulleries
 gainspeaker
 grummeter
 geebong
@@ -6080,6 +6079,7 @@ gravities
 gordiacean
 girja
 gardinol
+gulleries
 guanos
 gyrous
 gurniad
