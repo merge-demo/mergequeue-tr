@@ -3249,6 +3249,7 @@ farewells
 fiddlefaced
 fiddlerfish
 fraticellian
+fogo
 ferrites
 faunology
 fluidrams
@@ -9909,7 +9910,6 @@ fleabane
 formated
 feceris
 fortuitism
-fogo
 forsythias
 ferromagnetism
 furze
