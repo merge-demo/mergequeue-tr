@@ -263,6 +263,7 @@ dagomba
 daguerreotype
 downspout
 dolichopodous
+dihexahedron
 degermed
 doradilla
 daguerreotyped
@@ -9154,7 +9155,6 @@ dixain
 distraughted
 didonia
 duodenas
-dihexahedron
 daubry
 dipsaceae
 decapods
