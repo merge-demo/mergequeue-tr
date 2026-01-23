@@ -3939,7 +3939,6 @@ aspersorium
 autotyphization
 acanthine
 absinthes
-adjust
 animalculum
 abdal
 astre
@@ -23600,6 +23599,7 @@ allochthonous
 aimed
 auntish
 auntly
+adjust
 auntliest
 auntlike
 auntre
