@@ -5565,7 +5565,6 @@ floatable
 fiords
 ferfel
 flickermouse
-flannelmouthed
 ferrimagnetism
 furbearer
 froebelist
@@ -10059,6 +10058,7 @@ foretaste
 flyball
 foamiest
 forleit
+flannelmouthed
 forwardness
 fiercly
 footnotes
