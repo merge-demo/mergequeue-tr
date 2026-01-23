@@ -5727,7 +5727,6 @@ cannon
 catchlight
 cultivatability
 cornein
-clockcase
 crystallogy
 caudillism
 catchline
@@ -31417,6 +31416,7 @@ cheiceral
 chiropodist
 curledly
 centranthus
+clockcase
 curledness
 chondrules
 curler

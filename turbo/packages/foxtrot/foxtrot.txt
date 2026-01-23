@@ -4721,6 +4721,7 @@ farcies
 feuillage
 fulldo
 flag
+fluidise
 forestalment
 flammiferous
 flagellariaceous
@@ -8452,7 +8453,6 @@ frow
 figment
 forked
 formica
-fluidise
 foolishly
 fasciculate
 furloughed
