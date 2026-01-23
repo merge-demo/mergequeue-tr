@@ -777,7 +777,6 @@ badinages
 beblotch
 bearcoot
 bumboatmen
-badiner
 birt
 badious
 betrays
@@ -4919,6 +4918,7 @@ beaverize
 blackheartedly
 brig
 burdenable
+badiner
 bonnne
 brevets
 beefburgers
