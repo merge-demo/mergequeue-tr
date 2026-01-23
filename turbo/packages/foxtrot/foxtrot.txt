@@ -435,7 +435,6 @@ feal
 flitting
 fogmen
 fairway
-fulminate
 fragilariaceae
 fieldbird
 forebitt
@@ -9831,6 +9830,7 @@ fricandeaux
 fuliginously
 foozlers
 foredestine
+fulminate
 fortyfive
 foxily
 fibrosarcoma
