@@ -5234,6 +5234,7 @@ grenade
 goatish
 gullet
 gelsemiums
+gusseting
 glenohumeral
 genomes
 grouted
@@ -8266,7 +8267,6 @@ gamestress
 graphotype
 grapier
 garrisons
-gusseting
 glossographer
 globule
 graping
