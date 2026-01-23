@@ -4137,7 +4137,6 @@ durneder
 dunstable
 discolorization
 dicyanogen
-diadokokinesis
 duodena
 desynapsis
 distinct
@@ -16548,6 +16547,7 @@ dacryops
 disarchbishop
 draftsman
 drupaceous
+diadokokinesis
 dynastidan
 duplicature
 dyspnoic
