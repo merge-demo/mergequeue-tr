@@ -474,6 +474,7 @@ abyss
 abyssopelagic
 actinide
 airstream
+acervate
 abyssus
 agriculture
 abbreviate
@@ -1864,7 +1865,6 @@ antitabetic
 acerval
 aggressions
 antiphysic
-acervate
 acervulus
 abiezer
 anadyomene
