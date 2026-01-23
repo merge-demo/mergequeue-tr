@@ -1782,7 +1782,6 @@ epigraphical
 engravers
 entera
 embankments
-electrification
 epiblemata
 estimates
 entresse
@@ -10122,6 +10121,7 @@ etherealness
 escherichia
 equisetum
 excused
+electrification
 extranean
 etabelli
 expressiveness
