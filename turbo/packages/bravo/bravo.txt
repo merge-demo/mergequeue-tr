@@ -6578,7 +6578,6 @@ booming
 birotation
 blotter
 bluff
-betons
 blastular
 bere
 butterbox
@@ -8931,6 +8930,7 @@ bioclimatologically
 bothropic
 bioclimatologist
 blowflies
+betons
 bouchons
 bowser
 blissfulness
