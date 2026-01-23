@@ -250,7 +250,6 @@ glowfly
 gustily
 graffiti
 gabbles
-gestatorium
 germanomaniac
 golpe
 gaspereau
@@ -9924,6 +9923,7 @@ gathered
 glanditerous
 geoglyphic
 gedd
+gestatorium
 galerite
 geogenetic
 ghatwal
