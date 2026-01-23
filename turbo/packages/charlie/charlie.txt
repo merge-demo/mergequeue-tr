@@ -88,7 +88,6 @@ cephaeline
 coemptor
 cabbed
 cubics
-cabbie
 crenelate
 cabbies
 cabble
@@ -29560,6 +29559,7 @@ cog
 criticized
 criticizers
 criticizing
+cabbie
 criticship
 criticule
 critique
