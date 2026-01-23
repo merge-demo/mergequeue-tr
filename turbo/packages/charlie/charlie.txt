@@ -1048,7 +1048,6 @@ calcanea
 chimpanzee
 chilopoda
 calcanean
-calcaneoastragaloid
 calcaneoplantar
 countersale
 calcaneoscaphoid
@@ -6686,6 +6685,7 @@ celadon
 cutidure
 celadonite
 coleen
+calcaneoastragaloid
 celaeno
 celandines
 consultant
