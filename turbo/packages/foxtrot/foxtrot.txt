@@ -10234,7 +10234,6 @@ flakers
 frond
 franchisee
 fluxmeter
-finickingness
 frust
 fgrid
 fjarding
@@ -10606,6 +10605,7 @@ filaceous
 fringillaceous
 fusht
 furtive
+finickingness
 famular
 finched
 fructuate
