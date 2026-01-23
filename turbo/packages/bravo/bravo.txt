@@ -6320,7 +6320,6 @@ beneficential
 bandeaus
 beedom
 backswept
-benzalethylamine
 benzalphenylhydrazone
 beaconwise
 benzamide
@@ -7063,6 +7062,7 @@ bespangling
 bespate
 brickbatted
 basset
+benzalethylamine
 bezzant
 bennetweed
 bespattered
