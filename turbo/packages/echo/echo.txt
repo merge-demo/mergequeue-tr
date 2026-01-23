@@ -3111,7 +3111,6 @@ epistolographist
 edgewise
 engrossers
 euectic
-eastermost
 elmwood
 exudations
 eyewash
@@ -13322,6 +13321,7 @@ ecphore
 englishmen
 exorcisms
 explosively
+eastermost
 enolization
 explosiveness
 equipt
