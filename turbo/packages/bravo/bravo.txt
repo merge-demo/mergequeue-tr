@@ -8228,7 +8228,6 @@ biff
 broadwayite
 bifilar
 bifilarly
-biflabellate
 blowtorch
 biflagelate
 bewaring
@@ -12120,6 +12119,7 @@ blushingly
 biosatellites
 berun
 bold
+biflabellate
 byrnies
 beehives
 boldacious
