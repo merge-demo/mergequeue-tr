@@ -1118,7 +1118,6 @@ abuttals
 abetting
 allegros
 abwab
-anthropomorph
 aureateness
 ac
 anguliferous
@@ -2204,6 +2203,7 @@ autoptic
 assessably
 abbreviatory
 alginic
+anthropomorph
 amphioxides
 anomalipod
 abattue
