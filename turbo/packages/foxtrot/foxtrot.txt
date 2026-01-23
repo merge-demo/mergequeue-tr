@@ -2426,7 +2426,6 @@ floretty
 fermentable
 fermentativeness
 faradize
-falus
 footbridges
 fermentescible
 filiform
@@ -9863,6 +9862,7 @@ foggy
 fibroneuroma
 felinophobe
 frickle
+falus
 ferrel
 frontager
 furilic
