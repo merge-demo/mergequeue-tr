@@ -4969,7 +4969,6 @@ eucephalous
 emigates
 electrocorticogram
 envy
-extirpative
 equinia
 engraphic
 excreation
@@ -12798,6 +12797,7 @@ encounterable
 emancipative
 exospore
 endrumpf
+extirpative
 epeiridae
 enthusiastical
 eurycerotidae
