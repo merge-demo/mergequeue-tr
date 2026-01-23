@@ -7396,7 +7396,6 @@ ensculpture
 emeroids
 entasia
 enhalo
-exsanguineous
 edgings
 epentheses
 exotic
@@ -8951,6 +8950,7 @@ erigerons
 echoers
 enables
 enzymatic
+exsanguineous
 expatiators
 erns
 eightvo
