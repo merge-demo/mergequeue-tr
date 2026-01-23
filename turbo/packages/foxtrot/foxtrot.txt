@@ -615,6 +615,7 @@ fluctiferous
 flavorless
 frighter
 fragaria
+flocculous
 fragrances
 fleshes
 forehand
@@ -9616,7 +9617,6 @@ facsimiles
 fluoborate
 foresides
 fathers
-flocculous
 fourths
 floyt
 freezy
