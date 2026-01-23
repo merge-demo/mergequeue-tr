@@ -10511,6 +10511,7 @@ blarnid
 bayoneteer
 brachysclereid
 blashy
+brose
 bemas
 bhutan
 bathmic
@@ -12205,7 +12206,6 @@ bridgeboard
 bijugular
 bolivar
 befamine
-brose
 bradyphemia
 breek
 biasnesses
