@@ -5243,7 +5243,6 @@ garish
 grihyasutra
 galoubet
 genesic
-gammers
 granddaddy
 glooming
 guaranies
@@ -7860,6 +7859,7 @@ gabbais
 gurdle
 ghostlikeness
 grammatics
+gammers
 gastropodous
 galik
 guepard
