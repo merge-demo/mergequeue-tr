@@ -3079,6 +3079,7 @@ bestials
 brahman
 breachy
 barwal
+booted
 bannack
 blague
 boilerworks
@@ -6566,7 +6567,6 @@ berberidaceous
 berberis
 brunizem
 bournous
-booted
 bagattino
 bladderless
 berchemia
