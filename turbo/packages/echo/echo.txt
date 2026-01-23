@@ -2587,7 +2587,6 @@ encyclopaedian
 electrodiagnoses
 entrenched
 eximious
-ethylhydrocupreine
 euphausia
 electrobrasser
 entertainable
@@ -9277,6 +9276,7 @@ erratic
 erratically
 enantiomorphic
 elite
+ethylhydrocupreine
 eulogist
 endosmos
 electropism
