@@ -1148,7 +1148,6 @@ followeth
 florulas
 facials
 fiberization
-frumety
 fidelis
 flax
 fatally
@@ -2484,6 +2483,7 @@ faradising
 flashforward
 fumarin
 fastus
+frumety
 fingers
 flerry
 fudging
