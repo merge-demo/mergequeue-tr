@@ -7350,6 +7350,7 @@ enstranged
 epee
 elsin
 epeeist
+ethnology
 embue
 exstipulate
 ephedra
@@ -8108,7 +8109,6 @@ encephalothlipsis
 electrovection
 enbibe
 episarkine
-ethnology
 epiural
 extracalicular
 epididymite
