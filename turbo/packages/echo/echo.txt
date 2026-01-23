@@ -10767,7 +10767,6 @@ englishwoman
 entrapped
 epharmony
 eucharistizing
-establishmentarian
 enemying
 eumenides
 emblema
@@ -11202,6 +11201,7 @@ eophyton
 enactment
 eradiated
 evangeliarium
+establishmentarian
 enalyron
 enforcers
 ethine
