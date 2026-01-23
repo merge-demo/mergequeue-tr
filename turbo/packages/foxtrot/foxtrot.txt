@@ -1821,7 +1821,6 @@ fastener
 fissiparous
 forgets
 furphy
-featured
 fluidify
 featureful
 featurelessness
@@ -2036,6 +2035,7 @@ fascicule
 flaunting
 forfouchten
 feisty
+featured
 farl
 fops
 frothiness
