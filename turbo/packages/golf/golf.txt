@@ -1171,7 +1171,6 @@ groatsworth
 glyptographer
 gasthaus
 gamolepis
-guidingly
 gaslights
 gaon
 gartered
@@ -7180,6 +7179,7 @@ grasshopperdom
 gaditan
 greenthumbed
 geotectonics
+guidingly
 gynecol
 gape
 gorgosaurus
