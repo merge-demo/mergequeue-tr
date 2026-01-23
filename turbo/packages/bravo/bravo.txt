@@ -1069,6 +1069,7 @@ benzothiopyran
 blockhead
 brachycephalization
 brasswork
+burghermaster
 bailiwicks
 bolete
 babyhouse
@@ -10209,7 +10210,6 @@ brakeage
 barrelhouses
 barege
 bewrayingly
-burghermaster
 beatille
 backstone
 basketballs
