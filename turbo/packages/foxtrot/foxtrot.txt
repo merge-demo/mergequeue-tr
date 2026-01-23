@@ -3163,7 +3163,6 @@ fishman
 furanoses
 footballist
 firma
-fauns
 ficaries
 falconiformes
 flouse
@@ -6742,6 +6741,7 @@ flukiest
 falciform
 fass
 founding
+fauns
 fitcher
 fold
 fantasy
