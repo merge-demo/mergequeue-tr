@@ -10422,7 +10422,6 @@ dug
 divider
 diphenylhydantoin
 dogmatic
-diodon
 delace
 disglorify
 disinterring
@@ -17497,6 +17496,7 @@ disorientation
 devoices
 densities
 drubbers
+diodon
 disbody
 drubble
 deletery
