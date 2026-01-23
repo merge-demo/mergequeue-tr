@@ -3147,6 +3147,7 @@ biota
 blamingly
 boccis
 bodyshirt
+balatong
 bifurcates
 basihyal
 biuniquely
@@ -8957,7 +8958,6 @@ bamboos
 bounty
 braider
 bioecologically
-balatong
 bioelectrical
 bioengineering
 basidiomycetes
