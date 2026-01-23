@@ -11162,7 +11162,6 @@ embussed
 embottle
 electragist
 exonuclease
-endospermic
 evaluated
 ecumenicist
 ethereal
@@ -13791,6 +13790,7 @@ enouncement
 elephas
 extolls
 eskimos
+endospermic
 extorters
 embroiling
 endopterygotism
