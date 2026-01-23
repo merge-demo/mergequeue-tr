@@ -5218,7 +5218,6 @@ flavid
 fluctuosity
 foetiferous
 forecastingly
-farley
 farandole
 fidfad
 factum
@@ -6877,6 +6876,7 @@ fleme
 felafel
 fanakalo
 flintwood
+farley
 flosculous
 februaries
 feculence
