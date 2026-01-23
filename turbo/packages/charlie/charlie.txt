@@ -21443,6 +21443,7 @@ caseful
 chapellage
 concoagulate
 congestions
+constabularies
 cannibality
 concoct
 caravan
@@ -23109,7 +23110,6 @@ clysmian
 corymbs
 constablewick
 constabular
-constabularies
 comminute
 coccolithophoridae
 constantan
