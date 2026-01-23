@@ -13128,7 +13128,6 @@ ajar
 aeolsklavier
 amphigony
 anilino
-adoperation
 anilla
 amiss
 amental
@@ -13716,6 +13715,7 @@ anomalist
 aromatite
 anomalistic
 andor
+adoperation
 asiatic
 anomalistical
 anomalocephalus
