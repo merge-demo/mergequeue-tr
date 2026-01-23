@@ -2669,6 +2669,7 @@ ammochaeta
 acreage
 anamirta
 arrythmic
+avocados
 angara
 acreman
 adiadochokinesis
@@ -10409,7 +10410,6 @@ adenochondrosarcoma
 americans
 americanum
 amphicarpa
-avocados
 aliment
 americophobe
 alberttype

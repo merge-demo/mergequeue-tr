@@ -522,7 +522,6 @@ gives
 geoffroyine
 gyrowheel
 gluten
-gliomas
 germproof
 geeldikkop
 groutier
@@ -2873,6 +2872,7 @@ gasmetophytic
 generatrices
 gileadite
 galvvanoscopy
+gliomas
 gumlah
 genuflex
 glyptal
