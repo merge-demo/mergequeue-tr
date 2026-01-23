@@ -18713,6 +18713,7 @@ addlebrain
 autocephality
 archbishopry
 airmail
+astonied
 archbishopric
 acroamata
 archbotcher
@@ -20280,7 +20281,6 @@ ardencies
 arrogant
 arrogated
 alaloi
-astonied
 acanthodii
 adorns
 amateurish
