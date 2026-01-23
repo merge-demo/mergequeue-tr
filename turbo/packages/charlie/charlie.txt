@@ -15014,7 +15014,6 @@ choanoid
 countercondemnation
 cipollino
 circuitable
-compunctive
 civilizable
 civilizationally
 citola
@@ -15710,6 +15709,7 @@ chrysograph
 claviger
 carshops
 coy
+compunctive
 carlisle
 clavipectoral
 chips
