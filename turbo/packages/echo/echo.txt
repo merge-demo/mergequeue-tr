@@ -657,7 +657,6 @@ evilness
 exprobration
 extimulate
 enshrouding
-extracondensed
 electrophysiology
 emaculate
 estheses
@@ -12249,6 +12248,7 @@ encommon
 executrixes
 evolutionarily
 expounding
+extracondensed
 exegesis
 exasperative
 execrated
