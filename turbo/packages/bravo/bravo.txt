@@ -3377,7 +3377,6 @@ bushel
 bottlesful
 byordinary
 basophilic
-bid
 basques
 bass
 brans
@@ -15680,6 +15679,7 @@ broadcast
 broadcaster
 bullyragging
 bonnetieres
+bid
 bromeliaceous
 bacillosis
 bacteriologist
