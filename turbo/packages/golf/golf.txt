@@ -2455,7 +2455,6 @@ gastraeum
 galravage
 ghettoed
 glycocoll
-guitermanite
 geographers
 glacionatant
 gloaming
@@ -3009,6 +3008,7 @@ gibbering
 gentilhomme
 goldenknop
 gorgoniacean
+guitermanite
 gaps
 goatherdess
 guildsmen
