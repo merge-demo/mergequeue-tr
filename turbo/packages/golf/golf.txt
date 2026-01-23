@@ -1024,7 +1024,6 @@ guttle
 glanduliferous
 gully
 geognostic
-geodetician
 ganger
 guesten
 genthite
@@ -9605,6 +9604,7 @@ gatefold
 guisarme
 galvanomagnetic
 goodsire
+geodetician
 gracileness
 goosewinged
 genson
