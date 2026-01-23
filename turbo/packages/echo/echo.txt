@@ -8913,7 +8913,6 @@ euphoria
 expectorators
 entoderms
 ergograph
-epistrophic
 embitter
 ergomaniac
 epipleural
@@ -12619,6 +12618,7 @@ ectethmoid
 enriches
 effectualness
 epigenetically
+epistrophic
 erasmian
 eagless
 effray
