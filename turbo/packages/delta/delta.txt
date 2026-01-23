@@ -2502,6 +2502,7 @@ disaccommodation
 dove
 dodders
 deactivating
+diminutions
 declarations
 decisions
 declarative
@@ -9948,7 +9949,6 @@ diminution
 deeplier
 didactics
 dramaturgist
-diminutions
 deener
 diminutive
 dimiss
