@@ -5626,7 +5626,6 @@ glaringly
 groma
 glyoxal
 glooms
-gokuraku
 goodbye
 gratefuller
 glasses
@@ -5636,6 +5635,7 @@ glorifications
 garefowls
 gentlefolks
 glaciaria
+gokuraku
 granado
 gnatlike
 glissando
