@@ -11745,6 +11745,7 @@ chondrocostal
 chondrocranial
 circuitous
 chondrodystrophy
+coolweed
 chondrodystrophia
 chondroditic
 couthest
@@ -24392,7 +24393,6 @@ cytochemical
 cools
 cardiophrenia
 coolung
-coolweed
 coolwort
 coom
 coomb
