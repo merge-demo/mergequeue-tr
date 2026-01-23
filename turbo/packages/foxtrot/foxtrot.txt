@@ -1733,7 +1733,6 @@ fibrocyte
 flashflood
 feastfully
 finny
-forayers
 frouze
 fu
 felonies
@@ -3273,6 +3272,7 @@ fulgency
 finity
 factitious
 framed
+forayers
 fideicommissaries
 fungus
 flirtling
