@@ -7751,7 +7751,6 @@ anacrotism
 aplustria
 avulses
 amphikaryon
-antiseptical
 aldermanship
 aldermen
 allopolyploidy
@@ -16790,6 +16789,7 @@ aphyric
 alcazar
 annunciators
 acinetina
+antiseptical
 aphlogistic
 archbancs
 alle
