@@ -2077,7 +2077,6 @@ endysis
 eutectics
 edictal
 entraps
-enchainements
 ecphractic
 epi
 eugene
@@ -6552,6 +6551,7 @@ entente
 erythorbate
 ethnohistorian
 epipolism
+enchainements
 enteradenological
 enteral
 ensuant
