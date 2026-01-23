@@ -6033,7 +6033,6 @@ gullishly
 guttiest
 gyttja
 gairfowl
-gnawers
 grinningly
 grane
 gro
@@ -7325,6 +7324,7 @@ galactin
 gymnospermic
 gluon
 gymnolaema
+gnawers
 gougingly
 goldlike
 gratify

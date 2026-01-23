@@ -5414,7 +5414,6 @@ finnip
 fleecy
 flyblown
 forager
-fiendliness
 fashion
 frolickly
 forseek
@@ -7330,6 +7329,7 @@ forby
 formicina
 famelessly
 foreparent
+fiendliness
 faubourg
 forebodingly
 footplate
