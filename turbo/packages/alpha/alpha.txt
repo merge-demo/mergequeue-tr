@@ -2619,7 +2619,6 @@ abacli
 amygdalotomy
 accrescent
 atheist
-agapeic
 allocated
 auxoflore
 abutters
@@ -6662,6 +6661,7 @@ anoterite
 ailuroidea
 ailurophilic
 affirmation
+agapeic
 ailuropoda
 arroya
 abp
