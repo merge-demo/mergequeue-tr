@@ -2974,7 +2974,6 @@ epihydrinic
 elides
 electrotropism
 epistoler
-ekronite
 entomology
 elidible
 etagere
@@ -8302,6 +8301,7 @@ elastase
 einstein
 earthwards
 electropuncturation
+ekronite
 ecumenicality
 electrolyzability
 embryonated
