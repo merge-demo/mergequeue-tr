@@ -4044,6 +4044,7 @@ emendatory
 episporium
 empyemata
 empyemic
+enravish
 empiercement
 enwind
 evirato
@@ -4969,7 +4970,6 @@ egression
 endeictic
 entropium
 expectable
-enravish
 embryotomy
 endellionite
 eucephalous
