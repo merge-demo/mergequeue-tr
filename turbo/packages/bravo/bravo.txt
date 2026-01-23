@@ -6091,6 +6091,7 @@ boarskin
 binauricular
 benchership
 bodge
+bristlelike
 blusters
 benchful
 benchman
@@ -15614,7 +15615,6 @@ born
 bushlet
 bromacetanilide
 barenecked
-bristlelike
 brigander
 beingless
 borer
