@@ -10147,6 +10147,7 @@ diverticulate
 diploblastic
 defogging
 downy
+disinter
 deuteranomal
 dasypaedes
 doater
@@ -12600,7 +12601,6 @@ disintegrators
 dextrer
 disintegrity
 demurrages
-disinter
 diagenetic
 disinterest
 disinterestedly
