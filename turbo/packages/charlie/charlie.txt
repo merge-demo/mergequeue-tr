@@ -6707,6 +6707,7 @@ cohesions
 celebrants
 cerebellipetal
 celebrate
+chevrons
 comiakin
 celebratedly
 celebrater
@@ -15018,7 +15019,6 @@ compunctive
 civilizable
 civilizationally
 citola
-chevrons
 contemns
 civilized
 civilizee
