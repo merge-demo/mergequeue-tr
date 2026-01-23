@@ -3583,6 +3583,7 @@ ectoglia
 electrometallurgist
 embosoming
 euchlaena
+emancipative
 encraal
 embossage
 embossed
@@ -12793,7 +12794,6 @@ explicative
 erotize
 ensembles
 encounterable
-emancipative
 exospore
 endrumpf
 extirpative
