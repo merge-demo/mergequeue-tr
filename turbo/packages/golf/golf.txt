@@ -2957,6 +2957,7 @@ gulph
 gosh
 gastrospasm
 gastroscopic
+ganoblast
 gooseflower
 gunks
 guardingly
@@ -4461,7 +4462,6 @@ gugu
 galtonian
 gypsyfy
 greedsome
-ganoblast
 gunshot
 generically
 gristles
