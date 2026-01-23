@@ -2939,7 +2939,6 @@ epistomal
 egyptian
 etchings
 eelshop
-embank
 effectful
 evaporatively
 erythrasma
@@ -6587,6 +6586,7 @@ equiponderant
 excluding
 echinorhynchus
 esperantidist
+embank
 enseam
 egyptianism
 expulsatory
