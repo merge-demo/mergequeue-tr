@@ -1431,7 +1431,6 @@ gn
 gargle
 gynoeciumcia
 gelatinising
-genitourinary
 gleam
 gats
 garsil
@@ -6895,6 +6894,7 @@ grandeval
 golgotha
 geniohyoglossal
 gonosome
+genitourinary
 goodliness
 grassflower
 geologise
