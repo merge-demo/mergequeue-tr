@@ -12490,6 +12490,7 @@ bondsmen
 bonify
 bruscha
 bdls
+boltings
 burnewin
 betaines
 brawniness
@@ -17268,7 +17269,6 @@ bumboat
 bumclock
 biguttulate
 batling
-boltings
 birddom
 braguette
 brite
