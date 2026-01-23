@@ -389,7 +389,6 @@ furoid
 fearer
 filicauline
 forbid
-fairfieldite
 facets
 faceoff
 fancifully
@@ -11189,6 +11188,7 @@ frenzelite
 forepaling
 flinter
 fullgrownness
+fairfieldite
 frontiersman
 fusobacteria
 foetalization
