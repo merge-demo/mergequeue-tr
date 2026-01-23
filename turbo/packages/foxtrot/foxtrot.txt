@@ -277,7 +277,6 @@ folk
 fotive
 fideist
 flashiest
-flakily
 fourierite
 foreshortening
 ford
@@ -7874,6 +7873,7 @@ foresail
 feuilletonistic
 fasten
 fork
+flakily
 fetticus
 forewarned
 feiseanna
