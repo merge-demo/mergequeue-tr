@@ -14648,6 +14648,7 @@ conforbably
 chayote
 cowbyre
 cyanogenetic
+cribose
 colorimeter
 cystoschisis
 cariole
@@ -28942,7 +28943,6 @@ crocheted
 cholericly
 criticist
 cribellum
-cribose
 cribrate
 cribriform
 cribriformity

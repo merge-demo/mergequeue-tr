@@ -1549,6 +1549,7 @@ atomity
 alacran
 accordancy
 agglutinoid
+amphipoda
 australene
 accordaturas
 acrocarpous
@@ -11301,7 +11302,6 @@ ascicidia
 apili
 ains
 ameen
-amphipoda
 aforesaid
 aggrandizable
 antisocial
