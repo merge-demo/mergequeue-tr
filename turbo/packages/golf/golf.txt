@@ -7671,7 +7671,6 @@ gynostemium
 guildic
 glaringness
 getter
-gynandrophore
 gaspy
 gaw
 gemutlich
@@ -10403,6 +10402,7 @@ guidecraft
 gutturalness
 guttier
 gatecrashers
+gynandrophore
 gadgetries
 gnateater
 gillbird
