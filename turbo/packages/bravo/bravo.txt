@@ -4638,7 +4638,6 @@ bedecked
 bedrid
 bedecking
 beholdingness
-bulletproofed
 broadens
 bedehouse
 broadenings
@@ -9322,6 +9321,7 @@ bipolarity
 bipolarization
 besmear
 bloodlusting
+bulletproofed
 bishopess
 bipotentiality
 bromoiodid
