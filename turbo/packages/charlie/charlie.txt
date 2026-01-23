@@ -11229,6 +11229,7 @@ christiania
 chlorenchyma
 coassistance
 chlorguanide
+codeins
 crisps
 chlorhexidine
 coemperor
@@ -18819,7 +18820,6 @@ crommel
 coly
 chronopher
 clinkered
-codeins
 colichemarde
 colicines
 cenotaphy

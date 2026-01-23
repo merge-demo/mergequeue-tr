@@ -1464,6 +1464,7 @@ filago
 fifish
 fireside
 faubourgs
+frightful
 focussing
 fistulose
 forestial
@@ -3513,7 +3514,6 @@ fyke
 fains
 fresison
 fitweed
-frightful
 foulsome
 filamentary
 flannelleaves
