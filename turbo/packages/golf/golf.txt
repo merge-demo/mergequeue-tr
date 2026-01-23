@@ -421,7 +421,6 @@ glidewort
 gimleted
 galaxes
 gispin
-galaxias
 gastroenteralgia
 gemstones
 gotham
@@ -8508,6 +8507,7 @@ gametophyte
 ginhound
 ganglioblast
 gompholobium
+galaxias
 gyrophoric
 gulden
 grecian
