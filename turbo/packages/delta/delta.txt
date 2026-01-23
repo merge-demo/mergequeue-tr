@@ -6857,7 +6857,6 @@ doughtiness
 dobroes
 dahoons
 dealbation
-desolateness
 deadheading
 desolates
 desolating
@@ -8145,6 +8144,7 @@ darger
 diachronically
 dicranum
 diacid
+desolateness
 detachment
 duellists
 duple
