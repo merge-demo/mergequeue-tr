@@ -7901,6 +7901,7 @@ fervorous
 federalisation
 fopdoodle
 federalness
+feebly
 freeheartedness
 filibustering
 frisket
@@ -10172,7 +10173,6 @@ fastings
 fleishig
 formalism
 flint
-feebly
 farce
 foxchop
 fetologies
