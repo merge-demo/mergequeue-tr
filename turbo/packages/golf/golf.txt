@@ -5184,7 +5184,6 @@ gena
 geogenesis
 grottesco
 geometricism
-gymnanthous
 guiler
 gripsacks
 guttae
@@ -8812,6 +8811,7 @@ gourmandism
 gm
 gunne
 greegrees
+gymnanthous
 gooses
 gastral
 grandparenthood
