@@ -6222,6 +6222,7 @@ benin
 blaws
 balloonist
 brats
+bifurcous
 benisons
 bombay
 benitier
@@ -8524,7 +8525,6 @@ burlington
 bunging
 birminghamize
 bumble
-bifurcous
 boatman
 balsameaceae
 beaches
