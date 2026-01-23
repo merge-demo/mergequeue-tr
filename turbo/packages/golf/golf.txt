@@ -228,7 +228,6 @@ gooks
 gravelstone
 gags
 gonoecium
-guarder
 greatens
 gradefinder
 gratiano
@@ -680,6 +679,7 @@ geopolitician
 gauily
 granam
 germanesque
+guarder
 gideon
 granulomatosis
 goneril
