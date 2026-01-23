@@ -452,6 +452,7 @@ expediteness
 evector
 ecclesia
 enumerable
+enlacing
 ecclesiarchy
 ensnarls
 extoll
@@ -10436,7 +10437,6 @@ endothelium
 etiolated
 etiology
 europeanism
-enlacing
 etiologist
 entocoelic
 emetology
