@@ -1317,6 +1317,7 @@ foreconsent
 feculency
 fulvous
 flear
+formless
 flirtation
 fluoridised
 flookan
@@ -8477,7 +8478,6 @@ fanaticising
 forbearance
 forminate
 forming
-formless
 forwoden
 flunkydom
 fistiana
