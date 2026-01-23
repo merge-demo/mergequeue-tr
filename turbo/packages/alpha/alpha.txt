@@ -1682,7 +1682,6 @@ alkalimeter
 arank
 autecologically
 ambiguously
-aphidid
 acculturation
 acculturize
 anarchoindividualist
@@ -20698,6 +20697,7 @@ arefy
 acetometer
 ayurvedas
 axiolitic
+aphidid
 articulacy
 acumens
 aleuroscope
