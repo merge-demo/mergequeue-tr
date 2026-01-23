@@ -12857,6 +12857,7 @@ destructor
 dam
 dribblets
 democratization
+defensive
 dismasted
 derides
 denned
@@ -14819,7 +14820,6 @@ docs
 doctor
 dumontite
 doctored
-defensive
 deservingly
 doctorfishes
 decomponible
