@@ -4926,6 +4926,7 @@ demotists
 duncedom
 dragontail
 dephosphorize
+dogmatists
 draggled
 diamb
 demountable
@@ -14424,7 +14425,6 @@ divaricator
 divast
 doubtable
 divebomb
-dogmatists
 divellent
 downstage
 dorsoapical
