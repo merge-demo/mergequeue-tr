@@ -6369,6 +6369,7 @@ distenant
 displacency
 desmology
 dillisk
+dustcover
 derotremata
 denization
 dewans
@@ -18595,7 +18596,6 @@ dustbins
 dustcart
 devocalisation
 distance
-dustcover
 diatonicism
 dusters
 desperadoism
