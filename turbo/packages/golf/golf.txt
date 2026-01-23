@@ -4806,6 +4806,7 @@ guideway
 gobiesociform
 gypaetus
 griffinism
+gumma
 gynecidal
 garlicwort
 glades
@@ -10697,7 +10698,6 @@ germanophobic
 geothermal
 gu
 grams
-gumma
 gastrolytic
 gracioso
 goosery
