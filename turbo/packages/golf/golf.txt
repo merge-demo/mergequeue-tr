@@ -9315,6 +9315,7 @@ gamodeme
 genuflect
 gangtide
 geronomite
+galivanting
 glossas
 goldurn
 governability
@@ -10065,7 +10066,6 @@ griseofulvin
 guesdism
 groomish
 gigman
-galivanting
 glore
 gudgeon
 grobianism
