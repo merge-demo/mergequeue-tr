@@ -2563,7 +2563,6 @@ chinol
 castellanship
 candlesticks
 candlewaster
-choledocholithotripsy
 cambial
 crocoisite
 candlewasting
@@ -10985,6 +10984,7 @@ chiropodic
 chiropodical
 caphite
 cavascope
+choledocholithotripsy
 canvaslike
 chiropodistry
 callan
