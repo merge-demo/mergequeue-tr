@@ -13712,7 +13712,6 @@ anomaliped
 afferent
 avatar
 anomalism
-anomalist
 aromatite
 anomalistic
 andor
@@ -24193,6 +24192,7 @@ aguara
 artemia
 antherless
 anteambulate
+anomalist
 autolithograph
 autoinfection
 alnein

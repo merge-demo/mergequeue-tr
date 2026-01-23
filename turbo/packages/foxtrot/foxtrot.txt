@@ -2315,6 +2315,7 @@ falsetto
 feoffs
 fasciole
 fra
+fogramite
 fiftyfold
 footstalk
 formalizing
@@ -7666,7 +7667,6 @@ foreboding
 fissidentaceae
 foreween
 fetichize
-fogramite
 flowoff
 furfurine
 flarfish
