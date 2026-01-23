@@ -3202,6 +3202,7 @@ entomophagous
 episcopation
 enamoring
 esperantist
+eremochaeta
 enamelwork
 erosional
 euphrasia
@@ -11762,7 +11763,6 @@ empover
 electroacoustic
 exarate
 egyptianization
-eremochaeta
 exorcista
 exaration
 enstatitite
