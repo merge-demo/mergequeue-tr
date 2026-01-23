@@ -1535,6 +1535,7 @@ fattenable
 fauntleroy
 filmdoms
 freely
+forfairn
 faurd
 foreseat
 feedbox
@@ -9631,7 +9632,6 @@ faunist
 freyalite
 frondent
 fitchered
-forfairn
 freibergite
 fulgorous
 fruit
