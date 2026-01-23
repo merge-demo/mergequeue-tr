@@ -3717,7 +3717,6 @@ garnierite
 ghoulishly
 grew
 gastrocystis
-gyse
 galvanoplastics
 granaries
 guttur
@@ -9208,6 +9207,7 @@ grandees
 genethlialogic
 goliard
 grisly
+gyse
 glagolitic
 gravigrade
 grahamite
