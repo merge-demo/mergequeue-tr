@@ -8647,6 +8647,7 @@ equimodal
 eunomia
 espantoon
 encirclements
+exship
 enchasten
 erythrogonium
 erineum
@@ -9697,7 +9698,6 @@ existence
 exurbs
 evacue
 esquisse
-exship
 echoed
 eversible
 extima
