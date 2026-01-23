@@ -3011,7 +3011,6 @@ aerogeography
 axemaster
 audiviser
 aphidlion
-actinoelectricity
 actinogonidiate
 antipathist
 amitriptyline
@@ -19217,6 +19216,7 @@ aristotelic
 allotypies
 aetiotropically
 antigay
+actinoelectricity
 ardassine
 acquaintant
 assoiling
