@@ -5269,7 +5269,6 @@ gelatins
 granitical
 graveling
 geometries
-glycerin
 gamelan
 gromil
 glycerite
@@ -6208,6 +6207,7 @@ galactosan
 goatsbeard
 gavotting
 galloway
+glycerin
 glue
 glucosidase
 gonne
