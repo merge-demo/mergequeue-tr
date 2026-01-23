@@ -10399,6 +10399,7 @@ flagmen
 flags
 fitche
 footer
+floramor
 fraggings
 filigree
 flow
@@ -11732,7 +11733,6 @@ floodlilit
 futwa
 fete
 fitzclarence
-floramor
 frights
 fathom
 foliiform
