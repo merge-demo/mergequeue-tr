@@ -3308,7 +3308,6 @@ gunrunner
 genapped
 gingeley
 grr
-gulps
 genoblast
 glottalization
 gyneccia
@@ -6248,6 +6247,7 @@ governessy
 gid
 gradationally
 gobbles
+gulps
 glaucescent
 goolde
 ginzoes
