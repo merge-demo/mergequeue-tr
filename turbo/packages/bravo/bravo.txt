@@ -5993,7 +5993,6 @@ bruises
 bitterbark
 bemean
 biphenyls
-bementite
 bemete
 bimillennia
 busybodies
@@ -12347,6 +12346,7 @@ babaylan
 buckpot
 bombesins
 brightsomeness
+bementite
 beeregar
 brandle
 bantered
