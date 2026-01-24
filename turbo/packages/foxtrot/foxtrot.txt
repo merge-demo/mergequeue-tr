@@ -2579,6 +2579,7 @@ feoffed
 fancily
 ferromanganese
 ferrometer
+foller
 filagreed
 fameflower
 ferronatrite
@@ -9520,7 +9521,6 @@ floreated
 forgone
 factabling
 ferulic
-foller
 frederik
 futilitarian
 filthier
