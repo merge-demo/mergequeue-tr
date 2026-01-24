@@ -4543,7 +4543,6 @@ blennenteritis
 bestrided
 becursed
 babesia
-becurses
 becurst
 basommatophorous
 becushioned
@@ -7630,6 +7629,7 @@ bewitchingness
 blowth
 butlery
 brownprint
+becurses
 bewitchment
 bounderishly
 bewizard
