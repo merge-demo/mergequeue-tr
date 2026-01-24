@@ -6190,7 +6190,6 @@ befinger
 beadhouse
 biliary
 boarishly
-breedbate
 blackleggery
 bedraggles
 beetle
@@ -11952,6 +11951,7 @@ boggier
 bayou
 boggle
 babakoto
+breedbate
 blastemas
 boggler
 blasphemously
