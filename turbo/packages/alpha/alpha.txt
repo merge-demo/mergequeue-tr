@@ -4423,6 +4423,7 @@ asthenias
 agrypnode
 angild
 adumbrative
+anthochlor
 anybodies
 aduncate
 amyraldist
@@ -16288,7 +16289,6 @@ antitypical
 antitypous
 amphigouris
 autoregenerator
-anthochlor
 antitobacconist
 auscultative
 ahura
