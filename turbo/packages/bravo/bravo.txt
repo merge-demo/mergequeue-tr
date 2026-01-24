@@ -3410,6 +3410,7 @@ bioelectrogenesis
 busiest
 broider
 bewall
+belection
 bittor
 boehmenism
 bryophytic
@@ -5659,7 +5660,6 @@ beleaguering
 bongar
 badgeless
 beleapt
-belection
 brining
 burling
 belecture
