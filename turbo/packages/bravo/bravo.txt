@@ -10654,7 +10654,6 @@ bidery
 blawn
 bronchiole
 brigittine
-bajulate
 beardlessness
 blaze
 bursts
@@ -13353,6 +13352,7 @@ batons
 bellicosity
 bunder
 bothnian
+bajulate
 bothnic
 batteled
 bawn
