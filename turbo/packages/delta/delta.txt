@@ -6867,7 +6867,6 @@ darkness
 dryhouse
 didymium
 drunks
-dependents
 dognap
 discolors
 dahabiyeh
@@ -14413,6 +14412,7 @@ debatably
 distributivity
 desectionalize
 dysentery
+dependents
 durian
 dehydrocorydaline
 detainable
