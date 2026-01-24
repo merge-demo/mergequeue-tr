@@ -6210,7 +6210,6 @@ fiji
 forerunnership
 factotums
 farmerish
-felloes
 freewheelers
 farmtown
 fizzles
@@ -6648,6 +6647,7 @@ fibrins
 fruiteress
 flatterable
 flintlock
+felloes
 flexura
 flouts
 feudary
