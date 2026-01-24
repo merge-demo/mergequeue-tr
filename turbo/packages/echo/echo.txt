@@ -2369,6 +2369,7 @@ exhaustable
 empoisonment
 engorged
 exocone
+excudit
 egoistic
 exergonic
 eurytomidae
@@ -13855,7 +13856,6 @@ euplectella
 expos
 euthenics
 elects
-excudit
 elaeothesia
 extraversively
 eyesores
