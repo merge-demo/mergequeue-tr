@@ -753,7 +753,6 @@ ecotipically
 ecotypically
 ecotonal
 enclaved
-ecaudate
 epizootiologic
 echinocaris
 evangelism
@@ -9415,6 +9414,7 @@ endeavor
 eagre
 expection
 electroretinographic
+ecaudate
 enstool
 enantobiosis
 emulgens
