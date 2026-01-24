@@ -5094,6 +5094,7 @@ exited
 endoclinal
 eternals
 endocoelar
+emerse
 eupanorthidae
 ectozoan
 epitomical
@@ -12674,7 +12675,6 @@ emotionless
 extusion
 echo
 erotized
-emerse
 elzevir
 extrapolation
 exomphalos
