@@ -5956,7 +5956,6 @@ dacite
 delimiting
 decohere
 disapprove
-dermatonosus
 derogated
 depthways
 disoccupy
@@ -6310,6 +6309,7 @@ dos
 dgag
 denary
 drassid
+dermatonosus
 dermoneurosis
 decent
 downtrod
