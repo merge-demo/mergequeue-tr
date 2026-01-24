@@ -1028,7 +1028,6 @@ fumidity
 flexuose
 flatlong
 fren
-fumosity
 feverweed
 fretful
 filicornia
@@ -1747,6 +1746,7 @@ feoffors
 forfare
 foreshore
 floriferous
+fumosity
 freedman
 foveal
 feeded
