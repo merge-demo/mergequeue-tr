@@ -8806,6 +8806,7 @@ char
 chocalho
 conveyability
 crouchingly
+coruler
 chara
 charabanc
 compensativeness
@@ -19942,7 +19943,6 @@ commandite
 commandless
 cruentate
 cyp
-coruler
 crepidoma
 commandment
 chronophotographic
