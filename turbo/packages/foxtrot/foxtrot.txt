@@ -4136,7 +4136,6 @@ firebox
 flocculation
 farkleberries
 fellowcraft
-floerkea
 fibrils
 faintness
 foreaccounting
@@ -4989,6 +4988,7 @@ franklin
 folksier
 fathered
 flashtester
+floerkea
 familiarly
 fissive
 filmcard
