@@ -1327,7 +1327,6 @@ fluoridised
 flookan
 flout
 functionality
-frictionally
 fabulize
 fineleaf
 fyttes
@@ -10102,6 +10101,7 @@ foretopman
 fructuary
 footlight
 frithles
+frictionally
 fellowheirship
 forklifts
 fleshment
