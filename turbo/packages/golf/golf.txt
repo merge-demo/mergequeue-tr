@@ -3187,6 +3187,7 @@ glossolabiolaryngeal
 gametoid
 ganglial
 gooier
+geotaxy
 gie
 geologers
 gotiglacial
@@ -8152,7 +8153,6 @@ grapeless
 guillem
 geloscopy
 gossipers
-geotaxy
 groomsmen
 grapeflower
 grapefruit
