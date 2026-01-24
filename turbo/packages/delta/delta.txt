@@ -6940,7 +6940,6 @@ decemvii
 dipleuric
 desertness
 disqualifying
-distills
 demonisms
 disshroud
 despisingly
@@ -10135,6 +10134,7 @@ destriers
 desilicating
 danai
 dusks
+distills
 dislip
 devulgarize
 diluvian
