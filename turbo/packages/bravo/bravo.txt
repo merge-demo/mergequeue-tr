@@ -1038,7 +1038,6 @@ balcony
 burnweed
 bail
 buxeous
-bringer
 barfs
 bailable
 baile
@@ -6773,6 +6772,7 @@ brittles
 bin
 boeotia
 berserks
+bringer
 barnumize
 balize
 berhyme
