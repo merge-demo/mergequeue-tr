@@ -317,7 +317,6 @@ frenchize
 fostell
 finagles
 fibrillated
-finochio
 flusker
 futureness
 fagaceae
@@ -1204,6 +1203,7 @@ fascistization
 foxproof
 fleckled
 fleckiness
+finochio
 figury
 fash
 friborgh
