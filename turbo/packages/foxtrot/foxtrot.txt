@@ -2425,7 +2425,6 @@ freebooty
 fibrously
 foh
 fingu
-frontwise
 foreproduct
 floretty
 fermentable
@@ -7150,6 +7149,7 @@ fele
 fruitions
 footie
 footier
+frontwise
 frore
 flocoon
 formedon
