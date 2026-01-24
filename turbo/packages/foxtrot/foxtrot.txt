@@ -2913,6 +2913,7 @@ furloughs
 fungological
 froths
 fevered
+foliate
 flitchen
 franklinian
 feveret
@@ -6808,7 +6809,6 @@ foliary
 frescoers
 format
 favoringly
-foliate
 favourableness
 facemaking
 friarhood
