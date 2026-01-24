@@ -10309,7 +10309,6 @@ ditton
 diopter
 diopters
 decumary
-delf
 discounter
 dioptometer
 disnature
@@ -13506,6 +13505,7 @@ disquietedness
 demoid
 dippable
 diatomite
+delf
 deappetizing
 disruptive
 disruptor
