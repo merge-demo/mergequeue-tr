@@ -1562,6 +1562,7 @@ faucitis
 faveolus
 forconceit
 factable
+flautino
 fleuronee
 foochow
 freaking
@@ -5197,7 +5198,6 @@ funest
 fraternizes
 formylating
 fictionising
-flautino
 fisherman
 foulmouthedness
 focoids
