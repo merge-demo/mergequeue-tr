@@ -2719,7 +2719,6 @@ borages
 brutalisation
 bogomile
 buoyantly
-bungos
 bienne
 blitum
 betrothals
@@ -4827,6 +4826,7 @@ bigamists
 beautiless
 broadwise
 bartram
+bungos
 branchiurous
 bulchin
 bedtime
