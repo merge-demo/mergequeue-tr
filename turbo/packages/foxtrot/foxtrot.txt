@@ -394,6 +394,7 @@ fancifully
 fairground
 fairy
 foresettle
+fractured
 fructuous
 failings
 factors
@@ -1833,7 +1834,6 @@ figureheadship
 fellahin
 firebreaks
 feudalize
-fractured
 flabellum
 fating
 feedbags
