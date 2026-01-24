@@ -5380,7 +5380,6 @@ existant
 embroidered
 edges
 ethylidene
-evicted
 engorges
 envolupen
 evocatory
@@ -11392,6 +11391,7 @@ evergreens
 extraorbitally
 everydayness
 everyhow
+evicted
 ectethmoidal
 everyman
 everywhen
