@@ -2194,7 +2194,6 @@ epimyocardial
 eths
 ere
 engrosser
-electrovalently
 emphasising
 epanthous
 elderman
@@ -5639,6 +5638,7 @@ epilogation
 enforest
 epacme
 elicitable
+electrovalently
 enform
 ergometric
 enfort
