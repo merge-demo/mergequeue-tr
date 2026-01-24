@@ -9477,7 +9477,6 @@ bookholder
 bulimulidae
 brunoniaceae
 burnetize
-bedirties
 bourride
 birkeniidae
 birkremite
@@ -18176,6 +18175,7 @@ bechern
 belief
 bouche
 butleries
+bedirties
 balilla
 butlerlike
 butlers
