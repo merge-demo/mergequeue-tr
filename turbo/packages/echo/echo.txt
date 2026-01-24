@@ -3036,6 +3036,7 @@ euglandina
 elytrostenosis
 elytrotomy
 emeer
+estheriidae
 echoisms
 eggfish
 elixir
@@ -8530,7 +8531,6 @@ extratorrid
 ethmoiditis
 epiphysis
 elain
-estheriidae
 esoterically
 eupnea
 exsufflicate

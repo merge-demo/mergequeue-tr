@@ -5252,6 +5252,7 @@ glibnesses
 glyceria
 grangerite
 genialize
+geminal
 guardsmen
 guatemala
 gemitores
@@ -10540,7 +10541,6 @@ grilling
 guillemot
 graverobber
 gimpy
-geminal
 gambetta
 guayules
 grandmaster
