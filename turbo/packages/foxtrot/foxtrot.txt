@@ -6465,6 +6465,7 @@ faintish
 frenzied
 floozy
 filmlands
+frontward
 frills
 falter
 facility
@@ -8016,7 +8017,6 @@ foresteep
 flockmaster
 feyest
 flowerist
-frontward
 fellahs
 flash
 firnismalerei
