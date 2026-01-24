@@ -12161,6 +12161,7 @@ anatomicochirurgical
 abortions
 astrodynamic
 arterioverter
+assentator
 acedia
 anatomicopathologic
 arteriofibrosis
@@ -21738,7 +21739,6 @@ assemblyman
 aerohydrotherapy
 antiperistatical
 assentaneous
-assentator
 anilingus
 allanitic
 apoikia
