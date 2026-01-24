@@ -5703,7 +5703,6 @@ grieshuckle
 gyrolite
 gurus
 geologize
-gratia
 gammons
 goldsmithery
 glockenspiel
@@ -10063,6 +10062,7 @@ grabens
 gumshoed
 gonomere
 gorgerin
+gratia
 gigabits
 gibblegable
 gossampine
