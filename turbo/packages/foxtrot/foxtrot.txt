@@ -6140,6 +6140,7 @@ factoress
 fluohydric
 furnacemen
 flowerwork
+footgeld
 flowing
 finnicking
 fascisticization
@@ -10350,7 +10351,6 @@ fidding
 formicaries
 fantoddish
 fibreware
-footgeld
 frontogenesis
 ferrocalcite
 frumenties
