@@ -9530,6 +9530,7 @@ gabblers
 grouze
 glycans
 glume
+gerbe
 gastornithidae
 groved
 greenskeeper
@@ -9572,7 +9573,6 @@ gravelike
 gobbed
 gossiphood
 gujrati
-gerbe
 galley
 glandula
 graphite
