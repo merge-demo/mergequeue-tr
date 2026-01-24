@@ -4943,6 +4943,7 @@ facepiece
 floorages
 flamingant
 foremarch
+forby
 flaminical
 fomenters
 flowcharting
@@ -7324,7 +7325,6 @@ fat
 forbborne
 freshen
 feudalism
-forby
 formicina
 famelessly
 foreparent
