@@ -4837,7 +4837,6 @@ demonographies
 denature
 dramseller
 deactivator
-drupose
 dismality
 dissimilation
 dissecting
@@ -7288,6 +7287,7 @@ determinately
 dirtiness
 drownding
 despondency
+drupose
 denegate
 dessa
 deplaned
