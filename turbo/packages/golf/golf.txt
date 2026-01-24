@@ -1670,7 +1670,6 @@ garlanded
 gibson
 gros
 gastroenteritis
-glycerolysis
 gunrunning
 girting
 gallantry
@@ -3551,6 +3550,7 @@ glowerer
 groper
 greekling
 glumella
+glycerolysis
 gourmandize
 galvanisation
 gausses
