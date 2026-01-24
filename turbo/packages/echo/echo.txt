@@ -9795,7 +9795,6 @@ extracellular
 essoinment
 essorant
 echiuroidea
-engrave
 encouragements
 expenthesis
 electroplate
@@ -12859,6 +12858,7 @@ encircled
 eateries
 endolabyrinthitis
 exoterically
+engrave
 erythremomelalgia
 equity
 episcopal

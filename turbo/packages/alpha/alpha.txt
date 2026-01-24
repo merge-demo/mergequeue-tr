@@ -11283,6 +11283,7 @@ animized
 antired
 amphimorulae
 amphioxi
+ankylosis
 amphioxuses
 assemblymen
 antistalling
@@ -25353,7 +25354,6 @@ acker
 azotemia
 arbiter
 azotemias
-ankylosis
 acinaceous
 azotemic
 amphitheatered
