@@ -1302,6 +1302,7 @@ exumbrellar
 effect
 endocardiac
 exopeptidase
+ecclesiae
 effective
 euryphagous
 epimachinae
@@ -9959,7 +9960,6 @@ evert
 ertebolle
 eschars
 ennew
-ecclesiae
 endorachis
 elk
 estrums
