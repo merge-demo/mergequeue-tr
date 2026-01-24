@@ -381,7 +381,6 @@ franklandite
 from
 fieldfight
 fluorides
-faintly
 fiercen
 ferrymen
 furoid
@@ -11361,6 +11360,7 @@ flustrine
 fuchsin
 forfended
 furmenty
+faintly
 foreassign
 fizzes
 frousier
