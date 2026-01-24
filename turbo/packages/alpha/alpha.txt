@@ -6344,7 +6344,6 @@ asunder
 antisepsin
 aerage
 apolegamic
-anamorphoses
 anacoluttha
 anticlassicism
 arsonium
@@ -10613,6 +10612,7 @@ amygdalin
 antepenuit
 antiderivative
 anachromasis
+anamorphoses
 amygdalinic
 amygdaloid
 abstractedly
