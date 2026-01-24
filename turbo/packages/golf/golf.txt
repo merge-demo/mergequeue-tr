@@ -1854,6 +1854,7 @@ gateposts
 gatewaying
 gawain
 ghibellinism
+gnomide
 gallonage
 gill
 gawkihood
@@ -10631,7 +10632,6 @@ gossipries
 gorebill
 gauntest
 gaylies
-gnomide
 gerontologies
 giganticness
 gargets
