@@ -7200,7 +7200,6 @@ detecters
 decemvirate
 duffels
 digitate
-decertify
 dolorous
 damnified
 detection
@@ -13711,6 +13710,7 @@ demonstrationists
 decentered
 dosimeter
 duecento
+decertify
 disulphuric
 dialkyl
 danegeld
