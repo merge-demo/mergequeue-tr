@@ -11872,7 +11872,6 @@ chordaceae
 chordacentrous
 colonialising
 contend
-chordal
 cosharer
 chordamesodermal
 chordamesodermic
@@ -22010,6 +22009,7 @@ coconsciousness
 confiscate
 countertrend
 crois
+chordal
 chookies
 count
 confiscates
