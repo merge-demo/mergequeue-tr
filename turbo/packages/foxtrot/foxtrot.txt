@@ -6673,7 +6673,6 @@ forecontrive
 fenner
 flingers
 faintheartedly
-frontrunner
 frustrations
 folksily
 flame
@@ -9692,6 +9691,7 @@ fafaronade
 fissionability
 festinate
 footmanry
+frontrunner
 flumerin
 faunch
 facework
