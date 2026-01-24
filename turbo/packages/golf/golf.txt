@@ -393,6 +393,7 @@ galangin
 grond
 golundauze
 gavot
+glunched
 gaoled
 glaive
 glossophagine
@@ -3534,7 +3535,6 @@ gunslinging
 grinded
 geo
 gloats
-glunched
 gymkhana
 grudgery
 ghaffir
