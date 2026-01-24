@@ -577,6 +577,7 @@ filiety
 fussed
 folklorism
 forjudger
+flutey
 falloff
 flamier
 frequentative
@@ -5302,7 +5303,6 @@ ferry
 faitery
 flb
 fantasque
-flutey
 foregather
 fifteen
 feasts
