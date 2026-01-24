@@ -6548,6 +6548,7 @@ frounce
 foamflower
 fikh
 flammulation
+flexile
 firework
 forthcomer
 flatteners
@@ -9702,7 +9703,6 @@ foretaster
 fevery
 ficoideae
 fretworks
-flexile
 flaccidness
 frenchwomen
 frenetical
