@@ -1712,7 +1712,6 @@ forehandsel
 fearsomeness
 foreshape
 feased
-folic
 fumigant
 fingrigo
 forprise
@@ -1985,6 +1984,7 @@ feedstock
 floccosely
 firespout
 forerake
+folic
 fitched
 fortunel
 floative
