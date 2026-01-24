@@ -2939,7 +2939,6 @@ acroterial
 aeons
 ablactation
 acrotism
-analytics
 acrotrophic
 airplay
 aesthetician
@@ -11979,6 +11978,7 @@ archduchies
 attatches
 amalgamize
 anaphylactically
+analytics
 araliaceae
 anaemias
 apostrophal
