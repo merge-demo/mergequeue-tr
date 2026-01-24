@@ -8035,7 +8035,6 @@ chaetopterus
 chrysophlyctis
 chaetosomidae
 compacting
-chaetotactic
 calculus
 chaetura
 chafe
@@ -23450,6 +23449,7 @@ contemporize
 contemptibility
 contemptible
 counterruin
+chaetotactic
 circumstantiability
 contemptibleness
 contemptibly
