@@ -269,6 +269,7 @@ daguerreotyped
 daguerreotyping
 digitonin
 dreadnaught
+drillbit
 docken
 debugged
 diarthroses
@@ -585,7 +586,6 @@ decollate
 dialers
 decolonized
 daunch
-drillbit
 damfool
 digenea
 dodecaheddra
