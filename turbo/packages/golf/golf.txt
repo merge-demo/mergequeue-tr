@@ -5042,7 +5042,6 @@ grasni
 guddler
 glassines
 galloping
-glenlike
 glasslikeness
 goosefoots
 garrya
@@ -5303,6 +5302,7 @@ galactosemia
 gulfier
 glyconic
 grandiloquently
+glenlike
 glycopeptide
 galivant
 gynecomastism
