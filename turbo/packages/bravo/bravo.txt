@@ -8720,7 +8720,6 @@ basibranchial
 besoothes
 booklike
 borborygmies
-barbet
 birring
 bestraddled
 burler
@@ -9160,6 +9159,7 @@ biostatic
 biostatical
 buffleheaded
 bletting
+barbet
 banc
 beefburger
 bhaktas

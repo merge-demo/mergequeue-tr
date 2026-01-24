@@ -6391,7 +6391,6 @@ glossopteris
 glassman
 glossotherium
 gobiesocid
-geostrophic
 gymnocladus
 geegaws
 gentlemanliness
@@ -8874,6 +8873,7 @@ grassland
 gourdful
 ghostliest
 glamorizing
+geostrophic
 grizzle
 gressorial
 grieving
