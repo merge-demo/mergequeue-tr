@@ -1349,7 +1349,6 @@ butterbump
 betwixen
 balconies
 breeziness
-bacule
 baldachin
 bristliest
 bhaiachari
@@ -13638,6 +13637,7 @@ brochan
 bolsons
 brachycephal
 buckras
+bacule
 bhumidar
 bouquetiere
 backsplice

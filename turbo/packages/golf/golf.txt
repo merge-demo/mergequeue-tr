@@ -770,6 +770,7 @@ guahiban
 geometrically
 graywether
 glome
+griffes
 galvanotherapy
 goods
 geomorphic
@@ -1258,7 +1259,6 @@ gradings
 golliwogg
 greasers
 galliardly
-griffes
 guenon
 gapper
 glutinosity
