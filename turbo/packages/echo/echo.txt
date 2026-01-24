@@ -454,7 +454,6 @@ enumerable
 enlacing
 ecclesiarchy
 ensnarls
-extoll
 ecclesiast
 entrada
 empasm
@@ -12838,6 +12837,7 @@ exactor
 eroticization
 emicant
 expansive
+extoll
 exothecal
 emboss
 eccentrics
