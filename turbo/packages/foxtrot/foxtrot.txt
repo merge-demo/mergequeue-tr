@@ -2811,7 +2811,6 @@ flowerets
 feticide
 front
 flossie
-freeways
 fizzy
 fatigating
 fortyfives
@@ -7994,6 +7993,7 @@ ferie
 flashbulb
 forbearances
 federally
+freeways
 fungaceous
 forestal
 funerals
