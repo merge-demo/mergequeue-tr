@@ -4327,7 +4327,6 @@ foraramina
 fylfots
 froppish
 footcloths
-foreacquaint
 fencer
 foreconceive
 forb
@@ -6327,6 +6326,7 @@ fluoran
 fennish
 fluorane
 feuded
+foreacquaint
 francois
 florentium
 fluorboric
