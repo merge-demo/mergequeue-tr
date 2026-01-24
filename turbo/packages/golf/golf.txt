@@ -814,6 +814,7 @@ goldbeater
 gambe
 gourmanderie
 gambeered
+galline
 glauke
 gauk
 grassing
@@ -8565,7 +8566,6 @@ gravity
 germinal
 gradually
 gravitic
-galline
 gretchen
 gurgeons
 griped
