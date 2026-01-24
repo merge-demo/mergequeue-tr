@@ -1430,7 +1430,6 @@ gleam
 gats
 garsil
 gymnasiums
-graviers
 governless
 glumpiest
 gnosticity
@@ -2964,6 +2963,7 @@ gibes
 geminorum
 gastroenterostomy
 geomant
+graviers
 gasaliers
 goluptious
 glutinousness
