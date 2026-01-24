@@ -5888,6 +5888,7 @@ gluepot
 gemitorial
 globuliform
 gaylussacia
+grapline
 giveable
 gluishness
 germy
@@ -8611,7 +8612,6 @@ guti
 glucosin
 gulfed
 gingerleaf
-grapline
 guideposts
 goldfielder
 gaslight
