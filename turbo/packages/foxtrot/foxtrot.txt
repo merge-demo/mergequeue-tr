@@ -851,7 +851,6 @@ forbecause
 fanon
 fronted
 fingermark
-fashioner
 finestill
 fluidizing
 freckened
@@ -6228,6 +6227,7 @@ fanteague
 flota
 fadingly
 fouettee
+fashioner
 fluxer
 forewisdom
 fingerwork
