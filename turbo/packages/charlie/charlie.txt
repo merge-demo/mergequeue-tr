@@ -3032,6 +3032,7 @@ cantoral
 cantoria
 cardsharps
 calabooses
+cantalas
 crystallographic
 cantoris
 cantors
@@ -21484,7 +21485,6 @@ colons
 curliewurly
 cardiophobia
 concordances
-cantalas
 concordancy
 concordant
 carpidium
