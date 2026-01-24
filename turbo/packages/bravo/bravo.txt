@@ -7682,7 +7682,6 @@ bezants
 boba
 bezazzes
 bilk
-becloaking
 boe
 butterflyer
 blackflies
@@ -16328,6 +16327,7 @@ belfries
 bespete
 brugnatellite
 benzoxy
+becloaking
 bluehearted
 broomsquire
 bulimic
