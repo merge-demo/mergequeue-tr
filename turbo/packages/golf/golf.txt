@@ -5776,6 +5776,7 @@ gym
 gadarene
 gloveman
 gumtrees
+glyceraldehyde
 growthy
 glover
 glochines
@@ -10532,7 +10533,6 @@ germinability
 gunjah
 gaucheries
 genisaro
-glyceraldehyde
 gard
 gunk
 girdering
