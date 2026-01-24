@@ -9033,7 +9033,6 @@ dicrotal
 dicrotous
 doto
 dicruridae
-delia
 dehort
 droukit
 diplomatist
@@ -10740,6 +10739,7 @@ disarranged
 disinfects
 dhoon
 decessor
+delia
 dipsie
 declared
 decarboxylize
