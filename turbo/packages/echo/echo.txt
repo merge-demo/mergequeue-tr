@@ -2529,7 +2529,6 @@ extraconstellated
 ethnobotanic
 enounce
 endopterygote
-epiphytal
 emancipators
 enwheeling
 entering
@@ -4559,6 +4558,7 @@ epidiorthosis
 escuela
 enodation
 euphemized
+epiphytal
 eleazar
 enchancement
 empeoplement
