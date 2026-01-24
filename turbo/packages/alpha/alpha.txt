@@ -5881,7 +5881,6 @@ agglomerates
 agglomeration
 agglomerative
 abscissions
-arachnologist
 apical
 agglutinate
 arenaceous
@@ -11373,6 +11372,7 @@ apochae
 amphibian
 autoclasis
 attaste
+arachnologist
 antipeptone
 anticodon
 alloquy
