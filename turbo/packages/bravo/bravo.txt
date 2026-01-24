@@ -6106,6 +6106,7 @@ buttinsky
 ballard
 beamier
 bittering
+boldhearted
 bibliographical
 bendees
 buyout
@@ -12130,7 +12131,6 @@ boldfaced
 blightbird
 boldfacing
 bewitchments
-boldhearted
 beclip
 builder
 beg
