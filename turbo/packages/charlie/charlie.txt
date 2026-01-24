@@ -10018,7 +10018,6 @@ coffles
 cheries
 cosmotron
 coronavirus
-celeries
 condescension
 cherry
 cherryblossom
@@ -11691,6 +11690,7 @@ choltry
 chirrups
 creekstuff
 cholum
+celeries
 clavicor
 cladistic
 choluria
