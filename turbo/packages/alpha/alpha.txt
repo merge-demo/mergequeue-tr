@@ -16683,6 +16683,7 @@ acariatre
 akrteria
 ammonic
 attachment
+asymmetranthous
 apetalous
 armisonant
 adamantean
@@ -21329,7 +21330,6 @@ animalhood
 argentide
 artless
 androdioecious
-asymmetranthous
 antiexporting
 antevenient
 arbitrary
