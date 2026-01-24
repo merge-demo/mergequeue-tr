@@ -8774,7 +8774,6 @@ beagling
 behests
 behinder
 barycentre
-brontozoum
 birchen
 bedrown
 benedight
@@ -9956,6 +9955,7 @@ beggarly
 bitternut
 benzoated
 buhl
+brontozoum
 biotite
 backfall
 berrying
