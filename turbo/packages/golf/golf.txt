@@ -150,6 +150,7 @@ gigantology
 gaelic
 gynostegia
 gs
+glottitis
 gallicole
 guy
 gentisin
@@ -4361,7 +4362,6 @@ gyniatries
 gluhwein
 gambias
 gynaecomorphous
-glottitis
 gowdnook
 grindings
 groundhog
