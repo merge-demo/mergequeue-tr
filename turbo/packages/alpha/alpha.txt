@@ -22431,7 +22431,6 @@ apophyges
 anthropomorphize
 aliments
 astrometeorology
-aforenamed
 apprend
 asterina
 allegorization
@@ -24296,6 +24295,7 @@ aeroporotomy
 auteur
 abacinate
 agreeably
+aforenamed
 achafe
 autophon
 aftertaste
