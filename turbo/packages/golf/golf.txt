@@ -6549,6 +6549,7 @@ graduateship
 gluconeogenetic
 genty
 gallinula
+gelandelaufer
 guesswork
 gonycampsis
 gastrohyperneuria
@@ -10278,7 +10279,6 @@ geoform
 gourmet
 gullage
 guitarist
-gelandelaufer
 gentlewomanish
 gibblegabble
 gastrulating
