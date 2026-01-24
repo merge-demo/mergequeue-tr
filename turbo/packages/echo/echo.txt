@@ -109,7 +109,6 @@ eusteles
 earrings
 eaves
 exsculptate
-equisetaceae
 engobe
 egotistically
 eartab
@@ -1979,6 +1978,7 @@ earthen
 exteriorate
 elastics
 eluviated
+equisetaceae
 eagle
 economizing
 endocystitis
