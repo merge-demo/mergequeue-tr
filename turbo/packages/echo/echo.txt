@@ -9798,6 +9798,7 @@ expenthesis
 electroplate
 estable
 enchalice
+effeminate
 ervils
 establishable
 eddyroot
@@ -14087,7 +14088,6 @@ entwinement
 extremeless
 etymography
 extremeness
-effeminate
 ethnologist
 esteem
 evolutionistically
