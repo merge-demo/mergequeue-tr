@@ -6344,6 +6344,7 @@ buffalofishes
 benzein
 bellyfish
 besnowed
+buphthalmia
 blinks
 benzenediazonium
 bosominess
@@ -10162,7 +10163,6 @@ bilaminate
 bellied
 berbers
 bootleggers
-buphthalmia
 bedells
 bloodguilty
 blackbird
