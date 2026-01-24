@@ -11713,7 +11713,6 @@ discoach
 discoverable
 distilland
 disworth
-dorms
 discoverer
 diabolised
 decancellation
@@ -14800,6 +14799,7 @@ dockhouse
 deringers
 dockyards
 docking
+dorms
 dockization
 dockland
 doublehandedly
