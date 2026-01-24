@@ -2449,6 +2449,7 @@ ghettoed
 glycocoll
 geographers
 glacionatant
+gaps
 gloaming
 gaiting
 goniac
@@ -3003,7 +3004,6 @@ gentilhomme
 goldenknop
 gorgoniacean
 guitermanite
-gaps
 goatherdess
 guildsmen
 geomancy
