@@ -11101,6 +11101,7 @@ dorhawk
 dotless
 dissertator
 disarticulating
+dismarble
 disarticulation
 detruded
 disarticulator
@@ -13433,7 +13434,6 @@ decedents
 disquisitions
 disquisitor
 disquisitional
-dismarble
 deepfreezed
 disform
 diffusion
