@@ -2820,6 +2820,7 @@ acquirer
 acromegaly
 analogs
 antiscience
+akeki
 acromelalgia
 airworthier
 armorproof
@@ -11826,7 +11827,6 @@ apportion
 aslake
 anticephalalgic
 analgias
-akeki
 analgic
 antimalarial
 altocumulus
