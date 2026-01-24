@@ -6778,7 +6778,6 @@ dedicates
 diaconate
 desize
 decompositional
-desklike
 diphrelatic
 dunks
 deskman
@@ -7941,6 +7940,7 @@ dexiotrope
 dyeable
 dishwashing
 dollarbird
+desklike
 diaplex
 dashers
 dextrad
