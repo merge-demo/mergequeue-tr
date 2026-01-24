@@ -6818,6 +6818,7 @@ foozler
 fraudulency
 freemartin
 foreporch
+fiberizer
 fonnish
 folios
 faradizes
@@ -8835,7 +8836,6 @@ franticness
 flowery
 fervorless
 foulder
-fiberizer
 fouled
 fling
 fatiloquent
