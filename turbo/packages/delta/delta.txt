@@ -9977,7 +9977,6 @@ disopinion
 dimoric
 demigoddess
 dotardism
-derv
 disconnectiveness
 dimorph
 dimorphism
@@ -11114,6 +11113,7 @@ disassent
 darin
 disassimilative
 disinherits
+derv
 disassociate
 disassociates
 dimerize
