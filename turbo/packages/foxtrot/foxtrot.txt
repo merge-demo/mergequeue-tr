@@ -6067,7 +6067,6 @@ financially
 flossiness
 ferrer
 frondeur
-fortnights
 fervidity
 formulated
 freighter
@@ -11191,6 +11190,7 @@ flinter
 fullgrownness
 fairfieldite
 frontiersman
+fortnights
 fusobacteria
 foetalization
 fungoes
