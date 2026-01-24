@@ -198,7 +198,6 @@ barat
 beamlike
 berceau
 bargainee
-bacchants
 bismanol
 bridleless
 beguiling
@@ -11665,6 +11664,7 @@ beachboys
 berend
 boxhead
 buchmanite
+bacchants
 boatless
 banjoes
 bewonder

@@ -12381,7 +12381,6 @@ anding
 angiosarcoma
 alternateness
 apophysial
-abruptly
 andirin
 athletic
 anopisthograph
@@ -13300,6 +13299,7 @@ anisodactylic
 advocate
 axilemma
 anisogametes
+abruptly
 algarde
 annueler
 aorticorenal
