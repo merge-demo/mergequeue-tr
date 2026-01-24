@@ -12197,7 +12197,6 @@ algebrization
 anatropal
 antiquers
 ambitiousness
-andesinite
 agremens
 arachnidium
 antilife
@@ -21958,6 +21957,7 @@ anathemata
 apodictical
 aportoise
 anoxias
+andesinite
 anisomyodi
 aeluroidea
 alternat
