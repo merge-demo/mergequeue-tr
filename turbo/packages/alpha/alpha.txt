@@ -8075,6 +8075,7 @@ alrune
 americanist
 airworthy
 acidotic
+amora
 arithmetically
 amphide
 alforja
@@ -8209,7 +8210,6 @@ antarctalia
 alias
 aleutians
 assassins
-amora
 alibied
 ambiverts
 anhemolytic
