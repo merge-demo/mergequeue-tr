@@ -15292,7 +15292,6 @@ corrector
 crissa
 catalyzes
 clancularly
-clandestine
 clandestinely
 clandestineness
 clanfellow
@@ -19767,6 +19766,7 @@ captained
 combwise
 catapulting
 centurion
+clandestine
 castlewards
 ceraunics
 creatines
