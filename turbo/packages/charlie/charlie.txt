@@ -1307,7 +1307,6 @@ calfling
 calfskin
 creatural
 calgary
-caliban
 cunea
 calaverite
 caliber
@@ -31740,6 +31739,7 @@ custodians
 coenurus
 custodianship
 circuited
+caliban
 custodier
 codeina
 custodies
