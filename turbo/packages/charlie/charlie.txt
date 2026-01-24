@@ -5028,6 +5028,7 @@ carvacryl
 catchfly
 competer
 crofterization
+colline
 carvage
 carval
 carve
@@ -19069,7 +19070,6 @@ collimation
 collimator
 convictfishes
 considered
-colline
 collections
 classicistic
 coxy
