@@ -1550,6 +1550,7 @@ agglutinoid
 amphipoda
 australene
 accordaturas
+aggrate
 acrocarpous
 accordingly
 accordionist
@@ -2402,7 +2403,6 @@ acaricidal
 acinic
 aciniform
 anatomicophysiological
-aggrate
 acinus
 actinozoon
 aedes
