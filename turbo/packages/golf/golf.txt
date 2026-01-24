@@ -714,7 +714,6 @@ grossify
 genius
 gooranut
 galvanised
-germanistic
 gawn
 gladdest
 grissen
@@ -10837,6 +10836,7 @@ gyrograph
 guttar
 guaiacum
 grudgefully
+germanistic
 guzul
 genotypical
 glycolylurea
