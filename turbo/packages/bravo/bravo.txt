@@ -3142,7 +3142,6 @@ bespattering
 brothels
 breakouts
 beallach
-biota
 blamingly
 boccis
 bodyshirt
@@ -6138,6 +6137,7 @@ barograph
 bulimoid
 betide
 barquette
+biota
 badaxe
 bolshevizing
 bitolyl

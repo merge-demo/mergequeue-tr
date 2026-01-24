@@ -7004,7 +7004,6 @@ escutellate
 extradialectal
 economising
 electrifies
-erythrochaete
 earphone
 enactory
 embellished
@@ -9283,6 +9282,7 @@ extraclassroom
 etymologist
 erron
 empathies
+erythrochaete
 electrotellurograph
 externalist
 exogamous
