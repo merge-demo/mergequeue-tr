@@ -7398,7 +7398,6 @@ gentianales
 gravecloth
 gastrocolotomy
 gaudery
-guemul
 galen
 gruffiest
 googly
@@ -10833,6 +10832,7 @@ gyrofrequency
 gasteralgia
 genethlialogical
 gyrograph
+guemul
 guttar
 guaiacum
 grudgefully
