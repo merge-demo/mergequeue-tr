@@ -6774,6 +6774,7 @@ ferme
 frontal
 flaccidity
 footbeat
+fundatorial
 forfalt
 faithfuls
 finmark
@@ -9846,7 +9847,6 @@ frouncing
 feminize
 funge
 feria
-fundatorial
 flavanthrone
 fogeys
 forepointer
