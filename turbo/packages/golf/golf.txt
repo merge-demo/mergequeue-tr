@@ -699,7 +699,6 @@ gimmals
 grassworm
 goldney
 genteelness
-gorgonising
 grass
 gals
 galtrap
@@ -5229,6 +5228,7 @@ glenohumeral
 genomes
 grouted
 garnets
+gorgonising
 guitarfish
 gliadine
 galvanism
