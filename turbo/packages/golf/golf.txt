@@ -2541,7 +2541,6 @@ gweduc
 generalistic
 gaudier
 glen
-gumption
 gingle
 grue
 generations
@@ -4912,6 +4911,7 @@ galangal
 grangerizing
 gamdia
 gardens
+gumption
 grenadierly
 guddle
 grondwet
