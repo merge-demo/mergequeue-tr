@@ -4629,7 +4629,6 @@ endoabdominal
 eulogical
 empyreumatical
 ectostosis
-epileptiform
 epithalamiums
 enajim
 exercite
@@ -6821,6 +6820,7 @@ entrepreneuse
 ectocarpales
 electrostatical
 examiningly
+epileptiform
 entomical
 empoisoning
 electroimpulse
