@@ -3865,7 +3865,6 @@ emesa
 emeses
 effigiate
 epalpate
-epauliere
 ethnobotanical
 expectoration
 emesis
@@ -9989,6 +9988,7 @@ enamdar
 entepicondylar
 etape
 escruage
+epauliere
 etapes
 exorhason
 endangers
