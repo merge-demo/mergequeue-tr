@@ -2987,6 +2987,7 @@ banda
 brocatels
 botts
 buat
+bothlike
 burrel
 barroom
 barruly
@@ -18394,7 +18395,6 @@ bogard
 brachials
 brachygrapher
 buzzingly
-bothlike
 bubber
 badian
 buttes
