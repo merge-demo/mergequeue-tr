@@ -7580,6 +7580,7 @@ brainworker
 banagos
 beweeper
 beneficent
+bugfish
 beweeps
 bombazette
 bombilate
@@ -11210,7 +11211,6 @@ brutalised
 bellhanger
 bailee
 bushgoat
-bugfish
 biquadratic
 bloodworthy
 belched
