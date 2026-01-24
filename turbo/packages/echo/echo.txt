@@ -727,7 +727,6 @@ exogyra
 eben
 elegiambus
 economism
-engrossingness
 economized
 elucidated
 esthesises
@@ -11833,6 +11832,7 @@ excandescent
 explemental
 erythrochroic
 endocrinopathy
+engrossingness
 eulogized
 enacts
 equationism
