@@ -2808,6 +2808,7 @@ feticide
 front
 flossie
 fizzy
+ferias
 fatigating
 fortyfives
 flirtingly
@@ -9583,7 +9584,6 @@ forlet
 firetop
 feeders
 falcata
-ferias
 fortalice
 finalities
 flukier
