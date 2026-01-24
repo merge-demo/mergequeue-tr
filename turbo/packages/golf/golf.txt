@@ -4869,7 +4869,6 @@ glairiest
 gladsomest
 globiocephalus
 guapinol
-guardee
 gladwin
 gauffred
 gymnotoka
@@ -7769,6 +7768,7 @@ glacial
 gunung
 grainiest
 gifted
+guardee
 gipseian
 gaucie
 greeny
