@@ -8908,6 +8908,7 @@ fiacre
 frivols
 footle
 feldspath
+freebooting
 feverwort
 filament
 favositoid
@@ -9542,7 +9543,6 @@ fleeciest
 freebooter
 freebootery
 forestiera
-freebooting
 feltwork
 foretopmast
 facete
