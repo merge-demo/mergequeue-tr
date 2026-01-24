@@ -25496,7 +25496,6 @@ coronae
 crepidomata
 craniometer
 cavitates
-coronagraph
 controversionalism
 counter
 confervous
@@ -29707,6 +29706,7 @@ cromme
 cryptoanalytics
 clayweed
 cultirostral
+coronagraph
 crystalitic
 crasis
 conjunct
