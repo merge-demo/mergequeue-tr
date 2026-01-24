@@ -661,6 +661,7 @@ enshrouding
 electrophysiology
 emaculate
 estheses
+eteocreton
 endolymphic
 exudative
 eclipsed
@@ -7965,7 +7966,6 @@ epimysia
 esthesias
 expunger
 enflesh
-eteocreton
 embower
 expander
 epinaos
