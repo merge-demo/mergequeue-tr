@@ -770,7 +770,6 @@ guahiban
 geometrically
 graywether
 glome
-griffes
 galvanotherapy
 goods
 geomorphic
@@ -6988,6 +6987,7 @@ gastronomes
 gowds
 glazier
 glamorizes
+griffes
 grillade
 gerundially
 grindle
