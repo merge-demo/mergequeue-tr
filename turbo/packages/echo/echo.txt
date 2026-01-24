@@ -4224,7 +4224,6 @@ eggeater
 euphotide
 evagination
 extrathecal
-emprizes
 epicycloid
 erubescite
 eduction
@@ -12889,6 +12888,7 @@ explicable
 engrace
 egoism
 endsheet
+emprizes
 excommunicating
 elvish
 eserines

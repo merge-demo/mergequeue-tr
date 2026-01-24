@@ -1425,7 +1425,6 @@ dibbed
 dryster
 dichotomized
 damnit
-dasht
 dawk
 diapering
 dioptrate
@@ -8563,6 +8562,7 @@ divertedly
 denegation
 diaphonies
 disputably
+dasht
 diaphoreses
 diaphoretical
 disarranging
