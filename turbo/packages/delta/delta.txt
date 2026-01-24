@@ -1355,6 +1355,7 @@ drawboard
 drapable
 dauri
 dipterocecidium
+dappledness
 dorter
 dreyfusism
 demobilised
@@ -2696,7 +2697,6 @@ deconvolution
 deconvolve
 desmon
 decor
-dappledness
 decurves
 decorable
 deist
