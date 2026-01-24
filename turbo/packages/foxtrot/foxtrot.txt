@@ -3326,6 +3326,7 @@ fulmined
 fiedlerite
 fifth
 feist
+freakishness
 flooding
 fiel
 falconer
@@ -8933,7 +8934,6 @@ fox
 fears
 fantaddish
 fuster
-freakishness
 fourrier
 flagellates
 foelike
