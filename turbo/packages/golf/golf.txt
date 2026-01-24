@@ -6267,6 +6267,7 @@ griece
 ginglymostomoid
 ganocephalan
 gymnasial
+glossospasm
 guidsire
 gaposis
 gyrons
@@ -6727,7 +6728,6 @@ gamgee
 gratias
 gobbe
 gud
-glossospasm
 gaffsail
 gavyuti
 ganglioside
