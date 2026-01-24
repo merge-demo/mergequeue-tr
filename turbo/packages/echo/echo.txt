@@ -3370,6 +3370,7 @@ eats
 embain
 egglike
 embays
+euergetes
 evangelistic
 ethylenediamine
 extranormal
@@ -10655,7 +10656,6 @@ eudist
 etiam
 eudoxian
 extentions
-euergetes
 epimyth
 embryotrophe
 eunuchs
