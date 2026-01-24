@@ -802,6 +802,7 @@ fluorines
 financing
 flunker
 folkloric
+finalizing
 footworn
 fulmen
 flogging
@@ -2571,7 +2572,6 @@ footrests
 finicalness
 financist
 faultfully
-finalizing
 fidawi
 fibrillation
 fangle
