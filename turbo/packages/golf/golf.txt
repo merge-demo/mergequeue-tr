@@ -4336,7 +4336,6 @@ galaxies
 gliriformia
 gravestead
 globules
-gharries
 gumbotil
 ginglymostoma
 gnathion
@@ -7463,6 +7462,7 @@ gladiatory
 goura
 glyphography
 gonad
+gharries
 gamesmanship
 gymnotidae
 gordon
