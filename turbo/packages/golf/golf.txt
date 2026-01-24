@@ -2734,7 +2734,6 @@ gynophagite
 gliadins
 guillotine
 gunboats
-gaedelian
 grooms
 gentiopicrin
 girths
@@ -4993,6 +4992,7 @@ gamekeepers
 glariness
 gregarinae
 gatch
+gaedelian
 grutched
 gleaners
 guards
