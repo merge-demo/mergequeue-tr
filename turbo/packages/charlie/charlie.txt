@@ -2425,7 +2425,6 @@ cambeva
 corroborators
 convenes
 chetive
-chastize
 cancerigenic
 catechol
 cancerism
@@ -2540,6 +2539,7 @@ candlemaker
 candlemaking
 candlemas
 crewel
+chastize
 childproof
 cacqueteuse
 candlenut
