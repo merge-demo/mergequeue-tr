@@ -8,7 +8,6 @@ blepharosyndesmitis
 braille
 blackland
 baalim
-baalize
 backlogs
 baals
 browning
@@ -15338,6 +15337,7 @@ bluffers
 bordarius
 bardolph
 bursa
+baalize
 batrachidae
 bridgetin
 brailled
