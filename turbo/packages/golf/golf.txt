@@ -5986,6 +5986,7 @@ gnarls
 gaidropsaridae
 gravelweed
 geminative
+gratuitant
 guard
 gingerly
 goodwilly
@@ -8426,7 +8427,6 @@ gentisic
 goldbricks
 glaciarium
 goonch
-gratuitant
 glossograph
 grenatite
 guaguanche
