@@ -7765,6 +7765,7 @@ devisor
 decrier
 dowie
 devitalizes
+decime
 drawler
 dribblers
 ductilizing
@@ -8738,7 +8739,6 @@ dot
 debadge
 diaporesis
 demimonk
-decime
 distastefully
 dentalgia
 demythologisation
