@@ -6422,7 +6422,6 @@ flurn
 flurried
 futhorks
 fernbird
-furiosa
 ferried
 fumagine
 fouquieriaceous
@@ -9197,6 +9196,7 @@ forkless
 feretra
 forfend
 fraise
+furiosa
 fibrinopurulent
 fettling
 fraised
