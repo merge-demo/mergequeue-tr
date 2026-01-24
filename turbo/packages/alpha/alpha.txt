@@ -6959,6 +6959,7 @@ alumnae
 assisters
 ancone
 airts
+armistices
 aquila
 aitutakian
 algerine
@@ -19907,7 +19908,6 @@ arminianizer
 armipotence
 analeptical
 armistice
-armistices
 atresia
 adelantados
 avenaceous
