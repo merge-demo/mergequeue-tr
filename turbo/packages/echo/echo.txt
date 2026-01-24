@@ -1618,7 +1618,6 @@ extraphysiological
 expounded
 egret
 exsanguine
-egromancy
 exportation
 emptiness
 egurgitate
@@ -8083,6 +8082,7 @@ essoign
 emotional
 exceptive
 empowerment
+egromancy
 equicrural
 electrooculogram
 exosporium
