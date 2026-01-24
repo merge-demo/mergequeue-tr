@@ -14216,6 +14216,7 @@ balladise
 bleu
 bluebottles
 boutiques
+brighid
 blowup
 barouchette
 bloodstroke
@@ -15409,7 +15410,6 @@ blackfish
 bombe
 baronetcy
 benzylidene
-brighid
 bannerlike
 brighten
 becket
