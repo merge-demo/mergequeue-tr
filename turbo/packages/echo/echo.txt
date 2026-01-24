@@ -2605,7 +2605,6 @@ elysian
 electropathy
 electropathology
 electrophysiological
-eunectes
 electrocutioner
 ebulus
 exportability
@@ -7502,6 +7501,7 @@ externate
 encyc
 elevato
 elytrigerous
+eunectes
 epiblasts
 englishhood
 exemplifiers
