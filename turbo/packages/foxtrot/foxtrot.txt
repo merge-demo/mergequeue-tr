@@ -5370,6 +5370,7 @@ fleche
 folliculate
 flechettes
 flecked
+fleckiest
 forkhead
 fleckering
 franco
@@ -5675,7 +5676,6 @@ forkmen
 federalizing
 foreknowable
 functionize
-fleckiest
 forfeitures
 fungitoxicity
 fubsiest
