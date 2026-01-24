@@ -3958,7 +3958,6 @@ batrachospermum
 barbeiro
 beaminess
 brocatel
-barhal
 bastardizations
 borborygm
 beachcombers
@@ -6605,6 +6604,7 @@ berets
 bleb
 berewick
 biunity
+barhal
 banquettes
 bergall
 bergamasche
