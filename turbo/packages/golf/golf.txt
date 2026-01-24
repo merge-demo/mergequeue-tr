@@ -1533,6 +1533,7 @@ garmentmaker
 gurt
 granddaughters
 guara
+glathsheimr
 graecomania
 gazump
 grimgribber
@@ -5076,7 +5077,6 @@ grenadine
 goldeneye
 greesagh
 gte
-glathsheimr
 ginnel
 gourmander
 geyan
