@@ -8845,7 +8845,6 @@ entophytic
 equiprobabilist
 eternities
 egyptologic
-enjeopardy
 encrypt
 emptive
 euonymin
@@ -13141,6 +13140,7 @@ evolved
 enzymic
 extradicted
 equipendent
+enjeopardy
 exfodiate
 enunciators
 eternality

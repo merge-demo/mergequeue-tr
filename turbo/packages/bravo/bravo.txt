@@ -3138,7 +3138,6 @@ boswellize
 basella
 basellaceae
 bespattering
-brothels
 breakouts
 beallach
 blamingly
@@ -13078,6 +13077,7 @@ brewers
 bowlmaker
 branders
 bedusk
+brothels
 belfry
 boresight
 beblubber
