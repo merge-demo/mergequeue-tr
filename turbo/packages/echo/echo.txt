@@ -1680,7 +1680,6 @@ electromotograph
 entarthrotic
 eyeberry
 ethnohistorical
-envassal
 essentialist
 electrothermancy
 ellan
@@ -2403,6 +2402,7 @@ embiid
 epepophysis
 epigastric
 eyeflap
+envassal
 edda
 excusively
 epipetalous
