@@ -9100,7 +9100,6 @@ cloamer
 charshaf
 charsingha
 container
-curialities
 chartable
 charter
 charterer
@@ -27067,6 +27066,7 @@ counterreckoning
 counterrefer
 congoni
 coccule
+curialities
 counterreflected
 counterremonstrant
 counterreplied
