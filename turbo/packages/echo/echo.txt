@@ -10638,7 +10638,6 @@ enfacement
 enhearten
 eudemonics
 endoappendicitis
-equivalencies
 epinephrine
 empurpling
 excamber
@@ -12316,6 +12315,7 @@ earthlings
 ethic
 enhydrous
 etymologicon
+equivalencies
 exercitation
 elecampane
 effortless
