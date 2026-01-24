@@ -1698,7 +1698,6 @@ accumulating
 anthracomartian
 agony
 agrestis
-artiest
 accumulation
 aetat
 accumulativ
@@ -5138,6 +5137,7 @@ antidoting
 aphoria
 anamorphism
 aetomorphae
+artiest
 almohade
 amphierotism
 aeviternal
