@@ -4231,7 +4231,6 @@ cenoby
 croceous
 chloroplatinic
 careerers
-carefreeness
 careful
 ceilidh
 carefull
@@ -28038,6 +28037,7 @@ chemosynthetically
 chiefage
 crambos
 crambus
+carefreeness
 cramel
 corsie
 crammed
