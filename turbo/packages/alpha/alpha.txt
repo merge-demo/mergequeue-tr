@@ -974,7 +974,6 @@ abstains
 antiserum
 assis
 atlantomastoid
-astron
 abstemiousness
 abstentionism
 anaptyctical
@@ -23382,6 +23381,7 @@ acclimatisable
 audiles
 anility
 artophorion
+astron
 auding
 autohypnosis
 audiology
