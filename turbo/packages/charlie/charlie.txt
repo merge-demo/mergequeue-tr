@@ -78,7 +78,6 @@ cabbala
 comprises
 cabbalahs
 cabbalas
-carthorse
 cabbalist
 currie
 cosmolatry
@@ -18951,6 +18950,7 @@ collaterals
 canzone
 cohobating
 corved
+carthorse
 cham
 collates
 collation
