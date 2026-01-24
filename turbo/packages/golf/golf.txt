@@ -2056,7 +2056,6 @@ guideboard
 gunbuilder
 gallicolous
 gutlessness
-glutted
 grotto
 gavots
 gazetteership
@@ -4998,6 +4997,7 @@ gaedown
 gandhara
 gladliest
 gazeless
+glutted
 glycogen
 gerefa
 goosish
