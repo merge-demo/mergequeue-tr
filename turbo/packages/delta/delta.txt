@@ -8327,6 +8327,7 @@ dargue
 disruptable
 dioestrum
 disincline
+dipneusti
 duchies
 dialed
 depredation
@@ -9667,7 +9668,6 @@ dikdik
 deliquesces
 defamatory
 doorcase
-dipneusti
 dispense
 daphnias
 ditting
