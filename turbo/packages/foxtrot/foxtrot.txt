@@ -1492,7 +1492,6 @@ folkish
 floatability
 fungillus
 faucre
-faultiest
 fishmeal
 fairgoer
 fila
@@ -10640,6 +10639,7 @@ fictitious
 femininity
 freezingly
 friandise
+faultiest
 fruitbearing
 familiarization
 foremark
