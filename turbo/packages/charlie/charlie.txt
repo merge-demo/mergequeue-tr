@@ -291,7 +291,6 @@ caci
 cacicus
 camote
 carangin
-cacidrosis
 costicervical
 coreopsis
 cacimbo
@@ -22009,6 +22008,7 @@ confirms
 ceraunite
 confiscatable
 cynebot
+cacidrosis
 coconsciousness
 confiscate
 countertrend
