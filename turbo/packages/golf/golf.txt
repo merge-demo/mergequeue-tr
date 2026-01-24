@@ -1391,7 +1391,6 @@ germanize
 grecize
 gaits
 ganyie
-gallotannin
 gasified
 gausterer
 gearshift
@@ -8663,6 +8662,7 @@ glean
 goiabada
 gismondite
 gutterling
+gallotannin
 glacification
 germanious
 galactophygous

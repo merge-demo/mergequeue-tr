@@ -2174,7 +2174,6 @@ frags
 farmhouse
 felts
 fishworker
-feltwort
 fastidiosity
 felwort
 fathearted
@@ -6869,6 +6868,7 @@ fruity
 fifes
 fleme
 felafel
+feltwort
 fanakalo
 flintwood
 farley
