@@ -1720,7 +1720,6 @@ flourless
 foodservices
 finestiller
 faviform
-feasibly
 fashionmonger
 flighted
 fascio
@@ -6235,6 +6234,7 @@ frisian
 fluidist
 ferroconcrete
 firers
+feasibly
 flared
 fissiparation
 fortissimos
