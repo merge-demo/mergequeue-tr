@@ -823,7 +823,6 @@ glucosane
 ghurry
 gastrocolic
 grazeable
-goldenrods
 gyppo
 gletty
 galoots
@@ -2563,6 +2562,7 @@ galenites
 grosses
 gaiterless
 giveaways
+goldenrods
 generalized
 graywall
 guv
