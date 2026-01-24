@@ -2324,6 +2324,7 @@ downwash
 diazoaminobenzene
 deceptive
 deceptively
+degentilize
 dermatologic
 disloign
 deceptiveness
@@ -7859,7 +7860,6 @@ diplogenic
 diffluent
 dogbodies
 dew
-degentilize
 diatoric
 depress
 defrayals

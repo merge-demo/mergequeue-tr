@@ -5996,7 +5996,6 @@ filarious
 fresco
 fermorite
 flightiness
-finger
 fontange
 forgab
 frontooccipital
@@ -7421,6 +7420,7 @@ fossick
 feminine
 frumpier
 filipendulous
+finger
 funditores
 fantasists
 fumeuse
