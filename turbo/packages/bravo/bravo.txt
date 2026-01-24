@@ -6942,6 +6942,7 @@ beshrews
 bebrine
 beshroud
 brachiostrophosis
+barrooms
 bigmitt
 borlase
 bundook
@@ -11143,7 +11144,6 @@ blockship
 blodite
 besmeared
 breakfasts
-barrooms
 buoyance
 blazes
 bodikin

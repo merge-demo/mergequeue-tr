@@ -3628,7 +3628,6 @@ gaffkya
 grisliness
 ghettoizing
 glaver
-ghi
 gallegan
 gamomania
 ghibli
@@ -9408,6 +9407,7 @@ ghastfully
 geminally
 gitksan
 goldtit
+ghi
 guanabano
 glorify
 gouramis
