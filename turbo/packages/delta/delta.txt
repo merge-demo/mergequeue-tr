@@ -3671,7 +3671,6 @@ dissonant
 disorganising
 desuetude
 disburdening
-demicylindrical
 dehydrate
 dermoneural
 dehydrator
@@ -8035,6 +8034,7 @@ dumpies
 dharmic
 dharnas
 dozening
+demicylindrical
 dhaura
 drapes
 dialleli

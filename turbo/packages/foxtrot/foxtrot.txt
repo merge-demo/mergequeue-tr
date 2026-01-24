@@ -4002,6 +4002,7 @@ frettiest
 feudalise
 fingram
 fossilisable
+fiaunt
 feds
 finical
 fluxibly
@@ -10311,7 +10312,6 @@ francia
 foss
 footcandles
 forewarning
-fiaunt
 fraenula
 floodlighted
 fluoridized
