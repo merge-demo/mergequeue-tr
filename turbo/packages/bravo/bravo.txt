@@ -9190,7 +9190,6 @@ beguilingness
 booklouse
 bruted
 banksides
-biotins
 basics
 beefhead
 biogeographer
@@ -17983,6 +17982,7 @@ blobbiest
 bothriolepis
 busily
 blastophthoria
+biotins
 beguiler
 beadeyes
 babbool
