@@ -5181,6 +5181,7 @@ dauerlauf
 dampens
 denotativeness
 denotatum
+difficultly
 deacidifying
 denotes
 docetistic
@@ -7038,7 +7039,6 @@ devall
 doodad
 destabilization
 doolie
-difficultly
 destabilize
 ducting
 dothideacea
