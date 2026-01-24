@@ -12583,6 +12583,7 @@ demyship
 disinhume
 djagatay
 dorsoventral
+dvandva
 disinsure
 dotonidae
 diamonding
@@ -12673,7 +12674,6 @@ diskette
 discernibleness
 diskindness
 diskography
-dvandva
 dextrorse
 doleful
 divining
