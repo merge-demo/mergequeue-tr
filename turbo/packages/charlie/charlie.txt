@@ -12242,7 +12242,6 @@ cinel
 chrissie
 cecotomy
 christadelphian
-chumulu
 cabrito
 chirimoyer
 carrytale
@@ -18825,6 +18824,7 @@ colicroot
 colicwort
 cranial
 chiaroscurist
+chumulu
 cervelliere
 colies
 chapt
