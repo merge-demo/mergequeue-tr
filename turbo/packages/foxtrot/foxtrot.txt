@@ -3908,6 +3908,7 @@ formature
 fischerite
 forebrain
 firmamental
+functionally
 fraple
 french
 ferrocyanogen
@@ -10863,7 +10864,6 @@ frousy
 fabledom
 fulgidity
 flaite
-functionally
 fantasizing
 footholds
 fallings
