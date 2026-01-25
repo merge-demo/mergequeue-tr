@@ -7315,7 +7315,6 @@ flourishy
 formularised
 foraminose
 foraminulate
-fought
 flabbily
 france
 foraneen
@@ -9701,6 +9700,7 @@ facework
 fluviograph
 flabs
 forestick
+fought
 flycaster
 fanworts
 fuchsins
