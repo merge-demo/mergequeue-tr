@@ -23208,6 +23208,7 @@ atticisms
 atticist
 apollonicon
 atticomastoid
+antidictionary
 amandin
 apiculture
 attila
@@ -23440,7 +23441,6 @@ aufgabe
 accentuation
 anguishous
 auftakt
-antidictionary
 apomict
 augend
 adversity
