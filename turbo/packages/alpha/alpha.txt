@@ -10302,7 +10302,6 @@ animality
 abessive
 amellus
 anthozooid
-amelus
 alumine
 amen
 agathosma
@@ -16349,6 +16348,7 @@ antiurease
 acetazolamide
 autotrepanation
 anatexis
+amelus
 anemometrograph
 amalgamated
 anachronical
