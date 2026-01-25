@@ -434,7 +434,6 @@ enemyship
 extraembryonal
 emmer
 eftsoons
-endarteritis
 ecchondroma
 equivoke
 exurbia
@@ -6694,6 +6693,7 @@ epitaphic
 endamebiasis
 entertainingly
 electrophysics
+endarteritis
 entertainment
 endosepsis
 echimys
