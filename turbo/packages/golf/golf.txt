@@ -6056,7 +6056,6 @@ gnaws
 gramineous
 gneiss
 glengarries
-gullibly
 gerontoxon
 gryphosaurus
 gnessic
@@ -10344,6 +10343,7 @@ geum
 goadlike
 gallivorous
 glaur
+gullibly
 grouseberry
 gelate
 gynic
