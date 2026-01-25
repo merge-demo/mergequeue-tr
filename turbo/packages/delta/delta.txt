@@ -3207,7 +3207,6 @@ demimondaine
 dissentient
 distrainor
 defendant
-dir
 decorativeness
 defenestrating
 danae
@@ -12816,6 +12815,7 @@ doubty
 dismail
 democratising
 dismal
+dir
 dialogs
 dorsomedian
 decreptitude
