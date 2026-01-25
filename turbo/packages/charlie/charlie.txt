@@ -1454,6 +1454,7 @@ calyptoblastic
 criticize
 calyptorhynchus
 calyptraea
+comminate
 cradleman
 calyptranthes
 compresbyter
@@ -4953,7 +4954,6 @@ cartmaking
 cartobibliography
 columbia
 cartogram
-comminate
 cartography
 cypseli
 cartographic
