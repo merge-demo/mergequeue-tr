@@ -165,7 +165,6 @@ echidna
 engelmanni
 exacts
 ejidal
-enchantingness
 eugenetic
 ergogram
 exploration
@@ -1234,6 +1233,7 @@ epicures
 emanate
 enjoyable
 enroot
+enchantingness
 efficiently
 earthshock
 ethylidyne
