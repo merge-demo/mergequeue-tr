@@ -1920,6 +1920,7 @@ bandoleers
 bivalent
 birny
 blowers
+bitmap
 bandolerismo
 buckayros
 bandoleros
@@ -9898,7 +9899,6 @@ bityite
 botcher
 burnsian
 banderols
-bitmap
 buccaneering
 blimp
 bimbos
