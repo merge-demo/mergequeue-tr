@@ -4227,6 +4227,7 @@ frangipanni
 floridians
 fusarium
 flaxbird
+fleet
 fax
 foreignize
 feverish
@@ -10440,7 +10441,6 @@ forestian
 frontsman
 fluxional
 frontspieces
-fleet
 fwd
 fisted
 feeblish
