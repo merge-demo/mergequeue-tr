@@ -5571,7 +5571,6 @@ gosport
 groundwall
 goldseed
 grisping
-gnomonologically
 graptolithida
 glochid
 geranial
@@ -7304,6 +7303,7 @@ gospels
 greatcoats
 gildship
 gossard
+gnomonologically
 greyflies
 gonfalonier
 glumpiness
