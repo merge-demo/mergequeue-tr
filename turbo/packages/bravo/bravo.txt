@@ -4442,6 +4442,7 @@ bludging
 beclogs
 bonspells
 beclothe
+bestialised
 banting
 bonasus
 bhili
@@ -7189,7 +7190,6 @@ berylliosis
 bestench
 bearberry
 bestialized
-bestialised
 be
 brannigan
 bellbirds
