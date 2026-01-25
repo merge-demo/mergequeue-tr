@@ -258,7 +258,6 @@ faders
 firedamp
 fadge
 furfuramide
-flaxlike
 furniment
 fermery
 frau
@@ -6759,6 +6758,7 @@ foldaway
 feretory
 ferryman
 footwall
+flaxlike
 fourpenny
 flaunts
 forethink
