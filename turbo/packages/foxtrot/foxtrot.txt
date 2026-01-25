@@ -5970,6 +5970,7 @@ feldsher
 fez
 floorwise
 fernland
+footlog
 fusty
 foolscaps
 felspars
@@ -8702,7 +8703,6 @@ fole
 forlie
 foredecks
 flocculator
-footlog
 fellatee
 faultsman
 finchery
