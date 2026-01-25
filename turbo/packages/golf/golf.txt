@@ -1620,7 +1620,6 @@ grists
 grants
 galimatias
 gamobium
-glossophytia
 gastroxynsis
 gourdy
 gunnera
@@ -5680,6 +5679,7 @@ ganglioneuron
 gestning
 gelts
 glycoluril
+glossophytia
 guardeen
 guttule
 ghillies
