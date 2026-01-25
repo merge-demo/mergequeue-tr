@@ -1425,7 +1425,6 @@ gemologists
 gn
 gargle
 gynoeciumcia
-gelatinising
 gleam
 gats
 garsil
@@ -8464,6 +8463,7 @@ grivets
 glaze
 glands
 golfing
+gelatinising
 graveclod
 gonfalon
 genl
