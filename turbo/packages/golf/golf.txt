@@ -1504,6 +1504,7 @@ glandless
 gorlin
 gregarinidal
 grisounite
+gestureless
 grote
 gasman
 guilty
@@ -7619,7 +7620,6 @@ guardianless
 geomantic
 gradated
 gatecrasher
-gestureless
 gleaminess
 gusher
 geospiza
