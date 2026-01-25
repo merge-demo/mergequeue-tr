@@ -2626,6 +2626,7 @@ familiarisation
 fundable
 forcipulata
 farmyardy
+fraternality
 fabric
 falanaka
 fluocerite
@@ -9560,7 +9561,6 @@ fizzed
 friableness
 fusteric
 frizzing
-fraternality
 fortifications
 fivestones
 ferrotyper
