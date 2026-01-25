@@ -2118,7 +2118,6 @@ gazabo
 guarantors
 galidia
 ganodus
-gormaw
 guarabu
 gazebo
 gazeboes
@@ -2142,6 +2141,7 @@ gynocratic
 ganglands
 guillermo
 gazette
+gormaw
 ginnet
 gumshoing
 gymnolaematous
