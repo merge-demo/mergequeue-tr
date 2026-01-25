@@ -5436,6 +5436,7 @@ beachward
 bulletmaking
 blubbery
 boardmanship
+bookshops
 boldo
 boatable
 becudgelling
@@ -11790,7 +11791,6 @@ billingsgate
 buckwheat
 bouquets
 bocasin
-bookshops
 boccarella
 bodings
 boccaro
