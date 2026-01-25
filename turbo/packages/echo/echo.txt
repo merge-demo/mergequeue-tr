@@ -8428,6 +8428,7 @@ equip
 enjoyment
 eglogue
 endothecate
+eradiates
 encephalomere
 epizootology
 estensible
@@ -9749,7 +9750,6 @@ eomecon
 eastlings
 entotrophi
 entitles
-eradiates
 enodal
 epitomisation
 equisonance
