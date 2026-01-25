@@ -211,6 +211,7 @@ fordoing
 fallout
 faire
 flatway
+finbone
 facular
 fruitworm
 frondlet
@@ -8803,7 +8804,6 @@ fload
 firmest
 fettstein
 fieldwork
-finbone
 fossorious
 fossulae
 flatfishes
