@@ -7340,6 +7340,7 @@ culminates
 crepuscle
 cephalology
 cephalom
+catalogic
 coquettishness
 cephalomant
 catlin
@@ -9902,7 +9903,6 @@ clays
 calentural
 calic
 cameograph
-catalogic
 chronobiology
 chemosphere
 collateral
