@@ -7469,7 +7469,6 @@ acknowing
 albrecht
 allonge
 albricias
-arable
 achromic
 agma
 anchoress
@@ -22609,6 +22608,7 @@ athanasian
 athanasianism
 athanasianist
 aplustra
+arable
 aluminizing
 athanasies
 antisialagogue
