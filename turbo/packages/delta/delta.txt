@@ -3250,7 +3250,6 @@ doublethought
 dominie
 departs
 defibrillated
-dalles
 doty
 deteriority
 dragoons
@@ -18647,6 +18646,7 @@ disalignment
 decury
 definiteness
 disjects
+dalles
 disforest
 drowsily
 disubstitution
