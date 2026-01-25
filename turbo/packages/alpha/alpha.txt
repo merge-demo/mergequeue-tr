@@ -1929,6 +1929,7 @@ acetylglycin
 apologetical
 argyria
 acetylhydrazine
+algetic
 anacardiaceous
 attentional
 aotus
@@ -8906,7 +8907,6 @@ amidogen
 allodiality
 asherim
 amphistomoid
-algetic
 apiaries
 alloeostropha
 areason
