@@ -8971,7 +8971,6 @@ glander
 golgothas
 grating
 gushers
-gigant
 greenbelt
 guiltier
 griffaun
@@ -9823,6 +9822,7 @@ gospellike
 gnathopoda
 grousers
 graphiological
+gigant
 gorillas
 geckotidae
 grands
