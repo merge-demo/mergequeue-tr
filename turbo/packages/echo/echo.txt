@@ -2942,6 +2942,7 @@ embarrassments
 eyewinks
 elicitation
 elicitor
+endoscope
 equivalvular
 enricher
 exploiters
@@ -5303,7 +5304,6 @@ eurybathic
 eucopepoda
 endogamy
 excudate
-endoscope
 endoscopes
 equivocalities
 eradicators
