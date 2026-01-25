@@ -6537,7 +6537,6 @@ grabblers
 gesture
 gambeson
 grummets
-girons
 gimmerpet
 groyne
 ghostwrite
@@ -7193,6 +7192,7 @@ gymnocarpous
 gizzen
 galahad
 gonoblastidial
+girons
 grabbler
 globulose
 gallanted
