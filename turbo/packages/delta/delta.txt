@@ -3494,6 +3494,7 @@ dandily
 downfold
 dharmakaya
 deuterostomata
+dishorn
 deforse
 diplomatic
 dinitrotoluene
@@ -12435,7 +12436,6 @@ debilitative
 dishonors
 decerned
 desulfurate
-dishorn
 discontinue
 dislocable
 diastematic

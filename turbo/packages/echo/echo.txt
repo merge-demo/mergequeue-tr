@@ -7616,7 +7616,6 @@ epicoelous
 epicondyle
 excysted
 epicondylian
-exspuition
 engraulidae
 exintine
 eupatory
@@ -11613,6 +11612,7 @@ emollition
 exacerbates
 empaneled
 enhances
+exspuition
 enforcibility
 electrolytes
 embordering
