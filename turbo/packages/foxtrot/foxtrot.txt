@@ -5605,7 +5605,6 @@ florescent
 flightier
 facund
 foetor
-fernery
 forepassed
 fireboot
 flyless
@@ -6679,6 +6678,7 @@ folksily
 flame
 felted
 fogless
+fernery
 frounced
 frescoists
 fighters

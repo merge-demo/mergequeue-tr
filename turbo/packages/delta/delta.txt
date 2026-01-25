@@ -4611,7 +4611,6 @@ demystify
 deus
 demystification
 demurring
-dismantle
 demisuit
 dumminess
 dithyrambos
@@ -7826,6 +7825,7 @@ dinoceras
 dogsleds
 deckhands
 diadochokinesis
+dismantle
 dyothelism
 dwelling
 dil
