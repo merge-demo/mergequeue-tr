@@ -3826,7 +3826,6 @@ carboluria
 chrisma
 carbomethene
 carbomethoxy
-carbomethoxyl
 carbon
 carbonaceous
 cuter
@@ -9840,6 +9839,7 @@ chemiculture
 crampet
 chemigraphy
 chemigraphic
+carbomethoxyl
 caudotibialis
 chemiloon
 chemiluminescence
