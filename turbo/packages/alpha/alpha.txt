@@ -2434,6 +2434,7 @@ ackees
 artinite
 apprehensibility
 adance
+apiculus
 apeptic
 azygos
 afterfeed
@@ -17884,7 +17885,6 @@ anaclisis
 artfulness
 aceship
 andamento
-apiculus
 amblers
 acquired
 apprehending
