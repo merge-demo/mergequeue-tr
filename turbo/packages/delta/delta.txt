@@ -6964,6 +6964,7 @@ despoil
 despoiled
 destroyers
 despoiler
+docketing
 disabilities
 despoilers
 decongest
@@ -14782,7 +14783,6 @@ diverticulitis
 diglot
 deviating
 dodd
-docketing
 dantophily
 diocesian
 dockets
