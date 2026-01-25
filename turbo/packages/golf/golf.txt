@@ -4227,6 +4227,7 @@ gypsuming
 goniopholis
 gubbo
 gnu
+gaudery
 gynecocracies
 gramophonist
 goby
@@ -7397,7 +7398,6 @@ germarium
 gentianales
 gravecloth
 gastrocolotomy
-gaudery
 galen
 gruffiest
 googly
