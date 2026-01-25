@@ -15451,7 +15451,6 @@ censorate
 correption
 cephalomeningitis
 clarist
-clarities
 coasts
 calyculi
 capuches
@@ -16990,6 +16989,7 @@ consignificate
 clutchman
 clues
 carders
+clarities
 cluther
 clackdish
 cattier
