@@ -21328,7 +21328,6 @@ crosscurrent
 conchospiral
 cowboys
 conchostraca
-cleistothecia
 corotated
 computed
 conchs
@@ -30211,6 +30210,7 @@ capitoulate
 concentrators
 cains
 cursed
+cleistothecia
 crudity
 collotypy
 crudities
