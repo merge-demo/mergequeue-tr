@@ -2777,6 +2777,7 @@ filao
 fubby
 fimbriation
 frazzles
+furciform
 filace
 fixations
 finnmark
@@ -5320,7 +5321,6 @@ flayflint
 fleabag
 fusillade
 faintheart
-furciform
 fleabags
 fireclay
 fluorites
