@@ -3571,6 +3571,7 @@ epidesmine
 emboscata
 exclusionary
 ectoglia
+encyclical
 electrometallurgist
 embosoming
 euchlaena
@@ -12916,7 +12917,6 @@ eructs
 erupturient
 exploitative
 enclasping
-encyclical
 expediential
 enwinds
 electroneutrality
