@@ -23677,7 +23677,6 @@ auxograph
 axlike
 aurify
 aurific
-aceology
 algorism
 auriflamme
 authorize
@@ -24538,6 +24537,7 @@ abstrude
 aglaos
 athwart
 abbreviatable
+aceology
 auxiliaries
 abigailship
 acinuni
