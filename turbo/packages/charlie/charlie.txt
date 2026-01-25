@@ -15990,7 +15990,6 @@ clansmen
 cyamelid
 coolheadedness
 cleruchy
-connach
 crossbirth
 cracked
 cluppe
@@ -24299,6 +24298,7 @@ cnidaria
 cooees
 catchpoleship
 cooey
+connach
 complements
 catholicization
 cooers
