@@ -1882,7 +1882,6 @@ fuligula
 fallow
 fewer
 flintier
-footingly
 foredoom
 footstep
 fourdrinier
@@ -2619,6 +2618,7 @@ fireless
 flusters
 foreshoulder
 figuratively
+footingly
 fastidious
 frumentation
 familiarisation
