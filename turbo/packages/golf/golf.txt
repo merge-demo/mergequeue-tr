@@ -2771,6 +2771,7 @@ gangwayed
 governably
 glassie
 gelee
+guttling
 gantlope
 grimsir
 grouchiest
@@ -8677,7 +8678,6 @@ gibier
 greedless
 grecism
 guttled
-guttling
 germiniparous
 greekize
 gavelling
