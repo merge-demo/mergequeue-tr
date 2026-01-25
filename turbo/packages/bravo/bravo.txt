@@ -1012,6 +1012,7 @@ brigand
 bayano
 birlie
 bourdon
+biotope
 bipalium
 blinger
 baycuru
@@ -10067,7 +10068,6 @@ becrusted
 benefiter
 bywalking
 buckleya
-biotope
 biwinter
 blackfisher
 benzolate
