@@ -613,6 +613,7 @@ frazil
 fertility
 faintingly
 festschriften
+fempty
 fluctiferous
 flavorless
 frighter
@@ -7973,7 +7974,6 @@ favoring
 foreskin
 foveolas
 fluate
-fempty
 floran
 fleying
 forecooler
