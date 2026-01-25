@@ -16279,7 +16279,6 @@ chicky
 clypeastrina
 clypeastroid
 carnivaller
-clypeate
 conspicuous
 colporrhexis
 caraco
@@ -25871,6 +25870,7 @@ comforter
 corseque
 contralti
 carraran
+clypeate
 corkscrewed
 climax
 chloe
