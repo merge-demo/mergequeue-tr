@@ -7629,6 +7629,7 @@ diswarn
 developing
 didelphis
 development
+doxie
 developmental
 developmentally
 decompressions
@@ -16415,7 +16416,6 @@ doxa
 doxastic
 doxasticon
 dghaisa
-doxie
 distad
 devalues
 dhoora

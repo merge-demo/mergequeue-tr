@@ -20162,6 +20162,7 @@ cinchona
 commissoria
 clypeastroidea
 commissure
+cephalopathy
 confederacy
 chalcidic
 controverter
@@ -26615,7 +26616,6 @@ councilman
 councilmanic
 councilmen
 conjunctionally
-cephalopathy
 carbomycin
 coked
 councils
