@@ -9318,7 +9318,6 @@ dread
 dandruffy
 disorders
 dif
-dodos
 dactylography
 devitrifying
 diffame
@@ -14718,6 +14717,7 @@ diaristic
 discommission
 deanery
 dibrach
+dodos
 despumate
 doats
 dhurrie
