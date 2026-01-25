@@ -5883,6 +5883,7 @@ basified
 beggardom
 bretons
 butterbur
+bastide
 bellwether
 bradmaker
 bellwort
@@ -15813,7 +15814,6 @@ broigne
 blueprinting
 bunds
 broiled
-bastide
 bullaria
 beshame
 baldness
