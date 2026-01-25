@@ -11124,6 +11124,7 @@ fearlessness
 fisticuffs
 franca
 fetidly
+farads
 forecarriage
 fauteuils
 fedellini
@@ -11209,7 +11210,6 @@ fasciolae
 fictil
 falderol
 frittata
-farads
 firer
 failles
 flamethrowers
