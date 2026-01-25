@@ -6145,7 +6145,6 @@ cattlemen
 cattleship
 carbines
 catullian
-clamshells
 coburghership
 commercials
 completedness
@@ -24470,6 +24469,7 @@ cootfoot
 charlestons
 crotyl
 cooty
+clamshells
 cootie
 copps
 coelogyne
