@@ -11176,7 +11176,6 @@ fungicidally
 fungicides
 fungicolous
 frampler
-fridila
 fibronuclear
 farm
 forktail
@@ -11639,6 +11638,7 @@ ferren
 flyability
 fustiness
 fustoc
+fridila
 fraudulently
 fussily
 friscal
