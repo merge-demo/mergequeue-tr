@@ -3258,6 +3258,7 @@ abonne
 acupunctured
 armagnacs
 acupuncturing
+apoenzyme
 antivenomous
 acupuncturist
 acus
@@ -15258,7 +15259,6 @@ antifreeze
 antifriction
 antifrost
 antifungal
-apoenzyme
 ataentsic
 albertinian
 androcratic
