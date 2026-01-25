@@ -2664,7 +2664,6 @@ completest
 creamer
 canidia
 carbonylation
-canikin
 chargedness
 cardiatrophia
 cephalocereus
@@ -16606,6 +16605,7 @@ clopped
 couturier
 clops
 compania
+canikin
 confining
 cantref
 cloque
