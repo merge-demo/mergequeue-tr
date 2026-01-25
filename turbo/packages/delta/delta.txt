@@ -8424,7 +8424,6 @@ drivel
 diamagnet
 diamagnetic
 diamagnetism
-dredging
 ditrochee
 deflexed
 dooxidize
@@ -9109,6 +9108,7 @@ didelphidae
 discursive
 dingdong
 disweapon
+dredging
 didelphoid
 disinclines
 derisory
