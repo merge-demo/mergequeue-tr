@@ -17080,7 +17080,6 @@ coacting
 constituently
 coaction
 coactive
-counterquip
 clubwoman
 coacts
 coadamite
@@ -30869,6 +30868,7 @@ corbeils
 compromissary
 cantut
 culottic
+counterquip
 chitchatted
 culottism
 culpabilis
