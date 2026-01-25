@@ -9700,7 +9700,6 @@ exurbs
 evacue
 esquisse
 echoed
-eversible
 extima
 easing
 elegiast
@@ -10053,6 +10052,7 @@ encastered
 egrets
 ethambutol
 ethmovomerine
+eversible
 entamoebiasis
 epopoeist
 etceteras
