@@ -4946,6 +4946,7 @@ diversionary
 distinguish
 derk
 demultiplexer
+devocalised
 deurbanize
 dacoited
 demultiplexers
@@ -7871,7 +7872,6 @@ dewberries
 dewcap
 disbudder
 div
-devocalised
 driveways
 dewclaws
 diaphonia
