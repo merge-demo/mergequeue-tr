@@ -17195,6 +17195,7 @@ cantic
 coaid
 coaita
 coak
+cofighter
 coakum
 cozey
 coalas
@@ -18282,7 +18283,6 @@ coffret
 chiming
 coffrets
 coffs
-cofighter
 cellmate
 casearia
 coforeknown
