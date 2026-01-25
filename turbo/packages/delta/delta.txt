@@ -11842,7 +11842,6 @@ dearsenicate
 dihalo
 dislikable
 dopas
-deplumed
 donatively
 dbl
 disk
@@ -14727,6 +14726,7 @@ doblon
 dissymmettric
 dobos
 drumlier
+deplumed
 dactyloscopic
 detained
 decahedral
