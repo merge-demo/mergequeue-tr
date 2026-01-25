@@ -4085,7 +4085,6 @@ gastroduodenostomies
 gesnerad
 genesee
 geotaxes
-gettysburg
 gargoyle
 glosts
 genetor
@@ -8226,6 +8225,7 @@ gyrations
 gram
 gluttonising
 gastroblennorrhea
+gettysburg
 graphologists
 grainery
 glimpser
