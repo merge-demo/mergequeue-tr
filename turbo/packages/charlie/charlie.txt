@@ -16144,7 +16144,6 @@ consequence
 cytotrophoblastic
 climbed
 colors
-climber
 cabobs
 climbers
 cheetal
@@ -17261,6 +17260,7 @@ cachucha
 cinematical
 cantil
 coalternate
+climber
 coaltitude
 coambulant
 crinkliest
