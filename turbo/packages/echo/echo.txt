@@ -8846,7 +8846,6 @@ equiprobabilist
 eternities
 egyptologic
 encrypt
-emptive
 euonymin
 eremic
 enterocystoma
@@ -11539,6 +11538,7 @@ elenchus
 encodement
 epiblastema
 embrittled
+emptive
 errantness
 ennoy
 evocator
