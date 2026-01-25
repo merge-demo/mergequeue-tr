@@ -2317,7 +2317,6 @@ greyfish
 geognosis
 guaranis
 gondoliere
-ge
 gagsters
 gravitation
 gingival
@@ -3162,6 +3161,7 @@ guerilla
 geochronologist
 guardiancy
 germina
+ge
 gynophore
 geotechnic
 graplin
