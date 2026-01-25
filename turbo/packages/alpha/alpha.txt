@@ -21432,6 +21432,7 @@ arapaima
 asp
 aspace
 asparagic
+afikomen
 asparagin
 arachnactis
 asparamic
@@ -21661,7 +21662,6 @@ antistriker
 assassinate
 azoeosin
 achromats
-afikomen
 amusingly
 antitragus
 antibromic
