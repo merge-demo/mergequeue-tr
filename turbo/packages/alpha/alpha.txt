@@ -19996,7 +19996,6 @@ amasta
 armure
 armures
 antirachitic
-arf
 achromatinic
 arnatto
 arugola
@@ -20874,6 +20873,7 @@ apportions
 amputator
 avenery
 archmock
+arf
 amplifiable
 actium
 abyssinians

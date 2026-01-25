@@ -3054,6 +3054,7 @@ defacement
 disgustfully
 deadliness
 downbent
+damselflies
 doohickus
 dentaria
 defacer
@@ -3179,7 +3180,6 @@ dummkopf
 dictums
 doricize
 dasyures
-damselflies
 dudelsack
 dashpot
 defeit
