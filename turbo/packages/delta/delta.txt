@@ -1863,7 +1863,6 @@ debitum
 declaratory
 douvecot
 dorsale
-deblai
 deblaterate
 daubries
 deblateration
@@ -1983,6 +1982,7 @@ downligging
 debutant
 downcastly
 dragbar
+deblai
 dupondidii
 dopant
 discostate
