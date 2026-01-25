@@ -7190,7 +7190,6 @@ automatic
 ameloblast
 adnouns
 abettals
-alacrious
 alactaga
 abridgements
 antica
@@ -12427,6 +12426,7 @@ androclus
 agialid
 absoil
 aspergilliform
+alacrious
 automelon
 anthela
 androgamone
