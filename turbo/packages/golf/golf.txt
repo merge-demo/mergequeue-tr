@@ -8664,7 +8664,6 @@ goiabada
 gismondite
 gutterling
 gallotannin
-glacification
 germanious
 galactophygous
 greediest
@@ -9881,6 +9880,7 @@ guaque
 geometric
 gracias
 groined
+glacification
 genethliacon
 guarand
 gimlety
