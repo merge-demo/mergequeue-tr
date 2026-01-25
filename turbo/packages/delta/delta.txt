@@ -12665,7 +12665,6 @@ dyskeratosis
 diskette
 discernibleness
 diskindness
-diskography
 dextrorse
 doleful
 divining
@@ -15028,6 +15027,7 @@ durnedest
 decided
 deformer
 doggerelling
+diskography
 deposals
 dioptrics
 disbutton
