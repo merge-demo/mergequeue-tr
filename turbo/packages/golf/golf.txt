@@ -8277,7 +8277,6 @@ guillotining
 grandee
 ginglymi
 graphicly
-glycuronide
 grassbird
 guerdons
 grunzie
@@ -9089,6 +9088,7 @@ galagos
 grissel
 gingerol
 gadite
+glycuronide
 gelseminic
 gummers
 grinders
