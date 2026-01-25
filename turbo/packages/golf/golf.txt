@@ -4800,6 +4800,7 @@ gobiesociform
 gypaetus
 griffinism
 gumma
+gubernaculum
 gynecidal
 garlicwort
 glades
@@ -7493,7 +7494,6 @@ glitzy
 grayfly
 glabellous
 gryllus
-gubernaculum
 grigri
 germanical
 graypate

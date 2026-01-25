@@ -4788,7 +4788,6 @@ flagman
 fasciolaria
 fancifulness
 flinching
-floatiest
 faena
 fellowshipping
 findon
@@ -8742,6 +8741,7 @@ fashionative
 fumbler
 forhooie
 face
+floatiest
 forwearied
 fitchy
 faradization
