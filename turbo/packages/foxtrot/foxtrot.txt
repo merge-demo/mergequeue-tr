@@ -5045,7 +5045,6 @@ fosses
 fetialis
 foveated
 fezes
-freir
 foreseers
 frsiket
 fowler
@@ -6476,6 +6475,7 @@ falter
 facility
 filagreeing
 forgie
+freir
 farweltered
 fip
 failsoft
