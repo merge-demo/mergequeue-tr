@@ -1189,7 +1189,6 @@ gutturalize
 galipine
 gorilla
 guestless
-gaplessness
 gildhall
 gastroatrophia
 genesiacal
@@ -10720,6 +10719,7 @@ gassers
 gaddi
 gustard
 guergal
+gaplessness
 gustatorial
 groupie
 gustfully
