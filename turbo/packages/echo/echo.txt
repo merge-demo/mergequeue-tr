@@ -4592,6 +4592,7 @@ erethizontidae
 equitably
 epilimnion
 echevin
+eudemony
 exeunt
 elucubrate
 excellent
@@ -8324,7 +8325,6 @@ exercised
 emulating
 eagling
 epitheme
-eudemony
 effierce
 evangelise
 enscrolls
