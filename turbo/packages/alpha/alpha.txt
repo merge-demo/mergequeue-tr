@@ -4168,6 +4168,7 @@ adjag
 apoapsis
 acetoxyls
 anabaptistically
+amandus
 amalgamable
 actinometer
 adoptedly
@@ -12570,7 +12571,6 @@ anemotropism
 accersition
 antiphlogistian
 apatosaurus
-amandus
 alogia
 afterdischarge
 appositionally
