@@ -7161,7 +7161,6 @@ assistantships
 autoregulation
 antibiotics
 argovian
-antiodontalgic
 aweigh
 alabamide
 alabamine
@@ -13910,6 +13909,7 @@ abreact
 aerobium
 anseis
 anselm
+antiodontalgic
 anser
 angola
 anserated
