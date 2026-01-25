@@ -29,7 +29,6 @@ floodlet
 fourchee
 fieldmen
 fibrolitic
-feaked
 fibrocyst
 fabricates
 fabricator
@@ -1463,6 +1462,7 @@ fatuoid
 fatuus
 frankly
 fairtime
+feaked
 fantasie
 fractureproof
 filago
