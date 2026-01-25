@@ -5529,6 +5529,7 @@ enfeeblish
 epilimnetic
 euhemerizing
 etherlike
+ecanda
 enfeoffing
 enfeoffment
 exestuate
@@ -12828,7 +12829,6 @@ emboldener
 extraretinal
 evangelicity
 ensepulchered
-ecanda
 edgeways
 excavation
 eucaines
