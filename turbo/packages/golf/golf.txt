@@ -4808,7 +4808,6 @@ gritter
 gunnel
 gnomonics
 gleg
-gigantize
 greenings
 goiterogenic
 gladfulness
@@ -5278,6 +5277,7 @@ gutturalism
 gingals
 glaived
 gourds
+gigantize
 gallinaginous
 gonidia
 glomerulate
