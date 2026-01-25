@@ -1179,7 +1179,6 @@ fallals
 fungistatically
 fascine
 ferreous
-fishmeals
 furring
 fascintatingly
 flavopurpurin
@@ -9502,6 +9501,7 @@ forfear
 founts
 flask
 foveate
+fishmeals
 fermenter
 freckle
 furnace
