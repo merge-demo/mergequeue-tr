@@ -4895,6 +4895,7 @@ grasping
 gynecocentric
 gapingly
 gardenhood
+gynandrophore
 greenbottle
 get
 gent
@@ -10405,7 +10406,6 @@ gimirrai
 guidecraft
 gutturalness
 guttier
-gynandrophore
 gadgetries
 gnateater
 gillbird
