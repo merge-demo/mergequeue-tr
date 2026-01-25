@@ -6383,6 +6383,7 @@ girlchild
 goitral
 guam
 gamboges
+gortonian
 galuth
 gaine
 grasswidowhood
@@ -7485,7 +7486,6 @@ glassiness
 gamogenesis
 gaen
 glycolytic
-gortonian
 glaucophanize
 gangs
 glitzy
