@@ -3238,7 +3238,6 @@ eludible
 enswathes
 elul
 epidemic
-erects
 enclitical
 encephalotomy
 eyesore
@@ -4973,6 +4972,7 @@ exiguous
 endship
 essentia
 exul
+erects
 effuses
 enschedule
 exomphalous
