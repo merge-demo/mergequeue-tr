@@ -9893,6 +9893,7 @@ dacelo
 descents
 descendingly
 dentins
+dendritiform
 diplodocuses
 ductilely
 dermatoptic
@@ -17412,7 +17413,6 @@ dropwort
 damlike
 dogeships
 desolative
-dendritiform
 dinarchy
 diener
 danged
