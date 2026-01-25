@@ -3827,6 +3827,7 @@ dephlegm
 distruss
 diomedeidae
 deselects
+depolishes
 disinteresting
 dissceptred
 decorationist
@@ -5709,7 +5710,6 @@ deadpay
 davened
 depolished
 deaconed
-depolishes
 depoliticized
 donia
 dredged
