@@ -7192,7 +7192,6 @@ bromometrical
 berylliosis
 bestench
 bearberry
-bestialized
 be
 brannigan
 bellbirds
@@ -10975,6 +10974,7 @@ blackamoor
 biloquist
 biclinia
 barth
+bestialized
 bourrees
 blinkard
 blesbuck
