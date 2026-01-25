@@ -2969,7 +2969,6 @@ gigantomachy
 glueing
 glitterance
 geogeny
-gerara
 gullability
 grogger
 gardenias
@@ -3693,6 +3692,7 @@ gaugership
 grumpier
 ghostly
 gnoses
+gerara
 ghostwriter
 glarier
 gnatoo
