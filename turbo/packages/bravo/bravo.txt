@@ -4432,6 +4432,7 @@ befleas
 belchers
 bypassing
 becloaks
+bema
 blackfriars
 batule
 becloak
@@ -12220,7 +12221,6 @@ broomcorn
 brimstone
 blamable
 bollock
-bema
 boneshaw
 brachiate
 beginner
