@@ -1879,6 +1879,7 @@ frohlich
 fecundator
 foodless
 fuligula
+foretaster
 fallow
 fewer
 flintier
@@ -9704,7 +9705,6 @@ fought
 flycaster
 fanworts
 fuchsins
-foretaster
 fevery
 ficoideae
 fretworks
