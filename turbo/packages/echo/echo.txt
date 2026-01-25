@@ -1555,7 +1555,6 @@ extraversion
 encampment
 epinasty
 envigor
-exogeny
 enterate
 exaggeratedness
 egises
@@ -8193,6 +8192,7 @@ exuded
 expansiveness
 enchylematous
 empirics
+exogeny
 exigeant
 epiphany
 enkraal
