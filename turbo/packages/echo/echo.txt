@@ -526,7 +526,6 @@ echinidan
 expy
 enzymologist
 eclipsises
-entosthoblast
 echinococcosis
 epedaphic
 epeirogenetic
@@ -4492,6 +4491,7 @@ episematic
 earlock
 enamelling
 earthpeas
+entosthoblast
 euchysiderite
 esthesiophysiology
 elsewhat
