@@ -6156,6 +6156,7 @@ enthrallment
 electropoion
 ectoparasitic
 endotoxin
+erns
 embronze
 evagation
 enthused
@@ -8950,7 +8951,6 @@ enables
 enzymatic
 exsanguineous
 expatiators
-erns
 eightvo
 erika
 erikite
