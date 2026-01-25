@@ -6954,7 +6954,6 @@ expressed
 echinodermata
 eugenesic
 epipodiale
-excipular
 eying
 eutaxitic
 epistolar
@@ -13688,6 +13687,7 @@ espec
 emotionlessness
 etiotropic
 eurygnathic
+excipular
 exterminatrix
 extraconscious
 edaphosauria
