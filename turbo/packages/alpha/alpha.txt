@@ -12076,7 +12076,6 @@ anaschistic
 anaseismic
 anasitch
 anaerobia
-anaspadias
 antifundamentalist
 albite
 auntship
@@ -24638,6 +24637,7 @@ alloxuric
 autoheterodyne
 aralkyl
 ambassador
+anaspadias
 antischolastically
 avena
 agouti

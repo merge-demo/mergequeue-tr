@@ -4600,7 +4600,6 @@ didynamia
 diploglossate
 delineable
 drysalter
-decem
 dualisms
 deliming
 demiss
@@ -17665,6 +17664,7 @@ dilogy
 dialectally
 dorsalis
 detoxicating
+decem
 delivered
 decarbonizer
 diclinism
