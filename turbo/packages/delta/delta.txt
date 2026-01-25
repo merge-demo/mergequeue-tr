@@ -4887,7 +4887,6 @@ demoraliser
 demoralising
 defecter
 diacrisis
-dicrostonyx
 defailment
 displeased
 duranta
@@ -5801,6 +5800,7 @@ depraver
 dragonfly
 dizdar
 dewaxing
+dicrostonyx
 deadtongue
 dags
 dermatocoptic
