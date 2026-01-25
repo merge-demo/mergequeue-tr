@@ -9205,7 +9205,6 @@ aetobatus
 almohades
 almon
 atheisms
-apothegm
 anga
 almonage
 angina
@@ -20294,6 +20293,7 @@ aribin
 arrogation
 adenyls
 aleutian
+apothegm
 adsignification
 arroyos
 arroyuelo
