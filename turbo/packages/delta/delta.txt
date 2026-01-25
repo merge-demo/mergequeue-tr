@@ -14508,7 +14508,6 @@ drouk
 decemviri
 duumvirate
 diplomatique
-delassement
 desk
 dedition
 dipleidoscope
@@ -14633,6 +14632,7 @@ drivelling
 despite
 disbase
 dyslalia
+delassement
 divulger
 dianodal
 derisible
