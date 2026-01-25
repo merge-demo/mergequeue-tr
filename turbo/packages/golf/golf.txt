@@ -4529,6 +4529,7 @@ goosebill
 geometrid
 goupen
 giojoso
+gynandrosporous
 greegree
 gressible
 girdles
@@ -4957,7 +4958,6 @@ greensward
 glebeless
 grippe
 gammed
-gynandrosporous
 glykopectic
 galleypot
 governesshood

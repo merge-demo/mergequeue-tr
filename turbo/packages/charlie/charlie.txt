@@ -6654,7 +6654,6 @@ clamoring
 celestine
 ceilers
 ceilidhe
-ceiling
 ceilings
 ceilingwards
 copiability
@@ -24132,6 +24131,7 @@ convexedness
 chippage
 cryptoanalytic
 calcific
+ceiling
 carbamyl
 cafeneh
 convexly
