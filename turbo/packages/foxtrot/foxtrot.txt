@@ -3453,7 +3453,6 @@ figgiest
 fraternisation
 fecundity
 fleeches
-fingerable
 frostfishes
 fission
 foreseason
@@ -8343,6 +8342,7 @@ frontenis
 fightable
 forking
 flaveria
+fingerable
 freedoms
 formicative
 forklift
