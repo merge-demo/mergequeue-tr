@@ -15057,7 +15057,6 @@ anticularia
 antidactyl
 antidemocrat
 auroras
-alienator
 antidemocratically
 antidemoniac
 antidepressant
@@ -15140,6 +15139,7 @@ arkansas
 almemor
 antiegotistic
 aceologic
+alienator
 aura
 antieyestrain
 acquirers
