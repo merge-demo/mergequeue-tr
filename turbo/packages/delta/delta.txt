@@ -2416,7 +2416,6 @@ dweller
 dusken
 dihydronaphthalene
 decimating
-dyssynergy
 dacrya
 disobediently
 degorder
@@ -6999,6 +6998,7 @@ divinisation
 donkeys
 despose
 desiccant
+dyssynergy
 deformed
 despotat
 depose
