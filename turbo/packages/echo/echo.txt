@@ -5994,6 +5994,7 @@ epilated
 enjoinders
 englished
 eucommia
+excerption
 expatiatingly
 enjoiner
 excubant
@@ -9228,7 +9229,6 @@ enlarges
 extremer
 etheric
 educatedly
-excerption
 erotogenetic
 erotogenicity
 ergonomist
