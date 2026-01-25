@@ -4976,7 +4976,6 @@ goofed
 ganders
 gallingness
 grovels
-glider
 gonocheme
 granulose
 grivoise
@@ -8285,6 +8284,7 @@ grassbird
 guerdons
 grunzie
 guaiaconic
+glider
 grucche
 greyness
 guha
