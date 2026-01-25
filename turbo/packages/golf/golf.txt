@@ -2530,7 +2530,6 @@ gained
 guessive
 generalise
 gynandrous
-graciously
 glorifying
 gallfly
 gael
@@ -5376,6 +5375,7 @@ gumchewer
 graspingly
 grandmotherliness
 gangplank
+graciously
 gender
 gorbelly
 glutenin
