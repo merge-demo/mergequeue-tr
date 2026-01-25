@@ -8832,6 +8832,7 @@ erd
 erechtheum
 erechtites
 euphemist
+expiration
 exomologesis
 erectable
 exclusionist
@@ -13198,7 +13199,6 @@ expiational
 expirate
 endostracal
 eyrar
-expiration
 exponentiation
 epaxial
 exotica
