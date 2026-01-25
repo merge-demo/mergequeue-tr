@@ -8018,6 +8018,7 @@ dumbhead
 dhal
 dorsointestinal
 dhamnoo
+derivability
 distinctional
 dragaded
 dhangar
@@ -17374,7 +17375,6 @@ darksomeness
 deficiencies
 drib
 doigt
-derivability
 deallocation
 delactation
 deviants
