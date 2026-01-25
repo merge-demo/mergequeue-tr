@@ -7226,6 +7226,7 @@ effervesce
 embrave
 economese
 ergatomorphism
+eof
 enaena
 evolutionally
 epicurize
@@ -14156,7 +14157,6 @@ escapists
 episcopising
 entredeux
 extrusory
-eof
 examinations
 ecdysiast
 ethmopalatine
