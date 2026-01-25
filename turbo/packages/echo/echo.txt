@@ -2996,7 +2996,6 @@ ergotamine
 epitomes
 enallage
 elinguate
-enfield
 eleatic
 eleoblast
 expositing
@@ -11450,6 +11449,7 @@ eleocharis
 evictor
 evidence
 edeagra
+enfield
 earned
 evidences
 ethereous

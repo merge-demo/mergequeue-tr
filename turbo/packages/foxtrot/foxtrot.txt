@@ -11283,7 +11283,6 @@ fantasticism
 familiarizer
 felonsetting
 furlane
-fractionary
 friskets
 fluellen
 furbish
@@ -11414,6 +11413,7 @@ filminess
 fechnerian
 flushboard
 flocculose
+fractionary
 furniture
 flummoxing
 frustrable
