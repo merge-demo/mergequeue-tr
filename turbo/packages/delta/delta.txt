@@ -14946,6 +14946,7 @@ duali
 directexamination
 decoloriser
 disarmer
+dollarwise
 displodes
 diathetic
 dialoger
@@ -18620,7 +18621,6 @@ digitus
 debugger
 dysgnosia
 damselhood
-dollarwise
 desightment
 dutchy
 dutching
