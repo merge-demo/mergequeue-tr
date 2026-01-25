@@ -3240,6 +3240,7 @@ balak
 basilect
 bloodwit
 begunk
+barouchette
 beautifying
 bisalt
 bote
@@ -14221,7 +14222,6 @@ bluebottles
 boutiques
 brighid
 blowup
-barouchette
 bloodstroke
 byegaein
 bromohydrate
