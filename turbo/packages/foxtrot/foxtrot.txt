@@ -1129,7 +1129,6 @@ frizzling
 fluor
 farthing
 foresay
-fluffing
 feverishness
 fractional
 fibrillary
@@ -1962,6 +1961,7 @@ forecaster
 fothergilla
 fancy
 feebless
+fluffing
 filatory
 fillock
 fernticle
