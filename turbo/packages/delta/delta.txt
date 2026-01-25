@@ -6036,7 +6036,6 @@ dermorhynchi
 dysphemized
 diencephala
 dermatherm
-disarmers
 disgraded
 disannulling
 disintegrant
@@ -12211,6 +12210,7 @@ documentaries
 dysfunctioning
 doweling
 deltoidal
+disarmers
 durous
 detector
 dampers
