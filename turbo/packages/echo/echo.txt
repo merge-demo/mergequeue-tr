@@ -7671,7 +7671,6 @@ engagingly
 ectocrine
 envying
 espece
-epicuticle
 encircling
 extroversion
 epicuticular
@@ -10042,6 +10041,7 @@ eternisation
 elegious
 extradural
 entomological
+epicuticle
 eternish
 elod
 editresses
