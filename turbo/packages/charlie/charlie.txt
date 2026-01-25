@@ -21,7 +21,6 @@ corkmaking
 caught
 cabaletta
 cestas
-cardplaying
 chertiest
 crackerberries
 cereus
@@ -24284,6 +24283,7 @@ coseier
 cooboos
 chiogenes
 cooch
+cardplaying
 caricaturists
 communicably
 cooches
