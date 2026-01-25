@@ -12144,6 +12144,7 @@ chrysammic
 constances
 clonk
 copyholders
+claughted
 chrysamminic
 chrysamphora
 chrysaniline
@@ -15616,7 +15617,6 @@ comebacks
 cochineal
 claudication
 coercend
-claughted
 chapitle
 cappadochio
 cyanoacetic
