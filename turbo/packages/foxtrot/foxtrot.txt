@@ -4307,7 +4307,6 @@ freespac
 fleshings
 formicivora
 ficiform
-fermi
 fieriest
 fibromatoid
 fosslify
@@ -9833,6 +9832,7 @@ fulminate
 fortyfive
 foxily
 fibrosarcoma
+fermi
 flexanimous
 flexibleness
 fabianism
