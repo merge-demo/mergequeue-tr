@@ -5269,6 +5269,7 @@ distincter
 dialkylamine
 dandilly
 distitle
+dissight
 defiant
 donis
 dolor
@@ -9615,7 +9616,6 @@ despot
 dihydroergotamine
 destructs
 diplexer
-dissight
 dipoles
 dexterous
 dihydrostreptomycin

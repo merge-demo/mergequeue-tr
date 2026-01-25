@@ -13945,6 +13945,7 @@ bullring
 boxhauled
 brierberry
 bundle
+bartered
 boxhauling
 boxhauls
 bowwow
@@ -14233,7 +14234,6 @@ bradypnea
 bloodtest
 bonally
 bakerless
-bartered
 boobyalla
 bayhead
 bisacromial
