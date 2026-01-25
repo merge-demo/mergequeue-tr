@@ -7753,7 +7753,6 @@ bhindi
 bowstave
 bhishti
 bhistie
-bhisties
 berake
 boldheartedness
 bhojpuri
@@ -14209,6 +14208,7 @@ bradyauxesis
 bilification
 bejelled
 bradyauxetically
+bhisties
 bebog
 boomboat
 bantin
