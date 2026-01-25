@@ -2990,7 +2990,6 @@ gozell
 gendered
 galatine
 ghetti
-gondite
 gelly
 galvanocauteries
 gentlefolk
@@ -6885,6 +6884,7 @@ gruffest
 grimness
 grandeval
 golgotha
+gondite
 geniohyoglossal
 gonosome
 genitourinary
