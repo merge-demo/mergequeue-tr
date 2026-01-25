@@ -5502,6 +5502,7 @@ gorsier
 gowning
 grumbles
 gamecocks
+ginkgoaceae
 guardlike
 globigerinae
 grainering
@@ -9367,7 +9368,6 @@ gibelite
 grossed
 graphomaniacal
 grebes
-ginkgoaceae
 griots
 genotypic
 garroting
