@@ -2507,6 +2507,7 @@ declarations
 decisions
 declarative
 detectaphone
+duckwife
 dolichocephali
 deligation
 demieagle
@@ -3082,7 +3083,6 @@ defalcating
 dipteral
 deaths
 defamation
-duckwife
 dingling
 detachableness
 decantation
