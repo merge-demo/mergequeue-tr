@@ -6468,7 +6468,6 @@ backdate
 bellon
 bepatched
 benighter
-bettergates
 bailo
 boxings
 byrlawmen
@@ -6850,6 +6849,7 @@ bacteriotoxic
 benkulen
 bigener
 buicks
+bettergates
 bioluminescent
 bescourge
 buckeroos
