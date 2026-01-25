@@ -9126,7 +9126,6 @@ gradins
 gristmilling
 gladstone
 gamogenetic
-globigerinas
 graphidiaceae
 glassfish
 gripey
@@ -10394,6 +10393,7 @@ graciousness
 glassing
 greenstuff
 gyracanthus
+globigerinas
 gourdhead
 gambreled
 granitelike
