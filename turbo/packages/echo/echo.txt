@@ -4308,7 +4308,6 @@ electrothermal
 embryocardia
 enacture
 exfodiation
-egranulose
 empowering
 extraterritoriality
 enterable
@@ -5368,6 +5367,7 @@ extuberant
 erstwhiles
 epicurishly
 eosphorite
+egranulose
 existant
 embroidered
 edges
