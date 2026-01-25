@@ -5789,7 +5789,6 @@ enneahedral
 envelopment
 extirp
 englut
-emhpasizing
 envenom
 encored
 eyot
@@ -6994,6 +6993,7 @@ eburnation
 eneas
 eustyle
 entrepreneur
+emhpasizing
 entrer
 entresols
 endocardial
