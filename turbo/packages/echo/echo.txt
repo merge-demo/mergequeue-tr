@@ -3710,7 +3710,6 @@ educations
 electrogenesis
 elements
 embryos
-encuirassed
 esthesioblast
 embryotega
 eweries
@@ -5433,6 +5432,7 @@ elaboratory
 equilaterally
 epigynies
 endocrin
+encuirassed
 exaggerations
 evulsion
 emydosauria
