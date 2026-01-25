@@ -6488,7 +6488,6 @@ estimative
 execration
 englishes
 ephemeris
-enrollment
 ectosphenoid
 essayists
 entrenchments
@@ -6753,6 +6752,7 @@ electrothanatosis
 ephemeral
 eole
 engagedly
+enrollment
 electrocutions
 estatesman
 eyeletting
