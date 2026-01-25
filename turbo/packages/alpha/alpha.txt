@@ -5437,6 +5437,7 @@ africanize
 africanoid
 affrettando
 astartian
+assiduate
 aeroview
 asseverative
 amalgams
@@ -21181,7 +21182,6 @@ anticar
 alphabetics
 asemic
 anagogical
-assiduate
 arginases
 atomicism
 aseptolin
