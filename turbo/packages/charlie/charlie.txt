@@ -20883,7 +20883,6 @@ complicatedness
 cotarnin
 colicine
 carbonyls
-clonked
 considerative
 compounder
 comprachico
@@ -22631,6 +22630,7 @@ crevice
 connived
 chromochalcography
 connives
+clonked
 captance
 connivingly
 connochaetes
