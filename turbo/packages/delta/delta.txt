@@ -7880,7 +7880,6 @@ diaphonia
 dites
 dewdamp
 dapson
-dewdrop
 dewdropper
 dogteeth
 drillet
@@ -12714,6 +12713,7 @@ disperiwig
 diacromyodian
 desecrater
 disliked
+dewdrop
 disliken
 duma
 drawshave
