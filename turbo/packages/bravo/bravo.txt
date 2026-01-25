@@ -8559,6 +8559,7 @@ buncher
 batrachophidia
 bilks
 bushveld
+bridelope
 burro
 brachiolarian
 bagtikan
@@ -15274,7 +15275,6 @@ bavin
 blackfire
 bumpsy
 beveler
-bridelope
 boardman
 brizz
 bridemaid
