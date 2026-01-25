@@ -5162,6 +5162,7 @@ deputy
 date
 denominations
 desired
+damnonii
 dicty
 dine
 depolarisation
@@ -15265,7 +15266,6 @@ dollishly
 dollishness
 dolcian
 dieses
-damnonii
 dassies
 drawoff
 dealbuminize
