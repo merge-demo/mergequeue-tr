@@ -2430,6 +2430,7 @@ circumcentral
 condescent
 cancerophobe
 cancerophobia
+caddle
 cancerous
 celtophil
 cancerously
@@ -6060,7 +6061,6 @@ catnap
 cheilotomies
 catnaper
 catnapping
-caddle
 catnaps
 catnep
 chilotomy
