@@ -2708,7 +2708,6 @@ cankery
 cannoneering
 cankerroot
 cauponize
-cankers
 chirpily
 cultivators
 comedowns
@@ -28158,6 +28157,7 @@ craniotomy
 craniotopography
 craniums
 crankcases
+cankers
 cristy
 celebres
 colter
