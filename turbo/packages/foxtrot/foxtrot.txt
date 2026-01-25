@@ -3958,6 +3958,7 @@ flanque
 feminisation
 fictionally
 fibres
+fizzes
 fraulein
 foreread
 friarling
@@ -11362,7 +11363,6 @@ forfended
 furmenty
 faintly
 foreassign
-fizzes
 frousier
 flayed
 faintful
