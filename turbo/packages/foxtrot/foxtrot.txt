@@ -1155,6 +1155,7 @@ florulas
 facials
 fiberization
 fidelis
+figworm
 flax
 fatally
 feebleminded
@@ -2832,7 +2833,6 @@ feltyfare
 fisty
 finable
 foresails
-figworm
 fungid
 familistery
 fortuned
