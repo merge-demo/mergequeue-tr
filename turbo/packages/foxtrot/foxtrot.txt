@@ -2783,7 +2783,6 @@ finnmark
 frondeurs
 forgoing
 florists
-festucine
 forelady
 flagitate
 flaxiest
@@ -5702,6 +5701,7 @@ ferulas
 frontis
 farced
 fleuronnee
+festucine
 flagellula
 fungous
 fuzzball
