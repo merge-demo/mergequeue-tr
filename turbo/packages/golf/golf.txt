@@ -3800,6 +3800,7 @@ genealogies
 geodaesia
 gorger
 girosol
+gaveller
 gonapophysal
 grasps
 gentlemanhood
@@ -6689,7 +6690,6 @@ gruine
 guiltlessness
 goniocraniometry
 grouters
-gaveller
 goniodoridae
 granitized
 glossina
