@@ -11035,6 +11035,7 @@ chirurgeon
 crimean
 chirurgeonly
 chirurgery
+criteriology
 chis
 chiseled
 combinantive
@@ -29527,7 +29528,6 @@ criteria
 cryptogamous
 carload
 criteriia
-criteriology
 criterional
 creolin
 cerealist
