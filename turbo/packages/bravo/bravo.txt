@@ -1675,7 +1675,6 @@ balmoral
 benefits
 besoms
 balmorals
-bedticks
 bensh
 bathless
 byganging
@@ -7671,6 +7670,7 @@ belesprit
 bewrapt
 bewreck
 besee
+bedticks
 befreckle
 biodynamic
 bewry
