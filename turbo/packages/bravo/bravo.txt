@@ -3545,6 +3545,7 @@ bulbocavernosus
 brookites
 basilyst
 blackroot
+bipinnariae
 bathed
 bellower
 bathes
@@ -9267,7 +9268,6 @@ besting
 biphenylene
 biphenol
 bashfulness
-bipinnariae
 bastnasite
 biordinal
 batussi
