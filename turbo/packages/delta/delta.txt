@@ -10464,6 +10464,7 @@ dipneust
 dismortgaged
 dimyarian
 dispost
+deprivative
 diphthongation
 dilutedness
 dendrodra
@@ -13111,7 +13112,6 @@ dispensive
 daggered
 dispeople
 daresay
-deprivative
 declivities
 diversifying
 doozer

@@ -443,6 +443,7 @@ backscattering
 bandobust
 borecole
 backscraper
+baronetage
 backset
 basename
 bernie
@@ -9811,7 +9812,6 @@ bearhide
 bistred
 beknights
 bradylexia
-baronetage
 beglitter
 basiating
 blemish
