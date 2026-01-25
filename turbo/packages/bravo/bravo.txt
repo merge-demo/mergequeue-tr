@@ -1115,6 +1115,7 @@ bypassed
 brevetted
 bransolder
 bromius
+blasted
 barless
 baseless
 bryophyte
@@ -13366,7 +13367,6 @@ buffoonery
 boondoggler
 buckety
 boundlessness
-blasted
 backshift
 bothrenchyma
 bluenoses
