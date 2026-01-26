@@ -8336,6 +8336,7 @@ cowpunch
 chaluka
 catacrotic
 chalumeau
+carnalism
 collegium
 capercailye
 chalumeaux
@@ -29836,7 +29837,6 @@ counterraid
 croset
 contortionists
 crosette
-carnalism
 crosiered
 capsumin
 clumsier
