@@ -16069,6 +16069,7 @@ antisalooner
 antiscabious
 aquatint
 aortectasia
+anapneic
 amphichromy
 adminiculum
 antiscale
@@ -18214,7 +18215,6 @@ anasarca
 amphiprotic
 assassination
 ammonocarbonous
-anapneic
 aquiclude
 animable
 alumnol
