@@ -6221,7 +6221,6 @@ gobber
 gazettes
 goateed
 guitarlike
-gregariousness
 guttural
 ghostiest
 gconv
@@ -8938,6 +8937,7 @@ getae
 gallicola
 grizzlyman
 greenth
+gregariousness
 gesso
 glycogelatin
 grimalkin
