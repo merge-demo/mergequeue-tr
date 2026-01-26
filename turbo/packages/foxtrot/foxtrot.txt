@@ -2856,6 +2856,7 @@ fw
 frisettes
 fantasize
 fogies
+fretty
 formicarium
 footwear
 frabjously
@@ -7708,7 +7709,6 @@ farcically
 florian
 freeish
 falconlike
-fretty
 furs
 forsaken
 flamelike
