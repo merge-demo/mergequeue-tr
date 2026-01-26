@@ -5315,6 +5315,7 @@ cultures
 cassocks
 chamberlain
 cuspidated
+clavicle
 cassons
 cochleated
 chariotway
@@ -15681,7 +15682,6 @@ cytologies
 clavicythetheria
 clavicittern
 contraction
-clavicle
 cannas
 clavicorn
 clavicornes
