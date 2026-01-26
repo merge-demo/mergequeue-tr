@@ -5866,7 +5866,6 @@ ethiops
 episyntheton
 estamp
 erasures
-erg
 engreaten
 evirtuate
 evan
@@ -11040,6 +11039,7 @@ equanimous
 eyeletter
 envoyship
 estoc
+erg
 encomimia
 elegit
 electrostereotype
