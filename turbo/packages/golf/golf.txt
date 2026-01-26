@@ -512,7 +512,6 @@ graff
 galivants
 geneticism
 galloped
-glissandos
 growthful
 guruship
 grooty
@@ -4796,6 +4795,7 @@ geometroidea
 giggish
 glaciology
 guideway
+glissandos
 gobiesociform
 gypaetus
 griffinism
