@@ -3510,7 +3510,6 @@ fleetingly
 figures
 feelingless
 foreact
-fasciculi
 foresting
 forestine
 frubbish
@@ -11006,6 +11005,7 @@ frigging
 freeport
 freshly
 frankability
+fasciculi
 fortilage
 fordable
 foresignify
