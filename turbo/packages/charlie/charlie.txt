@@ -13736,7 +13736,6 @@ caxiri
 cinemagoers
 covenanter
 cinemas
-cinematheque
 carsmith
 consumers
 comakers
@@ -20289,6 +20288,7 @@ chemopallidectomy
 cashiers
 catamnesis
 cytostroma
+cinematheque
 communicability
 communicable
 chansons
