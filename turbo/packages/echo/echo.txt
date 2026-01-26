@@ -10750,6 +10750,7 @@ ephemerae
 enclaret
 endorsee
 extort
+evangelically
 ephemeran
 extramoralist
 emer
@@ -11210,7 +11211,6 @@ enmove
 electropuncture
 evangelic
 endoplastron
-evangelically
 erector
 enamellers
 eviler
