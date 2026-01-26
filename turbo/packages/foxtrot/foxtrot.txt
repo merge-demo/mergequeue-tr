@@ -6677,7 +6677,6 @@ frustrations
 folksily
 flame
 felted
-fogless
 fernery
 frounced
 frescoists
@@ -6919,6 +6918,7 @@ finjan
 flatworm
 fluidifying
 flanders
+fogless
 fruitfully
 floriated
 folliculitis
