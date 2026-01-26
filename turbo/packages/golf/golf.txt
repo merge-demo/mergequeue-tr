@@ -6758,6 +6758,7 @@ gravilea
 glycosyls
 gonochorismal
 geryonia
+graze
 garle
 ghazi
 gonococci
@@ -10186,7 +10187,6 @@ grimy
 grammaticize
 gayeties
 gooneys
-graze
 gtd
 giustamente
 gingko
