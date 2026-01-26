@@ -4320,7 +4320,6 @@ gravitated
 garterless
 glittersome
 ganancial
-gigerium
 glycogeny
 gashy
 gutlike
@@ -7369,6 +7368,7 @@ grassy
 gastrohysterectomy
 geometroid
 gothamite
+gigerium
 germiparous
 glassblower
 gummiest
