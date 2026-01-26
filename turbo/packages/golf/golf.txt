@@ -73,6 +73,7 @@ gyascutus
 greffe
 gorcrow
 gloiosiphonia
+gastrorrhaphy
 gandum
 gradationately
 graftproof
@@ -5478,7 +5479,6 @@ graduand
 glucinum
 grumblers
 grummest
-gastrorrhaphy
 gastropoda
 glossophora
 gustier
