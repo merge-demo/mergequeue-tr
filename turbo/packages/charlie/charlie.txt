@@ -7001,6 +7001,7 @@ checkline
 centauridium
 centauries
 constructure
+circumhorizontal
 centauromachy
 cerebromeningeal
 centauromachia
@@ -12937,7 +12938,6 @@ citrean
 cyanid
 collects
 casel
-circumhorizontal
 continentality
 cyanides
 cyanidrosis
