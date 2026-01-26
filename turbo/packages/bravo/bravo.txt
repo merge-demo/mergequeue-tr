@@ -9333,7 +9333,6 @@ biprism
 burgaudine
 blackguardism
 biprong
-baseball
 baume
 bongoist
 begloomed
@@ -16307,6 +16306,7 @@ barogram
 brinjaul
 bottlehead
 browzer
+baseball
 bombycid
 biennial
 brr
