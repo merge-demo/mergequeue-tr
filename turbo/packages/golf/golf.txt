@@ -564,7 +564,6 @@ gravamem
 gadinine
 glucosazone
 gallian
-gitoxigenin
 gimmeringly
 gluneamie
 gorgerins
@@ -1082,6 +1081,7 @@ gonimous
 gilden
 genoas
 ghostliness
+gitoxigenin
 gypsums
 gegenion
 glares
