@@ -645,6 +645,7 @@ gasometry
 gestatorial
 gnarled
 grueling
+greener
 grecophil
 grapewise
 glycerogel
@@ -5279,7 +5280,6 @@ glomerulate
 galactoma
 gabionade
 glassmen
-greener
 galiongee
 glycollate
 glomerulose
