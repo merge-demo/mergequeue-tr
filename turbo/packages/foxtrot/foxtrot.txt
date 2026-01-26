@@ -4233,6 +4233,7 @@ flaxbird
 fleet
 fax
 foreignize
+fictitious
 feverish
 fungose
 flatterers
@@ -10639,7 +10640,6 @@ frugiferous
 flangers
 fewmand
 fatcake
-fictitious
 femininity
 freezingly
 friandise
