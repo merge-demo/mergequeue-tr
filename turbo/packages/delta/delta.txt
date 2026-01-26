@@ -12184,7 +12184,6 @@ dayward
 disrelate
 disfoliaged
 demobilization
-distich
 descendibility
 disherent
 disfortune
@@ -16649,6 +16648,7 @@ dialectologic
 drails
 driech
 derangements
+distich
 drainage
 drained
 drainer
