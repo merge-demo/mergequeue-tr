@@ -8100,6 +8100,7 @@ banyai
 belleeks
 bacteriohemolysin
 bicostate
+bunchily
 billows
 bicrenate
 bicrofarad
@@ -17328,7 +17329,6 @@ bopyrus
 bucoliast
 bunchy
 bunchier
-bunchily
 bunchiness
 buncoing
 berthing
