@@ -3532,6 +3532,7 @@ disfrock
 disseminate
 diethylamine
 disenchanter
+dipleura
 defunctionalize
 defusion
 deformalize
@@ -10267,7 +10268,6 @@ duodenal
 dustpans
 demonograph
 dioicousness
-dipleura
 diolefins
 diomate
 discoglossoid
