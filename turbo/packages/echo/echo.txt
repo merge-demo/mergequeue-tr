@@ -3301,6 +3301,7 @@ eridanid
 enraged
 envisions
 enclose
+elision
 euplastic
 emanational
 enrichingly
@@ -6180,7 +6181,6 @@ engraft
 eccrinology
 entrappingly
 entocondyloid
-elision
 ennoblement
 ennoblements
 euryhaline
