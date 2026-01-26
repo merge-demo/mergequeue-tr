@@ -7629,7 +7629,6 @@ counterpoint
 congregates
 carreta
 cereous
-celioschisis
 cerebellitis
 chark
 cererite
@@ -28327,6 +28326,7 @@ chytra
 circuitor
 crave
 craved
+celioschisis
 craven
 cudbears
 churchmen
