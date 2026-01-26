@@ -1363,7 +1363,6 @@ fearfuller
 fatigable
 favorable
 fatigableness
-forfars
 forespeech
 fidac
 flaggish
@@ -4815,6 +4814,7 @@ formidolous
 fructiparous
 feasting
 furnishing
+forfars
 fodder
 foliums
 froebelism
