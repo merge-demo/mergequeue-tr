@@ -5389,7 +5389,6 @@ friending
 frigefact
 futurity
 fleabiting
-fledgeling
 foxfinger
 freed
 fetis
@@ -5958,6 +5957,7 @@ fixures
 flashness
 floorcloths
 fumid
+fledgeling
 folkways
 fawny
 fluidrachm

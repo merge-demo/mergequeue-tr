@@ -5609,7 +5609,6 @@ gobbling
 growsome
 grubbiest
 gapy
-glaringly
 groma
 glyoxal
 glooms
@@ -9281,6 +9280,7 @@ gaure
 guttera
 grudgingness
 ghosted
+glaringly
 grogshop
 gigmaness
 geosyncline
