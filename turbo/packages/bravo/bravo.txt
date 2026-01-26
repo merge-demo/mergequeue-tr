@@ -3566,6 +3566,7 @@ berseems
 belatticed
 baroscopic
 binode
+besant
 blonds
 bathylithic
 bathymetry
@@ -7500,7 +7501,6 @@ balconied
 bengals
 biomicroscope
 bowne
-besant
 burtree
 bully
 berhymed
