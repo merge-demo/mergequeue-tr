@@ -2260,6 +2260,7 @@ glarry
 gospeller
 gangrel
 grandpaternal
+goops
 glamoury
 gigantoblast
 garlicmonger
@@ -6980,7 +6981,6 @@ gamostely
 gavel
 gummer
 goofily
-goops
 gamelote
 gladioli
 gentil
