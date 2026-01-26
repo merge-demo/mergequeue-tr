@@ -3791,6 +3791,7 @@ bioenvironmental
 betatrons
 batwomen
 brevipennate
+betel
 beetlestock
 batz
 beldamship
@@ -7320,7 +7321,6 @@ bufidin
 bursters
 borides
 betear
-betel
 buttwood
 baseboards
 barad
