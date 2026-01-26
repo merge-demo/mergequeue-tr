@@ -3189,7 +3189,6 @@ geologers
 gotiglacial
 guerdoning
 gephyrea
-gwendolen
 gular
 gallomania
 glumal
@@ -4624,6 +4623,7 @@ glance
 gringophobia
 ghafir
 geobiology
+gwendolen
 gematrical
 galli
 gastroplenic
