@@ -4592,6 +4592,7 @@ bedaub
 ballplayer
 barks
 bundeli
+brittler
 borborus
 bedaubing
 beltlines
@@ -16985,7 +16986,6 @@ beclowned
 buys
 beshivering
 bul
-brittler
 brassworks
 babylonic
 bulb
