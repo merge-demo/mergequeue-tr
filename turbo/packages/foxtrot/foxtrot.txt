@@ -4570,7 +4570,6 @@ fesswise
 fringilliformes
 forcipated
 foliages
-fissidens
 feetage
 fossilify
 fieldstone
@@ -10387,6 +10386,7 @@ fronting
 fizzle
 focus
 feedable
+fissidens
 feared
 frangipanis
 fatalist
