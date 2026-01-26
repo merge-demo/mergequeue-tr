@@ -665,6 +665,7 @@ dubiocrystalline
 dynatrons
 dressership
 damnous
+demibrigade
 dusenwind
 denaturalisation
 damoiseau
@@ -15985,7 +15986,6 @@ dia
 dissimulative
 dimberdamber
 dubba
-demibrigade
 devolutionary
 ditetrahedral
 duodenocholangitis
