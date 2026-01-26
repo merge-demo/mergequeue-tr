@@ -3508,7 +3508,6 @@ gullied
 gaunter
 gracile
 gawish
-gibbsites
 gapo
 gilt
 grogginess
@@ -9740,6 +9739,7 @@ gonangiums
 grumpy
 gloppy
 geratologic
+gibbsites
 gien
 gtt
 gelations
