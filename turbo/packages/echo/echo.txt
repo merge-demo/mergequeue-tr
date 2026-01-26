@@ -2673,6 +2673,7 @@ emborder
 electrotechnician
 enthelminthic
 epistena
+elementality
 exports
 euphrasies
 emphyteuta
@@ -7786,7 +7787,6 @@ enlighteningly
 emblematic
 electropneumatic
 expectably
-elementality
 encyclopaedize
 engjateigur
 excircle
