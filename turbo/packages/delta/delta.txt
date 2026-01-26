@@ -2538,6 +2538,7 @@ disgout
 diplococcus
 declaring
 dwined
+denitrification
 declasses
 dorn
 disjudication
@@ -17294,7 +17295,6 @@ distinguishably
 drolling
 delighter
 drollishness
-denitrification
 drolls
 drome
 dromedarian
