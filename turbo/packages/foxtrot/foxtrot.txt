@@ -8261,7 +8261,6 @@ fortunate
 farmings
 flagellaria
 fractious
-feists
 flump
 frontlets
 forgiving
@@ -11635,6 +11634,7 @@ frizzled
 fineness
 fructoses
 frized
+feists
 ferren
 flyability
 fustiness
