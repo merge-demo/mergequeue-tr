@@ -6458,6 +6458,7 @@ ecru
 evolutes
 ectodermic
 enlister
+expenselessness
 enstar
 enrapturing
 embassies
@@ -7973,7 +7974,6 @@ estab
 eliminand
 enomaniac
 epidermous
-expenselessness
 epineuneuria
 enterocholecystostomy
 evolutionary
