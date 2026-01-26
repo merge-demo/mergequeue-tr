@@ -1043,6 +1043,7 @@ edged
 eidolon
 edger
 edgeshot
+ermani
 edgeway
 embalmment
 ephrathite
@@ -8212,7 +8213,6 @@ ethnomaniac
 exodontic
 effaceable
 extracting
-ermani
 elydoric
 exaltee
 epistasies
