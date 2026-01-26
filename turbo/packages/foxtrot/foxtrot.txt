@@ -6724,7 +6724,6 @@ fleury
 fingerspin
 feedwater
 franciscan
-frized
 fleece
 feering
 foresworn
@@ -11635,6 +11634,7 @@ fetlow
 frizzled
 fineness
 fructoses
+frized
 ferren
 flyability
 fustiness
