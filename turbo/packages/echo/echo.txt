@@ -4370,6 +4370,7 @@ elemi
 encages
 evilsayer
 elatinaceae
+exfodiate
 equipments
 enarched
 eurypygidae
@@ -13143,7 +13144,6 @@ enzymic
 extradicted
 equipendent
 enjeopardy
-exfodiate
 enunciators
 eternality
 episioplasty
