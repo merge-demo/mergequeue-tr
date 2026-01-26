@@ -24298,6 +24298,7 @@ catchpoleship
 cooey
 connach
 complements
+courtier
 catholicization
 cooers
 comprehendible
@@ -29880,7 +29881,6 @@ catarrhed
 crossbreeding
 crosscuts
 coachman
-courtier
 coling
 cuttikin
 corroborated
