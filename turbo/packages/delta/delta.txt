@@ -3124,6 +3124,7 @@ dingey
 doorbell
 dinnery
 defeated
+demisemitone
 downs
 diluviate
 dissimulated
@@ -13673,7 +13674,6 @@ doucin
 dissymmetric
 degender
 disturbances
-demisemitone
 delectability
 dissymmetrically
 danseurs
