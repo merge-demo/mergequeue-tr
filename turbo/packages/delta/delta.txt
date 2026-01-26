@@ -8876,7 +8876,6 @@ dermatitis
 decaisnea
 dice
 diceboard
-dilemi
 daunomycin
 disbud
 dipyramid
@@ -18658,6 +18657,7 @@ devaporation
 deflagrability
 daishikis
 dwayberry
+dilemi
 descendance
 diligently
 dioptral
