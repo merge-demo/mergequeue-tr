@@ -3753,6 +3753,7 @@ foreflipper
 filmet
 filmgoers
 filmic
+firs
 fenagle
 flightiest
 firstlings
@@ -5392,7 +5393,6 @@ futurity
 fleabiting
 fledgeling
 foxfinger
-firs
 freed
 fetis
 fragmentize
