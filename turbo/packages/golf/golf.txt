@@ -9148,7 +9148,6 @@ granulates
 glared
 goosed
 griphite
-glorioles
 golee
 greenhornism
 gripment
@@ -9239,6 +9238,7 @@ glowworm
 grizzly
 gaugeably
 grizzling
+glorioles
 ghosts
 groanful
 gizzened
