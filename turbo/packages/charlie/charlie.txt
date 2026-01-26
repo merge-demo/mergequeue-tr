@@ -16090,6 +16090,7 @@ clifflike
 capacities
 canuck
 cliffs
+cimeter
 creators
 calamints
 cliffside
@@ -23466,7 +23467,6 @@ cornstalk
 civil
 contends
 carotic
-cimeter
 contenement
 contrapuntal
 chimble
