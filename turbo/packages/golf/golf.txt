@@ -6862,7 +6862,6 @@ geneserine
 gangliglia
 grippiness
 gulosity
-gestations
 galacthidrosis
 gaoling
 geochemically
@@ -8148,6 +8147,7 @@ grager
 gironde
 gordiaceous
 granulocytic
+gestations
 gambroon
 glazier
 gemmiparous
