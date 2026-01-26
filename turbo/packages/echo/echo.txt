@@ -13138,7 +13138,6 @@ empaestic
 esocidae
 electrocystoscope
 ejuration
-eternalization
 erymanthian
 euthyneurous
 evolved
@@ -13879,6 +13878,7 @@ epicly
 estuant
 eggcups
 engagingness
+eternalization
 euphenic
 excoriation
 emandibulate
