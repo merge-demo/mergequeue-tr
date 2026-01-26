@@ -1641,6 +1641,7 @@ bathwort
 ballpark
 brasquing
 bandi
+blastomycetes
 bardesanism
 barrulety
 bloodfin
@@ -15700,7 +15701,6 @@ bosoming
 bauxitite
 bluster
 botulismus
-blastomycetes
 burr
 bedog
 beholder
