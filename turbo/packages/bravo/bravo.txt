@@ -10144,6 +10144,7 @@ blackamoors
 blair
 blackbine
 befrets
+bearlet
 blackback
 beadles
 blackballed
@@ -17599,7 +17600,6 @@ burgraves
 bureaucratized
 bowdlerized
 burring
-bearlet
 berberry
 burglarizing
 bradykinetic
