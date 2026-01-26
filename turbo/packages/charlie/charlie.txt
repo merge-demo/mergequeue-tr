@@ -3829,7 +3829,6 @@ carbon
 carbonaceous
 cuter
 cleavability
-ceratite
 crinose
 carbonarist
 carbonating
@@ -18525,6 +18524,7 @@ contingents
 considerateness
 clypeole
 coif
+ceratite
 coiffe
 coiffed
 caustics
