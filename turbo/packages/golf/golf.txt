@@ -4403,7 +4403,6 @@ galziekte
 galuchat
 glamours
 gazangabin
-ginseng
 globigerinidae
 gynura
 goyazite
@@ -10473,6 +10472,7 @@ gynandromorph
 generalising
 granulator
 gule
+ginseng
 guestwise
 gilravage
 gumshoeing
