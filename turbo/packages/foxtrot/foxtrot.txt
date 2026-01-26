@@ -4984,7 +4984,6 @@ factordom
 fullage
 fribourg
 formals
-freelage
 forego
 flick
 flankers
@@ -6082,6 +6081,7 @@ fundmongering
 freebies
 followingly
 freemason
+freelage
 friation
 firestone
 fitchering

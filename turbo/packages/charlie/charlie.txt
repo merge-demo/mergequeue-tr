@@ -4054,6 +4054,7 @@ cleronomy
 caliginous
 cardiacle
 cardiagra
+cataclasm
 celiolymph
 cardiagram
 cardiagraphy
@@ -21866,7 +21867,6 @@ congiary
 coziness
 cancellarian
 confelicity
-cataclasm
 chaetosema
 conventionalist
 cuspated
