@@ -20637,6 +20637,7 @@ abruptiones
 arthropodal
 ambustion
 abmhos
+astrometry
 archaists
 arthropods
 arthrorheumatism
@@ -22428,7 +22429,6 @@ astrometeorology
 apprend
 asterina
 allegorization
-astrometry
 amphiscians
 agric
 animalising

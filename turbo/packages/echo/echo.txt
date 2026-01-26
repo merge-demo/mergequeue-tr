@@ -1402,6 +1402,7 @@ endoral
 epithalamia
 etherified
 essenced
+effusive
 ebrious
 enormousness
 endpiece
@@ -3611,7 +3612,6 @@ enclog
 entamoeba
 enraptures
 encyclopaediac
-effusive
 equivalents
 encanker
 enchainement
