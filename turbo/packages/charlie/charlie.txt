@@ -2503,6 +2503,7 @@ cantorial
 coasters
 candies
 candying
+civilisatory
 candymaker
 cardiophobe
 candymaking
@@ -29121,7 +29122,6 @@ concretization
 charmwise
 catherine
 cellulation
-civilisatory
 crinoidea
 cachexy
 casper
