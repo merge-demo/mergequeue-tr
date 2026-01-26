@@ -21236,6 +21236,7 @@ chinbeak
 chatwood
 concertante
 countersank
+coastline
 concertation
 concertato
 concerted
@@ -26157,7 +26158,6 @@ cosmoplastic
 cosmopoietic
 cosmopolises
 cosmopolitanisation
-coastline
 cosmopolitanise
 charcutiers
 cosmopolitanising
