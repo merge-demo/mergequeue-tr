@@ -12755,7 +12755,6 @@ chump
 chumpa
 conglobing
 chumpaka
-cyclopedic
 communalisation
 chumpish
 convertibleness
@@ -23777,6 +23776,7 @@ contrarotation
 conjunctival
 crofts
 centrifugal
+cyclopedic
 contrascriptural
 contrast
 cosec
