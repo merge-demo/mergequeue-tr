@@ -6333,6 +6333,7 @@ feuded
 foreacquaint
 francois
 florentium
+fanfish
 fluorboric
 frugiferousness
 fluotitanate
@@ -11710,7 +11711,6 @@ flugelhorn
 fasciola
 fernsick
 flaw
-fanfish
 fiancailles
 frowns
 ferruled
