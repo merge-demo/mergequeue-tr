@@ -8994,6 +8994,7 @@ employer
 exophthalmos
 erythema
 evene
+elaterium
 embolimeal
 erythemal
 eclairs
@@ -9909,7 +9910,6 @@ exhaustively
 envelopers
 emmensite
 earthnuts
-elaterium
 enterritoriality
 ephedrin
 eduskunta
