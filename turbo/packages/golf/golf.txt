@@ -3944,7 +3944,6 @@ guano
 guardage
 grassnut
 gunhouse
-grex
 graphometrical
 groaner
 geckoes
@@ -9575,6 +9574,7 @@ gossiphood
 gujrati
 galley
 glandula
+grex
 graphite
 growliest
 gnathobdellida
