@@ -500,6 +500,7 @@ calendaric
 cadences
 cadencies
 cadencing
+cibolero
 casitas
 cadenette
 corregidores
@@ -13074,7 +13075,6 @@ cybernion
 cibol
 conjugacy
 curtailments
-cibolero
 cibols
 columnea
 ciboney
