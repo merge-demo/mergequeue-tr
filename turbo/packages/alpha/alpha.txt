@@ -5688,7 +5688,6 @@ apocopating
 antechurch
 ajax
 angulatosinuous
-agalwoods
 arthrodial
 adiposes
 adulter
@@ -7474,6 +7473,7 @@ albrecht
 allonge
 albricias
 achromic
+agalwoods
 agma
 anchoress
 albuginea
