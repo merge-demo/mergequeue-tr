@@ -9458,7 +9458,6 @@ befitting
 basichromatic
 bluegums
 belabours
-blatant
 biophotometer
 bullyhuff
 brattach
@@ -17943,6 +17942,7 @@ belga
 bushwack
 bonewood
 bathybic
+blatant
 beton
 baryta
 bushwahs
