@@ -15360,7 +15360,6 @@ antikathode
 abatements
 angioparalysis
 adulterate
-antikenotoxin
 abwatt
 antiking
 aposematic
@@ -17022,6 +17021,7 @@ advantageous
 alterer
 apocalyptical
 angulodentate
+antikenotoxin
 apocalyptically
 auslander
 amizilis
