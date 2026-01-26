@@ -11777,7 +11777,6 @@ codder
 colpohysterotomy
 chondrosin
 conopid
-chondrosis
 chondrostean
 chondrostei
 cytosine
@@ -16025,6 +16024,7 @@ clewing
 cly
 cooruptibly
 cliack
+chondrosis
 clubmobile
 clianthus
 clansmanship
