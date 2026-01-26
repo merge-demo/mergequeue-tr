@@ -5950,7 +5950,6 @@ blattering
 babiche
 belting
 basidiomycete
-ballahoo
 besticking
 bedroom
 bufagin
@@ -13909,6 +13908,7 @@ bows
 benzopyran
 bankroll
 bodkinwise
+ballahoo
 bacteriotherapy
 bowshot
 befrounce
