@@ -6696,7 +6696,6 @@ artize
 adenotyphus
 atacameno
 anseres
-anc
 ambrology
 amorphophyte
 accredits
@@ -24284,6 +24283,7 @@ autopepsia
 astrophysical
 autophagous
 autophyte
+anc
 autophytic
 agister
 albespyne
