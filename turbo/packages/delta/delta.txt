@@ -5142,7 +5142,6 @@ deflectionization
 drumbler
 denizenship
 dis
-dellenite
 demicoronal
 deathtraps
 dryopes
@@ -18038,6 +18037,7 @@ dynamitist
 dislocations
 diffusiometer
 duler
+dellenite
 dissimilating
 dull
 discoplacentalia

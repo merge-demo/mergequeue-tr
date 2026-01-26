@@ -1941,7 +1941,6 @@ ejectively
 evehood
 enable
 enfierce
-estivation
 encompany
 endarchy
 engrossingly
@@ -8569,6 +8568,7 @@ excessmen
 ectomeric
 ecalcarate
 epigeous
+estivation
 exceptant
 eskimauan
 extraparenchymal
