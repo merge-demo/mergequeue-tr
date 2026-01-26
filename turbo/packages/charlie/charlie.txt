@@ -8779,7 +8779,6 @@ causeless
 chaprasi
 chapstick
 concurbit
-camelot
 cloudless
 conceptualisation
 chaptalize
@@ -17551,6 +17550,7 @@ colloid
 coccaceous
 coccal
 conducible
+camelot
 coccerin
 corr
 coccic
