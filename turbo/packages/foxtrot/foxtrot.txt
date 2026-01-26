@@ -7070,6 +7070,7 @@ fingerstall
 fadmonger
 forgeability
 fungicide
+fumishing
 foolproof
 foolproofness
 ferret
@@ -11043,7 +11044,6 @@ fontainea
 frontolysis
 fancies
 flanerie
-fumishing
 friendliness
 fermented
 fumuli
