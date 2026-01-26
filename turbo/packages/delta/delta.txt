@@ -2036,7 +2036,6 @@ dothidella
 daimen
 duplicitas
 dichloramin
-decagram
 derivations
 dourness
 decagrams
@@ -11483,6 +11482,7 @@ dissectional
 disconformity
 disseminates
 demiparallel
+decagram
 deepened
 demimondaines
 dado
