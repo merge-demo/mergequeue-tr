@@ -3181,7 +3181,6 @@ entertainingness
 envisagement
 eichbergite
 eureka
-embosomed
 expounders
 equilibristat
 emblemize
@@ -13331,6 +13330,7 @@ electromyograph
 elusively
 eyepoints
 encomendero
+embosomed
 expone
 ephoralty
 exponency

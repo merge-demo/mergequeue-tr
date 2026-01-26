@@ -2209,7 +2209,6 @@ anticentralism
 achroglobin
 auspex
 achroiocythaemia
-apod
 anabasse
 anguinidae
 autoptic
@@ -11796,6 +11795,7 @@ apaise
 anagep
 analcimic
 antar
+apod
 anosphrasia
 ablepharon
 axhammer
