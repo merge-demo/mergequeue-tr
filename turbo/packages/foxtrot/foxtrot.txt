@@ -5563,6 +5563,7 @@ flintiness
 flaglike
 flicker
 fixity
+flagginess
 frapler
 floatable
 fiords
@@ -7422,7 +7423,6 @@ ferredoxin
 firecrest
 finner
 freemen
-flagginess
 forcipation
 flutelike
 forcipressure
