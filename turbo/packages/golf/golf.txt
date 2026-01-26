@@ -4002,6 +4002,7 @@ georgium
 gesan
 greasier
 gilles
+gerenda
 gynostegium
 gromet
 goneness
@@ -7585,7 +7586,6 @@ grabhook
 grabouche
 gripsack
 gigolo
-gerenda
 garpike
 gathic
 gubernacula
