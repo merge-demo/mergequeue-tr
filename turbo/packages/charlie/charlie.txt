@@ -947,6 +947,7 @@ collared
 colpotomy
 calorically
 canterburies
+carted
 calaboose
 cycloidei
 canelle
@@ -4903,7 +4904,6 @@ commutuality
 candlestickward
 cowherbs
 carte
-carted
 curtalax
 cartel
 clione
