@@ -2484,7 +2484,6 @@ candid
 canadianization
 copperish
 conject
-conversive
 candidacy
 candidacies
 collinal
@@ -7879,6 +7878,7 @@ cetaceans
 calpolli
 clericate
 collieshangie
+conversive
 cetane
 cetanes
 cerographies
