@@ -1125,6 +1125,7 @@ bloodnoun
 buxine
 bladish
 bioscience
+brattice
 brownback
 bairnish
 bairnly
@@ -14722,7 +14723,6 @@ bounder
 bridemaiden
 bronzify
 bucked
-brattice
 bratticing
 beggarweed
 boundlessly
