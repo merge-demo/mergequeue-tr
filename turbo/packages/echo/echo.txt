@@ -5078,7 +5078,6 @@ endocyst
 epodic
 enucleate
 experted
-estancieros
 extraditions
 eclogites
 eardrums
@@ -9263,6 +9262,7 @@ elayl
 erratas
 erratic
 erratically
+estancieros
 enantiomorphic
 elite
 ethylhydrocupreine
