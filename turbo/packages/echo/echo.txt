@@ -1877,7 +1877,6 @@ eightball
 eclat
 earthstar
 epurate
-eptatretidae
 entrepeneur
 eurythmy
 erasability
@@ -7928,6 +7927,7 @@ entreater
 epizootiology
 epinikion
 epilogical
+eptatretidae
 entomophaga
 eurystomatous
 eatery
