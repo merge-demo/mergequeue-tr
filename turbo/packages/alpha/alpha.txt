@@ -643,6 +643,7 @@ archibenthos
 abollae
 aboma
 abomasum
+apadana
 abomasus
 alkylize
 abominably
@@ -16538,7 +16539,6 @@ apabhramsa
 appress
 apache
 attained
-apadana
 astronautic
 apaesthetize
 articulatory
