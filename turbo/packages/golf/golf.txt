@@ -94,6 +94,7 @@ gallops
 grutten
 gadabouts
 gualaca
+guanos
 glauber
 gymnopaedes
 galabia
@@ -6072,7 +6073,6 @@ gordiacean
 girja
 gardinol
 gulleries
-guanos
 gyrous
 gurniad
 genuflections
