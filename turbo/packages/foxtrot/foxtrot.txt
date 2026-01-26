@@ -4741,6 +4741,7 @@ fortress
 forereach
 fieldstrip
 fingal
+frontogenesis
 footwalls
 feif
 filipino
@@ -10355,7 +10356,6 @@ fidding
 formicaries
 fantoddish
 fibreware
-frontogenesis
 ferrocalcite
 frumenties
 fleing
