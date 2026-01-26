@@ -4368,6 +4368,7 @@ blowze
 bonspiels
 bombola
 bechuana
+blackpoll
 bespousing
 bellhops
 beclang
@@ -17555,7 +17556,6 @@ bothrops
 burgality
 beaufort
 bouses
-blackpoll
 burgall
 biddance
 burgamot
