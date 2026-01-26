@@ -7450,7 +7450,6 @@ ephemerid
 ewe
 ephemeroptera
 eigne
-extrafocal
 electronographic
 eyess
 extracivically
@@ -10861,6 +10860,7 @@ euphemisation
 enarme
 euphemise
 escapee
+extrafocal
 elected
 euphemising
 enshroud
