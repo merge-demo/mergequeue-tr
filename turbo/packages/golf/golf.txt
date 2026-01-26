@@ -3112,7 +3112,6 @@ gooseherd
 germinative
 geopolitical
 gayer
-grangers
 girlhoods
 guanidins
 guaniferous
@@ -9845,6 +9844,7 @@ groow
 graffer
 galaxy
 guaneide
+grangers
 gharri
 guanethidine
 gallbush
