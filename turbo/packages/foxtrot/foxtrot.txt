@@ -660,7 +660,6 @@ firebreak
 fluviation
 forwarding
 fimetic
-farrand
 featherbedding
 farnesol
 fluotitanic
@@ -2542,6 +2541,7 @@ fretter
 forewarningly
 forequarter
 fluvicoline
+farrand
 flimp
 ferricyanide
 fervency

@@ -9285,7 +9285,6 @@ acellular
 aloetical
 anthracocide
 aloft
-alogy
 afghanets
 allover
 adjudicata
@@ -10913,6 +10912,7 @@ argolian
 ammono
 ammonoidea
 ammonoidean
+alogy
 anaglyphy
 ammonoids
 ammonolitic
