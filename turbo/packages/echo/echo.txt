@@ -2013,6 +2013,7 @@ endocrinotherapy
 epigaea
 erythrosine
 epitrophy
+enthrone
 encurl
 exophasia
 emersion
@@ -7934,7 +7935,6 @@ eatery
 exudates
 exordia
 epimandibular
-enthrone
 epimanikia
 eolopile
 equivocatory

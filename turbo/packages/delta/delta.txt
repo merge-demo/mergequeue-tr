@@ -10815,7 +10815,6 @@ deificatory
 direful
 direfully
 dirempt
-direness
 drusy
 dolly
 developement
@@ -11425,6 +11424,7 @@ deedeed
 drungar
 devaluations
 deadeye
+direness
 duodenogram
 dehaites
 degumming
