@@ -12730,6 +12730,7 @@ euonymus
 emboweling
 engramma
 exopod
+ectosteal
 exopterygotism
 epha
 extol
@@ -13524,7 +13525,6 @@ epigrapher
 elinor
 equipollence
 establishing
-ectosteal
 examine
 erotology
 exteriorization
