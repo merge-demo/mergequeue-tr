@@ -1445,6 +1445,7 @@ fall
 funis
 fattishness
 fother
+flavoprotein
 frimitts
 freewheel
 fatuism
@@ -5132,7 +5133,6 @@ fellifluous
 froom
 flatlands
 fiberized
-flavoprotein
 fatigued
 flywheels
 fjords
