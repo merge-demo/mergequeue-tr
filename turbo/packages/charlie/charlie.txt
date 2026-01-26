@@ -17016,7 +17016,6 @@ cnidarian
 cnidian
 crayoned
 cnidoblast
-cnidocil
 cobbed
 coexplosion
 cortisone
@@ -26309,6 +26308,7 @@ carbonnieux
 costotomy
 costotrachelian
 celebratedness
+cnidocil
 ceteosaur
 chalcomancy
 costovertebral
