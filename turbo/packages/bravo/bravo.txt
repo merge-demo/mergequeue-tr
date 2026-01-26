@@ -1314,6 +1314,7 @@ balanta
 bescorn
 bottine
 balantidic
+buckskin
 balaos
 bashless
 baroquely
@@ -9783,7 +9784,6 @@ backslapped
 buildingless
 boatie
 byssoid
-buckskin
 bedragglement
 bissonata
 bistate
