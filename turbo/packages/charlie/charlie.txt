@@ -2999,7 +2999,6 @@ cantilevers
 cantily
 codenization
 cantina
-canting
 cantingly
 cousins
 cantingness
@@ -25290,6 +25289,7 @@ cornberry
 counterscale
 cornbind
 checkerboards
+canting
 cricking
 chromoisomerism
 cassoulet
