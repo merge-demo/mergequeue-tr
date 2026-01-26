@@ -1257,6 +1257,7 @@ forevouch
 femalize
 fatuate
 footles
+flinging
 fearful
 flatten
 filmdom
@@ -7385,7 +7386,6 @@ flavorsomeness
 flake
 foobar
 finks
-flinging
 furan
 forereport
 forethrift
