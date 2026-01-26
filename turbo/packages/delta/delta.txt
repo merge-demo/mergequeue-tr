@@ -516,7 +516,6 @@ dalliances
 dallied
 discomforter
 disenthralling
-descended
 dallier
 dup
 dextromanual
@@ -13083,6 +13082,7 @@ decampment
 decliners
 devitalised
 drollingly
+descended
 decurrencies
 dulcimers
 drippiest

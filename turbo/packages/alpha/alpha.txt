@@ -8348,6 +8348,7 @@ aliipoe
 alikeness
 alikewise
 abr
+anticodon
 alilonghi
 arnaut
 animadversive
@@ -11373,7 +11374,6 @@ autoclasis
 attaste
 arachnologist
 antipeptone
-anticodon
 alloquy
 anchoveta
 anticreeper
