@@ -329,7 +329,6 @@ gazolyte
 grandpappy
 galabieh
 globulous
-granitite
 galactagog
 galvanoglyph
 gradualist
@@ -5289,6 +5288,7 @@ geometricist
 generalised
 glaucus
 grammatology
+granitite
 guanidine
 glegly
 galactosemia
