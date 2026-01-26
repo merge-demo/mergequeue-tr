@@ -4484,6 +4484,7 @@ flicking
 fissilinguia
 flinder
 fontinalis
+farriery
 fabulist
 fingernails
 flammule
@@ -6434,7 +6435,6 @@ forsteal
 fictor
 fruitages
 fissilingual
-farriery
 flatboat
 fording
 fetishists
