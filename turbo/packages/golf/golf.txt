@@ -3472,7 +3472,6 @@ gyrfalcon
 gigantological
 gestatory
 geriatric
-girasols
 graphonomy
 genipaps
 gnathotheca
@@ -9050,6 +9049,7 @@ gigahertz
 gentianwort
 ghast
 grimme
+girasols
 grillroom
 gleet
 gerent
