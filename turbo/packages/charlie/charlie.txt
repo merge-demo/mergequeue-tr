@@ -7196,6 +7196,7 @@ cinemascope
 comite
 crispen
 contributorily
+corybantic
 centro
 centroacinar
 crawful
@@ -10598,7 +10599,6 @@ chilogrammo
 cubic
 contract
 conservatoire
-corybantic
 cosmopolis
 campanology
 colleterium
