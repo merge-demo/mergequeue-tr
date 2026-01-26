@@ -2337,7 +2337,6 @@ canalise
 crossley
 chorioepitheliomata
 canalises
-canalising
 canalization
 concelebrations
 cinchonamin
@@ -5201,6 +5200,7 @@ charet
 casings
 casiri
 casita
+canalising
 casket
 corpl
 coemanate
