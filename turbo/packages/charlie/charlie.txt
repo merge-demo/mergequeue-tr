@@ -1110,7 +1110,6 @@ cytherea
 cheeser
 calciner
 chomer
-cromwell
 clamworm
 congressman
 columella
@@ -3680,6 +3679,7 @@ conjugation
 chabutra
 caranna
 carap
+cromwell
 carapaces
 carapacho
 chapfallenly
