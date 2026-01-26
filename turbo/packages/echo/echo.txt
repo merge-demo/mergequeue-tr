@@ -5118,7 +5118,6 @@ endocrinic
 existentialistic
 emergencies
 entogenous
-epithem
 enteroptotic
 extrudability
 eisell
@@ -10342,6 +10341,7 @@ ethnohistoric
 equinox
 elephantine
 enquired
+epithem
 explain
 etwite
 electrometallurgical
