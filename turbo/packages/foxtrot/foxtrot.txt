@@ -874,6 +874,7 @@ fantasms
 forsloth
 finked
 flowage
+fibronuclear
 flakes
 flavicant
 forkman
@@ -11177,7 +11178,6 @@ fungicidally
 fungicides
 fungicolous
 frampler
-fibronuclear
 farm
 forktail
 fundungi

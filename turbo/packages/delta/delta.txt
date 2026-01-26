@@ -230,6 +230,7 @@ distrest
 dottore
 devourable
 demonstratively
+diastrophe
 domba
 daggar
 dualities
@@ -5547,7 +5548,6 @@ disaffections
 diabolizing
 desmognathae
 deperdite
-diastrophe
 deperditely
 domain
 distinctest
