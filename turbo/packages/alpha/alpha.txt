@@ -4775,7 +4775,6 @@ acmaea
 aerials
 asuri
 agrologically
-aeric
 alligate
 aerifaction
 adenoses
@@ -18033,6 +18032,7 @@ apricate
 accusingly
 apers
 aprication
+aeric
 association
 aprickle
 apricot
