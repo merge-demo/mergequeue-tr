@@ -2538,7 +2538,6 @@ albumean
 abolitionists
 anchoretic
 aconative
-areasoner
 acondylose
 amicable
 artisan
@@ -19089,6 +19088,7 @@ archplagiarist
 asinine
 airbrick
 arulo
+areasoner
 archpolitician
 archprelate
 archprelatic
