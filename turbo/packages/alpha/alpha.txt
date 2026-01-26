@@ -16768,6 +16768,7 @@ astronauts
 albatros
 amphigonia
 adultoid
+arrouse
 aphydrotropic
 adepts
 aphydrotropism
@@ -20300,7 +20301,6 @@ aquatinted
 arround
 auditual
 arbute
-arrouse
 abhorrers
 austria
 arrowbush
