@@ -4570,7 +4570,6 @@ foliages
 fissidens
 feetage
 fossilify
-fisheye
 fieldstone
 fistuca
 freest
@@ -5246,6 +5245,7 @@ flot
 fissiped
 fanfares
 flavoured
+fisheye
 fondant
 flavourful
 fieldy
