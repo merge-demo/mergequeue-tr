@@ -7320,6 +7320,7 @@ elongate
 epanorthidae
 electrojet
 ephorates
+embrasured
 enravishment
 epapophysis
 easeled
@@ -8003,7 +8004,6 @@ enzymically
 eolian
 endocannibalism
 erotopathic
-embrasured
 epiotic
 eutannin
 exopterygota
