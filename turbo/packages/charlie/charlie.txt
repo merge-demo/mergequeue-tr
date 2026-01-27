@@ -27285,7 +27285,6 @@ countrywoman
 clap
 countrywomen
 chymification
-countship
 coupage
 coupe
 couped
@@ -29109,6 +29108,7 @@ craniota
 codettas
 commercialise
 cicadae
+countship
 carryover
 capered
 citrylidene
