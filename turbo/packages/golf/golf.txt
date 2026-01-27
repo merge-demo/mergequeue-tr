@@ -3886,7 +3886,6 @@ glossem
 geminated
 glens
 glossocarcinoma
-grossly
 geoscopy
 gubbertush
 goustrous
@@ -4139,6 +4138,7 @@ gastroarthritis
 goodly
 guaranin
 gemmule
+grossly
 gainful
 geographical
 glossophaga

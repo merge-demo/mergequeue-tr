@@ -1607,7 +1607,6 @@ economists
 epiblastic
 egressed
 egresses
-exequial
 extraphysiological
 expounded
 egret
@@ -9488,6 +9487,7 @@ endbrain
 eogaean
 euryalean
 enghosted
+exequial
 excurved
 eupneas
 essayistic
