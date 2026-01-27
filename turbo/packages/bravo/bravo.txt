@@ -1309,6 +1309,7 @@ bedbug
 boleite
 bacterioprecipitin
 balearian
+beglobed
 beltings
 bate
 binational
@@ -14544,7 +14545,6 @@ birthrates
 broma
 binman
 branchiness
-beglobed
 butterburr
 blockage
 braziery
