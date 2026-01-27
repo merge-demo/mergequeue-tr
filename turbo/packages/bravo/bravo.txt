@@ -1325,6 +1325,7 @@ barbed
 balases
 balat
 basellaceous
+bedroll
 balatron
 benzaldiphenyl
 boser
@@ -7616,7 +7617,6 @@ bricole
 brobdingnag
 bewilderedly
 bemadams
-bedroll
 boasting
 bollixes
 bribri
