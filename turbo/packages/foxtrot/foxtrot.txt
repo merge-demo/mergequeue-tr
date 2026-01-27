@@ -8898,7 +8898,6 @@ folktales
 fermental
 faroeish
 flimsily
-formularism
 favorers
 frenchy
 fusiformis
@@ -11203,6 +11202,7 @@ fippence
 futuric
 fasciolae
 fictil
+formularism
 falderol
 frittata
 firer
