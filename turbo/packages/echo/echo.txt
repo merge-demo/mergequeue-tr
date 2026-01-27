@@ -3825,7 +3825,6 @@ emerge
 ecart
 escapology
 emerged
-edulcorated
 echinostomiasis
 emergentness
 espriella
@@ -9691,6 +9690,7 @@ evacue
 esquisse
 echoed
 extima
+edulcorated
 easing
 elegiast
 escry
