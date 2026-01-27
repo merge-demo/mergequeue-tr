@@ -12404,6 +12404,7 @@ boonk
 backtack
 bombonne
 bombora
+bowlmaker
 beswarmed
 bombus
 bombardelle
@@ -13083,7 +13084,6 @@ borers
 barajillo
 bangling
 brewers
-bowlmaker
 branders
 bedusk
 brothels
