@@ -1759,7 +1759,6 @@ eyeservant
 eyeshade
 enticingness
 euglenales
-enterocentesis
 echinital
 evitation
 everliving
@@ -2404,6 +2403,7 @@ erythroid
 episcopalianize
 echinostoma
 ensorcell
+enterocentesis
 events
 entrail
 ecraseur
