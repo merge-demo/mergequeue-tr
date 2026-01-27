@@ -817,7 +817,6 @@ forcible
 flautists
 frisk
 fowl
-fermate
 frizado
 flatulently
 frowsy
@@ -5808,6 +5807,7 @@ fluochloride
 fattening
 fervidly
 firepower
+fermate
 fierasfer
 fodders
 flounders
