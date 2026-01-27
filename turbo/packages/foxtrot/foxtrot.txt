@@ -3979,7 +3979,6 @@ foramina
 fishery
 forleft
 fingersmith
-ferison
 flushy
 furrow
 fabricated
@@ -11094,6 +11093,7 @@ functionnaire
 functors
 formational
 foulard
+ferison
 functus
 furivae
 fessewise

@@ -5877,6 +5877,7 @@ allopatrically
 adolph
 agenting
 agentives
+armadillidium
 adducing
 archprototype
 agrionid
@@ -7342,7 +7343,6 @@ ariboflavinosis
 albarium
 albas
 austin
-armadillidium
 alcoved
 animalise
 africander
