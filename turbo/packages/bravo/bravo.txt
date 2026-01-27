@@ -6170,6 +6170,7 @@ bushlands
 bravo
 bisexuals
 blackthorn
+boatage
 balsamweed
 baccarat
 bromvoel
@@ -11660,7 +11661,6 @@ boasts
 bryologist
 birthbed
 bosket
-boatage
 barspoon
 boatbuilding
 boathouse
