@@ -2073,6 +2073,7 @@ antidromic
 achenes
 amorua
 alphabets
+anisometric
 argon
 aeropulse
 anhalonidine
@@ -13322,7 +13323,6 @@ anthelminthic
 apoturmeric
 aeroballistic
 agamidae
-anisometric
 antimerger
 abcess
 anorexic
