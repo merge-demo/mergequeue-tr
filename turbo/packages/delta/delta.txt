@@ -3774,7 +3774,6 @@ declaredness
 diarrhoea
 drivelers
 disunities
-deigned
 diwan
 disunified
 durani
@@ -11448,6 +11447,7 @@ dyotheletic
 dividuous
 dilatingly
 demythologising
+deigned
 discography
 digredience
 dekaliter
