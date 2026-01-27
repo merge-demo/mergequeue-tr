@@ -2289,7 +2289,6 @@ fenestrated
 fanglement
 fistulana
 fatherlessness
-faunule
 fifteenfold
 fondness
 fellowess
@@ -8480,6 +8479,7 @@ forminate
 forming
 forwoden
 flunkydom
+faunule
 fistiana
 flowages
 fetiparous
