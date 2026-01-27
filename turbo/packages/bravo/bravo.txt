@@ -13292,6 +13292,7 @@ birdmen
 blennies
 botanic
 bobbery
+bromeliaceous
 backlet
 botanica
 bandoleered
@@ -15692,7 +15693,6 @@ broadcaster
 bullyragging
 bonnetieres
 bid
-bromeliaceous
 bacillosis
 bacteriologist
 brutage
