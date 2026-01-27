@@ -7973,6 +7973,7 @@ dimensive
 dookit
 dolichofacial
 delicatessens
+desaminase
 dionaea
 dishonoured
 discording
@@ -15912,7 +15913,6 @@ distileries
 dossmen
 dissemblies
 decamerous
-desaminase
 downcried
 dziggetai
 dewaxes
