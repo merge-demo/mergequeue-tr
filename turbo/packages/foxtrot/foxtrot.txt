@@ -1325,6 +1325,7 @@ flear
 formless
 flirtation
 fluoridised
+feinted
 flookan
 flout
 functionality
@@ -3753,7 +3754,6 @@ flightiest
 firstlings
 fissurella
 filming
-feinted
 firnification
 flannelling
 formativeness
