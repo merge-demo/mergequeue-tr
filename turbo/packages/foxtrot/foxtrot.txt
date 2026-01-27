@@ -3397,6 +3397,7 @@ floc
 flecker
 featherlike
 fenestella
+foreshoe
 forestate
 fielders
 forset
@@ -7933,7 +7934,6 @@ fistula
 foreshock
 fluidifier
 formoxime
-foreshoe
 filicidal
 foreshortened
 fenerate
