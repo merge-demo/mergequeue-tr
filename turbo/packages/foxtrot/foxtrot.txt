@@ -2471,6 +2471,7 @@ furison
 fiorin
 funs
 fernshaw
+foreacquaint
 fordo
 fencibles
 feck
@@ -6325,7 +6326,6 @@ fluoran
 fennish
 fluorane
 feuded
-foreacquaint
 francois
 florentium
 fanfish
