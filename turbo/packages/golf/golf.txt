@@ -5972,6 +5972,7 @@ goldbricker
 gibetting
 grin
 gentry
+goney
 gusting
 glossoplasty
 greenshank
@@ -10415,7 +10416,6 @@ gum
 gluiness
 gyneolatry
 geologician
-goney
 gardbrace
 groundsill
 gilia
