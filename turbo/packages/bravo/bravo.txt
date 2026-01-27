@@ -5424,6 +5424,7 @@ boarstaff
 bigarreau
 behaved
 bronchium
+barrulee
 behaver
 bicollateral
 behaving
@@ -7827,7 +7828,6 @@ bhagavata
 biarchy
 biarcuate
 biarticulate
-barrulee
 braise
 breccia
 bluings
