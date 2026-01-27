@@ -4157,6 +4157,7 @@ falsehearted
 firebrick
 foulmouthed
 foretokening
+fand
 firebug
 flagstones
 fado
@@ -9434,7 +9435,6 @@ frequenting
 fraudfully
 fyces
 forearmed
-fand
 fohat
 fraudulent
 fraudulentness
