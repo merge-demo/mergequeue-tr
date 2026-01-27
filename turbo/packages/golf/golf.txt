@@ -1585,7 +1585,6 @@ ghazism
 goldie
 gillygaupus
 gayals
-gl
 graphology
 guiltily
 gunz
@@ -3318,6 +3317,7 @@ goldenmouth
 gobio
 gullion
 genethliacism
+gl
 gang
 grooverhead
 glossologies
