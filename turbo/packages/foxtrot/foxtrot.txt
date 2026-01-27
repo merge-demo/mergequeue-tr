@@ -2191,7 +2191,6 @@ facetious
 facilitated
 febricitation
 farraginous
-fantasmagoria
 fixe
 fogged
 feminal
@@ -8303,6 +8302,7 @@ foryield
 furnished
 fautorship
 foxtrot
+fantasmagoria
 fodge
 flytraps
 fusate
