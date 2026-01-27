@@ -2914,7 +2914,6 @@ gonocyte
 gallinulelike
 greenside
 gombos
-gingerous
 gabelled
 gee
 gelose
@@ -7648,6 +7647,7 @@ gleary
 gentlewomanliness
 gardeny
 grader
+gingerous
 grouseward
 glovey
 gradient
