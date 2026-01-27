@@ -9523,6 +9523,7 @@ frederik
 futilitarian
 filthier
 freightyard
+fletcherite
 forwalk
 foolmonger
 fluorid
@@ -10367,7 +10368,6 @@ flammable
 foreboard
 feldspathization
 flashcube
-fletcherite
 formatting
 frontierless
 fireproofness
