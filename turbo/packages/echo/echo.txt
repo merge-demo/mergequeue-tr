@@ -1530,7 +1530,6 @@ encarnadine
 esthesiogeny
 engloom
 emarginately
-epistolographer
 easies
 exhale
 emportment
@@ -6795,6 +6794,7 @@ elaphine
 enrooted
 eelware
 entoil
+epistolographer
 eggler
 entom
 extender
