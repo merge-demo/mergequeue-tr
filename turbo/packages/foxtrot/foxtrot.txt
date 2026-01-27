@@ -3343,6 +3343,7 @@ fascili
 firestop
 flamines
 foulnesses
+ferrule
 fieldleft
 ferrean
 freewomen
@@ -8268,7 +8269,6 @@ freeholders
 forefronts
 fraps
 foxglove
-ferrule
 fosterage
 faultiness
 freestyler
