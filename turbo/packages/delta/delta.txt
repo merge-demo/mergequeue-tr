@@ -3531,6 +3531,7 @@ disbelieve
 disfrock
 disseminate
 diethylamine
+decarchy
 disenchanter
 dipleura
 defunctionalize
@@ -8618,7 +8619,6 @@ denatured
 demagnetisation
 diarrhea
 dows
-decarchy
 decompensated
 diarrhoeal
 downbeard
