@@ -8363,7 +8363,6 @@ delocalizing
 digestant
 disniche
 dialysis
-digestional
 debauchedness
 diduction
 downlooked
@@ -9589,6 +9588,7 @@ deepmost
 dihedron
 dhootie
 dodecatemory
+digestional
 discipleship
 dishumour
 diplobacterium
