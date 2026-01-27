@@ -443,7 +443,6 @@ engager
 escapements
 erf
 eunuchal
-eveners
 enanthesis
 expediteness
 evector
@@ -8053,6 +8052,7 @@ ego
 ektodynamorphic
 endamebic
 earthworks
+eveners
 epineural
 euphrasy
 exosporal
