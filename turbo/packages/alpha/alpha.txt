@@ -11444,7 +11444,6 @@ antiplenist
 admirers
 airlight
 abody
-amps
 assigner
 approximant
 adversive
@@ -20807,6 +20806,7 @@ autophobia
 alicant
 alienors
 artlessness
+amps
 animalcule
 aet
 astrantia
