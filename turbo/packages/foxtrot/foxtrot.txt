@@ -3286,6 +3286,7 @@ forevermore
 foreward
 flyting
 flasket
+factories
 foreconscious
 facewise
 ferrohydrocyanic
@@ -3590,7 +3591,6 @@ flensers
 fragmentised
 fableland
 fundal
-factories
 fogus
 fanwort
 figurize
