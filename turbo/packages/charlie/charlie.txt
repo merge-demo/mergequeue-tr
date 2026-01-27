@@ -2109,7 +2109,6 @@ coniology
 campanologist
 capillaceous
 corrober
-campanologists
 cytophysics
 counterassertion
 ceilingward
@@ -22355,6 +22354,7 @@ congressist
 casettes
 congresswomen
 congridae
+campanologists
 centigramme
 crescent
 cyclothymia
