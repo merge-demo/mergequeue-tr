@@ -6210,6 +6210,7 @@ barbless
 buchmanism
 befinger
 beadhouse
+becall
 biliary
 boarishly
 breedbate
@@ -14818,7 +14819,6 @@ belletristic
 brazilite
 buffed
 bloodweed
-becall
 bobization
 brickmaker
 breached
