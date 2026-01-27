@@ -3213,7 +3213,6 @@ grammies
 geraniums
 genipa
 gebur
-galoping
 giron
 goldenseal
 girtonian
@@ -5069,6 +5068,7 @@ greesagh
 gte
 ginnel
 gourmander
+galoping
 geyan
 glycocholic
 glaga
