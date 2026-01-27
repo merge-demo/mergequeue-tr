@@ -18176,7 +18176,6 @@ cistophori
 cervulus
 coetaneous
 coeternal
-coeternity
 caninity
 coeval
 camorrist
@@ -25616,6 +25615,7 @@ corpsbruder
 corpse
 corpses
 creeshy
+coeternity
 cecity
 corpsy
 cleverness
