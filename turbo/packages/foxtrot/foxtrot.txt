@@ -893,6 +893,7 @@ forold
 flyaways
 faventine
 flamfew
+flaff
 forcepses
 fulmars
 fingerlet
@@ -8324,7 +8325,6 @@ folderol
 feastful
 fewsome
 forbidden
-flaff
 fulminates
 forkier
 fumewort
