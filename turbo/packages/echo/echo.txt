@@ -5855,7 +5855,6 @@ engraver
 expalpate
 entree
 engysseismology
-ethiops
 episyntheton
 estamp
 erasures
@@ -11195,6 +11194,7 @@ encapsuled
 engraving
 endoplastular
 eophyton
+ethiops
 enactment
 eradiated
 evangeliarium
