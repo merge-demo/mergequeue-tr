@@ -2568,7 +2568,6 @@ erucic
 escapeful
 ethchlorvynol
 everest
-evaporator
 enhaloed
 embryonate
 epitomising
@@ -12779,6 +12778,7 @@ employable
 exorcizement
 encodings
 elasmobranchiate
+evaporator
 expended
 enmask
 exorcizer
