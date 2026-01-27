@@ -6919,7 +6919,6 @@ bibliopolistic
 beshade
 beslaver
 balmony
-blindfold
 beshadowed
 beauxite
 boggled
@@ -8121,6 +8120,7 @@ biculturalism
 billeters
 bicursal
 bailments
+blindfold
 bicuspid
 bruxism
 brast
