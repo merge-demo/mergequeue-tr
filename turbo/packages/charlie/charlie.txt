@@ -4620,7 +4620,6 @@ caroling
 catholical
 carolinians
 carolitic
-carditic
 caoba
 caroller
 carols
@@ -30023,6 +30022,7 @@ complaintive
 crottle
 crouch
 crouchant
+carditic
 chilognathan
 collare
 crouchback
