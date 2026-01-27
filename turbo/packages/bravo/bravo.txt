@@ -2226,7 +2226,6 @@ barba
 bayards
 boneheadedness
 bromize
-barbados
 broggle
 blobs
 badineur
@@ -5716,6 +5715,7 @@ branle
 beliefful
 bikram
 bahts
+barbados
 blastule
 bracted
 bebeast

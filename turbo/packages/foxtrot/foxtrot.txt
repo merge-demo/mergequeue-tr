@@ -1538,7 +1538,6 @@ fattenable
 fauntleroy
 filmdoms
 freely
-forfairn
 faurd
 foreseat
 feedbox
@@ -6584,6 +6583,7 @@ forwrap
 forgave
 formulaically
 femalely
+forfairn
 focsle
 fineish
 feminism
