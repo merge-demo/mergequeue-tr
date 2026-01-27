@@ -3578,6 +3578,7 @@ biggonet
 bathing
 bastinadoes
 beckoning
+burred
 bridgekeeper
 balon
 barricade
@@ -15686,7 +15687,6 @@ batterable
 buffone
 barrenest
 bulkheads
-burred
 belemnid
 benzoazurine
 baboons
