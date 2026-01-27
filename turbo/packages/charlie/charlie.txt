@@ -25025,6 +25025,7 @@ cordonnet
 chere
 cordons
 cords
+channeller
 craftmanship
 courteously
 crosscourt
@@ -31920,7 +31921,6 @@ cwierc
 carbolineate
 coleopttera
 cotyledonar
-channeller
 czarevitch
 czarevna
 czarevnas
