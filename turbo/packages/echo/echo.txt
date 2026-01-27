@@ -9355,7 +9355,6 @@ effecter
 educable
 escalating
 escalations
-enkindle
 expectedly
 earmindedness
 escalator
@@ -11051,6 +11050,7 @@ episcopally
 estheria
 epileptically
 engluts
+enkindle
 epicormic
 eusebian
 edifies
