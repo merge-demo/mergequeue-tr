@@ -5168,7 +5168,6 @@ expedition
 endogenous
 enlistment
 electo
-embroider
 eleme
 existibility
 ecchymoses
@@ -13172,6 +13171,7 @@ ethnicize
 euryalus
 escapisms
 espiegleries
+embroider
 earclip
 epigynous
 enhancive
