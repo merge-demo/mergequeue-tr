@@ -1801,7 +1801,6 @@ feathertop
 flabra
 fourteenthly
 flutina
-foredoes
 flannelet
 featherwing
 featherwise
@@ -5058,6 +5057,7 @@ fun
 fuligo
 fundless
 fumettes
+foredoes
 frsikets
 flagboat
 fishweir
