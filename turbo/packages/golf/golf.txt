@@ -6508,6 +6508,7 @@ graceless
 galls
 glossoplegia
 granduncles
+gelseminic
 gromwell
 gamelans
 gleeman
@@ -9088,7 +9089,6 @@ grissel
 gingerol
 gadite
 glycuronide
-gelseminic
 gummers
 grinders
 gobonated

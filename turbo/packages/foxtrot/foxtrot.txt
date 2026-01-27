@@ -4677,7 +4677,6 @@ friand
 fluidram
 formula
 forefeels
-forlese
 fucales
 fathomless
 firesideship
@@ -9618,6 +9617,7 @@ foresides
 fathers
 fourths
 floyt
+forlese
 freezy
 fubbed
 fromage
