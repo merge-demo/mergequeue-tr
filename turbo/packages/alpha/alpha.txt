@@ -10650,7 +10650,6 @@ arccosine
 avoider
 angiospermic
 agraffe
-arenulous
 apostoile
 amylenol
 antiopiumist
@@ -24171,6 +24170,7 @@ adducted
 assonantic
 anthozoa
 achroodextrinase
+arenulous
 awakens
 autokinesy
 abastard
