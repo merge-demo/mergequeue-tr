@@ -81,7 +81,6 @@ faces
 folkright
 flattening
 flowerfence
-foliobranch
 fiendish
 funambulating
 falsest
@@ -1268,6 +1267,7 @@ fermentative
 flutteringly
 farseeing
 figgier
+foliobranch
 finalized
 faecula
 forenoon
