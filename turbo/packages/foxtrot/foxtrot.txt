@@ -3281,7 +3281,6 @@ fideicommissaries
 fungus
 flirtling
 finesser
-forevermore
 foreward
 flyting
 flasket
@@ -3715,6 +3714,7 @@ fluoroscopists
 fake
 fulcral
 forkiness
+forevermore
 flotilla
 formanilide
 foregirth
