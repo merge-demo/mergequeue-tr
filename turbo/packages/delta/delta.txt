@@ -9013,7 +9013,6 @@ dicots
 dicoumarin
 disembed
 depravate
-deaconhood
 dermatoplast
 dicoumarol
 distantness
@@ -14014,6 +14013,7 @@ devisors
 dossals
 dentoid
 diphosphide
+deaconhood
 donary
 dependably
 distracter
