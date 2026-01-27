@@ -726,7 +726,6 @@ frettier
 favourably
 foraminulose
 fisherwoman
-faming
 foreladies
 fortify
 fatheadedness
@@ -5599,6 +5598,7 @@ flummydiddle
 faddiest
 florescent
 flightier
+faming
 facund
 foetor
 forepassed
