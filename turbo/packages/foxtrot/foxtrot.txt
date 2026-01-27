@@ -6476,7 +6476,6 @@ farweltered
 fip
 failsoft
 fused
-frapping
 forspread
 furcular
 foldskirt
@@ -9160,6 +9159,7 @@ fumously
 firebugs
 fertilising
 forgivers
+frapping
 fascinatress
 freeborn
 fragmentariness
