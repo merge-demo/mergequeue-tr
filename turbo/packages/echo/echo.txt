@@ -3257,6 +3257,7 @@ eugranitic
 eunice
 ecumenicize
 eluvies
+erasure
 euphonize
 ethopoeia
 ellwand
@@ -6196,7 +6197,6 @@ etiologic
 enological
 execs
 ellipsoid
-erasure
 exodist
 enophthalmus
 enorm
