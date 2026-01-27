@@ -643,6 +643,7 @@ gestatorial
 gnarled
 grueling
 greener
+gymnocarpic
 grecophil
 grapewise
 glycerogel
@@ -6012,7 +6013,6 @@ ganevs
 guerre
 gabbroid
 gallocyanin
-gymnocarpic
 giesel
 gunate
 glasshouse
