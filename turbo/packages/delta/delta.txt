@@ -11901,7 +11901,6 @@ dramm
 danism
 decalescence
 discuses
-disease
 dentalisation
 defectively
 deductile
@@ -12730,6 +12729,7 @@ daut
 depreciating
 diphenol
 dishonesty
+disease
 domicilement
 dyslysin
 disoxidate
