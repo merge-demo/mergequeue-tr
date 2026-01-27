@@ -2376,7 +2376,6 @@ galloots
 ghiordes
 gadwall
 greenboard
-ganisters
 gedds
 grampa
 give
@@ -7027,6 +7026,7 @@ gliocyte
 gutturopalatal
 gelidity
 ganglioneure
+ganisters
 goosegog
 glycerizin
 guignardia
