@@ -6506,7 +6506,6 @@ feedboard
 flutterment
 flimflammed
 fluviolacustrine
-fleetly
 funereal
 foretack
 feudalization
@@ -10021,6 +10020,7 @@ frogskin
 fortune
 fibrocystoma
 forehandedly
+fleetly
 favors
 fringilline
 freedom
