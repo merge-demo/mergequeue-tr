@@ -7164,7 +7164,6 @@ forthteller
 footless
 footlights
 fratries
-ficoides
 farer
 frockless
 frisesomorum
@@ -11515,6 +11514,7 @@ frictional
 fuscohyaline
 fundamentally
 furthered
+ficoides
 foretopmen
 flixweed
 finalis
