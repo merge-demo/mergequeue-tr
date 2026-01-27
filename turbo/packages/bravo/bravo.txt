@@ -4956,6 +4956,7 @@ badchan
 bouncing
 bitriseptate
 braggite
+bowie
 boatel
 bandy
 beek
@@ -13872,7 +13873,6 @@ biduous
 boathook
 bang
 bowheads
-bowie
 balr
 blatter
 beanfeast

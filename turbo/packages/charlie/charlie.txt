@@ -6531,7 +6531,6 @@ cholecystorrhaphy
 clannish
 commissaries
 caxon
-cretaceous
 caxton
 confluence
 caxtonian
@@ -15931,6 +15930,7 @@ clergywoman
 clementine
 culverfoot
 clerical
+cretaceous
 clericalists
 crumbum
 clericality
