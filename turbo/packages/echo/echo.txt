@@ -7109,6 +7109,7 @@ electrophysiologically
 epithesis
 energic
 envious
+expressivity
 expelling
 esophagismus
 epitaxially
@@ -13210,7 +13211,6 @@ enjamb
 embale
 expires
 esteemable
-expressivity
 eastertide
 encephala
 echinite
