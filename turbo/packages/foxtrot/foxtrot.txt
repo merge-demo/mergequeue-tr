@@ -7158,7 +7158,6 @@ footier
 frontwise
 fleerer
 frore
-flocoon
 formedon
 flection
 faecalith
@@ -8803,6 +8802,7 @@ fossulae
 flatfishes
 featureless
 fostered
+flocoon
 fator
 figeter
 fluidities
