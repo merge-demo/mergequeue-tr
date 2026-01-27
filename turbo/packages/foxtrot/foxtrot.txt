@@ -380,7 +380,6 @@ fieldfight
 fluorides
 fiercen
 ferrymen
-furoid
 fearer
 filicauline
 forbid
@@ -5130,6 +5129,7 @@ foretooth
 floccular
 fellifluous
 froom
+furoid
 flatlands
 fiberized
 fatigued
