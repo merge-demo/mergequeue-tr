@@ -4111,7 +4111,6 @@ floscule
 firca
 foisted
 ferrosilicon
-fluorometry
 freeheartedly
 fireback
 fumeuses
@@ -7933,6 +7932,7 @@ fistula
 foreshock
 fluidifier
 formoxime
+fluorometry
 filicidal
 foreshortened
 fenerate
