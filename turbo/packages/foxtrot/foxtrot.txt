@@ -4857,7 +4857,6 @@ fives
 fibrinate
 fellage
 forbears
-freedmen
 forwent
 fraternalism
 fulvidness
@@ -9655,6 +9654,7 @@ facty
 femoral
 fingerroot
 functorial
+freedmen
 filch
 filosofe
 fanit
