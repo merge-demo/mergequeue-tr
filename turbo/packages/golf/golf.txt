@@ -3049,6 +3049,7 @@ gametogenous
 garnetz
 gossipper
 giant
+girons
 gnash
 graphiter
 greensauce
@@ -7192,7 +7193,6 @@ gizzen
 gliadines
 galahad
 gonoblastidial
-girons
 grabbler
 globulose
 gallanted
