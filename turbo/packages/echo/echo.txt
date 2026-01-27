@@ -11503,7 +11503,6 @@ exhaling
 eserin
 extractable
 elegantly
-evincing
 entoblast
 esophagus
 evincive
@@ -13901,6 +13900,7 @@ environments
 ectobronchium
 eucalyptus
 enviers
+evincing
 externalizing
 extraessential
 espied

@@ -9372,7 +9372,6 @@ amanda
 alphabetized
 alphabetizer
 auditioned
-antineoplastic
 adamancies
 angulatogibbous
 anastomoses
@@ -9975,6 +9974,7 @@ autotrophy
 addict
 amplitudes
 altoun
+antineoplastic
 amazer
 accented
 antihelixes
