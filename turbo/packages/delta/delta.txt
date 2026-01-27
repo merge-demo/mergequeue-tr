@@ -10624,7 +10624,6 @@ doon
 discoveries
 diplopod
 diplopoda
-discorrespondent
 delocalization
 dactylopteridae
 dissociates
@@ -17623,6 +17622,7 @@ dance
 diffinity
 dopants
 democratism
+discorrespondent
 diaphragms
 destructibleness
 dichotomisation
