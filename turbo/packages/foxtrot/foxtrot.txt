@@ -1145,7 +1145,6 @@ fennels
 flexures
 flippers
 forefends
-fastland
 funje
 flockling
 fimbriodentate
@@ -7240,6 +7239,7 @@ fameuse
 fancysick
 fortlet
 federalise
+fastland
 footwarmer
 focalized
 frater
