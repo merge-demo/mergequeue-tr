@@ -12590,7 +12590,6 @@ eatableness
 embezzlement
 exochorion
 enterocolitis
-eaglestone
 embrawn
 epsomite
 euphon
@@ -14025,6 +14024,7 @@ elderbrotherly
 extrasocial
 ectophyte
 eshin
+eaglestone
 enripen
 escars
 embittered
