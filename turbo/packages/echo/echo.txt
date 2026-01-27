@@ -1870,7 +1870,6 @@ einkorn
 einsteinian
 encomiast
 epimyocardium
-eyoty
 elapsed
 endamage
 everwho
@@ -11337,6 +11336,7 @@ evaluating
 emergers
 extenders
 exigency
+eyoty
 ethnohistory
 exotropic
 electrodesiccation

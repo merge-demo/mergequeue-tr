@@ -1145,6 +1145,7 @@ calcitic
 calcitrant
 calcitrate
 cataphatic
+catsos
 claiborne
 caryopsides
 cesareans
@@ -6088,7 +6089,6 @@ capitate
 cats
 catskill
 catso
-catsos
 carloadings
 catspaw
 catstane
