@@ -1476,7 +1476,6 @@ granolith
 girllike
 grotesque
 garner
-gasher
 galaginae
 glumly
 gunmaker
@@ -5480,6 +5479,7 @@ graduand
 glucinum
 grumblers
 grummest
+gasher
 gastropoda
 glossophora
 gustier
