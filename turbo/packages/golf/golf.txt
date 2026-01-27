@@ -4232,6 +4232,7 @@ goby
 gynecocrat
 greenheaded
 galidictis
+gulae
 gunshots
 gleamed
 gratuities
@@ -6645,7 +6646,6 @@ genuflected
 goniatites
 guttler
 grint
-gulae
 growable
 gromatic
 geochronometry
