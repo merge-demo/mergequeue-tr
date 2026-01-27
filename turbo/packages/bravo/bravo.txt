@@ -2729,6 +2729,7 @@ buoyantly
 bienne
 blitum
 betrothals
+beetrooty
 bloodstanch
 balandrana
 brasen
@@ -8594,7 +8595,6 @@ brumes
 barricading
 bittersweetly
 billboards
-beetrooty
 bandikai
 beshawled
 billbug
