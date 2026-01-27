@@ -12446,6 +12446,7 @@ exaltations
 exhumate
 egoisms
 elusoriness
+echoic
 esquire
 evacuative
 eighteen
@@ -12850,7 +12851,6 @@ erythrolysis
 eupomatia
 ern
 ecphorization
-echoic
 emendated
 extinctor
 enumerations
