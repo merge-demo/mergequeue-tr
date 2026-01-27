@@ -9036,7 +9036,6 @@ diplomatist
 dernier
 drinkproof
 dictaphones
-dabbers
 deglycerine
 disentangler
 dictatingly
@@ -15771,6 +15770,7 @@ deflorations
 dorsa
 dentiparous
 demountability
+dabbers
 dramatizer
 diallela
 dorsabdominal
