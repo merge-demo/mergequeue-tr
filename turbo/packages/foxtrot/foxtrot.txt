@@ -5573,7 +5573,6 @@ fuming
 fmt
 flyer
 forfar
-fingerwise
 fucuses
 federal
 frontonasal
@@ -10716,6 +10715,7 @@ fortran
 forelaid
 fil
 fellmongering
+fingerwise
 flavedo
 frutescence
 fetter
