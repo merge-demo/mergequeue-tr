@@ -8188,6 +8188,7 @@ geometricize
 grandfatherless
 gestative
 gooseneck
+govern
 graphemically
 gris
 gasconading
@@ -8614,7 +8615,6 @@ guideposts
 goldfielder
 gaslight
 greened
-govern
 gradal
 greyish
 gemsbok
