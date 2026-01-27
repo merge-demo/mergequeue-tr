@@ -894,7 +894,6 @@ episedia
 encomiastic
 endosporous
 eriodictyon
-ectotoxin
 exampled
 exegesist
 epilogistic
@@ -9320,6 +9319,7 @@ eructative
 eruction
 emersions
 eruditical
+ectotoxin
 estop
 erudition
 erinys
