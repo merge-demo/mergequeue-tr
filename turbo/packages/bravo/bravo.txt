@@ -7080,6 +7080,7 @@ bannerette
 bespeak
 bodyless
 biggings
+brandle
 bimorphs
 bushing
 bedswerver
@@ -12355,7 +12356,6 @@ bombesins
 brightsomeness
 bementite
 beeregar
-brandle
 bantered
 bombycine
 bagpiper
