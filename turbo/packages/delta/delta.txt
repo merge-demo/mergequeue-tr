@@ -10474,7 +10474,6 @@ devocalization
 dozent
 dalar
 daglock
-disembodies
 diphthongize
 diazoalkane
 diphthongizing
@@ -12372,6 +12371,7 @@ dinkey
 dizygotic
 depresses
 dishellenize
+disembodies
 deigning
 dantist
 decomposing
