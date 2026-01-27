@@ -4633,7 +4633,6 @@ faeroe
 fells
 fulica
 flewit
-freety
 filicinean
 fearsome
 figurante
@@ -6758,6 +6757,7 @@ furcation
 foldcourse
 fiberless
 folkmoots
+freety
 fleshhook
 farinulent
 fervescent
