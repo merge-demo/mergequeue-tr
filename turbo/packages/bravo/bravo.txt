@@ -2636,7 +2636,6 @@ buttonhook
 bravery
 beduchess
 bantamweight
-berlinize
 birdhouses
 bilges
 botanise
@@ -17498,6 +17497,7 @@ blockout
 backspeir
 burbolt
 blight
+berlinize
 beauseant
 biognosis
 burbot
