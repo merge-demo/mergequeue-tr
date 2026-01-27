@@ -3653,6 +3653,7 @@ dorsers
 degressive
 dactylopterus
 daunting
+descender
 dictamnus
 deregulatory
 degust
@@ -9719,7 +9720,6 @@ disilicane
 deerdrive
 dilates
 disapprovable
-descender
 decolourization
 dilatometer
 dilatometrically
