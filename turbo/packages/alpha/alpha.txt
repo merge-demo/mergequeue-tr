@@ -8173,6 +8173,7 @@ avoidances
 anacoluthia
 abiogenetic
 artisanship
+aboundingly
 apheliotropism
 algoid
 adroitness
@@ -13614,7 +13615,6 @@ annulosa
 antings
 annuls
 adorableness
-aboundingly
 actinopterygious
 annunciade
 arthropod
