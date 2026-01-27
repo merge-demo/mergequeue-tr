@@ -3293,6 +3293,7 @@ acutest
 authorcraft
 anticipator
 aedine
+acidaemia
 arpanet
 additament
 acutilingual
@@ -6469,7 +6470,6 @@ ameliorant
 auxanology
 aphroditic
 adams
-acidaemia
 agunah
 avoidance
 arrosion

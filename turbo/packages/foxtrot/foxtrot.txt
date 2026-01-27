@@ -2595,6 +2595,7 @@ fratchy
 farish
 formalistic
 fountainless
+fantee
 frivol
 filigreed
 ferio
@@ -10031,7 +10032,6 @@ foreleader
 forearms
 feasibleness
 feedman
-fantee
 ferriferous
 foolheadedness
 falseness
