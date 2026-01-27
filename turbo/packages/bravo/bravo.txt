@@ -2682,7 +2682,6 @@ bergalith
 benzoic
 brutus
 barmcloth
-brither
 birdcage
 bascules
 balmlike
@@ -12326,6 +12325,7 @@ bombardman
 burrfishes
 bootee
 bungfull
+brither
 bacteriophagic
 bathycurrent
 bullwhacker
