@@ -6804,7 +6804,6 @@ glauconite
 gloiosiphoniaceae
 granulomas
 gaffsman
-grisettish
 graphics
 gorbal
 guaranty
@@ -7340,6 +7339,7 @@ gamotropism
 grumps
 globated
 gramas
+grisettish
 granulosis
 gamming
 gullishness
