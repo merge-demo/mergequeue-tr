@@ -7878,6 +7878,7 @@ grandams
 gusty
 generic
 gramophonic
+gnomists
 gruelling
 goldfishes
 gametangium
@@ -9340,7 +9341,6 @@ glareola
 goutiness
 glonoin
 gustative
-gnomists
 gladiators
 glided
 garotes
