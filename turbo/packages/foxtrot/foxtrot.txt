@@ -4015,7 +4015,6 @@ fibrin
 finis
 fadelessly
 furfooz
-finish
 flatling
 fletchings
 furbelows
@@ -8126,6 +8125,7 @@ fossilology
 foretrace
 forecastleman
 faddists
+finish
 fountful
 frequentable
 foreuse
