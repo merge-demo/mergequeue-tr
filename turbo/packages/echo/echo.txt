@@ -6677,6 +6677,7 @@ exploitations
 elongations
 enterprize
 egestion
+epee
 expertising
 entosclerite
 eulogiser
@@ -7345,7 +7346,6 @@ emasculations
 experiencible
 epaulement
 enstranged
-epee
 elsin
 epeeist
 ethnology
