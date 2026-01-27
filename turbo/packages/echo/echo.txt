@@ -2249,7 +2249,6 @@ electret
 electrets
 exploitive
 extensometer
-enciente
 embryony
 embraceable
 encoach
@@ -10232,6 +10231,7 @@ esperanto
 exasperated
 epigenous
 edith
+enciente
 emanationist
 esponton
 eucalypteol
