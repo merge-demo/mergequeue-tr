@@ -10538,6 +10538,7 @@ derate
 doorsills
 diceratidae
 diazotate
+downturned
 deipotent
 dimpling
 dragonroot
@@ -11447,7 +11448,6 @@ deskbound
 dyotheletic
 dividuous
 dilatingly
-downturned
 demythologising
 discography
 digredience
