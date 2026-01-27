@@ -1737,6 +1737,7 @@ etacism
 eulogisation
 extendedly
 epanorthoses
+encysts
 enswathe
 eyepiece
 enrapturer
@@ -4712,7 +4713,6 @@ electrokinetics
 exponentially
 encysting
 emptiest
-encysts
 evenest
 eyepieces
 euphrosyne
