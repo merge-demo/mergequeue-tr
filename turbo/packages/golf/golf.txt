@@ -3377,7 +3377,6 @@ gerodontic
 geobiont
 gothicist
 gerontic
-generalships
 generale
 graphometry
 gondolier
@@ -3516,6 +3515,7 @@ griffe
 gamines
 gents
 glycolysis
+generalships
 ghastily
 gottlieb
 guytrash
