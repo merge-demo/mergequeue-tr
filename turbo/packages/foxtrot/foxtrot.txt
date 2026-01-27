@@ -6543,7 +6543,6 @@ flyboats
 falconiform
 featurely
 franseria
-friary
 flunkeyism
 feltness
 frounce
@@ -7058,6 +7057,7 @@ fractioning
 fraken
 fledge
 fedayeen
+friary
 foolish
 frontad
 ferryboats
