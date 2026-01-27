@@ -550,7 +550,6 @@ damagers
 damalic
 dextrorotation
 demobilized
-designations
 dialyzing
 diplosis
 deliverers
@@ -6186,6 +6185,7 @@ dermanaplasty
 dermapterous
 dermas
 dirgler
+designations
 dasypodoid
 delimited
 dialytically
