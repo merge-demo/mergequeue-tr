@@ -495,7 +495,6 @@ disexercise
 doctrinarian
 distilling
 dogs
-demob
 deionization
 droughtiest
 dustblu
@@ -6957,6 +6956,7 @@ douter
 diameter
 diets
 dandlers
+demob
 dript
 despoil
 despoiled
