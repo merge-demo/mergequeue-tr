@@ -3654,7 +3654,6 @@ degressive
 dactylopterus
 daunting
 descender
-dictamnus
 deregulatory
 degust
 dasnt
@@ -14406,6 +14405,7 @@ distributivity
 desectionalize
 dysentery
 dependents
+dictamnus
 durian
 dehydrocorydaline
 detainable
