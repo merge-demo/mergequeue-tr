@@ -4455,7 +4455,6 @@ ginning
 garvance
 giraffe
 gynocardic
-gypsyism
 gowk
 glossokinesthetic
 graeculus
@@ -9790,6 +9789,7 @@ grantor
 gue
 goury
 globulinuria
+gypsyism
 glycerolate
 glossemes
 glares
