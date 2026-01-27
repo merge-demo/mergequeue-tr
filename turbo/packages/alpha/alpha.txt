@@ -6830,7 +6830,6 @@ airhead
 ascula
 aquiculturist
 airified
-airiness
 alant
 arecales
 atmolyses
@@ -13507,6 +13506,7 @@ airproofs
 aerophilatelist
 annihilationistical
 apophony
+airiness
 autocremation
 annihilative
 anaspalin
