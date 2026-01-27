@@ -4942,6 +4942,7 @@ beefsteak
 beeftongue
 biers
 beefwoods
+bebump
 beegerite
 bootlick
 bairnliness
@@ -10292,7 +10293,6 @@ bloomingness
 ballhawks
 bosoms
 blackness
-bebump
 bilged
 broomwort
 blackpatch
