@@ -13247,6 +13247,7 @@ communicants
 cataloguer
 chemiatry
 cycloid
+compulsoriness
 coalternation
 cycloidean
 coalshed
@@ -25554,7 +25555,6 @@ camelias
 corotate
 corotates
 campman
-compulsoriness
 corotomy
 commemorized
 coroutines
