@@ -11987,7 +11987,6 @@ brushbird
 bytalk
 bogled
 boglet
-beckelite
 brinie
 bogmire
 borine
@@ -17110,6 +17109,7 @@ bromian
 bardess
 baldpated
 bulletining
+beckelite
 batches
 bulletless
 branchiobdella
