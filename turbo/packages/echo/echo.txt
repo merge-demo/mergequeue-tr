@@ -9036,6 +9036,7 @@ endothermic
 exocyclic
 eudaimonism
 equiglacial
+essays
 episcenium
 empyreans
 eperotesis
@@ -12688,7 +12689,6 @@ exonerating
 ephemerous
 encephalotomies
 episcopicide
-essays
 eunicidae
 errantries
 eligible
