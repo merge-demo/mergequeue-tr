@@ -15769,7 +15769,6 @@ clearable
 clearance
 clearances
 commensurately
-counterfeitness
 clearcole
 clearedness
 clearheadedly
@@ -27147,6 +27146,7 @@ crocheting
 coprostasis
 chittered
 counterstimulate
+counterfeitness
 counterstimulation
 counterstimulus
 counterstock
