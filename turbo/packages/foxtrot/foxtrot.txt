@@ -11165,7 +11165,6 @@ frowy
 fungia
 fades
 fremdness
-flyblowing
 fungian
 felspar
 fungibility
@@ -11460,6 +11459,7 @@ forletting
 furrowlike
 fiction
 furcately
+flyblowing
 fissury
 ferntickle
 furrure
