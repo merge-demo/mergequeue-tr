@@ -2728,6 +2728,7 @@ dewcup
 decorist
 dragged
 durum
+decimalisation
 demilancer
 disfeatured
 defeaters
@@ -3635,7 +3636,6 @@ degradement
 dozing
 depsid
 disrupt
-decimalisation
 deuterostomatous
 discalced
 denigrate
