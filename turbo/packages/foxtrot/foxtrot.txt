@@ -5624,7 +5624,6 @@ fireable
 flimsiness
 flinch
 flagleaf
-fatted
 fishnets
 finedraw
 fumet
@@ -6828,6 +6827,7 @@ fonnish
 folios
 faradizes
 fierasferidae
+fatted
 foliose
 flachery
 flittingly
