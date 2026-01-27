@@ -8858,6 +8858,7 @@ binny
 bumpered
 beanbags
 bogeyman
+breezier
 binnogue
 battel
 backstrap
@@ -15070,7 +15071,6 @@ botel
 beastliness
 bowdlerise
 besanctify
-breezier
 blippers
 bepuzzle
 bountifully
