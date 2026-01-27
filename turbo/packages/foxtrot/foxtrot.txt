@@ -3865,6 +3865,7 @@ filleting
 feckless
 figurato
 fionnuala
+fungicidal
 fanwe
 foregrounds
 frequencies
@@ -11169,7 +11170,6 @@ felspar
 fungibility
 fideists
 farmer
-fungicidal
 fungicidally
 fungicides
 fungicolous
