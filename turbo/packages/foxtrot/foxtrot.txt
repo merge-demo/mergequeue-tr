@@ -9739,7 +9739,6 @@ fallacies
 frustulent
 falchion
 fessways
-foolhardiest
 fatigability
 fishworm
 farfel
@@ -11288,6 +11287,7 @@ flaxwife
 frigorify
 femmes
 fogy
+foolhardiest
 fiscalize
 flurrying
 farcing
