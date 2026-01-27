@@ -313,7 +313,6 @@ ependymal
 ethmopresphenoidal
 essede
 enticer
-enameling
 elfship
 euboic
 embetter
@@ -12119,6 +12118,7 @@ enascent
 excruciator
 ennomic
 excubitoria
+enameling
 eradicator
 entwisting
 excud
