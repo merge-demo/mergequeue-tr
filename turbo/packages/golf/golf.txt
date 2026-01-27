@@ -1495,6 +1495,7 @@ garners
 garotted
 goutish
 gaolage
+greediest
 groose
 guaxima
 glandless
@@ -8662,7 +8663,6 @@ gutterling
 gallotannin
 germanious
 galactophygous
-greediest
 grandfilial
 garths
 graphicly
