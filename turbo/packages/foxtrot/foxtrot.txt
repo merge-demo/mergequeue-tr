@@ -10144,6 +10144,7 @@ fissile
 fecundation
 frontlet
 fitter
+foregoer
 fashed
 fabricant
 falcidian
@@ -10464,7 +10465,6 @@ farrant
 frontiersmen
 fanterie
 flnerie
-foregoer
 forbodes
 fosterland
 fibroin
