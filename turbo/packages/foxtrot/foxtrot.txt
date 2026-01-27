@@ -4384,7 +4384,6 @@ franchise
 fleta
 fishfinger
 footgear
-fetters
 fl
 frenches
 folkmotes
@@ -11213,6 +11212,7 @@ fieldsman
 fetoplacental
 fungosities
 funic
+fetters
 footlers
 frypans
 faradise
