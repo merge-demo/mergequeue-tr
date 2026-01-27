@@ -9359,6 +9359,7 @@ dewinesses
 doucely
 drooling
 dubonnet
+duomo
 dockages
 demonstrance
 depulse
@@ -16093,7 +16094,6 @@ denshire
 daimonistic
 deathbed
 doughty
-duomo
 diphthonged
 ditherer
 dropline
