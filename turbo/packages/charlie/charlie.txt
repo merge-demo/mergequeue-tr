@@ -13306,7 +13306,6 @@ counterlife
 cyclophosphamide
 cyclopy
 counteract
-cyclopia
 coccomyces
 cyclopic
 consolement
@@ -24327,6 +24326,7 @@ cookeite
 cooker
 cookeries
 cookhouse
+cyclopia
 currawang
 cookhouses
 cooky
