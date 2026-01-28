@@ -1952,7 +1952,6 @@ gauleiter
 grated
 grasser
 gulonic
-gaultherin
 gaunch
 gangers
 gruelly
@@ -2018,6 +2017,7 @@ gelatiniform
 gases
 gaveled
 gibbosities
+gaultherin
 gangrenes
 gnomologic
 greiges
