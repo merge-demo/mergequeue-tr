@@ -1309,7 +1309,6 @@ bedbug
 boleite
 bacterioprecipitin
 balearian
-beglobed
 beltings
 bate
 binational
@@ -6741,6 +6740,7 @@ buhlwork
 bernacle
 bernardina
 blackstick
+beglobed
 bonneter
 bondman
 becripple
