@@ -6936,7 +6936,6 @@ despiteful
 digs
 daphnia
 dinoflagellate
-docility
 drags
 dumbfoundment
 despitefully
@@ -11030,6 +11029,7 @@ disembay
 diagnosticating
 diplopterous
 disapparel
+docility
 descriptive
 disappear
 divorcees
