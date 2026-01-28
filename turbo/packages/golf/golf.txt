@@ -5089,6 +5089,7 @@ glomera
 goblinesque
 gutturine
 gentlehearted
+gemel
 goldylocks
 gyps
 glaucophanite
@@ -8570,7 +8571,6 @@ gurgeons
 griped
 guarri
 gastrolatrous
-gemel
 ginnier
 gonidioid
 gravure
