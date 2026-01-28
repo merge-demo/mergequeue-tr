@@ -10047,7 +10047,6 @@ emergent
 encastered
 egrets
 ethambutol
-ethmovomerine
 eversible
 entamoebiasis
 epopoeist
@@ -14050,6 +14049,7 @@ escoting
 eyeline
 elektra
 enliven
+ethmovomerine
 eidolons
 embellishments
 extrathermodynamic
