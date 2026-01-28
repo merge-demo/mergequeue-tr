@@ -13008,7 +13008,6 @@ dispar
 disparageable
 dingies
 disparagement
-disparagements
 documenting
 daleth
 disparate
@@ -14915,6 +14914,7 @@ decadi
 dodecasyllable
 discretionarily
 dix
+disparagements
 demonising
 dichromat
 disponing
