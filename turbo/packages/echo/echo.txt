@@ -11530,7 +11530,6 @@ elenchus
 encodement
 epiblastema
 embrittled
-emptive
 errantness
 ennoy
 evocator
@@ -11655,6 +11654,7 @@ eadish
 exaggerate
 electrize
 exaggerated
+emptive
 eperlan
 eccentricity
 electrocautery

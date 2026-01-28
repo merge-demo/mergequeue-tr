@@ -9923,6 +9923,7 @@ fantoms
 fumatorium
 freckled
 fa
+fogbow
 frigates
 flocculated
 flavin
@@ -11064,7 +11065,6 @@ funambuloes
 filled
 fixups
 functionated
-fogbow
 fructed
 frowner
 frameae
