@@ -5266,6 +5266,7 @@ bastes
 boobs
 bothsided
 begazing
+beneficent
 bimasty
 borderer
 bedabbling
@@ -7596,7 +7597,6 @@ botflies
 brainworker
 banagos
 beweeper
-beneficent
 bugfish
 beweeps
 bombazette
