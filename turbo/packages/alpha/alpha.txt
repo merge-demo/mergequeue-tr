@@ -10502,7 +10502,6 @@ arcform
 amyatonic
 amic
 amicability
-antiadiaphorist
 appredicate
 amicably
 amphipodous
@@ -13763,6 +13762,7 @@ animalised
 auxiliar
 assertrix
 acanthaceae
+antiadiaphorist
 albuquerque
 aspergilloses
 anovesical
