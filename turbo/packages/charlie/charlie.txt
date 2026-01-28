@@ -6741,7 +6741,6 @@ cuttages
 celestina
 celestite
 celestitude
-clivias
 celiadelphus
 celibacy
 costard
@@ -25789,6 +25788,7 @@ chilostoma
 cohos
 coccoids
 corrody
+clivias
 celloist
 corrodiary
 chemopause
