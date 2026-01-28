@@ -8496,6 +8496,7 @@ chemosterilants
 chanced
 categorical
 chanceful
+climb
 cadrans
 chancefulness
 chancey
@@ -14378,7 +14379,6 @@ curdler
 circumvolve
 circumvolved
 circumzenithal
-climb
 crosses
 circus
 circusy
