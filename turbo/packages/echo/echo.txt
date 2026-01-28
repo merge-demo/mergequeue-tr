@@ -3152,7 +3152,6 @@ essentiate
 eburated
 ethnarchs
 eskimoes
-euryphage
 expurgators
 extinguishment
 eloins
@@ -3396,6 +3395,7 @@ engrains
 egoist
 embargoes
 endocrinologist
+euryphage
 enc
 eavedropper
 embark
