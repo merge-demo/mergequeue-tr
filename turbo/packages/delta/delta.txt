@@ -3283,7 +3283,6 @@ dejecture
 demyelination
 dizz
 definedly
-definers
 deflects
 disconsolation
 daintihood
@@ -7190,6 +7189,7 @@ detecters
 decemvirate
 duffels
 digitate
+definers
 dolorous
 damnified
 detection

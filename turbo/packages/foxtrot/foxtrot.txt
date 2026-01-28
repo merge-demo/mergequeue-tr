@@ -557,6 +557,7 @@ ff
 fertilely
 figless
 foxwood
+faculty
 federative
 fallectomy
 forebays
@@ -6038,7 +6039,6 @@ ferrivorous
 funker
 fizzling
 frecken
-faculty
 fingerhook
 fleckier
 forgeman
