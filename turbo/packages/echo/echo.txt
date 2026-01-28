@@ -2283,7 +2283,6 @@ enaliornis
 echoingly
 etnas
 espressos
-exurbias
 endocrania
 eyebeams
 expert
@@ -6032,6 +6031,7 @@ epistolical
 epistles
 exsects
 ecumenopolis
+exurbias
 escroll
 eolith
 exhusband
