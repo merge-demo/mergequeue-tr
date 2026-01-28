@@ -1227,7 +1227,6 @@ gruffly
 gambler
 gladys
 gonakie
-grackles
 gad
 gloominess
 guana
@@ -8326,6 +8325,7 @@ genitalia
 glomeration
 greeniest
 grins
+grackles
 glittery
 genioglossi
 gulled
