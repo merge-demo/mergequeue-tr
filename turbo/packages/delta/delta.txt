@@ -3501,7 +3501,6 @@ doom
 desaturate
 desiccated
 dagobas
-desmomyaria
 dufoil
 drapery
 drowsiest
@@ -13985,6 +13984,7 @@ dilantin
 depriving
 dinkies
 diploplacular
+desmomyaria
 dildos
 drammach
 dolabra
