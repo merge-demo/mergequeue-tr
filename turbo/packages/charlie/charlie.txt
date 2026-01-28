@@ -10605,6 +10605,7 @@ catamounts
 chilognathous
 chilogrammo
 cubic
+coruscant
 contract
 conservatoire
 cosmopolis
@@ -28503,7 +28504,6 @@ creatress
 caecectomy
 creatureling
 creatures
-coruscant
 carapo
 creatureship
 conversibility
