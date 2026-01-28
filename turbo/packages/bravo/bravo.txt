@@ -10721,6 +10721,7 @@ begarnish
 blearing
 blearness
 bleated
+brewings
 butcherdom
 bleaty
 bleating
@@ -13116,7 +13117,6 @@ bubbliness
 bregmatic
 boringness
 bilging
-brewings
 bubblies
 befluster
 beaned
