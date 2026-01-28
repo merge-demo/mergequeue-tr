@@ -9455,6 +9455,7 @@ desultor
 disparateness
 dopy
 digestibility
+diaconicum
 disserting
 demark
 digestible
@@ -17882,7 +17883,6 @@ doctrine
 durationless
 dishmaking
 dueled
-diaconicum
 deathday
 duelers
 duelistic
