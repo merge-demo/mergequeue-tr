@@ -3212,7 +3212,6 @@ gebur
 giron
 goldenseal
 girtonian
-gap
 ghosty
 gundelet
 gilgul
@@ -3671,6 +3670,7 @@ glumelike
 gothish
 ghostish
 gypsyry
+gap
 gelatigenous
 gracilescent
 gussying
