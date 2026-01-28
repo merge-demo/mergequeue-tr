@@ -6227,6 +6227,7 @@ guitarlike
 guttural
 ghostiest
 gconv
+grapestalk
 gladdened
 gentle
 gulpin
@@ -8172,7 +8173,6 @@ grapes
 guariba
 grapeskin
 galenical
-grapestalk
 groomling
 gussy
 grievedly
