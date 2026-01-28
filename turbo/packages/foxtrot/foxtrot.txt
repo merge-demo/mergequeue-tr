@@ -2897,6 +2897,7 @@ foreswearing
 frustums
 fencing
 floccipend
+frasera
 farfetch
 fluellite
 flyoff
@@ -6369,7 +6370,6 @@ fireworm
 fatiguabilities
 fossae
 fluoride
-frasera
 flyboat
 flannelled
 flisky
