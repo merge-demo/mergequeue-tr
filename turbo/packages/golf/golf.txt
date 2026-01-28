@@ -1640,7 +1640,6 @@ gaffed
 granulometric
 goldurned
 goldarned
-gardeen
 gauze
 gryphon
 grungiest
@@ -6317,6 +6316,7 @@ gradating
 goethian
 gam
 groceries
+gardeen
 geotropism
 goety
 gummage
