@@ -7432,6 +7432,7 @@ gandering
 greggriffin
 gamotropic
 grewt
+glutamic
 glovemaking
 garlopa
 goujat
@@ -9979,7 +9980,6 @@ gubbins
 girondism
 geoethnic
 galictis
-glutamic
 gubernative
 gunwale
 grills
