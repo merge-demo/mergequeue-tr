@@ -7200,6 +7200,7 @@ dux
 dyingly
 detente
 dicotyl
+determine
 dimetric
 detenue
 decussorium
@@ -15656,7 +15657,6 @@ doozies
 dopa
 demobilisation
 drossed
-determine
 dopchick
 dopebook
 demonstrator

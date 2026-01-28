@@ -17375,6 +17375,7 @@ ascidiferous
 anoplotherium
 aerophagy
 amidin
+aristarchy
 arias
 adansonia
 abstracts
@@ -22489,7 +22490,6 @@ aisling
 aswash
 adyton
 asweat
-aristarchy
 asweve
 alchemistic
 aswirl
