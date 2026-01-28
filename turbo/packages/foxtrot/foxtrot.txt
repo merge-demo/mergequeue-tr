@@ -4080,6 +4080,7 @@ felicitously
 foresightless
 fungusy
 frostation
+foists
 fergusonite
 featherbrain
 fattable
@@ -4977,7 +4978,6 @@ formals
 forego
 flick
 flankers
-foists
 feued
 franklin
 folksier
