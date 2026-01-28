@@ -5370,7 +5370,6 @@ edges
 ethylidene
 engorges
 envolupen
-evocatory
 endotheliomas
 excercise
 explicators
@@ -5677,6 +5676,7 @@ extras
 episcopalism
 eelgrass
 egotisticalness
+evocatory
 emerson
 eagerest
 engallant
