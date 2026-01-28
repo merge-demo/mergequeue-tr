@@ -785,6 +785,7 @@ galliformes
 ginneries
 goose
 gies
+genuclast
 gracefullest
 geologised
 gandergoose
@@ -7936,7 +7937,6 @@ gymnurinae
 guesdist
 gymnospermy
 glumness
-genuclast
 guacin
 gametogonium
 glimmerite

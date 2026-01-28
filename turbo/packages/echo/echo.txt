@@ -2972,6 +2972,7 @@ entrecotes
 equipede
 elbowchair
 enjoining
+ensepulchering
 encephalopsychesis
 exister
 extraovate
@@ -3468,7 +3469,6 @@ evinces
 eductive
 ethnol
 exceptionableness
-ensepulchering
 enamels
 enthronement
 ebionism
