@@ -1241,6 +1241,7 @@ ethylidyne
 epigrammatise
 eelcake
 elsewheres
+envenomization
 exposition
 episomal
 evaluation
@@ -14173,7 +14174,6 @@ exuding
 ethane
 euspongia
 equalled
-envenomization
 exsec
 exulcerating
 eviction
