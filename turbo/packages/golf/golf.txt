@@ -5070,6 +5070,7 @@ geyan
 glycocholic
 glaga
 gasless
+guardsmen
 gascon
 glinting
 glaucidium
@@ -5241,7 +5242,6 @@ glyceria
 grangerite
 genialize
 geminal
-guardsmen
 guatemala
 gemitores
 glyoxilin
