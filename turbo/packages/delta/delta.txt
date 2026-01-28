@@ -9355,6 +9355,7 @@ demonstrance
 depulse
 dottels
 demasted
+deluge
 dentirostres
 dautie
 dulosis
@@ -15811,7 +15812,6 @@ dorsiflexion
 deuteron
 detects
 defreeze
-deluge
 dissertations
 demidome
 discomforting
