@@ -6741,7 +6741,6 @@ fauns
 fitcher
 fold
 fantasy
-fleechment
 frosts
 frosteds
 fledgeless
@@ -10767,6 +10766,7 @@ fecklessness
 foreinclined
 fileting
 fouth
+fleechment
 formlessly
 fruticose
 folles
