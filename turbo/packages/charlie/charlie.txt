@@ -12609,7 +12609,6 @@ chronophotography
 chronoscopically
 cheesier
 catechisation
-copydesks
 columnize
 cyperaceous
 chronothermal
@@ -19916,6 +19915,7 @@ contrastimulus
 comitje
 chunters
 coml
+copydesks
 confessionals
 conjugating
 commandable
