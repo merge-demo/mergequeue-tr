@@ -6499,6 +6499,7 @@ faucal
 fluotantalate
 flutteriness
 farfal
+formative
 flagrate
 fluttering
 forswears
@@ -6722,7 +6723,6 @@ foresworn
 foiter
 frayed
 fried
-formative
 fronded
 fissate
 folacin
