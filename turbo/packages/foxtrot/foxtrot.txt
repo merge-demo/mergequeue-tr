@@ -4530,6 +4530,7 @@ faciolingual
 fourth
 feudists
 frit
+fanmaking
 fetidity
 futtocks
 forespoken
@@ -8884,7 +8885,6 @@ faultfinder
 funambulist
 fuddling
 footsoreness
-fanmaking
 fourre
 friedelite
 fraternizing
