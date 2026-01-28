@@ -10673,7 +10673,6 @@ bursts
 borzois
 bridgeheads
 bicepses
-blusterous
 bluing
 backlands
 budgetful
@@ -15931,6 +15930,7 @@ bromination
 broadband
 bullwhack
 beswim
+blusterous
 behest
 berylate
 bendell
