@@ -5114,7 +5114,6 @@ cased
 cisatlantic
 convulsionism
 casefy
-corneter
 counterenamel
 compeller
 chondrectomy
@@ -22718,6 +22717,7 @@ conquerer
 conquerers
 conqueress
 conquering
+corneter
 coenure
 conquerment
 conqueror
