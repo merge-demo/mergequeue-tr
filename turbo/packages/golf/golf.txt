@@ -5602,6 +5602,7 @@ gloomings
 graveward
 gunyang
 grimoire
+guggled
 germanics
 gubernacular
 geyserine
@@ -9973,7 +9974,6 @@ glycerinated
 gendarmerie
 glycolide
 guillevat
-guggled
 gadling
 gubbins
 girondism
