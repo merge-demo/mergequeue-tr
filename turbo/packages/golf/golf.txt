@@ -2988,7 +2988,6 @@ gozell
 gendered
 galatine
 ghetti
-gelly
 galvanocauteries
 gentlefolk
 gambusia
@@ -6572,6 +6571,7 @@ glossological
 gentleship
 glossary
 gangsterism
+gelly
 glamourless
 grumphies
 governessdom
