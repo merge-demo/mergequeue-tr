@@ -2830,7 +2830,6 @@ daimons
 downstater
 daur
 desiring
-diaclasis
 decubiti
 didymus
 deculturate
@@ -17329,6 +17328,7 @@ digitoplantar
 dronkgrass
 dicondylian
 drawhead
+diaclasis
 dicyanid
 disquisition
 desirers

@@ -6335,7 +6335,6 @@ fluorenes
 fluctuability
 footropes
 ferriage
-foveolar
 fixup
 fluvio
 floppies
@@ -6585,6 +6584,7 @@ flowerpot
 fatalistically
 fizzers
 friggle
+foveolar
 fractocumulus
 fireweeds
 fairgrass
