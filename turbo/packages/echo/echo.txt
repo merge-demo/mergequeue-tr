@@ -6032,7 +6032,6 @@ entrepreneuses
 epistolical
 epistles
 exsects
-edgemaker
 ecumenopolis
 escroll
 eolith
@@ -10772,6 +10771,7 @@ exflagellate
 endosporic
 eumycete
 eulogiums
+edgemaker
 endogenicity
 elephantous
 elaborating

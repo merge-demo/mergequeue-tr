@@ -2075,7 +2075,6 @@ glottology
 guilefully
 gawgaw
 gillian
-governments
 graminological
 gratingly
 gozzard
@@ -4234,6 +4233,7 @@ gleamed
 gratuities
 gastroscope
 glaiket
+governments
 gangliated
 gibeonite
 gasconism
