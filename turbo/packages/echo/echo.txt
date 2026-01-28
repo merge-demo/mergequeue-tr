@@ -2678,7 +2678,6 @@ enfant
 eudaemonics
 engenderment
 exhort
-exdelicto
 epispadia
 electrotherapeutical
 entrep
@@ -9685,6 +9684,7 @@ enshielded
 espouser
 espouses
 espousing
+exdelicto
 esprit
 enterorrhexis
 esq
