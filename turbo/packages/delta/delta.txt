@@ -1759,6 +1759,7 @@ deathtime
 diverticular
 dhotis
 diphenan
+dissolves
 dividend
 diphyllobothrium
 debriefs
@@ -5347,7 +5348,6 @@ denudating
 disordained
 discanter
 deltidial
-dissolves
 diplomatics
 disc
 denuder
