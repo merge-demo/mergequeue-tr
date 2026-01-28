@@ -8742,6 +8742,7 @@ fiberglass
 floret
 forechurch
 flunking
+fezzy
 fjerding
 falcopern
 fetologist
@@ -11065,7 +11066,6 @@ fixups
 functionated
 fogbow
 fructed
-fezzy
 frowner
 frameae
 fellsman
