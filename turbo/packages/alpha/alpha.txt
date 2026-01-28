@@ -1463,7 +1463,6 @@ acclimatement
 attires
 acclimates
 acclimatisation
-affixable
 archaisms
 amortize
 acclimatise
@@ -3162,6 +3161,7 @@ aurin
 accordion
 actioner
 alcaid
+affixable
 actiones
 abrazitic
 alkalifiable
