@@ -15,7 +15,6 @@ gabelles
 galiot
 gledy
 grece
-genetous
 goter
 gastroadynamic
 gashouse
@@ -7034,6 +7033,7 @@ grayly
 gliocyte
 gutturopalatal
 gelidity
+genetous
 ganglioneure
 ganisters
 goosegog
