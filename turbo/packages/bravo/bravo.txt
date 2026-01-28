@@ -3256,6 +3256,7 @@ babbling
 biotechnological
 basilic
 bantingize
+bacteriofluorescin
 bedouin
 basilica
 belverdian
@@ -13979,7 +13980,6 @@ boxman
 bromatium
 bluntie
 barwise
-bacteriofluorescin
 backstage
 borghese
 barathron
