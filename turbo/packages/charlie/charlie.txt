@@ -7972,7 +7972,6 @@ chac
 chacate
 complainable
 cosiness
-chimin
 caravansaries
 camphoraceous
 chaccon
@@ -27108,6 +27107,7 @@ craws
 cuticular
 colophane
 countersense
+chimin
 countershade
 chasms
 clinologic

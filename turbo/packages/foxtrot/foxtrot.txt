@@ -827,7 +827,6 @@ faun
 fenny
 frogeyes
 fishberries
-formfitting
 fixatives
 fluctuations
 fanjet
@@ -3882,6 +3881,7 @@ findable
 fruz
 familiarize
 function
+formfitting
 findhorn
 filarees
 fine
