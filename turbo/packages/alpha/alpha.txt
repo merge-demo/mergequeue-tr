@@ -2979,7 +2979,6 @@ amplexifoliate
 automatize
 appendages
 ashless
-antiheroism
 actinias
 actinic
 akene
@@ -3664,6 +3663,7 @@ adenologaditis
 airmonger
 adenomycosis
 adenomyofibroma
+antiheroism
 alvite
 adenomyoma
 adenomyxosarcoma
