@@ -1913,7 +1913,6 @@ gastromycosis
 geal
 garnetwork
 garnet
-gynecocratic
 garibaldi
 gnomesque
 gear
@@ -10249,6 +10248,7 @@ guanases
 globulitic
 goers
 galeproof
+gynecocratic
 gregarious
 guinness
 gamodemes

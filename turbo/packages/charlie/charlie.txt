@@ -1676,6 +1676,7 @@ conferees
 caloreceptor
 cochairs
 capelets
+circumstellar
 calorescence
 calory
 clearly
@@ -14329,7 +14330,6 @@ circumstantiate
 circumstantiating
 circumstantiation
 chloridation
-circumstellar
 configurated
 cullied
 cleopatra
