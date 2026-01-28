@@ -4267,7 +4267,6 @@ gynandrian
 gynecophorous
 gelidness
 gorgonia
-gyneolater
 guinfo
 germicide
 gynetype
@@ -8873,6 +8872,7 @@ ghostliest
 glamorizing
 geostrophic
 grizzle
+gyneolater
 gressorial
 grieving
 gambas
