@@ -654,7 +654,6 @@ blaffert
 bacteriophagy
 bacteriopsonin
 butting
-bendable
 barfing
 bellwethers
 butchering
@@ -3137,6 +3136,7 @@ boneset
 baselevel
 biradiate
 bismarck
+bendable
 bustards
 boswellize
 basella
