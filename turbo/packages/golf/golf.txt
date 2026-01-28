@@ -8300,7 +8300,6 @@ greenslade
 gracefulness
 greyer
 gau
-gayatri
 geographic
 gravicembalo
 glucuronidase
@@ -9444,6 +9443,7 @@ gauntness
 grassiest
 gluish
 guaharibo
+gayatri
 gabriella
 glaciate
 grumbling
