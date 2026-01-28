@@ -5822,6 +5822,7 @@ depreciate
 deponents
 despots
 drago
+dystocias
 depreciation
 deoxygenization
 dryopians
@@ -11289,7 +11290,6 @@ deputatively
 dinner
 discepts
 diffidentness
-dystocias
 dunite
 discerned
 dizzier
