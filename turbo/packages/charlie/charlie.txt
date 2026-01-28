@@ -19724,6 +19724,7 @@ cations
 contorting
 cardiopneumograph
 cogroad
+canicule
 classifiers
 contemplance
 cloudburst
@@ -21512,7 +21513,6 @@ colocentesis
 coerces
 concreted
 concretely
-canicule
 concreter
 concretional
 concretionary
