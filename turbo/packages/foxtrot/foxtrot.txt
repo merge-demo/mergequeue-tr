@@ -10312,6 +10312,7 @@ farriers
 fingerleaf
 fingering
 forecourt
+fere
 francia
 foss
 footcandles
@@ -11044,7 +11045,6 @@ friendliness
 fermented
 fumuli
 fungated
-fere
 fascias
 funambulator
 feels
