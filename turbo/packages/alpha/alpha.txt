@@ -6321,6 +6321,7 @@ adjectively
 aute
 animative
 ambulances
+antonomasia
 aggress
 artsman
 agrarianly
@@ -7224,7 +7225,6 @@ alalus
 androl
 alamannian
 actinian
-antonomasia
 aren
 antiwhite
 allotting
