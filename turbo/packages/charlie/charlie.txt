@@ -1496,7 +1496,6 @@ callaloo
 caviares
 callants
 chanciest
-clausular
 chilenite
 cackler
 cadginess
@@ -27223,6 +27222,7 @@ coprocessor
 countervallation
 countervalue
 coxarthrocace
+clausular
 countervenom
 countervibration
 countervolley
