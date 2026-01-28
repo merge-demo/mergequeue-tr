@@ -6890,7 +6890,6 @@ despecialization
 disembarrassed
 dispute
 domineer
-despecialize
 despecificate
 despecification
 desperado
@@ -18489,6 +18488,7 @@ durably
 duologs
 dissentiently
 discussants
+despecialize
 dementi
 driftlet
 declamator
