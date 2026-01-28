@@ -8752,7 +8752,6 @@ exuperable
 extermination
 encystment
 eulogising
-endangering
 emphractic
 enstrengthen
 equivoluminal
@@ -13592,6 +13591,7 @@ esoteric
 exsufflate
 exsufflation
 epithymetical
+endangering
 extracutaneous
 evasions
 echidnas
