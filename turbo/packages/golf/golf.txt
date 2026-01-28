@@ -1776,6 +1776,7 @@ goutiest
 gonadial
 genealogizer
 gastroscopist
+galactin
 gavelled
 gasterosteid
 gynandrism
@@ -7326,7 +7327,6 @@ groggery
 gossep
 graphs
 gaberlunzie
-galactin
 gymnospermic
 gluon
 gymnolaema
