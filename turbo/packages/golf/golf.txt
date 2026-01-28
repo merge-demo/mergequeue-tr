@@ -1540,7 +1540,6 @@ gasper
 grounder
 gazetting
 gainbirth
-gunsels
 glaik
 grulla
 glimes
@@ -5772,6 +5771,7 @@ gloveman
 gumtrees
 glyceraldehyde
 growthy
+gunsels
 glover
 glochines
 genos
