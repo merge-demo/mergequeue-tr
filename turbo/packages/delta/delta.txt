@@ -3893,7 +3893,6 @@ dekare
 dinsome
 dearomatize
 dogfoot
-deference
 dekes
 derivationally
 drisheen
@@ -16915,6 +16914,7 @@ dreamlikeness
 drumfish
 dullishly
 dobchick
+deference
 diandrous
 damboard
 diazoamino
