@@ -3871,6 +3871,7 @@ endometry
 eschatocol
 electroculture
 exotheca
+epithelilia
 emigrating
 excogitating
 epidotic
@@ -9550,7 +9551,6 @@ emigree
 euchromatic
 encincture
 eskimoized
-epithelilia
 electrolysed
 enthalpy
 embeam

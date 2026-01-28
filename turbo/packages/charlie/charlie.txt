@@ -70,7 +70,6 @@ critiquing
 chondrocarcinoma
 cabbageworm
 corrosion
-creeping
 cabbagy
 cabbaging
 cabbala
@@ -29668,6 +29667,7 @@ crocused
 captionless
 commonwealths
 contrantiscion
+creeping
 croissants
 casemate
 crocuses
