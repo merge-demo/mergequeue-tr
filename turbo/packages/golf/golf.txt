@@ -1816,6 +1816,7 @@ gullah
 gatekeeper
 grizel
 glummer
+gibbles
 gabbier
 gatekeepers
 glos
@@ -2651,7 +2652,6 @@ gervas
 gardening
 gardeviance
 grimnesses
-gibbles
 gwag
 genevan
 grabbing
