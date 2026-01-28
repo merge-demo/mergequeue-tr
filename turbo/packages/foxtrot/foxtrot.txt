@@ -3253,7 +3253,6 @@ fiddlerfish
 fraticellian
 fogo
 ferrites
-faunology
 fluidrams
 ferrimagnetically
 feudovassalism
@@ -8674,6 +8673,7 @@ firebrat
 frows
 flaxwench
 frumpish
+faunology
 fosset
 fid
 finalist
