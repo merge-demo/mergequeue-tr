@@ -13931,7 +13931,6 @@ cynosures
 cynosurus
 cynotherapy
 cynoxylon
-cinquains
 consumptive
 counterrevolutionize
 cinquanter
@@ -31582,6 +31581,7 @@ curtalaxes
 coho
 curtate
 curtein
+cinquains
 chilion
 curteous
 curter
