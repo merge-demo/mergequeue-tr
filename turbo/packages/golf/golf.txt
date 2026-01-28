@@ -2397,6 +2397,7 @@ gumphion
 grow
 guianese
 groomed
+gooseboy
 gruesomer
 gleemaiden
 gyrencephalous
@@ -7013,7 +7014,6 @@ genyantrum
 greasiest
 gare
 genealogist
-gooseboy
 goschen
 gliffing
 galenic
