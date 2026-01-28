@@ -7627,6 +7627,7 @@ enhungered
 euphemious
 ensure
 electrophoridae
+encumber
 epicoracoid
 exocrine
 exhumations
@@ -10781,7 +10782,6 @@ euskera
 esterases
 eluviation
 epitactic
-encumber
 engrafts
 embracer
 eucrystalline
