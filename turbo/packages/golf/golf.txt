@@ -4380,6 +4380,7 @@ gongs
 gorgoneum
 guestling
 gutted
+gonorrhoea
 ghaut
 gluer
 graces
@@ -7461,7 +7462,6 @@ gists
 geodesy
 gimleting
 gades
-gonorrhoea
 groundwater
 gazing
 gulpy
