@@ -10228,7 +10228,6 @@ excavators
 ethyldichloroarsine
 emphraxis
 ethylenimine
-esperanto
 exasperated
 epigenous
 edith
@@ -12065,6 +12064,7 @@ epacridaceae
 excrementive
 extrasensory
 enfolder
+esperanto
 excrescency
 enthusiasm
 eccentric
