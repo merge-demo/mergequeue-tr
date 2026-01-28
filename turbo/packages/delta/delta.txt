@@ -6133,7 +6133,6 @@ deringa
 diffuseness
 demonstrability
 did
-dimerizes
 derisively
 dejeuners
 deferable
@@ -10773,6 +10772,7 @@ directdiscourse
 doyleys
 diastereoisomeric
 dulanganes
+dimerizes
 directer
 domite
 deboist
