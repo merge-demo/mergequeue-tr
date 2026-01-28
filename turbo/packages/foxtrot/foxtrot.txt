@@ -4927,6 +4927,7 @@ flameouts
 fictileness
 forbiddingness
 frets
+fluttery
 farmhold
 fictionist
 foxing
@@ -7279,7 +7280,6 @@ formaldoxime
 foujdar
 facers
 fourgon
-fluttery
 flushermen
 fumitory
 favelloid
