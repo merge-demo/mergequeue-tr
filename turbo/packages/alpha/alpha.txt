@@ -22166,6 +22166,7 @@ apetalousness
 astriferous
 archeology
 asthenolith
+acopic
 asthenology
 anabaptistry
 asthenophobia
@@ -23460,7 +23461,6 @@ augitophyre
 autotomies
 absolutistic
 augmentable
-acopic
 archdruid
 atumble
 annotine
