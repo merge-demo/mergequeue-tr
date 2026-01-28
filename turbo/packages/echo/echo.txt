@@ -3717,7 +3717,6 @@ ekhimi
 eeten
 ephemerons
 echelette
-exhaustivity
 egoistry
 embrittle
 enfranchised
@@ -12776,6 +12775,7 @@ encodings
 elasmobranchiate
 evaporator
 expended
+exhaustivity
 enmask
 exorcizer
 epiceratodus

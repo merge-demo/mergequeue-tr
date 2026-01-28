@@ -75,7 +75,6 @@ gloiosiphonia
 gastrorrhaphy
 gandum
 gradationately
-graftproof
 galliums
 grayish
 geometdecrne
@@ -6261,6 +6260,7 @@ gerahs
 genistein
 gullable
 gobies
+graftproof
 gallify
 gasogenes
 gobiid
