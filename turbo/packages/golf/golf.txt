@@ -5058,6 +5058,7 @@ gilten
 guernseyed
 glareproof
 griskin
+gantlines
 grainsmen
 grenadine
 goldeneye
@@ -8958,7 +8959,6 @@ gumbolike
 glaucopis
 grievable
 grievance
-gantlines
 grievances
 grievous
 gearbox
