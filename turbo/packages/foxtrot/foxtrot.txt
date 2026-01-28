@@ -3333,6 +3333,7 @@ fiel
 falconer
 forgetive
 firmisternia
+funicle
 fieldish
 funereality
 flatfoot
@@ -6283,7 +6284,6 @@ fumatories
 fissipeda
 fluidity
 fuzzy
-funicle
 flack
 futural
 fullback
