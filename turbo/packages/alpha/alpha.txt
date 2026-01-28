@@ -1044,7 +1044,6 @@ anesthesiologist
 animators
 antirentism
 absurder
-anaphylactoid
 aeronautically
 advertized
 alcoholophilia
@@ -20506,6 +20505,7 @@ arteriograph
 adenectopia
 arteriographic
 auriculidae
+anaphylactoid
 arterioloscleroses
 anoxybiosis
 arteriolosclerosis
