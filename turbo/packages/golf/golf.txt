@@ -2416,7 +2416,6 @@ gemmological
 gemmologist
 goalkeeping
 grocers
-gulper
 guativere
 graphotypic
 geologian
@@ -6100,6 +6099,7 @@ gammarus
 gnosis
 galenist
 greenbacks
+gulper
 glaserian
 gnotobiosis
 gnotobiotically

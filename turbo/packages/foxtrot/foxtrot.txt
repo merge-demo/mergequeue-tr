@@ -2162,7 +2162,6 @@ flatterdock
 fisheress
 fraudproof
 fligger
-fallibilism
 foretypified
 fogyisms
 formulae
@@ -6102,6 +6101,7 @@ fishlines
 fabrique
 footblower
 feely
+fallibilism
 fecials
 flouted
 fumarole
