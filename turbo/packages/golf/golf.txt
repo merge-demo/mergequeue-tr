@@ -5200,7 +5200,6 @@ gaited
 gemmipara
 golgi
 golf
-geniculate
 gab
 gunter
 gorgonzola
@@ -7705,6 +7704,7 @@ gyassa
 gentium
 gin
 girba
+geniculate
 glasseye
 glycuresis
 glaciolacustrine
