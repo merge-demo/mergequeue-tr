@@ -10319,6 +10319,7 @@ exaggerative
 eupomatiaceae
 ethonomics
 ethnocentric
+extraretinal
 epeirogenic
 encyclopaedical
 eroticist
@@ -12828,7 +12829,6 @@ exotericism
 extenuated
 excusefully
 emboldener
-extraretinal
 evangelicity
 ensepulchered
 edgeways
