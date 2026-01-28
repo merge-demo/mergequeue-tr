@@ -1582,7 +1582,6 @@ brummagem
 ballyhoo
 ballyrags
 bioelectrogenetic
-belat
 ballised
 biradial
 britches
@@ -17473,6 +17472,7 @@ berzelianite
 birdikin
 bena
 buprestis
+belat
 brob
 briskening
 bragwort
