@@ -5010,7 +5010,6 @@ decolorizer
 delightsome
 dendriform
 dialer
-dendritical
 deal
 derbyshire
 duchy
@@ -15024,6 +15023,7 @@ decarboxylating
 desperate
 doggerelizing
 diphthongising
+dendritical
 disrout
 durnedest
 decided
