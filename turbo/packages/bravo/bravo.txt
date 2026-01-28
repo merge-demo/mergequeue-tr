@@ -14304,7 +14304,6 @@ bigotry
 begrudger
 blending
 brag
-bannut
 blackboard
 bodices
 brogan
@@ -17436,6 +17435,7 @@ beard
 balsawood
 birdnester
 bunkie
+bannut
 bantlings
 buffi
 boccies
