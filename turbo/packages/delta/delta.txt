@@ -822,7 +822,6 @@ diabrotic
 deduced
 dangerousness
 distention
-deniable
 dearths
 dulcorate
 della
@@ -15666,6 +15665,7 @@ decrements
 doper
 disbarring
 dopier
+deniable
 dogstone
 desi
 docile
