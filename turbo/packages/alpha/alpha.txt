@@ -15701,6 +15701,7 @@ amphitokous
 antiparallelogram
 anisomeric
 arylamine
+antirattler
 ablet
 annection
 admen
@@ -22377,7 +22378,6 @@ anna
 ataractic
 akra
 astrogational
-antirattler
 antiauthoritarianism
 anangioid
 astrogeology
