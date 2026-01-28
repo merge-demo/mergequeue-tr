@@ -2197,7 +2197,6 @@ esthesia
 epistome
 expanded
 esophagoplication
-eldermen
 entailing
 expeditionist
 enumerating
@@ -4172,6 +4171,7 @@ emphasizing
 emporeutic
 enaliosaur
 ergotized
+eldermen
 extrications
 empoririums
 emporiums
