@@ -2122,6 +2122,7 @@ fluoresage
 frigate
 fletch
 faujdar
+fldxt
 fuchsite
 fosterling
 flagstone
@@ -5306,7 +5307,6 @@ fant
 forcepslike
 foulmouthedly
 flimflam
-fldxt
 foolhardier
 frower
 frock
