@@ -523,7 +523,6 @@ germproof
 geeldikkop
 groutier
 gavialis
-galipoidin
 guzzles
 galleins
 gomphocarpus
@@ -1878,6 +1877,7 @@ graveside
 grecale
 grubstake
 gating
+galipoidin
 guaiocum
 gerontologists
 gobiidae
