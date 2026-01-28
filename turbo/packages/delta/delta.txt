@@ -5281,7 +5281,6 @@ deadheadism
 dentelure
 duftry
 dealable
-dorsoventrad
 derider
 dorsimesal
 disblame
@@ -13629,6 +13628,7 @@ dimethylketone
 dissheathed
 daddums
 dosimetrist
+dorsoventrad
 deliverance
 disciplinative
 disship
