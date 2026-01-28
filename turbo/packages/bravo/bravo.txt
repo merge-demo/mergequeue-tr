@@ -3779,6 +3779,7 @@ batture
 biunivocal
 bielded
 barasingha
+benzohydrol
 bucklering
 blackening
 biocontrol
@@ -6414,7 +6415,6 @@ biozone
 benzoglycolic
 benzoglyoxaline
 bastioned
-benzohydrol
 benzoylated
 becuna
 benzene
