@@ -524,7 +524,6 @@ gavialis
 guzzles
 galleins
 gomphocarpus
-getters
 gnetaceous
 galler
 grandmammy
@@ -2197,6 +2196,7 @@ gossipiness
 gutturalised
 glucosic
 genghis
+getters
 gravific
 granth
 grotty
