@@ -2545,6 +2545,7 @@ exorcist
 endocritic
 eminency
 eatable
+embracery
 ezra
 emptiable
 electrometer
@@ -12940,7 +12941,6 @@ expatiating
 electable
 espials
 esses
-embracery
 erigible
 expatriate
 expatriating
