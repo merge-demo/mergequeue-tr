@@ -4862,7 +4862,6 @@ bedunce
 baches
 buskins
 bluebonnets
-brightened
 bustard
 becrusts
 berean
@@ -7242,6 +7241,7 @@ buckjump
 bongrace
 bauta
 bute
+brightened
 bituminised
 balearic
 bequirtle
