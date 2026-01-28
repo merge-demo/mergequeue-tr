@@ -6360,7 +6360,6 @@ derotremata
 denization
 dewans
 doggones
-diglyphic
 docquet
 druidic
 deewans
@@ -7817,6 +7816,7 @@ decapitate
 dutchify
 delthyria
 delates
+diglyphic
 dissertationist
 dinoceras
 dogsleds
