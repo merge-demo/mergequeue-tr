@@ -1086,7 +1086,6 @@ dysoxidizable
 defluxion
 datiscaceae
 dhyal
-decayless
 declivitous
 divisibleness
 dads
@@ -7728,6 +7727,7 @@ dexiocardia
 dissociation
 diastataxy
 deformative
+decayless
 devirginate
 diapered
 deils
