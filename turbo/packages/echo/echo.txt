@@ -11338,7 +11338,6 @@ evenforth
 eryopid
 embarrel
 enamoured
-eruciform
 emanatively
 eathly
 epicureans
@@ -13789,6 +13788,7 @@ enouncement
 elephas
 extolls
 eskimos
+eruciform
 endospermic
 extorters
 embroiling
