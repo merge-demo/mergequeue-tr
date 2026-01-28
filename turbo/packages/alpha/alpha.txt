@@ -1831,6 +1831,7 @@ antiketogenesis
 acephalus
 azotaemia
 atridean
+autostandardization
 adolesced
 acequia
 assignable
@@ -13538,7 +13539,6 @@ aster
 appeasing
 avenin
 acutenaculum
-autostandardization
 annoyer
 annoyingly
 authigenic
