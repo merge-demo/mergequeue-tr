@@ -2344,7 +2344,6 @@ concelebrations
 cinchonamin
 canalizes
 celeomorph
-canalizing
 charmers
 canalla
 compulsivity
@@ -29898,6 +29897,7 @@ crossfish
 crossflow
 crossflower
 crossfoot
+canalizing
 crosshair
 crosshand
 capillation
