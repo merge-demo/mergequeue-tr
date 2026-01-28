@@ -4786,6 +4786,7 @@ glaciers
 gymnothorax
 gladhearted
 greeted
+guardhouse
 geometroidea
 giggish
 glaciology
@@ -10687,7 +10688,6 @@ grabs
 glinted
 guaiacolize
 gurshes
-guardhouse
 gobbler
 gonadectomies
 germanophobic
