@@ -5217,6 +5217,7 @@ affectioned
 anemographic
 affections
 affectious
+amotions
 affective
 advocacies
 affectivity
@@ -11101,7 +11102,6 @@ anoesis
 autoput
 aunter
 alacreatinin
-amotions
 aubade
 artiodactyl
 attics
