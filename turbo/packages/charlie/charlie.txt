@@ -7526,6 +7526,7 @@ canalisation
 cercus
 cerdonian
 cereal
+counterdike
 cysticarpium
 centrifugalizing
 carrus
@@ -26791,7 +26792,6 @@ commiserate
 coldest
 counterdigged
 cerebroscopy
-counterdike
 coltishness
 caaming
 counterdisengagement
