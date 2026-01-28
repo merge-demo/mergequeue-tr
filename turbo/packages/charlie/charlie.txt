@@ -965,7 +965,6 @@ calamander
 catti
 calamansi
 calamar
-calamary
 calamariaceous
 centrifugalized
 calamarmar
@@ -8559,6 +8558,7 @@ calenturing
 cablish
 cymaphen
 catanadromous
+calamary
 chandui
 countercross
 chandul

@@ -4040,6 +4040,7 @@ antacids
 anastomus
 administrates
 antihemolytic
+aurists
 administrative
 affixion
 administratively
@@ -23693,7 +23694,6 @@ aurir
 auriscalpia
 auriscopy
 aurist
-aurists
 assentiveness
 aloewood
 actiad
