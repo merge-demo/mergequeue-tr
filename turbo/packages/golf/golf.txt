@@ -2956,7 +2956,6 @@ gurkha
 gollop
 guapilla
 gibes
-geminorum
 gastroenterostomy
 geomant
 graviers
@@ -8716,6 +8715,7 @@ glom
 galeus
 gnathobase
 gobbin
+geminorum
 germling
 gaypoo
 gladless
