@@ -8200,7 +8200,6 @@ dissectors
 dulcor
 diorism
 diadochic
-diadochite
 diathermancy
 diadochokinesia
 diaene
@@ -9273,6 +9272,7 @@ dekaliters
 disploded
 decolorant
 dietitians
+diadochite
 deistic
 dtset
 diplomat
