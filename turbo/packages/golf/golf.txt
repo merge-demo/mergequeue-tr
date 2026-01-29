@@ -1375,7 +1375,6 @@ gravitometer
 garnetter
 glyconeogenetic
 guttular
-gamily
 governs
 ganodonta
 garnison
@@ -5894,6 +5893,7 @@ gaincome
 glummest
 generalific
 glumnesses
+gamily
 genevieve
 gephyrocercal
 gemeinschaft
