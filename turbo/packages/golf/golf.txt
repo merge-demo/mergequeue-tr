@@ -1883,6 +1883,7 @@ galipoidin
 guaiocum
 gerontologists
 gobiidae
+gavelock
 germ
 gatteridge
 gammaridae
@@ -2023,7 +2024,6 @@ greiges
 guazuti
 growers
 gerres
-gavelock
 grunion
 gyroscopics
 gerocomia
