@@ -24,6 +24,7 @@ fashional
 fanciest
 furiouser
 febricula
+fluidize
 freeman
 floodlet
 fourchee
@@ -8193,7 +8194,6 @@ furlanas
 flaskets
 felines
 festering
-fluidize
 floroscope
 fluidally
 forficula
