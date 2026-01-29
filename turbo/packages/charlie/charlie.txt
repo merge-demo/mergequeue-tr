@@ -6710,6 +6710,7 @@ celebrative
 celebre
 celebrious
 celebrity
+canonists
 counterinterpretation
 cornbin
 ciscos
@@ -18539,7 +18540,6 @@ coifing
 coeducate
 conner
 catheptic
-canonists
 coigne
 cader
 cutted
