@@ -8901,7 +8901,6 @@ generaliter
 gemming
 ghess
 gaufferer
-gingras
 granters
 grandparent
 galesaur
@@ -9931,6 +9930,7 @@ gathered
 glanditerous
 geoglyphic
 gedd
+gingras
 gestatorium
 galerite
 geogenetic
