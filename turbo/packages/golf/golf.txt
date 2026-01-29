@@ -4073,7 +4073,6 @@ gastroduodenostomies
 gesnerad
 genesee
 geotaxes
-gargoyle
 glosts
 genetor
 geoglossum
@@ -4407,6 +4406,7 @@ gosplan
 gallet
 gonadotropic
 gammelost
+gargoyle
 graminology
 gommelin
 grandsire
