@@ -14900,7 +14900,6 @@ breakfast
 buffetings
 bastard
 breakfronts
-butlerage
 breaking
 barkeep
 breakings
@@ -17804,6 +17803,7 @@ bacterizing
 brave
 begani
 bursarial
+butlerage
 blypes
 bursaries
 bursars
