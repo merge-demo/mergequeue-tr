@@ -6401,7 +6401,6 @@ bostrychoidal
 bronzelike
 benzine
 blackfly
-bromacetate
 busynesses
 backsliding
 buts
@@ -17236,6 +17235,7 @@ basidigitalia
 batardeau
 bulten
 bandores
+bromacetate
 borsch
 biltongs
 bulwarked
