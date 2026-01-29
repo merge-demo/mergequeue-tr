@@ -7473,6 +7473,7 @@ gamesmanship
 gymnotidae
 gordon
 greenleaf
+galangals
 globulousness
 gaet
 galilean
@@ -10477,7 +10478,6 @@ guestwise
 gilravage
 gumshoeing
 gumweed
-galangals
 glumaceous
 gumweeds
 gramenite
