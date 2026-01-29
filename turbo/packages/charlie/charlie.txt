@@ -2137,7 +2137,6 @@ camped
 campephagine
 camper
 coniopterygidae
-channeler
 campers
 chiloma
 coadjacence
@@ -3230,6 +3229,7 @@ cerebrally
 cohosted
 cumly
 capital
+channeler
 chevronny
 capitaldom
 capitaled
