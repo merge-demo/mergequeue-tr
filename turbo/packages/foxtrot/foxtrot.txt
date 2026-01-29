@@ -10889,6 +10889,7 @@ fucused
 fractural
 ferrum
 fulled
+flaw
 feeing
 fieldwort
 fliskier
@@ -11709,7 +11710,6 @@ foretellableness
 flugelhorn
 fasciola
 fernsick
-flaw
 fiancailles
 frowns
 ferruled
