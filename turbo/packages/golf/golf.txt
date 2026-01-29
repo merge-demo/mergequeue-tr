@@ -4918,6 +4918,7 @@ goodwilled
 gigantic
 grafters
 gyneocracy
+geographics
 goldhead
 genealogists
 goofballs
@@ -10233,7 +10234,6 @@ glycogenase
 generating
 guimbard
 gorsehatch
-geographics
 gershom
 gomontia
 geechee
