@@ -7015,6 +7015,7 @@ dessous
 devall
 doodad
 destabilization
+diprotic
 doolie
 destabilize
 ducting
@@ -10691,7 +10692,6 @@ dippings
 draff
 dipppier
 doubtingly
-diprotic
 dianoialogy
 descriptions
 durions
