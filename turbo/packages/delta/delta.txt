@@ -3900,7 +3900,6 @@ deyship
 demagnification
 defendress
 dislikeable
-dodo
 doctorates
 donne
 delabialization
@@ -8176,6 +8175,7 @@ diffractions
 dicyema
 diacromyodi
 diactinic
+dodo
 deemphasizing
 darghin
 diadelphous
