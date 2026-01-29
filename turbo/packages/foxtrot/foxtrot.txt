@@ -7846,7 +7846,6 @@ forepurpose
 fruitwomen
 forbear
 foreran
-fascination
 forereading
 forereckon
 foredates
@@ -11760,6 +11759,7 @@ fullhearted
 fellowred
 femalist
 fulminatory
+fascination
 ferruginous
 fascines
 flocculi
