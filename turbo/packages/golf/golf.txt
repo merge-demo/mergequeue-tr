@@ -2437,7 +2437,6 @@ gaullism
 glycohemia
 gainsayer
 ghoulish
-globally
 gastraeum
 galravage
 ghettoed
@@ -10659,6 +10658,7 @@ glottologist
 guric
 grog
 granitization
+globally
 gelatinobromide
 gurl
 geocentricism

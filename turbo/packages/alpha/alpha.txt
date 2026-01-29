@@ -3354,7 +3354,6 @@ antipolyneuritic
 axletree
 adamantinoma
 adamantness
-actinochemical
 attemptless
 aphthongia
 adamantoblast
@@ -15996,6 +15995,7 @@ accessorius
 arapunga
 antiradical
 antiegotist
+actinochemical
 anither
 alastair
 antiradicals
