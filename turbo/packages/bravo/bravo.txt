@@ -6967,7 +6967,6 @@ brachinus
 bleacherman
 beastbane
 bewildering
-basad
 beshrews
 bebrine
 beshroud
@@ -7387,6 +7386,7 @@ balusters
 bassness
 bookmaker
 bandit
+basad
 buffcoat
 blanketmaking
 basest
