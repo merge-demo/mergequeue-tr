@@ -7382,6 +7382,7 @@ diadochian
 domesday
 discussed
 downgone
+drum
 dischargee
 detoxication
 detoxicator
@@ -8250,7 +8251,6 @@ diagonalwise
 denudate
 demonization
 diagonic
-drum
 diagram
 deliriousness
 drahthaar
