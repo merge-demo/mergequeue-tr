@@ -1553,7 +1553,6 @@ gentlemens
 gasser
 glutelin
 gripe
-glassless
 ghegish
 gregarinoidea
 gluelikeness
@@ -5849,6 +5848,7 @@ gormandizers
 grandparents
 gestening
 galvaniser
+glassless
 gynephobia
 gluttonize
 grown
