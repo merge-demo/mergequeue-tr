@@ -737,7 +737,6 @@ enstyle
 erythristic
 ecospecific
 emblematised
-extoled
 effaces
 endermatic
 effascinate
@@ -10002,6 +10001,7 @@ eteostic
 elemicin
 eterminable
 eyeballs
+extoled
 eroticism
 epinician
 euptelea
