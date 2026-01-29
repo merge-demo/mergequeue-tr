@@ -7003,7 +7003,6 @@ gimbaled
 gramash
 greenweed
 garages
-gismondine
 glacially
 galilees
 genteelism
@@ -10565,6 +10564,7 @@ greenwithe
 gatewoman
 grenadiership
 grommets
+gismondine
 goads
 garnisher
 grilly
