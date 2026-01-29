@@ -8003,6 +8003,7 @@ dft
 dysthymic
 dialects
 defences
+dulses
 derbylite
 doylt
 dietician
@@ -8737,7 +8738,6 @@ diatribe
 diaulic
 decorably
 doge
-dulses
 diazeutic
 dittogram
 diazeuxis
