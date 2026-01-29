@@ -8412,6 +8412,7 @@ equip
 enjoyment
 eglogue
 endothecate
+entemple
 eradiates
 encephalomere
 epizootology
@@ -14008,7 +14009,6 @@ epicoracohumeral
 exaltate
 extralimital
 extrapolatory
-entemple
 extraposition
 electrolytic
 extraprofessional
