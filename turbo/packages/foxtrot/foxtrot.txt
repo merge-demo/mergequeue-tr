@@ -1056,7 +1056,6 @@ felspathose
 floricomous
 fringillidae
 foraging
-fogas
 fastigiately
 faro
 fluoridization
@@ -6368,6 +6367,7 @@ floatmaker
 fireworm
 fatiguabilities
 fossae
+fogas
 fluoride
 flyboat
 flannelled
