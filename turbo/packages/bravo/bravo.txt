@@ -10525,7 +10525,6 @@ blason
 blasphemed
 blasphemes
 blasphemies
-blasphemousness
 bismarckian
 buttonhole
 bielectrolysis
@@ -15315,6 +15314,7 @@ beholding
 brideweed
 bahiaite
 biochemics
+blasphemousness
 bosk
 bullying
 belles
