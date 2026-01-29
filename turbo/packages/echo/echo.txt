@@ -10416,6 +10416,7 @@ ergosterin
 electroreduction
 endomyces
 engraved
+enstatitite
 estruation
 etymologization
 edentalous
@@ -11753,7 +11754,6 @@ exarate
 egyptianization
 exorcista
 exaration
-enstatitite
 extracorpuscular
 euripidean
 ekphore
