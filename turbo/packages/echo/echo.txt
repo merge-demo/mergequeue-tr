@@ -1026,6 +1026,7 @@ emblem
 epipleura
 elberta
 expeditions
+eucharistically
 exadversum
 erugo
 etchareottine
@@ -10514,7 +10515,6 @@ eucharistial
 eurylaimoid
 eudaemony
 eucharistic
-eucharistically
 earthfall
 ephthalite
 empaper
