@@ -448,6 +448,7 @@ gamosepalous
 gardenable
 gammexane
 grapefruits
+grimace
 garrote
 gallantness
 goldless
@@ -992,7 +993,6 @@ goldhammer
 ganderess
 genethlialogy
 gamester
-grimace
 geanticline
 garnel
 gubernia
