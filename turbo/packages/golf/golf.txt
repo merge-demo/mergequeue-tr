@@ -1963,6 +1963,7 @@ glairs
 gastricism
 garnishments
 gnomonical
+glasgow
 gimbal
 geology
 geranic
@@ -3446,7 +3447,6 @@ gelatinated
 gastrologer
 genoa
 gallanting
-glasgow
 gallophobia
 gallous
 gentling
