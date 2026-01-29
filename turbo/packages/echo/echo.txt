@@ -1312,6 +1312,7 @@ elengeness
 effects
 enlarge
 edified
+enterocyst
 effectuated
 encastage
 effectuating
@@ -6571,7 +6572,6 @@ ectocarpaceous
 emm
 epodes
 episcopalians
-enterocyst
 etcher
 entreating
 enterocleisis
