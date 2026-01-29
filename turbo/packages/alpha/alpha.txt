@@ -6742,6 +6742,7 @@ amplifies
 accepters
 alliage
 abucco
+autostethoscope
 arpeggio
 allomerize
 agglutination
@@ -12477,7 +12478,6 @@ amenty
 actinides
 argante
 androsphinx
-autostethoscope
 arteriology
 androsterone
 androtomy
