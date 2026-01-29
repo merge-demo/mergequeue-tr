@@ -22102,7 +22102,6 @@ alloclasite
 apoplexies
 adduce
 asterisk
-antesunrise
 artilleryman
 anteromedial
 amphigamous
@@ -24598,6 +24597,7 @@ antimachine
 availing
 amapondo
 apollyon
+antesunrise
 abrogators
 admixture
 aumaga
