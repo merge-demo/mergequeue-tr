@@ -228,7 +228,6 @@ functionaries
 fulimart
 frostbound
 friezed
-foehnlike
 fritterer
 facultize
 flexional
@@ -2291,6 +2290,7 @@ fast
 fixities
 fixatifs
 flagitious
+foehnlike
 felis
 feminizes
 friday
