@@ -23779,6 +23779,7 @@ contrarotation
 conjunctival
 crofts
 centrifugal
+continuative
 cyclopedic
 contrascriptural
 contrast
@@ -25895,7 +25896,6 @@ corseting
 ciliferous
 corsetry
 conversation
-continuative
 corsets
 chopboat
 corsy
