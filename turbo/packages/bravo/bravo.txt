@@ -2944,6 +2944,7 @@ broad
 bombilation
 barrelled
 billfish
+beastie
 barrelmaker
 blissfully
 bamboozlement
@@ -6900,7 +6901,6 @@ bentinck
 bendel
 bloodwite
 beryllosis
-beastie
 beseemliness
 benignancies
 beseems
