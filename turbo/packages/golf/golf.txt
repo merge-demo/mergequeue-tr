@@ -8814,6 +8814,7 @@ gardenlike
 globe
 gnostic
 girsle
+gorged
 guanay
 gablelike
 graecized
@@ -9726,7 +9727,6 @@ gordiidae
 gagroot
 gablewise
 gambes
-gorged
 gastrodynia
 glutens
 geophagies
