@@ -7944,6 +7944,7 @@ dextranase
 doublelunged
 disallowable
 downsteepy
+diuresis
 diathermal
 decimeters
 dextroaural
@@ -9865,7 +9866,6 @@ duscle
 duka
 deformational
 dimes
-diuresis
 dimetallic
 dimeter
 dermatauxe
