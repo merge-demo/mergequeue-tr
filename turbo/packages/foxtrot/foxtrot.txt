@@ -1684,6 +1684,7 @@ forebrace
 flacourtiaceous
 forgrow
 fearedly
+flews
 fadeaways
 frisker
 fearedness
@@ -5207,7 +5208,6 @@ flatnose
 forcive
 flavescent
 funguses
-flews
 flitterbat
 farse
 fulfil
