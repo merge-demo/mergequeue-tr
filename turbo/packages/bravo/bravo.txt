@@ -3229,7 +3229,6 @@ basidigital
 bouteselle
 bangwaketsi
 barotactic
-breadth
 ballerinas
 beknave
 baclava
@@ -9711,6 +9710,7 @@ brabant
 bullish
 bisymmetry
 brandyman
+breadth
 bushily
 bisymmetrical
 borate
