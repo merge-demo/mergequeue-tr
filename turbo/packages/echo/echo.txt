@@ -1627,7 +1627,6 @@ exotoxin
 ehretiaceae
 env
 entrez
-enterobacterium
 eucarida
 eyah
 embliss
@@ -4638,6 +4637,7 @@ excretionary
 enrapting
 eustachian
 eristalis
+enterobacterium
 epidermophyton
 enchorial
 echinoderm
