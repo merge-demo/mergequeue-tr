@@ -2229,7 +2229,6 @@ camptonite
 cubicone
 camptosorus
 cabaan
-campus
 chromatic
 campusses
 campward
@@ -19263,6 +19262,7 @@ cowinners
 colonialness
 carshop
 caryatic
+campus
 crusie
 colonials
 colonical
