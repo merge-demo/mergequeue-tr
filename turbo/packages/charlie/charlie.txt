@@ -11426,7 +11426,6 @@ conventionalism
 choak
 choana
 consultations
-choanate
 choanephora
 cystopyelography
 choanocyte
@@ -31376,6 +31375,7 @@ constitutionist
 curiara
 chromocollotypy
 chaetopodous
+choanate
 criosphinges
 curie
 curiet

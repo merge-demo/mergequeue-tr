@@ -5618,7 +5618,6 @@ endent
 endocentric
 edenic
 encouraging
-eirene
 epilogation
 enforest
 epacme
@@ -8170,6 +8169,7 @@ eons
 epitendineum
 exergual
 empowered
+eirene
 excalfaction
 episiotomies
 eequinoctium
