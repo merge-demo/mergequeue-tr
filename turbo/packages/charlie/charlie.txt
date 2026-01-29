@@ -23934,7 +23934,6 @@ cheremiss
 conuzee
 cicatricose
 cacological
-convalesced
 candil
 convalescence
 convalescently
@@ -26286,6 +26285,7 @@ crowfoots
 countersea
 costmaries
 counterdemonstrator
+convalesced
 costoabdominal
 collegianer
 coccyxes
