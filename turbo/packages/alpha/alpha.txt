@@ -2945,6 +2945,7 @@ anteluminary
 auxobody
 ameerate
 acroterial
+anhydric
 aeons
 ablactation
 acrotism
@@ -10958,7 +10959,6 @@ acclamation
 absolution
 amosite
 armsful
-anhydric
 availably
 airtight
 amnions
