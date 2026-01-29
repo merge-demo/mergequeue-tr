@@ -11519,7 +11519,6 @@ chokeys
 camerata
 congenetic
 choker
-coredeemed
 cratonic
 clinkstone
 congelifraction
@@ -24235,6 +24234,7 @@ convolvulaceae
 convolvulaceous
 convolvulad
 courser
+coredeemed
 cosonant
 convolvulic
 convolvulinic
