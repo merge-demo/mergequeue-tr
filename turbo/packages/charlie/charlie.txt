@@ -19736,6 +19736,7 @@ combos
 coeno
 collodiotype
 countervengeance
+communicatory
 combure
 comburent
 comburgess
@@ -20305,7 +20306,6 @@ countrie
 cercospora
 combatter
 command
-communicatory
 communicators
 communionable
 cornrows
