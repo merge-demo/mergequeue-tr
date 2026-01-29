@@ -6322,7 +6322,6 @@ ambulances
 antonomasia
 aggress
 artsman
-agrarianly
 agrauleum
 agariciform
 attemptability
@@ -22556,6 +22555,7 @@ antimilitarism
 aerogene
 adorability
 afterfruits
+agrarianly
 aspermic
 atechnical
 atef
