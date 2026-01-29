@@ -2220,7 +2220,6 @@ abattue
 adventuristic
 achromaticity
 achromatisation
-agallochum
 acetophenine
 acrestaff
 archangel
@@ -4442,6 +4441,7 @@ adumbrations
 asthenias
 agrypnode
 angild
+agallochum
 adumbrative
 anthochlor
 anybodies
