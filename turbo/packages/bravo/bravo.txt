@@ -12250,6 +12250,7 @@ banque
 beld
 bolognas
 bolognese
+bebannered
 balaenopteridae
 birdling
 besmut
@@ -17222,7 +17223,6 @@ beachcomber
 banditism
 bierstube
 boucles
-bebannered
 bullweed
 brulyie
 bromindigo
