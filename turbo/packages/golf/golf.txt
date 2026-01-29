@@ -2486,7 +2486,6 @@ gradienter
 gotch
 glunches
 gastroalbuminorrhea
-gliriform
 gubbin
 gigacycle
 garlanding
@@ -6160,6 +6159,7 @@ geopony
 gagster
 geadephaga
 guinde
+gliriform
 goaltender
 grandmontine
 glaziers
