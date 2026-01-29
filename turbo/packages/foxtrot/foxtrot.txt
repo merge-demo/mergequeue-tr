@@ -8360,6 +8360,7 @@ flexuoseness
 fightings
 followed
 funaria
+fuchsian
 fimbrial
 filiate
 fiberfill
@@ -10802,7 +10803,6 @@ filamentoid
 fullering
 footpads
 farmerette
-fuchsian
 fort
 fructificative
 floundered
