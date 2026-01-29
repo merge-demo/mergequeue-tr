@@ -9269,6 +9269,7 @@ gangliate
 gunocracy
 galactophagous
 guidebook
+gelatiniser
 gi
 geodynamicist
 glandular
@@ -10372,7 +10373,6 @@ gonyalgia
 gunda
 griddles
 glycyls
-gelatiniser
 gutta
 gullies
 gems
