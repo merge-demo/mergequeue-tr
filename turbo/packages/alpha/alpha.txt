@@ -6189,7 +6189,6 @@ ababua
 appar
 agnosia
 antimonic
-anisogamic
 anthraces
 ablactate
 agnostics
@@ -25394,6 +25393,7 @@ alumbloom
 adopter
 alloxanic
 azured
+anisogamic
 acronyx
 assesses
 antiparagraphic
