@@ -3062,7 +3062,6 @@ dentaria
 defacer
 danes
 dentiscalp
-desole
 designated
 degradand
 delightfully
@@ -3771,6 +3770,7 @@ diarrhoea
 drivelers
 disunities
 diwan
+desole
 disunified
 durani
 dysphemistic
