@@ -4175,7 +4175,6 @@ ghibelline
 gynaecium
 gunned
 grovel
-goloka
 gois
 gaetuli
 gyromagnetic
@@ -5223,6 +5222,7 @@ gymnogenous
 gurish
 glaucophane
 garish
+goloka
 grihyasutra
 galoubet
 genesic
