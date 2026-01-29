@@ -6606,6 +6606,7 @@ flauntily
 frontes
 formaldehydesulphoxylate
 fancify
+foretellableness
 footpath
 forevouched
 faulted
@@ -11706,7 +11707,6 @@ filets
 fracas
 fas
 far
-foretellableness
 flugelhorn
 fasciola
 fernsick
