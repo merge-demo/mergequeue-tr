@@ -3229,7 +3229,6 @@ deferents
 datiscetin
 drakefly
 dudder
-deferrable
 deferrer
 deferrize
 disturbative
@@ -14736,6 +14735,7 @@ darnation
 dioptrically
 dedolomitize
 docetae
+deferrable
 docetize
 deerstand
 divorcements
