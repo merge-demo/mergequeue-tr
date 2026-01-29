@@ -295,6 +295,7 @@ fiqh
 frappeing
 fasciolariidae
 fiddlesticks
+flinty
 faeryland
 fleabitten
 fertilization
@@ -11052,7 +11053,6 @@ funambulator
 feels
 faon
 faunological
-flinty
 fellatrices
 fangless
 flycatcher
