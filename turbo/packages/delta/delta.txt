@@ -1436,7 +1436,6 @@ dawkin
 diploidy
 digresses
 demiurgical
-dawning
 desocialize
 dawnlike
 demimetope
@@ -16737,6 +16736,7 @@ downline
 draping
 diswood
 drastic
+dawning
 dirtfarmer
 drastically
 depencil
