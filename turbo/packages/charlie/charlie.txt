@@ -20263,7 +20263,6 @@ cephalometry
 cavitations
 commoving
 coisns
-casanovanic
 clinical
 communa
 cellulotoxic
@@ -25063,6 +25062,7 @@ cleptobiosis
 counterbalancing
 coregnant
 coregonid
+casanovanic
 coregonoid
 chlorinate
 coreidae
