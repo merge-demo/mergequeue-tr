@@ -2663,7 +2663,6 @@ grudgingness
 gauzily
 gratefullest
 geodiferous
-gabardines
 gravelous
 guaican
 glyconean
@@ -2922,6 +2921,7 @@ glove
 gubernation
 gallons
 glabreity
+gabardines
 gulley
 growlier
 glumpish
