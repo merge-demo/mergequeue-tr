@@ -2734,7 +2734,6 @@ feis
 flanges
 fortescure
 fascisms
-frigidoreceptor
 festy
 festilogies
 feddans
@@ -8035,6 +8034,7 @@ falbala
 forestral
 foolfishes
 forestries
+frigidoreceptor
 firebrats
 furnitures
 forenames
