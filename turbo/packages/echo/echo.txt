@@ -3578,7 +3578,6 @@ embosoming
 euchlaena
 emancipative
 encraal
-embossage
 embossed
 embossing
 embossman
@@ -5749,6 +5748,7 @@ etherol
 eke
 enchiridia
 ephorus
+embossage
 enticers
 englacial
 expose
