@@ -16173,6 +16173,7 @@ dertra
 degas
 droplet
 desalinized
+delocalized
 deweylite
 dowdy
 distent
@@ -16387,7 +16388,6 @@ disdain
 drunkery
 downwardly
 devourment
-delocalized
 dispellable
 dogtrotted
 downgrowth

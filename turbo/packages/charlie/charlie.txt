@@ -6238,7 +6238,6 @@ camize
 coryzal
 caulescent
 caulicle
-caulicole
 castrated
 caulicolous
 customed
@@ -21480,6 +21479,7 @@ concordances
 cantalas
 concordancy
 concordant
+caulicole
 carpidium
 concordatory
 concordity
