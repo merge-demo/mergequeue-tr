@@ -5039,6 +5039,7 @@ enamellar
 exemplum
 eyelid
 endoaortitis
+embryophyte
 entoolitic
 economization
 emerited
@@ -9190,7 +9191,6 @@ enterprising
 enfork
 enchodus
 elates
-embryophyte
 electrographite
 empiricism
 exotropia
