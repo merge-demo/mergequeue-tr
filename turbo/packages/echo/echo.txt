@@ -8405,7 +8405,6 @@ exulceration
 earflaps
 epinasties
 exchange
-electrizer
 evisceration
 egyptianize
 equip
@@ -9775,6 +9774,7 @@ embitterment
 embracive
 explaining
 exp
+electrizer
 essoined
 embolemia
 eachwhere
