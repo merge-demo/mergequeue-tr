@@ -10088,7 +10088,6 @@ chessylite
 chessist
 chirimen
 chessner
-chessom
 claves
 chesstree
 cerias
@@ -12636,6 +12635,7 @@ chubby
 cayuco
 chubbier
 colorless
+chessom
 condores
 cteninidia
 chubbiest
