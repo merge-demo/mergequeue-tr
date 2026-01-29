@@ -1742,7 +1742,6 @@ deathiness
 dasewe
 discantus
 duckpond
-dysenteric
 deathless
 decad
 decumaria
@@ -3940,6 +3939,7 @@ dkm
 delassation
 dindling
 decontaminates
+dysenteric
 dunstone
 drugless
 dustman
