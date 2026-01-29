@@ -2326,6 +2326,7 @@ epically
 effulge
 enchants
 epistroma
+encloses
 electrocardiogram
 enclear
 ever
@@ -7362,7 +7363,6 @@ eelblennies
 epeirogenically
 erythrina
 exuviate
-encloses
 exonship
 epithetical
 extollment
