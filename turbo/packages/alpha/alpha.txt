@@ -19362,7 +19362,6 @@ annexure
 asse
 autocamper
 argal
-argala
 assurd
 apiin
 acontius
@@ -25261,6 +25260,7 @@ aphasiology
 azygobranchiate
 allemontite
 adjudicate
+argala
 azygote
 armfuls
 antimonopolization
