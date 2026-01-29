@@ -1769,6 +1769,7 @@ galliambic
 gastrorrhea
 graecizes
 goutiest
+gibbsite
 gonadial
 genealogizer
 gastroscopist
@@ -4657,7 +4658,6 @@ gise
 granges
 gooder
 gourmandise
-gibbsite
 gauping
 glazen
 geisothermal
