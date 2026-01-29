@@ -14207,6 +14207,7 @@ baculi
 bracking
 brockle
 brackish
+bugle
 bacteriological
 banat
 byrls
@@ -17565,7 +17566,6 @@ blayne
 boorishly
 blore
 belong
-bugle
 burgau
 benzidins
 bumbelo
