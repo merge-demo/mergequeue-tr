@@ -10684,7 +10684,6 @@ dumbnesses
 diaculum
 depit
 dormin
-demurs
 dippier
 dipping
 depersonalizing
@@ -12174,6 +12173,7 @@ disflesh
 disfoliage
 dayward
 disrelate
+demurs
 disfoliaged
 demobilization
 descendibility
