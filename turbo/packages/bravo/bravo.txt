@@ -11996,6 +11996,7 @@ bogmire
 borine
 baggit
 bedwarf
+borish
 bipack
 bogong
 brickcroft
@@ -15232,7 +15233,6 @@ brickbat
 buttonholed
 blackstrap
 bombyx
-borish
 bemajesty
 branchiosauria
 brickbatting
