@@ -4288,6 +4288,7 @@ diacritical
 dods
 decennials
 dura
+delineate
 descriers
 demagogue
 diseducate
@@ -8106,7 +8107,6 @@ diabolization
 depilates
 disambiguate
 disventure
-delineate
 deepener
 diacaustic
 diamminonitrate
