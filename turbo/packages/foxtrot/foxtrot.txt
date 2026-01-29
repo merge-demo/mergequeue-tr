@@ -2201,7 +2201,6 @@ flawful
 fruiting
 fragrancy
 feminility
-feminin
 fluorinates
 foals
 feminineness
@@ -6503,6 +6502,7 @@ fluttering
 forswears
 flameless
 feedboard
+feminin
 flutterment
 flimflammed
 fluviolacustrine
