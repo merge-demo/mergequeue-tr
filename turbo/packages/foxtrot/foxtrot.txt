@@ -9258,7 +9258,6 @@ forsado
 faulting
 flappers
 forty
-foveae
 figured
 fresher
 furfurole
@@ -9893,6 +9892,7 @@ frogskins
 forepeaks
 fines
 forgemen
+foveae
 fogeater
 fevercup
 fermentate
