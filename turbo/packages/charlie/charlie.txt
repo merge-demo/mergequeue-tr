@@ -25191,7 +25191,6 @@ corymbiated
 craylet
 coachlet
 corymblike
-corymbose
 capitally
 codifiability
 cowering
@@ -30324,6 +30323,7 @@ confrater
 consonantizing
 constructions
 chiragra
+corymbose
 cruorin
 counteracts
 carombolette
