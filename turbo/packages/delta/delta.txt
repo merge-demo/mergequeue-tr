@@ -13361,7 +13361,6 @@ disputes
 disdiaclast
 disputing
 dayflower
-demonstrableness
 deadmen
 decurving
 disequilibria
@@ -14494,6 +14493,7 @@ doradidae
 dicynodontidae
 davit
 dihelios
+demonstrableness
 decoupling
 delly
 deckhouse
