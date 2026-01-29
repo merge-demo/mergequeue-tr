@@ -6788,7 +6788,6 @@ entoil
 epistolographer
 eggler
 entom
-extender
 episternalia
 evocativeness
 eumenes
@@ -8951,6 +8950,7 @@ edgers
 europeanly
 essex
 enhort
+extender
 eon
 emitter
 extraspherical

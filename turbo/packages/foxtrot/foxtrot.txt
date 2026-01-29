@@ -1822,7 +1822,6 @@ fiddler
 fastener
 fissiparous
 forgets
-furphy
 fluidify
 featureful
 featurelessness
@@ -9591,6 +9590,7 @@ freemasonic
 fatherlands
 floriform
 freemasonical
+furphy
 finitesimal
 flatfootedness
 freen
