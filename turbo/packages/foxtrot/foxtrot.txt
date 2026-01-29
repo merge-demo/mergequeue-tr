@@ -4094,7 +4094,6 @@ forgery
 fatalness
 fissipedal
 ferth
-fitout
 fiendful
 feuilletons
 frameworks
@@ -8421,6 +8420,7 @@ formations
 furcellate
 fatbrained
 formazan
+fitout
 formel
 furiant
 foresinger
