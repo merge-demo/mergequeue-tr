@@ -8897,7 +8897,6 @@ detailers
 dully
 divinyl
 dichloramine
-dichloride
 dichloroacetic
 dichlorodifluoromethane
 domiciling
@@ -17771,6 +17770,7 @@ demises
 ducdame
 diplocoria
 duchan
+dichloride
 diagraph
 demythologize
 dorsigrade
