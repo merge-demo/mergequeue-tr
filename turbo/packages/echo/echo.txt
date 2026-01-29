@@ -4201,6 +4201,7 @@ exhorter
 echolalic
 electroetching
 exocardiac
+encysted
 enghle
 emeutes
 egoize
@@ -5091,7 +5092,6 @@ ectozoan
 epitomical
 emuls
 embracingness
-encysted
 electrosensitive
 emanatistic
 epilogic
