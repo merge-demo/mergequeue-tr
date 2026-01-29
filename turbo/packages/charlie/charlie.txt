@@ -167,6 +167,7 @@ coploughing
 cachinnator
 cabomba
 caban
+clergymen
 cabombaceae
 cicale
 caboodle
@@ -15911,7 +15912,6 @@ clergyable
 cotoneaster
 clergylike
 cyclos
-clergymen
 chandleries
 clergion
 clergywoman
