@@ -4999,6 +4999,7 @@ basement
 bluebeardism
 beermaker
 beermaking
+battleship
 beermonger
 bumpoff
 beestings
@@ -16638,7 +16639,6 @@ breathier
 becrampon
 bowmaker
 blackarm
-battleship
 beanpole
 bejewelled
 brawls
