@@ -6833,7 +6833,6 @@ farewell
 flasks
 friability
 flourished
-fossilise
 flioma
 folky
 fibromyxosarcoma
@@ -9761,6 +9760,7 @@ foraminal
 foist
 feminists
 fulminator
+fossilise
 feasance
 freshmen
 fanners
