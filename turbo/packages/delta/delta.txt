@@ -1075,6 +1075,7 @@ deontology
 disbanding
 dartagnan
 darters
+depository
 dearticulation
 dedecorate
 defuses
@@ -18330,7 +18331,6 @@ dicaeidae
 decryptograph
 dunster
 dunting
-depository
 dasyproctidae
 disshadow
 debussing
