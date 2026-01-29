@@ -6304,7 +6304,6 @@ graplines
 gamic
 greentail
 gastrectasis
-gonake
 grotesqueries
 gradating
 goethian
@@ -10387,6 +10386,7 @@ gangliocyte
 geshurites
 glottic
 gaucheness
+gonake
 gayish
 greypate
 generalisable
