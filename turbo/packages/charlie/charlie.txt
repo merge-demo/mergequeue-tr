@@ -8493,7 +8493,6 @@ chemosterilants
 chanced
 categorical
 chanceful
-climb
 cadrans
 chancefulness
 chancey
@@ -9485,6 +9484,7 @@ checkbits
 checkbook
 counterbuff
 chachalaca
+climb
 cableways
 cirrigerous
 climatically
