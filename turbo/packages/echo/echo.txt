@@ -1583,7 +1583,6 @@ enumerator
 eff
 evacuations
 estopped
-embay
 euphonetics
 enablers
 eyewitnesses
@@ -2574,6 +2573,7 @@ electronically
 engraftation
 exclaimed
 ecad
+embay
 encyclopaedian
 electrodiagnoses
 entrenched
