@@ -13260,7 +13260,6 @@ anomaly
 anionic
 amiles
 anisado
-askable
 araks
 anisandrous
 aberrant
@@ -17744,6 +17743,7 @@ applicableness
 asilid
 agamist
 aristarchian
+askable
 amylogenesis
 ambilaterality
 ambosexous

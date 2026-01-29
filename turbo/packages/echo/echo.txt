@@ -3816,6 +3816,7 @@ emparl
 extolled
 engrain
 expletory
+emissory
 emended
 ecu
 emending
@@ -3907,7 +3908,6 @@ exede
 examinability
 epiglottis
 endexine
-emissory
 emitting
 entamebas
 electropathic
