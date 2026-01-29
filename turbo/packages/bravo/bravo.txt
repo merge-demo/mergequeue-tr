@@ -2260,7 +2260,6 @@ bourage
 barricos
 buddler
 bassoons
-barbarise
 barbarised
 benzazimide
 barbarising
@@ -11058,6 +11057,7 @@ bawbee
 bumblingly
 belikely
 baalitical
+barbarise
 bribemonger
 blackface
 bident
