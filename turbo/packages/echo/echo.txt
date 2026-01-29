@@ -4456,7 +4456,6 @@ enquires
 epiphyllum
 expiable
 ensober
-eringoes
 enneadianome
 ezekiel
 encastre
@@ -5304,6 +5303,7 @@ eradicators
 egeran
 emmeniopathy
 endoscopies
+eringoes
 epipodia
 endoskeletons
 endosmic
