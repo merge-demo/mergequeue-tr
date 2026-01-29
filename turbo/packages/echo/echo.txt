@@ -11126,6 +11126,7 @@ enjambments
 encomy
 evacuant
 episome
+electrolysation
 extipulate
 executing
 evacuants
@@ -12952,7 +12953,6 @@ epipsychidion
 egotistical
 emblematized
 east
-electrolysation
 enhaunt
 eulogiae
 expectancy
