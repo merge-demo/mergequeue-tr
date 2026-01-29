@@ -1349,6 +1349,7 @@ evasional
 ebcdic
 excludability
 earlocks
+emarginula
 ethylated
 enopla
 eucalyptol
@@ -12752,7 +12753,6 @@ ethers
 enterococcal
 epistomian
 enfetters
-emarginula
 electroindustrial
 endoplasm
 eidos
