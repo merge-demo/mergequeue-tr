@@ -3294,6 +3294,7 @@ germanness
 ganging
 graveled
 gunrunner
+granulitization
 genapped
 gingeley
 grr
@@ -5014,7 +5015,6 @@ glassful
 grapplers
 gloxinia
 glasshouses
-granulitization
 gateaux
 gasts
 glued
