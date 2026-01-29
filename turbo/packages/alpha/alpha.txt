@@ -4609,7 +4609,6 @@ avidnesses
 antechapel
 altercate
 arbith
-apersee
 accoying
 astragalonavicular
 adlumine
@@ -11646,6 +11645,7 @@ asphalting
 anacid
 ambulacriform
 amal
+apersee
 acronyc
 amarevole
 atomise

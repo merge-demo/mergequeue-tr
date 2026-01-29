@@ -2099,7 +2099,6 @@ campanini
 casseroled
 campanistic
 cuecas
-campanologer
 crucis
 croaker
 coalmonger
@@ -22345,6 +22344,7 @@ congressionalist
 congressionally
 corolla
 catawampus
+campanologer
 congressionist
 cobaltic
 congressist
