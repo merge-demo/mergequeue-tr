@@ -2915,6 +2915,7 @@ furloughs
 fungological
 froths
 fevered
+feower
 foliate
 flitchen
 franklinian
@@ -8560,7 +8561,6 @@ flatworks
 farseeingness
 forehearth
 fenceress
-feower
 flowingly
 forz
 faradisms
