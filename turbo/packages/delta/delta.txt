@@ -687,7 +687,6 @@ depermed
 disappointedly
 dampness
 dextrosuria
-diacetylene
 digestory
 deans
 despairs
@@ -10294,6 +10293,7 @@ ditton
 diopter
 diopters
 decumary
+diacetylene
 discounter
 dioptometer
 disnature
