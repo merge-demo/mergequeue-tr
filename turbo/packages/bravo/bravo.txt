@@ -4377,6 +4377,7 @@ balzacian
 bemercy
 bushwalking
 bely
+bacony
 blowze
 bonspiels
 bombola
@@ -8465,7 +8466,6 @@ backtrick
 burp
 bookmen
 bilalo
-bacony
 beaverette
 bocage
 bonspell
