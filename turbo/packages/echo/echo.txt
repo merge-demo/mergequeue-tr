@@ -7703,7 +7703,6 @@ elytroplastic
 ergo
 epeirogeny
 equilibration
-ecostate
 extrapopular
 epidemiologic
 emulsified
@@ -13118,6 +13117,7 @@ electrothermotic
 electrochemically
 entermete
 epistolization
+ecostate
 excruciation
 engages
 eulogize
