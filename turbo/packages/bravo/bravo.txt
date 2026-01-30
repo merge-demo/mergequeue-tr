@@ -4617,7 +4617,6 @@ beats
 bioscientist
 bedazement
 bigeminate
-bedazzle
 blared
 bylina
 banters
@@ -6001,6 +6000,7 @@ barothermohygrogram
 burrobrush
 breadwinner
 bosslet
+bedazzle
 begripe
 bellarmine
 bemaddened
