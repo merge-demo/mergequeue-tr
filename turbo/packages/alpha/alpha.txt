@@ -12730,7 +12730,6 @@ acetoacetate
 angellike
 auf
 almoravid
-angelolatry
 arthrography
 antiquarism
 apodioxis
@@ -17079,6 +17078,7 @@ aphorism
 apodedeipna
 acrotarsium
 apodeictic
+angelolatry
 aboideaux
 anosmic
 ailments
