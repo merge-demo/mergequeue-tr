@@ -2938,7 +2938,6 @@ eelshop
 effectful
 evaporatively
 erythrasma
-elliptical
 embarrassments
 eyewinks
 elicitation
@@ -8134,6 +8133,7 @@ eliminative
 elmy
 eclectically
 erudit
+elliptical
 echeveria
 episcopate
 expulsions
