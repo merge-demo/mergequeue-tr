@@ -10894,7 +10894,6 @@ cambaye
 chypre
 cariacine
 chipwood
-chiquito
 clavate
 chiral
 clerids
@@ -22246,6 +22245,7 @@ congestedness
 cucujidae
 commote
 congestible
+chiquito
 congesting
 congestion
 calk
