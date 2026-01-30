@@ -4045,7 +4045,6 @@ gelechiid
 goosemouth
 gaulic
 gamekeeper
-gaufer
 gudget
 glorification
 goneoclinic
@@ -8810,6 +8809,7 @@ globe
 gnostic
 girsle
 gorged
+gaufer
 guanay
 gablelike
 graecized
