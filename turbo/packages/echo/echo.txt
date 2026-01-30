@@ -653,7 +653,6 @@ electrophysiology
 emaculate
 estheses
 eteocreton
-endolymphic
 exudative
 eclipsed
 epidermidalization
@@ -8705,6 +8704,7 @@ epicondylar
 endothelia
 edgemaking
 enchain
+endolymphic
 erupting
 enamorate
 eradications
