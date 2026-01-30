@@ -4436,7 +4436,6 @@ dinornithes
 dislink
 dyspareunia
 deerstalker
-demibob
 dendrological
 demibuckram
 dysprosium
@@ -13569,6 +13568,7 @@ dissented
 dissenter
 daemonic
 diastrophy
+demibob
 dissentience
 duende
 dehydrofrozen
