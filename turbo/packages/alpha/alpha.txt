@@ -5573,7 +5573,6 @@ audiotypist
 auxofluor
 andiroba
 absolute
-afters
 amphibrach
 allomerism
 attentat
@@ -11221,6 +11220,7 @@ aftermaths
 accompt
 amphibolous
 amia
+afters
 amphibrachic
 amphicarpaea
 amphicarpia
