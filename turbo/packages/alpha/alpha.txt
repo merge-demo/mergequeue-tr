@@ -10831,7 +10831,6 @@ apodemal
 arenaria
 apothecary
 adductor
-ammeter
 ammeters
 amplexuses
 alboin
@@ -18500,6 +18499,7 @@ abracadabra
 aquamarines
 antitobacco
 abstained
+ammeter
 arbitress
 anagyrin
 algraphic
