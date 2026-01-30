@@ -2507,7 +2507,6 @@ ensate
 eparcuale
 expostulations
 excerebrate
-eviration
 efferently
 emesidae
 enserfs
@@ -6775,6 +6774,7 @@ entitling
 ecclesioclastic
 entoblastic
 entobronchium
+eviration
 equitriangular
 ellinge
 entocyemate
