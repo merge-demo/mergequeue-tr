@@ -1356,6 +1356,7 @@ drawboard
 drapable
 dauri
 dipterocecidium
+dacryd
 dappledness
 dorter
 dreyfusism
@@ -1924,7 +1925,6 @@ debris
 debrominate
 diandrian
 disapprobations
-dacryd
 dinophilus
 deferments
 desire
