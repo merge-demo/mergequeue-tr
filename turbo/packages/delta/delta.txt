@@ -8862,7 +8862,6 @@ diccon
 depolariser
 daimio
 dermatitis
-decaisnea
 dice
 diceboard
 daunomycin
@@ -15485,6 +15484,7 @@ donator
 detergence
 discodactyl
 deceivableness
+decaisnea
 dispell
 desist
 deflagrated
