@@ -3519,7 +3519,6 @@ gewgaws
 ghan
 gandertmeeth
 glowerer
-groper
 greekling
 glumella
 glycerolysis
@@ -9315,6 +9314,7 @@ galivanting
 glossas
 goldurn
 governability
+groper
 griffs
 gruf
 graduate
