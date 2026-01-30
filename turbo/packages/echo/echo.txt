@@ -1106,6 +1106,7 @@ epitrichial
 exsanguinated
 encatarrhaphy
 ejectee
+estragon
 enarm
 elemental
 endopterygotic
@@ -10663,7 +10664,6 @@ ecrasite
 expeditate
 excitory
 endocytosis
-estragon
 easternism
 eugenically
 eugenie
