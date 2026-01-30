@@ -2129,7 +2129,6 @@ campbellisms
 campbellites
 cixiid
 cambuscan
-capriciousness
 campcraft
 campe
 cryal
@@ -25683,6 +25682,7 @@ correl
 coolaman
 correlatable
 cathedrae
+capriciousness
 consigns
 chins
 countertripping
