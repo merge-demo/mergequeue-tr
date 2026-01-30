@@ -1550,7 +1550,6 @@ eggrolls
 eggs
 emplastra
 enweaving
-encyclopedial
 eupeptically
 ensconces
 enervates
@@ -12951,6 +12950,7 @@ expatriatism
 equispaced
 epipsychidion
 egotistical
+encyclopedial
 emblematized
 east
 enhaunt
