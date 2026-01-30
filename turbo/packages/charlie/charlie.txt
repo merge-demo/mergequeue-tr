@@ -14534,7 +14534,6 @@ cysticercerci
 cysticerci
 cladophyllum
 chondrule
-candiru
 chackling
 cylindrite
 cysticercoidal
@@ -17601,6 +17600,7 @@ coccochromatic
 coccogone
 concyclically
 coccoidal
+candiru
 coccolite
 counterresolution
 cardiodysneuria
