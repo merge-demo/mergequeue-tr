@@ -1031,6 +1031,7 @@ erugo
 etchareottine
 excisable
 eyeless
+entreasure
 endoskeleton
 eqpt
 edgar
@@ -5018,7 +5019,6 @@ emplace
 elaeomargaric
 enrolled
 econometer
-entreasure
 excels
 encaenia
 evens
