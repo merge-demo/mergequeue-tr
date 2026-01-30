@@ -1984,7 +1984,6 @@ gaurs
 gravitative
 glamourous
 gaussage
-gaskings
 girth
 gageite
 gonadotrope
@@ -9375,6 +9374,7 @@ grosshead
 grosso
 gowans
 gabriel
+gaskings
 generates
 grizzled
 genocide
