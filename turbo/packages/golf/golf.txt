@@ -5614,7 +5614,6 @@ gokuraku
 granado
 gnatlike
 glissando
-ginglymodian
 grandsons
 grafts
 grumes
@@ -9982,6 +9981,7 @@ girondism
 geoethnic
 galictis
 gubernative
+ginglymodian
 gunwale
 grills
 glazer
