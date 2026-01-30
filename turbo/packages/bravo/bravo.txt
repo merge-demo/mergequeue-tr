@@ -3466,7 +3466,6 @@ bluebonnet
 bastings
 blepharopyorrhea
 badgerly
-bastions
 boughpot
 basketworm
 bastite
@@ -5237,6 +5236,7 @@ begabled
 bowla
 begad
 bedders
+bastions
 boskopoid
 boarcite
 basification
