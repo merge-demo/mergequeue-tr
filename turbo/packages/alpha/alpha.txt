@@ -14920,7 +14920,6 @@ ambassadress
 afflictive
 anticlerical
 anticlericalism
-anisal
 acidophilous
 azygobranchia
 anticly
@@ -25203,6 +25202,7 @@ artillerists
 alborada
 amentula
 affectus
+anisal
 adreamt
 azophenetole
 allantochorion
