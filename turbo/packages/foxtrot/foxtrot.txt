@@ -5358,7 +5358,6 @@ fleche
 folliculate
 flechettes
 flecked
-fleckiest
 forkhead
 fleckering
 franco
@@ -10097,6 +10096,7 @@ faki
 filmset
 frithy
 firstly
+fleckiest
 fenetre
 fluviometer
 fiberizing
