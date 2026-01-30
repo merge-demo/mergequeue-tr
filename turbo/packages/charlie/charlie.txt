@@ -1148,6 +1148,7 @@ cataphatic
 catsos
 claiborne
 caryopsides
+cholecystogastrostomy
 cesareans
 chapmanship
 cordaitaceae
@@ -11579,7 +11580,6 @@ cupellation
 cholecystocolostomy
 cognisability
 colonialization
-cholecystogastrostomy
 cholecystogram
 cholecystography
 cholecystokinin
