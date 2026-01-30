@@ -17682,6 +17682,7 @@ comoid
 conquer
 charmeuse
 cockaigne
+clead
 cunjer
 carboloy
 counternoise
@@ -31025,7 +31026,6 @@ campanian
 cumyl
 congos
 carbethoxy
-clead
 ceriops
 clairaudiently
 cuminal
