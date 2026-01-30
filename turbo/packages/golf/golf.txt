@@ -8721,7 +8721,6 @@ graminaceous
 gerenuks
 greenish
 grisgris
-gymnosophical
 goodlihead
 gamene
 gallate
@@ -9323,6 +9322,7 @@ goliad
 gunnysacks
 ghaznevid
 ghaist
+gymnosophical
 gyrostat
 gimmick
 gonocoel
