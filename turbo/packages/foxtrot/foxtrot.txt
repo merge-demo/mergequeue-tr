@@ -8642,7 +8642,6 @@ forthgaze
 forthgo
 ferreling
 footcandle
-foxings
 fraternal
 furlong
 fissility
@@ -8874,6 +8873,7 @@ foundrous
 farhands
 flotative
 freeholdership
+foxings
 flu
 fountain
 fragged
