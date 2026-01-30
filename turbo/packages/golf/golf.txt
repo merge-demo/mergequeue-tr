@@ -2546,7 +2546,6 @@ gain
 guilder
 gynecium
 gurle
-guessingly
 gomeisa
 gonochorism
 galenites
@@ -5219,6 +5218,7 @@ glaucophane
 garish
 goloka
 grihyasutra
+guessingly
 galoubet
 genesic
 granddaddy
