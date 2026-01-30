@@ -11451,7 +11451,6 @@ epifaunas
 ecphonesis
 escargatoire
 eucharis
-evidencing
 eonian
 ekistics
 eventuates
@@ -12541,6 +12540,7 @@ eupione
 enzymology
 exculpative
 extoolitic
+evidencing
 enactable
 esonarthex
 enameler
