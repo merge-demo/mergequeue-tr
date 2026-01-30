@@ -407,6 +407,7 @@ coterminous
 clanged
 cacorrhinia
 coelevate
+celiolymph
 circumvents
 crumbers
 curns
@@ -4054,7 +4055,6 @@ caliginous
 cardiacle
 cardiagra
 cataclasm
-celiolymph
 cardiagram
 cardiagraphy
 cardial
