@@ -5324,6 +5324,7 @@ afflicter
 afflictingly
 abranchian
 ambulante
+assumes
 archoplasm
 agranulocytosis
 anat
@@ -21998,7 +21999,6 @@ appellors
 aircrewmen
 anni
 argentometrically
-assumes
 apothesis
 antiperiodic
 act
