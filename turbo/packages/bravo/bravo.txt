@@ -5537,7 +5537,6 @@ brahmas
 bagatine
 bludgeoned
 baklava
-bemurmured
 benefactive
 begnawn
 blotted
@@ -7322,6 +7321,7 @@ boweryish
 beachlamar
 bellweed
 bete
+bemurmured
 brownian
 buccolingual
 brazera
