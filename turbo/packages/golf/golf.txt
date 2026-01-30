@@ -2529,7 +2529,6 @@ gallfly
 gael
 gilliver
 gapeseeds
-gweduc
 generalistic
 gaudier
 glen
@@ -8209,6 +8208,7 @@ grisard
 graphitize
 gastrotubotomy
 glacioaqueous
+gweduc
 goldbug
 gutturalising
 gnosticism
