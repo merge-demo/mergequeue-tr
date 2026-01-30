@@ -3341,7 +3341,6 @@ barbut
 basitemporal
 beguilers
 balao
-besotment
 basitting
 basiventral
 beudantite
@@ -16705,6 +16704,7 @@ babelish
 buckhounds
 bucklum
 backstair
+besotment
 bucky
 besa
 buckishness
