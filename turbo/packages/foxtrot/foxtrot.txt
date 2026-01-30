@@ -2334,7 +2334,6 @@ fluorinating
 filmable
 flanneled
 fencelike
-floaters
 flunked
 friarly
 funerary
@@ -4569,6 +4568,7 @@ feetage
 fossilify
 fieldstone
 fistuca
+floaters
 freest
 filmist
 foresend

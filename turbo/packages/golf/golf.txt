@@ -3732,7 +3732,6 @@ gobbets
 giarra
 gherao
 gelder
-geotactic
 giarre
 gastaldo
 governing
@@ -6661,6 +6660,7 @@ gluttonies
 gynecratic
 gynaecologic
 guaiol
+geotactic
 girderage
 glycolyl
 geer
