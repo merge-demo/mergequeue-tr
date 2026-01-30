@@ -6337,6 +6337,7 @@ ferriage
 fixup
 fluvio
 floppies
+fretten
 fluoresceine
 factionism
 fashionability
@@ -9782,7 +9783,6 @@ feldspathic
 floweret
 fuds
 followup
-fretten
 firedamps
 fragmentary
 fattens
