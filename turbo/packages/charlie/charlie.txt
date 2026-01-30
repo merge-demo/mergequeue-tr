@@ -12457,7 +12457,6 @@ chromoleucite
 chromolipoid
 clayen
 choleinic
-cataria
 clarioned
 chromolith
 colent
@@ -22895,6 +22894,7 @@ ceratoid
 conservers
 colposcope
 circuitry
+cataria
 collated
 councilist
 consy
