@@ -711,6 +711,7 @@ bereshith
 barnstormed
 behav
 boregat
+bouffante
 bemantle
 badass
 brasseries
@@ -1674,7 +1675,6 @@ ballstock
 ballup
 ballweed
 botony
-bouffante
 balmarcodes
 balmawhapple
 bimodality
