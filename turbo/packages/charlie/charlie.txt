@@ -17452,6 +17452,7 @@ cobblestone
 ceratothecae
 clepsydras
 cobblestoned
+crostarie
 corollated
 chokeweed
 cobbling
@@ -29966,7 +29967,6 @@ cambricleaf
 catapan
 crisle
 crosswiseness
-crostarie
 cajoler
 crotal
 crotalic
