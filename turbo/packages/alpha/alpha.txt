@@ -7539,7 +7539,6 @@ acrostolium
 alepot
 alloplasm
 alodiaries
-anoopsias
 albuminoscope
 acari
 anonyms
@@ -19361,6 +19360,7 @@ aroar
 alike
 allalinite
 argaile
+anoopsias
 annexure
 asse
 autocamper
