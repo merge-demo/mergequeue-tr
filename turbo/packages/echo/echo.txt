@@ -2742,7 +2742,6 @@ enditing
 erythrocyte
 evangelary
 elegy
-emblematicize
 elegiacally
 eighthly
 encoil
@@ -9750,6 +9749,7 @@ eddo
 enneahedron
 emarcid
 euhedral
+emblematicize
 ectogenesis
 enrobing
 eucharist
