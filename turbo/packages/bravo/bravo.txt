@@ -6554,7 +6554,6 @@ breadstuff
 bosnisch
 bewelcome
 bavarois
-beaming
 blameable
 bilsted
 backplanes
@@ -17467,6 +17466,7 @@ bipinnatiparted
 buphthalmum
 buplever
 buprestidae
+beaming
 backspins
 berzelianite
 birdikin
