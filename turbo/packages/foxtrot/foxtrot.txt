@@ -5461,6 +5461,7 @@ friezy
 fiduciarily
 fasts
 fullwords
+feliform
 fiant
 friseurs
 fossed
@@ -9601,7 +9602,6 @@ freers
 farthest
 foresign
 fecklessly
-feliform
 fulcrumage
 flabrum
 firmarius
