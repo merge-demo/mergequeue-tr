@@ -2489,7 +2489,6 @@ flerry
 fudging
 fainthearted
 femorocele
-faction
 farted
 facinorousness
 feoffers
@@ -7624,6 +7623,7 @@ ferruginean
 foregift
 feyness
 foregleam
+faction
 forst
 feudatory
 fables
