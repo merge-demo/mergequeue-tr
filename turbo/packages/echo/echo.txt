@@ -1164,7 +1164,6 @@ edriophthalmatous
 educand
 emulsive
 evanished
-educatability
 earlaps
 eident
 enwisen
@@ -11703,6 +11702,7 @@ exobiology
 entreat
 examinable
 esthesioneurosis
+educatability
 eglateres
 examinant
 eschewer
