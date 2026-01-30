@@ -9608,7 +9608,6 @@ bisayan
 buccaro
 breathtakingly
 banate
-bettered
 bodewash
 budorcas
 breeching
@@ -12716,6 +12715,7 @@ boohooing
 biaswise
 bidialectalism
 blowholes
+bettered
 bear
 bungarus
 beautifier
