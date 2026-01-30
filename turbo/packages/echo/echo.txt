@@ -6789,6 +6789,7 @@ eutrophies
 exostema
 elaphine
 enrooted
+euaster
 eelware
 entoil
 epistolographer
@@ -11554,7 +11555,6 @@ epizeuxis
 evolutionistic
 epigenesis
 endotheloid
-euaster
 endocrine
 educt
 evolutionists
