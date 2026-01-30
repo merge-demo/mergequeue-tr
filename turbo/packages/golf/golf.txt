@@ -5946,7 +5946,6 @@ gainspeaking
 gluttonish
 grainsman
 granulous
-geometry
 gutterman
 guffawing
 gyve
@@ -8024,6 +8023,7 @@ grayer
 goatbeard
 glycosides
 guildry
+geometry
 gongorism
 gan
 galempung
