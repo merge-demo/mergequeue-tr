@@ -3998,6 +3998,7 @@ compartmental
 crystalloluminescence
 carcinolysin
 cycadiform
+chinotoxine
 carcinological
 carbocyclic
 curtesy
@@ -10824,7 +10825,6 @@ clavicylinder
 counterwave
 chinooks
 centerpieces
-chinotoxine
 cleverishly
 chinsing
 coragio
