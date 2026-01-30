@@ -1683,7 +1683,6 @@ boko
 betokens
 balmonies
 bloodroot
-balmoral
 benefits
 besoms
 balmorals
@@ -10081,6 +10080,7 @@ benzolate
 brutisms
 bixaceous
 brokerages
+balmoral
 broadsides
 blondeness
 brabagious

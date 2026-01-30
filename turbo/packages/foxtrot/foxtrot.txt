@@ -7775,7 +7775,6 @@ fleshiest
 formulation
 feedboxes
 feronia
-fossilizing
 fraternising
 forenoons
 fibrilla
@@ -10956,6 +10955,7 @@ fourball
 forebow
 floodless
 flubdub
+fossilizing
 fedayee
 fructifying
 frey
