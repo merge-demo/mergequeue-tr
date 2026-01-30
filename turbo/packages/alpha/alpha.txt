@@ -4826,6 +4826,7 @@ aerobiosis
 addleheaded
 allotypy
 allophylic
+aramayoite
 awedly
 agsam
 authenticatable
@@ -19550,7 +19551,6 @@ argumental
 autecious
 anesthesiant
 asynchronous
-aramayoite
 accede
 adjacency
 amorphous
