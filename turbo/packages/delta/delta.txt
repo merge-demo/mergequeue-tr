@@ -6849,7 +6849,6 @@ dognap
 discolors
 dahabiyeh
 deadliest
-deficit
 drollist
 discomposes
 desoxalic
@@ -8597,6 +8596,7 @@ deadbeat
 dehydrant
 drainless
 duckhouse
+deficit
 dyarchies
 disjunctor
 davis
