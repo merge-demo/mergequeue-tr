@@ -2034,6 +2034,7 @@ encephalometric
 electrograph
 embroilments
 eyeblink
+entresol
 eldin
 electrolyzation
 embitterments
@@ -5140,7 +5141,6 @@ extrapolate
 electromedical
 endoenzyme
 epitrochoid
-entresol
 elytrorrhaphy
 earbob
 epicarp
