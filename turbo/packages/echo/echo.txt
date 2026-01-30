@@ -5941,7 +5941,6 @@ eruc
 exemplupla
 erythrose
 euflavine
-epicondylitis
 eking
 expectorates
 enframing
@@ -6436,6 +6435,7 @@ encroachment
 elvira
 ensorceled
 encephalometer
+epicondylitis
 earfuls
 encheck
 exercisable
