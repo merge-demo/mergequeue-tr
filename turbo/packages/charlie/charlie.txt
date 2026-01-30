@@ -8105,7 +8105,6 @@ crepuscule
 chainless
 counteractions
 crosscheck
-coelodont
 chlortetracycline
 chumping
 craspedon
@@ -30245,6 +30244,7 @@ cruises
 cruising
 cruive
 cruller
+coelodont
 chubbedness
 conglobately
 crumb
