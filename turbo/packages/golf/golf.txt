@@ -2561,7 +2561,6 @@ giltheads
 gibber
 guillotined
 grassed
-gallamine
 gyrogonite
 gargling
 gametogeny
@@ -10208,6 +10207,7 @@ groundneedle
 grun
 generaliser
 grillwork
+gallamine
 guzzled
 guile
 galluses
