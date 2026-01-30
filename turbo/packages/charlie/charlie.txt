@@ -19706,6 +19706,7 @@ combinators
 copaiva
 combined
 ctene
+cornucopias
 concertinas
 condominium
 coprecipitation
@@ -25437,7 +25438,6 @@ compulsory
 cornuated
 coelastraceae
 cornubianite
-cornucopias
 cornule
 constringed
 corporatism
