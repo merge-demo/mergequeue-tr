@@ -3974,7 +3974,6 @@ excurvation
 earshots
 equilibrium
 empanelling
-empanels
 enfamish
 ecumene
 emparchment
@@ -5065,6 +5064,7 @@ eavesdrop
 eclecticism
 endearingly
 evertebrata
+empanels
 emotiovascular
 egma
 extramarital
