@@ -2301,7 +2301,6 @@ gelable
 gymnodiniaceae
 ganofs
 gelant
-glyceric
 ganta
 granulation
 guardful
@@ -4370,6 +4369,7 @@ gorgoneum
 guestling
 gutted
 gonorrhoea
+glyceric
 ghaut
 gluer
 graces
