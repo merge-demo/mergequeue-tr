@@ -4823,7 +4823,6 @@ awakener
 autocross
 aerobiosis
 addleheaded
-aerobious
 allotypy
 allophylic
 awedly
@@ -16870,6 +16869,7 @@ accomplices
 apicillary
 apicitis
 alimentive
+aerobious
 apickback
 araucarian
 adrenotrophin
