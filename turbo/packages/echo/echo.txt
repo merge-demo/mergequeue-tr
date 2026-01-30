@@ -2291,7 +2291,6 @@ eyebeams
 expert
 essene
 entheal
-euphuism
 endosteum
 eval
 escalatory
@@ -12168,6 +12167,7 @@ excuser
 elytron
 endpoint
 exposure
+euphuism
 ellipse
 econometrical
 ethmoturbinate
