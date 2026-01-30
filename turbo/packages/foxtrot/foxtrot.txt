@@ -2468,7 +2468,6 @@ fernyear
 furison
 fiorin
 funs
-fernshaw
 fordo
 fencibles
 feck
@@ -6937,6 +6936,7 @@ frizzler
 flexographically
 faintling
 faineance
+fernshaw
 festucous
 fetishization
 fissicostate
