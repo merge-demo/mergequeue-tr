@@ -307,6 +307,7 @@ ebon
 embrew
 eradicate
 esotericism
+euphoniousness
 extrema
 eirenarch
 excitement
@@ -13940,7 +13941,6 @@ electee
 epimerizing
 exorcized
 errordump
-euphoniousness
 emigrative
 extramusical
 encapsulates
