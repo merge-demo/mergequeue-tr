@@ -1959,7 +1959,6 @@ broadly
 bisection
 bewhisker
 bagnio
-brattled
 balances
 bandstring
 bathymetric
@@ -10582,6 +10581,7 @@ blastoporal
 beggarlike
 balanus
 bromal
+brattled
 buttonhold
 belligerent
 badasses
