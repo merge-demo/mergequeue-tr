@@ -7410,6 +7410,7 @@ geest
 gougers
 gadids
 galbulidae
+girdering
 gastralgy
 galactogogue
 greable
@@ -10532,7 +10533,6 @@ gaucheries
 genisaro
 gard
 gunk
-girdering
 grateman
 grilling
 guillemot
