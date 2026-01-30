@@ -1043,6 +1043,7 @@ eagerly
 exsheath
 edged
 eidolon
+exacted
 edger
 edgeshot
 ermani
@@ -9358,7 +9359,6 @@ escalator
 excommunicable
 ergonomics
 eupepsia
-exacted
 eulytite
 escalated
 exilition
