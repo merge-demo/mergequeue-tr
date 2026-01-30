@@ -2008,7 +2008,6 @@ begoniaceous
 bangos
 blubberman
 bundt
-bandlimiting
 brezhnev
 bulrushy
 bani
@@ -17181,6 +17180,7 @@ beewinged
 bullnoses
 bullnut
 beetroot
+bandlimiting
 bullock
 brachialgia
 bullocker
