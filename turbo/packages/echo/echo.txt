@@ -1626,6 +1626,7 @@ equimolecular
 effusions
 exotoxin
 ehretiaceae
+electrotyper
 env
 entrez
 eucarida
@@ -6364,7 +6365,6 @@ enshrinement
 embars
 enshrinements
 endovaccination
-electrotyper
 ephebe
 expenseful
 earthward
