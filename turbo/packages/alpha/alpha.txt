@@ -1320,7 +1320,6 @@ arginase
 anangular
 anthracosilicosis
 amyelia
-atomized
 athanor
 acylating
 acaulescence
@@ -2067,6 +2066,7 @@ aboveboard
 antidromic
 achenes
 amorua
+atomized
 alphabets
 anisometric
 argon
