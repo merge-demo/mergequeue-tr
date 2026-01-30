@@ -2201,7 +2201,6 @@ electrographic
 exedrae
 esthesia
 epistome
-expanded
 esophagoplication
 entailing
 expeditionist
@@ -6645,6 +6644,7 @@ epibatus
 extraduction
 enthalpies
 excusers
+expanded
 enarthrodial
 enterorrhagia
 enterorrhaphy
