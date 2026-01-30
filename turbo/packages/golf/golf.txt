@@ -3681,7 +3681,6 @@ grimm
 gallirallus
 ghoulery
 grillading
-goetia
 gasterosteus
 groundedness
 gesticulatory
@@ -5467,6 +5466,7 @@ glob
 gestured
 graduand
 glucinum
+goetia
 grumblers
 grummest
 gasher
