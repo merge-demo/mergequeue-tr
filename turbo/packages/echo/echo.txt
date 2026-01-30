@@ -4975,6 +4975,7 @@ exomphalous
 endemicity
 epichirema
 endemism
+etta
 eco
 eightscore
 endenization
@@ -10476,7 +10477,6 @@ extinguish
 equatoreal
 etruscology
 excalation
-etta
 endosteally
 equation
 envyingly
