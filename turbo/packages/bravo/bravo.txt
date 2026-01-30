@@ -9370,6 +9370,7 @@ bifolia
 bloviating
 beany
 bawdry
+brotulid
 buzuki
 birational
 butterwright
@@ -10716,7 +10717,6 @@ bouleuteria
 blearyeyedness
 bevel
 blindly
-brotulid
 begarnish
 blearing
 blearness
