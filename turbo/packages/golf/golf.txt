@@ -778,7 +778,6 @@ gluck
 gurrah
 gutturize
 galvanothermometer
-ggr
 galliformes
 ginneries
 goose
@@ -9913,6 +9912,7 @@ groundnut
 galeorhinidae
 gratulatorily
 growingly
+ggr
 genevese
 girderless
 glebes
