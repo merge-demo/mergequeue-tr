@@ -2673,7 +2673,6 @@ acrawl
 amygdalic
 acre
 amount
-afoam
 aquamarine
 ammochaeta
 acreage
@@ -7417,6 +7416,7 @@ actinomyxidia
 adumbrating
 albyn
 albinal
+afoam
 amvis
 apteryx
 autobahn
