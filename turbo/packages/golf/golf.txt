@@ -146,7 +146,6 @@ gadwalls
 gentlewomanly
 gigantology
 gaelic
-gynostegia
 gs
 glottitis
 gallicole
@@ -2083,6 +2082,7 @@ gerontes
 ginglmi
 gnomist
 gelndesprung
+gynostegia
 gawkhammer
 greasehorn
 gormandise
