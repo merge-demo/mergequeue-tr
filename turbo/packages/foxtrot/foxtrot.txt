@@ -765,7 +765,6 @@ farcilite
 fishgrass
 figurines
 fluxions
-fancied
 fustilarian
 frazzled
 frig
@@ -5739,6 +5738,7 @@ fulfilling
 flurriedly
 faailk
 fluorocarbon
+fancied
 faunated
 foreheads
 fause

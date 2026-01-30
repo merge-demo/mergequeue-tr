@@ -3912,7 +3912,6 @@ emitting
 entamebas
 electropathic
 effigy
-endocrinologies
 echocardiogram
 engreen
 exogamic
@@ -4248,6 +4247,7 @@ endoglobular
 expressways
 equidiagonal
 escutcheons
+endocrinologies
 experiment
 endometrium
 electrodispersive
