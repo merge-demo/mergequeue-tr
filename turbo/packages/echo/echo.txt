@@ -5571,6 +5571,7 @@ epiklesis
 embryulcus
 enflower
 essexite
+embrocating
 evaporate
 ectognatha
 epidendrum
@@ -7751,7 +7752,6 @@ engraff
 ecce
 epichilia
 ebullioscopy
-embrocating
 embosom
 exchanger
 epidymides
