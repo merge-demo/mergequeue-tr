@@ -777,6 +777,7 @@ gluck
 gurrah
 gutturize
 galvanothermometer
+greenhorns
 galliformes
 ginneries
 goose
@@ -4515,7 +4516,6 @@ girella
 gracefully
 girellidae
 gurts
-greenhorns
 gluelike
 gyrencephala
 gutturalized
