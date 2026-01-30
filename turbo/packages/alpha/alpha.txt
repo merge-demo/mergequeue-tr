@@ -3298,7 +3298,6 @@ acutiplantar
 autoluminescence
 acrylate
 assassin
-atomizes
 acutograve
 analogist
 acutonodose
@@ -24143,6 +24142,7 @@ absorbance
 azelfafage
 aftergo
 acemetae
+atomizes
 anomic
 abscessing
 aborticide
