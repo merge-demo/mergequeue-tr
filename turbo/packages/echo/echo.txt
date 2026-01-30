@@ -3229,6 +3229,7 @@ eluctate
 elude
 equant
 educive
+extreme
 extroversively
 eludible
 enswathes
@@ -3557,7 +3558,6 @@ ethanamide
 eschewance
 extortionary
 eponyms
-extreme
 epigonus
 entrefer
 embolize

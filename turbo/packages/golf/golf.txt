@@ -7548,6 +7548,7 @@ grinagog
 gypsying
 gowked
 gambet
+gnus
 ghastfulness
 glucolysis
 gruntle
@@ -9558,7 +9559,6 @@ gynecologist
 gleams
 galactoscope
 grind
-gnus
 gingersnap
 grovellingly
 geishas
