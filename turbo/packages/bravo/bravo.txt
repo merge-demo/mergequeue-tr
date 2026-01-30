@@ -4771,7 +4771,6 @@ bedlams
 bienseance
 bedlar
 bazoo
-bibliotic
 blackseed
 bord
 bedmate
@@ -6406,6 +6405,7 @@ backsliding
 buts
 brandi
 bardo
+bibliotic
 bacteriostasis
 bobeches
 businesswomen
