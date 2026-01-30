@@ -8513,6 +8513,7 @@ executorial
 enwrapping
 enclave
 ecuadoran
+entosarc
 exopterygote
 eugenicists
 equalitarian
@@ -13108,7 +13109,6 @@ ecoclimate
 experientialism
 eschevin
 encarpuspi
-entosarc
 extensionality
 ergology
 euphonizing
