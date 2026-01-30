@@ -8,7 +8,6 @@ gummous
 gunrooms
 gabber
 gabbers
-glandulation
 gobi
 grasswork
 gabelles
@@ -1568,6 +1567,7 @@ glabellar
 glutaeous
 gunreach
 guillotines
+glandulation
 grampus
 gonyoncus
 gunnar
