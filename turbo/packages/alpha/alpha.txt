@@ -8818,6 +8818,7 @@ alliterate
 announceable
 acescence
 atwind
+antehypophysis
 alcidae
 alliterates
 await
@@ -14105,7 +14106,6 @@ antedorsal
 anaesthyl
 archaeolatry
 almemar
-antehypophysis
 arterialisation
 antheming
 antidynamic
