@@ -19967,7 +19967,6 @@ coinheres
 conjectural
 commassation
 carot
-commassee
 cigar
 commata
 claustra
@@ -22183,6 +22182,7 @@ criticises
 congealing
 counterrate
 contraband
+commassee
 crematoriums
 cresotate
 connusable
