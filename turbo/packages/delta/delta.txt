@@ -400,6 +400,7 @@ deskmen
 decentralise
 decoder
 diarhemia
+doggedly
 daintified
 darkens
 daintifying
@@ -10826,7 +10827,6 @@ dirged
 dirgeman
 debts
 dirgy
-doggedly
 dhooley
 dirichletian
 denims
