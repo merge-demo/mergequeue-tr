@@ -4798,6 +4798,7 @@ flinthead
 franchisers
 fleay
 fainer
+frousy
 fantail
 foil
 finlet
@@ -10860,7 +10861,6 @@ frisky
 flagitiously
 forwore
 frondosely
-frousy
 fabledom
 fulgidity
 flaite
