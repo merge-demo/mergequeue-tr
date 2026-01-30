@@ -5642,6 +5642,7 @@ cataphrenic
 choraleon
 cataphrygian
 cataphrygianism
+cobbra
 cataplane
 cataplasia
 conepate
@@ -17459,7 +17460,6 @@ cobblestoned
 corollated
 chokeweed
 cobbling
-cobbra
 cobbs
 characterize
 calixtin
