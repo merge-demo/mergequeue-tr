@@ -4120,7 +4120,6 @@ employability
 evenly
 electrovalence
 employe
-estado
 etamin
 emperor
 epigene
@@ -5561,6 +5560,7 @@ evangel
 extratympanic
 empathetically
 enduringness
+estado
 estimably
 enrichment
 endogens
