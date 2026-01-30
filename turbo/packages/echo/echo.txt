@@ -5155,7 +5155,6 @@ enounced
 elephants
 electrology
 entocoele
-ergotist
 enterovirus
 eastings
 electroballistician
@@ -11657,6 +11656,7 @@ exaggerate
 electrize
 exaggerated
 emptive
+ergotist
 eperlan
 eccentricity
 electrocautery
