@@ -10028,6 +10028,7 @@ cherrying
 cherrylike
 cherrystone
 canephors
+clinohumite
 cytioderma
 cephalotripsy
 chersydridae
@@ -16219,7 +16220,6 @@ crewcut
 cornerman
 calcutta
 compagination
-clinohumite
 chemotic
 childermas
 constringency
