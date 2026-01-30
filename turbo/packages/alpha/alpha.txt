@@ -11899,6 +11899,7 @@ analogous
 ambitty
 alcoholised
 ailing
+abbest
 analogously
 adendric
 albescent
@@ -19440,7 +19441,6 @@ athwartwise
 authorship
 augurial
 argentry
-abbest
 antiparliamentarist
 argh
 anlaute
