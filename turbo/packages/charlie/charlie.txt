@@ -5207,6 +5207,7 @@ catchers
 cliftonite
 casketed
 caskets
+characterizable
 credens
 casky
 clearer
@@ -31129,7 +31130,6 @@ cuniculus
 crosspatches
 cuniforms
 cunila
-characterizable
 crystalliferous
 chumpy
 counternotice
