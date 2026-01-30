@@ -3856,7 +3856,6 @@ gateworks
 gazelline
 glaciological
 graders
-gonotome
 grippier
 glarily
 galeoid
@@ -8853,6 +8852,7 @@ greyfly
 gregau
 guarantine
 glycerination
+gonotome
 greisens
 getas
 gasterotricha
