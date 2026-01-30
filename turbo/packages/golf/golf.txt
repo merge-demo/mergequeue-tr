@@ -5772,6 +5772,7 @@ grasshopperish
 gurgeon
 gastrodisk
 gurjara
+geomantic
 glowingly
 glows
 grinny
@@ -7616,7 +7617,6 @@ glancingly
 guenons
 geologist
 guardianless
-geomantic
 gradated
 gatecrasher
 gleaminess
