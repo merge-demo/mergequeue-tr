@@ -5902,7 +5902,6 @@ enharbour
 electrometallurgy
 exocytosis
 endsweep
-enharden
 eurytopicity
 exoenzymic
 embuskin
@@ -13626,6 +13625,7 @@ epencephal
 experientially
 esopgi
 englishwomen
+enharden
 expurgates
 empedoclean
 effossion
