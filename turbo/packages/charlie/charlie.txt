@@ -4903,7 +4903,6 @@ commutuality
 candlestickward
 cowherbs
 carte
-curtalax
 cartel
 clione
 chobdar
@@ -6202,6 +6201,7 @@ corbel
 corticifugal
 caudebeck
 caudex
+curtalax
 cassolette
 cystiferous
 caudle
