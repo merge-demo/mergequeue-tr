@@ -3612,7 +3612,6 @@ flook
 farmable
 fridstool
 frictionlessly
-flashing
 forefeeling
 faintishness
 fielder
@@ -8283,6 +8282,7 @@ filialness
 ficoidaceae
 fatherless
 facelift
+flashing
 funniest
 favuses
 foryield
