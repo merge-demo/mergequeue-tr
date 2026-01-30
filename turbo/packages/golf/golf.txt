@@ -910,7 +910,6 @@ guna
 gnatcatcher
 gelatinate
 gambia
-garblings
 gyrocompass
 garnishable
 grittiness
@@ -10281,6 +10280,7 @@ grecque
 geoform
 gourmet
 gullage
+garblings
 guitarist
 gentlewomanish
 gibblegabble
