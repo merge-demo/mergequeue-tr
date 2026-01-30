@@ -6625,6 +6625,7 @@ gunsman
 glitters
 garmentless
 giantism
+gunpowderous
 gastroscopies
 golach
 gimlets
@@ -7682,7 +7683,6 @@ glade
 geopolitic
 girning
 geolatry
-gunpowderous
 globus
 grizzliest
 goldworker
