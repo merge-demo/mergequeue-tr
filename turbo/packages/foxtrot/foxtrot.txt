@@ -8191,6 +8191,7 @@ fringes
 fairyologist
 furlanas
 flaskets
+formulize
 felines
 festering
 floroscope
@@ -8378,7 +8379,6 @@ formalesque
 foistiness
 fovea
 freshmanic
-formulize
 fierier
 flushers
 fatheadedly
