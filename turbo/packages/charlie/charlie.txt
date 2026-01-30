@@ -11730,7 +11730,6 @@ contestant
 chondroblastoma
 chondrocyte
 coniomycetes
-caliphates
 chondrocoracoid
 consonantalizing
 chondrocostal
@@ -14022,6 +14021,7 @@ cyprinodontoid
 camstrary
 congenital
 colusite
+caliphates
 cyprinoidean
 chasten
 creaks
