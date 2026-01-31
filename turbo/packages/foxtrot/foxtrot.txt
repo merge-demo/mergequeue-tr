@@ -1475,7 +1475,6 @@ focussing
 fistulose
 forestial
 featly
-faulds
 faultfind
 fasciculite
 flittern
@@ -5792,6 +5791,7 @@ fayal
 feverously
 fluochloride
 fattening
+faulds
 fervidly
 firepower
 fermate

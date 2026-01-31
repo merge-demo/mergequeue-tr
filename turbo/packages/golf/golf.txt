@@ -3304,6 +3304,7 @@ gauderies
 geostrophically
 goldenmouth
 gobio
+gimbaled
 gullion
 genethliacism
 gl
@@ -6987,7 +6988,6 @@ gomart
 gigameter
 gaudish
 gooseberry
-gimbaled
 gramash
 greenweed
 garages
