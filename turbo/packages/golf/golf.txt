@@ -65,6 +65,7 @@ gonidiophore
 galeenies
 garoo
 gentlemanize
+generalizable
 grandparentage
 gyascutus
 greffe
@@ -6402,7 +6403,6 @@ grandmaternal
 galleine
 gasification
 gynecomania
-generalizable
 goodyear
 grudgeless
 gangboard
