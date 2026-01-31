@@ -1268,7 +1268,6 @@ acarophobia
 acarotoxic
 arcturus
 aerognosy
-australopithecine
 ails
 antifoggant
 antitropic
@@ -4077,6 +4076,7 @@ allowanced
 anisosthenic
 aldrin
 admits
+australopithecine
 admittance
 admitted
 agitpunkt
