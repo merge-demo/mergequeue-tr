@@ -7825,7 +7825,6 @@ geoglossaceae
 gun
 guhayna
 gond
-glow
 grasserie
 glumpier
 grafship
@@ -9985,6 +9984,7 @@ glazer
 gubernatrix
 geophysically
 gogglier
+glow
 graveness
 gargled
 gleaner
