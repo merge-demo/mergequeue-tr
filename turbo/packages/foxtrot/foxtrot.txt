@@ -6882,7 +6882,6 @@ fideicommission
 formeret
 filibusterous
 freeway
-finely
 formaldehydesulphoxylic
 foll
 facia
@@ -9102,6 +9101,7 @@ florification
 feat
 foveole
 folded
+finely
 fatuitous
 federations
 fooyung
