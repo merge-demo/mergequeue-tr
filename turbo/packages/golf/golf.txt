@@ -1724,6 +1724,7 @@ guesses
 gamesman
 guernseys
 gastropexy
+ganocephalan
 goosebeak
 gutte
 greaseproof
@@ -6252,7 +6253,6 @@ gobinism
 gasoliers
 griece
 ginglymostomoid
-ganocephalan
 gymnasial
 glossospasm
 guidsire
