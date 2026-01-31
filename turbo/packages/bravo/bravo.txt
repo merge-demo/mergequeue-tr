@@ -3485,6 +3485,7 @@ basts
 banuyo
 basural
 bovarism
+baedeker
 basuto
 bancos
 buphaga
@@ -14536,7 +14537,6 @@ bahan
 branchiomeric
 blattoidea
 babroot
-baedeker
 beadle
 branchiae
 bradyglossia
