@@ -12635,6 +12635,7 @@ dertrotheca
 defaultant
 descendentalist
 descrial
+disepalous
 dodgeries
 duplicidentate
 discusser
@@ -12677,7 +12678,6 @@ diffrangibility
 disleaved
 decolorized
 disjointure
-disepalous
 dentalize
 demiheavenly
 dogger
