@@ -2028,7 +2028,6 @@ aequoreal
 actinogram
 acropathology
 amplexus
-aveny
 awakeable
 amritas
 amidoxy
@@ -4849,6 +4848,7 @@ aspidobranchia
 asideness
 archisupreme
 armlet
+aveny
 andric
 adoptionism
 aerocraft
