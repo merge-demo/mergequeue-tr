@@ -5920,7 +5920,6 @@ gresil
 glutaminic
 galliambus
 gome
-glutelins
 greaten
 guerrillaship
 grossing
@@ -6102,6 +6101,7 @@ gyre
 grommet
 garters
 gadfly
+glutelins
 gunation
 goa
 gadsbud
