@@ -3173,7 +3173,6 @@ falconiformes
 flouse
 fices
 focal
-fustiest
 figurally
 fuchsinophilous
 fesels
@@ -8636,6 +8635,7 @@ flapless
 fathomable
 forthgaze
 forthgo
+fustiest
 ferreling
 footcandle
 fraternal
