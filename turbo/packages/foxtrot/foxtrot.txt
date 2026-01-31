@@ -1793,6 +1793,7 @@ fetlocks
 foghorns
 futurology
 ficklehearted
+fohat
 fadingness
 filmiform
 femorococcygeal
@@ -9428,7 +9429,6 @@ frequenting
 fraudfully
 fyces
 forearmed
-fohat
 fraudulent
 fraudulentness
 ferreting
