@@ -2477,7 +2477,6 @@ guttersnipes
 gibbetwise
 gangrened
 genitalic
-glossier
 girdlelike
 gaucher
 golds
@@ -4040,6 +4039,7 @@ grasped
 glucolipid
 gimel
 gobernadora
+glossier
 gol
 gegenschein
 gogglebox
