@@ -102,6 +102,7 @@ babied
 bumaloe
 bureaucrat
 bloodstock
+baritone
 bisyllabism
 boddhisattva
 bonsoir
@@ -10481,7 +10482,6 @@ bargainable
 byrewoman
 boltmaking
 beesting
-baritone
 broidery
 boviform
 bemadam
