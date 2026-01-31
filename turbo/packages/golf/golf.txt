@@ -1116,6 +1116,7 @@ gashes
 gurnards
 globalization
 glossing
+goblins
 ganoidian
 gaillardia
 geonyctitropic
@@ -6273,7 +6274,6 @@ globetrotters
 geochemists
 geophysics
 gruneritization
-goblins
 gallivanters
 gebang
 gobo
