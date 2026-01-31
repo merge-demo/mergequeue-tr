@@ -296,7 +296,6 @@ gaintwist
 grypanian
 giglot
 geobotany
-ganjas
 gynaecian
 grainy
 gargoylism
@@ -8613,6 +8612,7 @@ greyish
 gemsbok
 guttered
 grip
+ganjas
 gladdy
 grantee
 girdlestead

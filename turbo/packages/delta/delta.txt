@@ -652,7 +652,6 @@ dearth
 damnificatus
 disoccupation
 debarration
-damningly
 disposals
 damnonians
 doomfully
@@ -14210,6 +14209,7 @@ dysuria
 dysurias
 deals
 disusage
+damningly
 dynamoscope
 dibbles
 defeater
