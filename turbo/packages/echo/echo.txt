@@ -8755,6 +8755,7 @@ expatiator
 equivocal
 exuperable
 extermination
+erk
 encystment
 eulogising
 emphractic
@@ -13508,7 +13509,6 @@ equianharmonic
 endymal
 egocentricities
 edge
-erk
 epifolliculitis
 enzymatically
 ectocondyloid
