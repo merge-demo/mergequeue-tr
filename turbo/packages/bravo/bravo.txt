@@ -13778,7 +13778,6 @@ burga
 bufflehorn
 bovaristic
 besprinkle
-bovate
 bonniness
 besmirching
 becoom
@@ -17014,6 +17013,7 @@ brownistic
 barkan
 bulbule
 bespoken
+bovate
 bure
 blazoner
 baaing
