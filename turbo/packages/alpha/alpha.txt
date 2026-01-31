@@ -15535,6 +15535,7 @@ albin
 almondlike
 angiocarp
 alcotate
+apiarists
 allocating
 annulli
 alectoromorphae
@@ -16855,7 +16856,6 @@ ambushlike
 apiaceae
 apiarian
 apiarians
-apiarists
 adolescently
 antidemocratic
 apically
