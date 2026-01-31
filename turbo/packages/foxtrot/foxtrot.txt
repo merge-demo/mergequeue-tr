@@ -10338,6 +10338,7 @@ focometer
 frustrated
 fikey
 friendless
+fundungi
 floribunda
 foxinesses
 fosterers
@@ -11175,7 +11176,6 @@ fungicides
 frampler
 farm
 forktail
-fundungi
 firewall
 foraminous
 fallfishes
