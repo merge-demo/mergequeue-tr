@@ -929,7 +929,6 @@ grumousness
 glucosemia
 gawkishness
 gatewise
-guelphism
 greedy
 germal
 gelototherapy
@@ -4740,6 +4739,7 @@ gravedo
 gonytheca
 geisa
 governorship
+guelphism
 galgal
 gweducks
 gargoylishly
