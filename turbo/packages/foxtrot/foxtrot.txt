@@ -2948,7 +2948,6 @@ francium
 flanned
 freethinker
 ferrels
-fellies
 filming
 fezzed
 favosite
@@ -8034,6 +8033,7 @@ fumigating
 flecnode
 ferrochromium
 forests
+fellies
 fissuriform
 fumer
 flusterated

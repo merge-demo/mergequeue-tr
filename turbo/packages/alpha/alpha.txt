@@ -11357,6 +11357,7 @@ amphithecium
 abjures
 alterant
 avowries
+aerodynes
 amphithyra
 ana
 amphithyron
@@ -18241,7 +18242,6 @@ anoetic
 aerosol
 aquinist
 anenterous
-aerodynes
 allophone
 autotheism
 architect
