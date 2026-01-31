@@ -1741,6 +1741,7 @@ gyrofrequencies
 grivation
 glacify
 geodesic
+guaiacolize
 groupoids
 gastropneumonic
 governmentish
@@ -10686,7 +10687,6 @@ girdlers
 goldbrickers
 grabs
 glinted
-guaiacolize
 gurshes
 gobbler
 gonadectomies
