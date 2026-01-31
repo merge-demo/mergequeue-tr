@@ -6096,7 +6096,6 @@ fishlines
 fabrique
 footblower
 fallibilism
-fecials
 flouted
 fumarole
 fulminations
@@ -10939,6 +10938,7 @@ fetal
 floorage
 fadridden
 fack
+fecials
 francs
 fulminurate
 fulness
