@@ -100,7 +100,6 @@ bespout
 becked
 babied
 bumaloe
-bureaucrat
 bloodstock
 baritone
 bisyllabism
@@ -13480,6 +13479,7 @@ bleeding
 beforesaid
 bottleman
 bulse
+bureaucrat
 benzin
 bepun
 bracteate
