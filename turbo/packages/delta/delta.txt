@@ -6138,7 +6138,6 @@ did
 derisively
 dejeuners
 deferable
-derival
 derivant
 dillier
 derivates
@@ -9829,6 +9828,7 @@ demidigested
 decorated
 disclander
 dinars
+derival
 diluvianism
 demibastioned
 diluvium
