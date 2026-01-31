@@ -3219,6 +3219,7 @@ gally
 graffage
 gazement
 gormandizer
+gothics
 gynecologists
 gringos
 gerasene
@@ -5439,7 +5440,6 @@ gentlemen
 goodyera
 goldilocks
 goulan
-gothics
 glisten
 guttering
 gigeria
