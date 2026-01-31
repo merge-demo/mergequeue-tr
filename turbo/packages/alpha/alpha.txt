@@ -11134,7 +11134,6 @@ antitabloid
 apter
 airer
 argol
-abnegations
 ampelographist
 ascensional
 ampelograpny
@@ -23933,6 +23932,7 @@ actinophonic
 acetylsalicylate
 aeolotropic
 autoasphyxiation
+abnegations
 algicides
 antidotally
 asepticizing

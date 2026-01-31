@@ -402,6 +402,7 @@ gps
 galant
 galanthus
 guilery
+geissolomataceae
 ganymedes
 gains
 goalposts
@@ -2281,7 +2282,6 @@ germanophilist
 garance
 gizmo
 geissoloma
-geissolomataceae
 geissospermine
 glamor
 genecologic
