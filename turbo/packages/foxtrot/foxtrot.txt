@@ -9008,7 +9008,6 @@ funnellike
 fenter
 forbruise
 foxfires
-foederis
 falsettos
 folksinger
 feedbag
@@ -10347,6 +10346,7 @@ forrarder
 faithfully
 felichthys
 furrowers
+foederis
 freshwoman
 flaps
 fingan
