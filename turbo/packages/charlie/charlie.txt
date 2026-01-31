@@ -936,7 +936,6 @@ caking
 collagist
 chazzanut
 cakravartin
-cal
 calaba
 crawfoot
 calabari
@@ -12858,6 +12857,7 @@ curried
 churchwardenism
 columbines
 churchwardenize
+cal
 constitutionless
 churchwardens
 churchwardenship
