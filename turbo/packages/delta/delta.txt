@@ -6268,6 +6268,7 @@ dermestid
 dermatoneural
 dextrogyration
 deject
+delight
 debit
 disseminating
 danubian
@@ -14586,7 +14587,6 @@ dreint
 dispensing
 divorcee
 disembower
-delight
 dryfarm
 departmentization
 deeming
