@@ -3589,7 +3589,6 @@ filiating
 flensers
 fragmentised
 fableland
-fundal
 fogus
 fanwort
 figurize
@@ -4149,6 +4148,7 @@ fumago
 frier
 forecloses
 flattery
+fundal
 franchisor
 filaria
 fucaceae
