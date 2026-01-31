@@ -1217,6 +1217,7 @@ forediscern
 fascinate
 fixator
 fissure
+footlock
 foredoing
 firmitude
 frigidity
@@ -6226,7 +6227,6 @@ feasibly
 flared
 fissiparation
 fortissimos
-footlock
 fearnought
 fakirism
 fluidounce
