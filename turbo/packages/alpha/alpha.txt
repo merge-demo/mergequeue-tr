@@ -3345,7 +3345,6 @@ adjustors
 agrestal
 acecaffine
 agnizing
-assistor
 anisodactylous
 anthranil
 antipolyneuritic
@@ -4378,6 +4377,7 @@ aduana
 adularescence
 appointments
 abbes
+assistor
 anhydremia
 assertorial
 ankylomerism

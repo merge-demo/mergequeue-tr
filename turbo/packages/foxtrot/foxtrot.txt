@@ -3078,7 +3078,6 @@ fonds
 finned
 flowed
 fapesmo
-florences
 frankfurt
 freres
 feeblehearted
@@ -7648,6 +7647,7 @@ fruition
 foreturn
 flotter
 furriness
+florences
 forspeak
 favourers
 forehoofs
