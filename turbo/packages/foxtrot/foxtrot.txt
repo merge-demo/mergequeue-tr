@@ -3498,6 +3498,7 @@ fermentology
 fraternity
 fleches
 falcones
+faucet
 fastigiate
 futtock
 fusicladium
@@ -11569,7 +11570,6 @@ fulgurator
 fulmar
 futhermore
 finnickiest
-faucet
 fibronucleated
 fluoric
 feu
