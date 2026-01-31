@@ -12114,7 +12114,6 @@ anhalamine
 airspeed
 anastasimon
 anastasius
-anemosis
 architeuthis
 anastate
 anastatus
@@ -13054,6 +13053,7 @@ aborting
 amulla
 anhyd
 allodially
+anemosis
 antikinase
 anhydrate
 anhydration
