@@ -10442,6 +10442,7 @@ bullism
 bolts
 brawer
 browman
+blotches
 bonesetting
 blandishing
 blandishments
@@ -17332,7 +17333,6 @@ bunchiness
 buncoing
 berthing
 brucellas
-blotches
 bund
 ballam
 belamy
