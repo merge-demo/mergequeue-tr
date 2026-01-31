@@ -12868,6 +12868,7 @@ asemia
 awardable
 antefuture
 angiotonic
+arteriogram
 almoravide
 abjunction
 apinch
@@ -18489,7 +18490,6 @@ aquamanile
 arbitration
 arbitrative
 appetent
-arteriogram
 acquirements
 aruspices
 aljamado
