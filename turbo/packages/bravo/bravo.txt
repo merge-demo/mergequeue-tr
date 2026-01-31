@@ -196,7 +196,6 @@ buddleman
 bacchanals
 blennymenitis
 bhadon
-barat
 beamlike
 berceau
 bargainee
@@ -13059,6 +13058,7 @@ bordering
 balangay
 bolster
 blousing
+barat
 borders
 bagpipe
 beriber
