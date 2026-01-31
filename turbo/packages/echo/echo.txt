@@ -4383,6 +4383,7 @@ embryons
 evacuates
 enations
 euripos
+extradialectal
 enbrave
 eggheadedness
 embar
@@ -6996,7 +6997,6 @@ effigiating
 estated
 emetines
 escutellate
-extradialectal
 economising
 electrifies
 earphone
