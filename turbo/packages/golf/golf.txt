@@ -5232,7 +5232,6 @@ geminal
 guatemala
 gemitores
 glyoxilin
-glacialism
 gelatins
 granitical
 graveling
@@ -6161,6 +6160,7 @@ grivois
 gossipdom
 gamblesome
 gardener
+glacialism
 geomyidae
 guahibo
 glyptodontidae
