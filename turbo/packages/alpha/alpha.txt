@@ -8085,7 +8085,6 @@ americanist
 airworthy
 acidotic
 amora
-arithmetically
 amphide
 alforja
 alfreda
@@ -13970,6 +13969,7 @@ airedale
 awestricken
 antagonistically
 aboudikro
+arithmetically
 amblyrhynchus
 arblast
 algist
