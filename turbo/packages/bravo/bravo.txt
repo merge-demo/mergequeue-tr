@@ -5093,6 +5093,7 @@ befilth
 bathoses
 befire
 befist
+breathing
 boomerangs
 braised
 brooked
@@ -8120,7 +8121,6 @@ biometrics
 bridecup
 bellypinch
 brogue
-breathing
 borshts
 biculturalism
 billeters
