@@ -21687,6 +21687,7 @@ cassises
 crosa
 camphoric
 columbarium
+characetum
 cecidomyiid
 cedens
 cephalon
@@ -29225,7 +29226,6 @@ cryptanalytically
 cryptanalytics
 cryptanalyze
 cothamore
-characetum
 capybara
 cryptanalyzing
 cryptarch
