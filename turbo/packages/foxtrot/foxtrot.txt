@@ -7498,6 +7498,7 @@ ferroboron
 factorizations
 forespake
 fallacious
+fasciation
 foreboder
 fuzils
 flattops
@@ -8519,7 +8520,6 @@ fornaxid
 foraminule
 frogtongue
 futurities
-fasciation
 ferules
 fabricable
 footrope
