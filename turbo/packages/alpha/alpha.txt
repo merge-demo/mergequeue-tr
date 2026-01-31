@@ -3361,7 +3361,6 @@ atresic
 atelets
 aircheck
 andean
-allosyndesis
 argestes
 antihierarchic
 arborescence
@@ -7486,6 +7485,7 @@ aggressor
 admittee
 archibenthal
 abhorrences
+allosyndesis
 albumenisation
 areologic
 anaptychi
