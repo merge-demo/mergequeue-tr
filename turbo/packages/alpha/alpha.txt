@@ -3829,7 +3829,6 @@ aprowl
 apatetic
 argufier
 agonied
-ariel
 acetonyl
 ametabole
 adieu
@@ -22263,6 +22262,7 @@ altrices
 antiamboceptor
 astoop
 abjoint
+ariel
 amorphy
 aerated
 anticlassicist
