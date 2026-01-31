@@ -172,7 +172,6 @@ decipherer
 di
 diel
 diaplasma
-daedalous
 divulgated
 defilable
 decontamination
@@ -6312,6 +6311,7 @@ dermosclerite
 deco
 dermotropic
 dastardliness
+daedalous
 derms
 diacatholicon
 defined

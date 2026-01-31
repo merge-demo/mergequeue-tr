@@ -13192,6 +13192,7 @@ cyclic
 cyclical
 cyclizing
 cyclically
+cyke
 cyclicalness
 cyclide
 cubeb
@@ -13438,7 +13439,6 @@ cygninae
 companionableness
 cygnus
 cigua
-cyke
 cyl
 comburivorous
 cilectomy
