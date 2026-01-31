@@ -10369,6 +10369,7 @@ colorbreed
 cedarbird
 chilies
 cahoots
+collatee
 chief
 chiefery
 cyatholith
@@ -18916,7 +18917,6 @@ cryptoclimatology
 coadaptation
 collarless
 collate
-collatee
 collaterality
 curari
 chuchona
