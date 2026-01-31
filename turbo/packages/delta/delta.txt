@@ -4217,6 +4217,7 @@ dogvanes
 dialkylic
 delubra
 deluce
+derivative
 delude
 dishonored
 dipperful
@@ -6811,7 +6812,6 @@ disvalues
 deltic
 domesticative
 demitube
-derivative
 desmopathology
 desmopexia
 deheathenize
