@@ -1967,7 +1967,6 @@ extraperitoneal
 ecstatically
 ekasilicon
 euthamia
-earthen
 exteriorate
 elastics
 eluviated
@@ -4199,6 +4198,7 @@ effeteness
 emptied
 exhorter
 echolalic
+earthen
 electroetching
 exocardiac
 encysted
