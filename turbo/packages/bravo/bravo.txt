@@ -12440,6 +12440,7 @@ bromelin
 bonbo
 bowerlike
 bonbon
+bicolligate
 betsimisaraka
 behap
 bicapitate
@@ -16830,7 +16831,6 @@ brachycephaly
 buffa
 brumbee
 bacterioid
-bicolligate
 buffable
 bahamas
 buffalo
