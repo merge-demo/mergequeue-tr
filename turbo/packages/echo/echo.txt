@@ -1538,7 +1538,6 @@ emarginately
 easies
 exhale
 emportment
-ephydra
 euthanasy
 enmeshments
 erotopathy
@@ -2120,6 +2119,7 @@ elastivity
 eucarpic
 eleusine
 exuberancy
+embargoing
 externat
 emperish
 equilibrio
@@ -13220,6 +13220,7 @@ empressement
 embroglios
 ephraimite
 embosser
+ephydra
 expiscation
 ekphorias
 explainable
@@ -13801,7 +13802,6 @@ endopterygotism
 earthliness
 euchite
 emirship
-embargoing
 extortioners
 entomogenous
 elachista
