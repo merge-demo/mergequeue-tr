@@ -7363,6 +7363,7 @@ bigly
 bugi
 bethesda
 bidialectal
+bdellostoma
 beneplacit
 biangular
 boatels
@@ -9555,7 +9556,6 @@ binomialism
 backachy
 bonder
 birdbanding
-bdellostoma
 babooism
 birses
 birsit
