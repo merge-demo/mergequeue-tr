@@ -5621,6 +5621,7 @@ gothites
 grizzler
 grenat
 gaultheria
+guitarlike
 gaudies
 galvanographic
 glandulous
@@ -6206,7 +6207,6 @@ gadslid
 gobber
 gazettes
 goateed
-guitarlike
 guttural
 ghostiest
 gconv
