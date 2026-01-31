@@ -2781,6 +2781,7 @@ boatloading
 bookit
 been
 baroneting
+byously
 baronetize
 ballistocardiographic
 bufo
@@ -6864,7 +6865,6 @@ belout
 blandishment
 bethlehemite
 braying
-byously
 branchings
 blibe
 bruchid
