@@ -3121,6 +3121,7 @@ gnast
 galumphing
 garial
 grangousier
+gammoned
 galena
 glims
 gestures
@@ -4190,7 +4191,6 @@ gluttonise
 gynantherous
 gonadectomized
 goliath
-gammoned
 gomavel
 gynarchic
 gazella
