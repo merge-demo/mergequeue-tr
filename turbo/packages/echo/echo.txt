@@ -764,7 +764,6 @@ echinal
 euomphalid
 egger
 ecrase
-enclitic
 escort
 extense
 eremophilous
@@ -1009,6 +1008,7 @@ expansionists
 epigonation
 egilops
 eudyptes
+enclitic
 etatisme
 earhole
 elaterist
