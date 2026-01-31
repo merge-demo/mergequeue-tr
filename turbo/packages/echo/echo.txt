@@ -6403,7 +6403,6 @@ esquiring
 eye
 earthling
 enterprisingness
-eyedrop
 euthanasia
 enbaissing
 edgeweed
@@ -7721,6 +7720,7 @@ ephapse
 everyness
 erythraea
 epirogeny
+eyedrop
 equalable
 epidermic
 epidermical
