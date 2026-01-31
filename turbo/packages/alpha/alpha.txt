@@ -8650,7 +8650,6 @@ adjudicatory
 avizandum
 asterias
 accentuates
-antiexpressiveness
 antibishop
 agametes
 autistic
@@ -21157,6 +21156,7 @@ arabella
 acquittal
 agriochoeridae
 aljamiado
+antiexpressiveness
 aseismic
 alkannin
 aboveproof
