@@ -3486,7 +3486,6 @@ aequipalpia
 accusable
 antimissile
 attapulgite
-afterwort
 azoths
 additions
 absmho
@@ -5828,6 +5827,7 @@ agedness
 agee
 aerugos
 ageing
+afterwort
 ardass
 assumptive
 archiannelida
