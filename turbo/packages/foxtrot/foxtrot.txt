@@ -7169,7 +7169,6 @@ footpaces
 fifer
 foolocracy
 factionaries
-fairer
 farers
 falderols
 fimbrillose
@@ -10102,6 +10101,7 @@ fleckiest
 fenetre
 fluviometer
 fiberizing
+fairer
 flyover
 flintifying
 forefatherly
