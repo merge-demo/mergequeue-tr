@@ -6521,7 +6521,6 @@ ahuaca
 acridane
 acanthon
 ascomata
-anacrustic
 amicableness
 ahunt
 azocyclic
@@ -24441,6 +24440,7 @@ autotelism
 appendiculariidae
 antiutilitarianism
 autoanticomplement
+anacrustic
 acropora
 autotetraploid
 assistanted
