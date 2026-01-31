@@ -7670,7 +7670,6 @@ entomotomist
 ectodactylism
 enoughs
 eustele
-eugenol
 exptl
 embrued
 enukki
@@ -7748,6 +7747,7 @@ eggshells
 executable
 epidiascope
 engraff
+eugenol
 ecce
 epichilia
 ebullioscopy
