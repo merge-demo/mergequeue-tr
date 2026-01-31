@@ -11731,7 +11731,6 @@ delist
 damianist
 dynodes
 darkening
-disasinate
 discreeter
 dispensation
 drawled
@@ -16161,6 +16160,7 @@ drewite
 devisal
 dovening
 dayworker
+disasinate
 desireless
 deplasmolysis
 declassified
