@@ -5589,7 +5589,6 @@ depictors
 depicture
 distract
 debe
-diopsidic
 depigmentate
 depigmentation
 depigmentize
@@ -16169,6 +16168,7 @@ drainway
 drinkery
 dowager
 dits
+diopsidic
 demospongiae
 dinnerware
 dispersions
