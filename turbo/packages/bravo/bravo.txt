@@ -5257,7 +5257,6 @@ bimastoid
 bullyragged
 basophils
 beaky
-bunkmate
 bowtie
 begarlanded
 baldpates
@@ -8719,6 +8718,7 @@ bitumen
 bifluorid
 blepharostat
 bahada
+bunkmate
 bryonidin
 backen
 birching
