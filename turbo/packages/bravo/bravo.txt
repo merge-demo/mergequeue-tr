@@ -3607,7 +3607,6 @@ bathmat
 bathmats
 broodsac
 bereaven
-basion
 bathmism
 bedstands
 banker
@@ -5416,6 +5415,7 @@ bloodripeness
 briquets
 babelic
 bibbed
+basion
 begulf
 blastomycotic
 bakshish
