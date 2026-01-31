@@ -10135,7 +10135,6 @@ anaheim
 amboina
 amboinas
 aviatrixes
-antiegoistic
 ajangle
 azedarach
 anthropogeny
@@ -18274,6 +18273,7 @@ adherescent
 arbiters
 affidavit
 agoras
+antiegoistic
 alsoon
 arabians
 armor
