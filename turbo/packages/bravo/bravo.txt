@@ -1467,6 +1467,7 @@ battologized
 boilermaker
 balistid
 bloodshedding
+birthstone
 bravadoed
 balistidae
 bouncer
@@ -15396,7 +15397,6 @@ bonnetless
 brieve
 beanier
 beslings
-birthstone
 briza
 brigaded
 beblooded
