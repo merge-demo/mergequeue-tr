@@ -2451,6 +2451,7 @@ atrochal
 arbitry
 archaizing
 alone
+autoclaving
 arisings
 acknowledged
 adoxography
@@ -6102,7 +6103,6 @@ albuminoidal
 antifeudalism
 agitators
 apteral
-autoclaving
 ablock
 agamospore
 agitatrix
