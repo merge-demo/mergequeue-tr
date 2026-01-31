@@ -5307,6 +5307,7 @@ emmeniopathy
 endoscopies
 eringoes
 epipodia
+epicycles
 endoskeletons
 endosmic
 embaphium
@@ -9646,7 +9647,6 @@ esperantido
 extrapatriarchal
 enclosing
 emissaries
-epicycles
 espy
 espial
 episyllogism
