@@ -8853,6 +8853,7 @@ enkernel
 ecospecifically
 esthesiometer
 eremuri
+exemplifying
 ethnoflora
 elaphodus
 enerve
@@ -10493,7 +10494,6 @@ enologies
 exorbitant
 eclectics
 epulary
-exemplifying
 etwee
 electricans
 esoanhydride
