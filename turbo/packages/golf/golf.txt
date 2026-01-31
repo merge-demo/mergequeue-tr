@@ -1066,7 +1066,6 @@ gipsology
 gomphiasis
 gasserian
 grays
-glochis
 glossic
 gangplows
 geomalic
@@ -3078,6 +3077,7 @@ gunpoint
 guardroom
 generally
 glucokinin
+glochis
 globigerine
 gleanable
 gali
