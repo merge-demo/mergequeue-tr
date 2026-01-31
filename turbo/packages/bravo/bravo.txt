@@ -11467,6 +11467,7 @@ bagplant
 bluejacket
 bluejacks
 blueline
+blatter
 blennophthalmia
 bromochloromethane
 beeves
@@ -13882,7 +13883,6 @@ boathook
 bang
 bowheads
 balr
-blatter
 beanfeast
 beadiest
 bowyer

@@ -1474,6 +1474,7 @@ clave
 chicks
 calistheneum
 calisthenics
+conatus
 calite
 columbaceous
 calyx
@@ -21097,7 +21098,6 @@ conative
 conflab
 coercions
 coffinmaker
-conatus
 conaxial
 culminated
 concamerated
