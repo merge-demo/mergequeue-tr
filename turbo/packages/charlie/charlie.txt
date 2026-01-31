@@ -15534,6 +15534,7 @@ curites
 classificator
 culicidae
 classificatory
+chestiness
 clopping
 cotwinned
 censive
@@ -26036,7 +26037,6 @@ cosh
 coshed
 cosher
 countermanded
-chestiness
 cupreine
 coshery
 coshers
