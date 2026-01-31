@@ -10089,7 +10089,6 @@ ambivert
 arrect
 amble
 apanteles
-ambleocarpus
 anthropomorphitical
 ambler
 awakes
@@ -15016,6 +15015,7 @@ amtmen
 arsoite
 anticreationism
 affettuoso
+ambleocarpus
 agriculturer
 anisaldoxime
 archmime
