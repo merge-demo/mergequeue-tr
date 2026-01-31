@@ -17623,6 +17623,7 @@ burgomastership
 burgundy
 bishareen
 burhel
+basileus
 bombic
 bisson
 bisie
@@ -17748,7 +17749,6 @@ backfill
 biobibliography
 burnwood
 brainchildren
-basileus
 browsage
 bravadoes
 burped
