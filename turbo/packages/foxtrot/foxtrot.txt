@@ -5814,6 +5814,7 @@ factorially
 floatsmen
 fluff
 flaxbush
+famelessness
 farthingale
 forestem
 formidableness
@@ -11011,7 +11012,6 @@ fortilage
 fordable
 foresignify
 feuillemorte
-famelessness
 funkia
 floodlight
 fabliaux
