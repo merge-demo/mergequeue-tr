@@ -4674,7 +4674,6 @@ endemics
 encyclopedic
 ebauche
 etherialisation
-erpetology
 exacerbating
 egence
 envire
@@ -7081,6 +7080,7 @@ extemporizing
 envaye
 episcenia
 excerpting
+erpetology
 empanelled
 envelope
 exurbanites
