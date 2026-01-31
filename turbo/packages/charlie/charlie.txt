@@ -11570,7 +11570,6 @@ cholecystenterostomy
 cholecystgastrostomy
 carburisation
 cholecystic
-cholecystis
 complimenting
 cholecystitis
 cozies
@@ -19268,6 +19267,7 @@ colonical
 critically
 colonies
 colonisability
+cholecystis
 colonisable
 clinid
 consumingness
