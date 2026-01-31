@@ -9787,7 +9787,6 @@ amaister
 abhorrently
 amala
 approximately
-aparai
 avocatory
 abandonedly
 amalekite
@@ -20132,6 +20131,7 @@ audibertia
 ambassy
 arbalister
 ametabolism
+aparai
 approx
 array
 arrayal
