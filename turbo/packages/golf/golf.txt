@@ -1802,7 +1802,6 @@ golandause
 grushie
 goulash
 granat
-gymnospermae
 gratility
 gaggling
 gouts
@@ -3190,6 +3189,7 @@ gremlin
 genethliacally
 geraera
 garrons
+gymnospermae
 genizah
 galban
 gerah
