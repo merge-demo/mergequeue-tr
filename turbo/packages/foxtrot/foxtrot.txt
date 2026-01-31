@@ -1443,6 +1443,7 @@ fall
 funis
 fattishness
 fother
+fathomed
 flavoprotein
 frimitts
 freewheel
@@ -4345,7 +4346,6 @@ figureheads
 flavo
 furied
 frogfishes
-fathomed
 fishability
 flybook
 fixion
