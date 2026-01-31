@@ -9362,7 +9362,6 @@ betties
 bastaard
 biracial
 bavenite
-bahaullah
 boldest
 bayldonite
 bifolia
@@ -10918,6 +10917,7 @@ belauds
 blastomycetic
 blowgun
 blighters
+bahaullah
 bestowing
 bluish
 bribetaker
