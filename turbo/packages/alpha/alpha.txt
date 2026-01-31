@@ -593,7 +593,6 @@ ampleness
 abnormalcies
 adrenalectomies
 acetylcyanide
-adjure
 abnormalized
 anatomical
 amynodont
@@ -18084,6 +18083,7 @@ apterygota
 arcanist
 abstricts
 apteryla
+adjure
 alternance
 agentship
 aptest
