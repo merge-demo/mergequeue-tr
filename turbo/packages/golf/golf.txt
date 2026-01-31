@@ -154,6 +154,7 @@ guy
 gentisin
 ghats
 garrot
+geometers
 geryon
 galipot
 graniteware
@@ -3432,7 +3433,6 @@ grum
 gubernance
 gaveler
 gravimeters
-geometers
 gudgeons
 gowl
 gelatinated
