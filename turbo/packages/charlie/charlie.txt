@@ -6464,7 +6464,6 @@ cavelet
 confiner
 cambodia
 cavelike
-cavemen
 cavernal
 cavernlike
 cavernoma
@@ -28694,6 +28693,7 @@ creophagy
 contin
 creephole
 calcining
+cavemen
 clung
 crenothrix
 crenula

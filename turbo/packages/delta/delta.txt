@@ -11529,7 +11529,6 @@ defassa
 dynamometry
 disobligatory
 discommoned
-dextrinase
 dodrantal
 detective
 denationalised
@@ -11572,6 +11571,7 @@ dollarfish
 drawnwork
 devillike
 disconsent
+dextrinase
 diphthongised
 dithering
 discerpibility
