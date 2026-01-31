@@ -1538,6 +1538,7 @@ dallies
 dicerous
 dicacodyl
 dartman
+designer
 delphinium
 dextrously
 dicranoid
@@ -6696,7 +6697,6 @@ delibate
 designment
 destitutely
 djelab
-designer
 discerptible
 donicker
 designful
