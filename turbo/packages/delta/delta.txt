@@ -4143,6 +4143,7 @@ depopulations
 decylenic
 delocalised
 delocalize
+disadventurous
 dermoreaction
 decrustation
 dretch
@@ -16545,7 +16546,6 @@ diadokokinesis
 dynastidan
 duplicature
 dyspnoic
-disadventurous
 draftwoman
 detergent
 denar
