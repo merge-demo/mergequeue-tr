@@ -820,7 +820,6 @@ ectypography
 epitheton
 epop
 exulate
-embrittlement
 errants
 ectiris
 etamines
@@ -12162,6 +12161,7 @@ entertainments
 ethaldehyde
 electric
 exostome
+embrittlement
 embergoose
 excuser
 elytron
