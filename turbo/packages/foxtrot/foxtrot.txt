@@ -5296,7 +5296,6 @@ fifteen
 feasts
 filial
 fant
-forcepslike
 foulmouthedly
 flimflam
 foolhardier
@@ -9194,6 +9193,7 @@ forkless
 feretra
 forfend
 fraise
+forcepslike
 furiosa
 fibrinopurulent
 fettling
