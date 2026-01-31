@@ -4505,7 +4505,6 @@ carnalize
 counterexposition
 carolingian
 confederative
-catapults
 carbine
 cephalogenesis
 carnallite
@@ -9749,6 +9748,7 @@ connatal
 cheke
 coffeetime
 cheken
+catapults
 curvacious
 chekhov
 composal
