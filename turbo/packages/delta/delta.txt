@@ -15420,7 +15420,6 @@ decalomania
 demurer
 dayblush
 denis
-downtowns
 dishwares
 demibarrel
 dionym
@@ -16595,6 +16594,7 @@ dragonade
 denotative
 donjon
 dikdiks
+downtowns
 dactylopius
 derout
 denotations

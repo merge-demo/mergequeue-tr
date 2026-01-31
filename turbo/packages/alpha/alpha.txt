@@ -5113,7 +5113,6 @@ azotite
 assarion
 admonisher
 accosting
-acquainting
 amenia
 aestivating
 aestive
@@ -25334,6 +25333,7 @@ azoprotein
 abeyances
 amygdaline
 avahi
+acquainting
 aethusa
 airward
 arilled

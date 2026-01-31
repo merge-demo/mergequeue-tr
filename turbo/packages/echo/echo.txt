@@ -1538,7 +1538,6 @@ emarginately
 easies
 exhale
 emportment
-ephydra
 euthanasy
 enmeshments
 erotopathy
@@ -4674,7 +4673,6 @@ endemics
 encyclopedic
 ebauche
 etherialisation
-erpetology
 exacerbating
 egence
 envire
@@ -7081,6 +7079,7 @@ extemporizing
 envaye
 episcenia
 excerpting
+erpetology
 empanelled
 envelope
 exurbanites
@@ -13220,6 +13219,7 @@ empressement
 embroglios
 ephraimite
 embosser
+ephydra
 expiscation
 ekphorias
 explainable
