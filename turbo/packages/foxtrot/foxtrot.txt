@@ -7054,7 +7054,6 @@ fusional
 fingerstall
 fadmonger
 forgeability
-fungicide
 fumishing
 foolproof
 foolproofness
@@ -11165,6 +11164,7 @@ force
 frowy
 fungia
 fades
+fungicide
 fremdness
 fungian
 felspar
