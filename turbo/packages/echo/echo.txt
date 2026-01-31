@@ -8006,6 +8006,7 @@ exopterygota
 exocline
 enigmaticalness
 exscript
+epifocal
 epigonal
 ehtanethial
 enoplion
@@ -10312,7 +10313,6 @@ ethnocracy
 energising
 expendable
 equipostile
-epifocal
 electuaries
 enneacontahedral
 exosmic
