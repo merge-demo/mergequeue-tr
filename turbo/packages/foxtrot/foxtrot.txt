@@ -7567,7 +7567,6 @@ forril
 festino
 fatalize
 farrier
-fossula
 ferroglass
 fees
 flavoriness
@@ -11214,6 +11213,7 @@ fieldsman
 fetoplacental
 fungosities
 funic
+fossula
 fetters
 footlers
 frypans
