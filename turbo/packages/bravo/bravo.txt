@@ -2877,7 +2877,6 @@ barracouta
 brushlessness
 bicep
 blanketless
-barrad
 bridebowl
 boskage
 biform
@@ -10076,6 +10075,7 @@ bushranger
 bedeviled
 battuto
 becrusted
+barrad
 benefiter
 bywalking
 buckleya
