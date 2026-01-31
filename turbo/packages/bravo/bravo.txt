@@ -4695,7 +4695,6 @@ bouncers
 bowdlerizes
 baldwin
 burnettized
-balayeuse
 bedgoer
 bradded
 balletomania
@@ -5913,6 +5912,7 @@ bradmaker
 bellwort
 belock
 basimesostasis
+balayeuse
 belomancy
 belonephobia
 belonger
