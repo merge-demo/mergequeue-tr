@@ -4422,6 +4422,7 @@ extispices
 enthymeme
 e
 espacement
+exoculate
 ejaculation
 encaptive
 entomion
@@ -12622,7 +12623,6 @@ eagless
 effray
 encirclement
 excoriate
-exoculate
 expostulates
 ecclesiasticalness
 exoculation
