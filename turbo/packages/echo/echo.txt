@@ -9135,7 +9135,6 @@ erythroxylaceous
 eulogizer
 erythroxylon
 embouchment
-entotympanic
 ethnoses
 epitela
 expirable
@@ -12827,6 +12826,7 @@ exoterical
 esquireship
 exotericism
 extenuated
+entotympanic
 excusefully
 emboldener
 evangelicity
