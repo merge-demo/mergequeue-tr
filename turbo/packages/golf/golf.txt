@@ -5240,7 +5240,6 @@ gharry
 gromil
 glycerite
 gymnadeniopsis
-grouping
 glyceroxide
 glycide
 glabrous
@@ -10135,6 +10134,7 @@ gurgling
 guller
 glareless
 greenier
+grouping
 grandeurs
 grudges
 granophyric
