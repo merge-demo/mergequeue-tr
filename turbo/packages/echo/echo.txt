@@ -2120,6 +2120,7 @@ elastivity
 eucarpic
 eleusine
 exuberancy
+embargoing
 externat
 emperish
 equilibrio
@@ -13801,7 +13802,6 @@ endopterygotism
 earthliness
 euchite
 emirship
-embargoing
 extortioners
 entomogenous
 elachista
