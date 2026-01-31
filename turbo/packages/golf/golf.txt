@@ -9476,6 +9476,7 @@ grandrelle
 gravitations
 grouper
 garnisheing
+guzerat
 grisbet
 gecking
 gaes
@@ -9583,7 +9584,6 @@ gossipmonger
 gowns
 gutteral
 gr
-guzerat
 glaucophanization
 gallize
 goniodorididae
