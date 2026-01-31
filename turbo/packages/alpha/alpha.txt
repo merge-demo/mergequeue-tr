@@ -12183,7 +12183,6 @@ axed
 anatoxin
 anthropophysite
 ailie
-aglobulia
 auxinic
 anatreptic
 androdynamous
@@ -18684,6 +18683,7 @@ acroanesthesia
 architraval
 archaises
 archaising
+aglobulia
 applicable
 appendent
 archaism
