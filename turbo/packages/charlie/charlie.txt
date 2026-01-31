@@ -1102,7 +1102,6 @@ choppin
 crossbarred
 calcinate
 calcinator
-calcine
 coherently
 candareen
 cytherea
@@ -10825,6 +10824,7 @@ clavicylinder
 counterwave
 chinooks
 centerpieces
+calcine
 cleverishly
 chinsing
 coragio
