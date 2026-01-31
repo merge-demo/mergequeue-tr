@@ -14283,7 +14283,6 @@ appraisals
 anthroposociologist
 albs
 axile
-ammonite
 anticlnoria
 ataxite
 autocrator
@@ -16967,6 +16966,7 @@ abortus
 aplanogamete
 areally
 antifermentative
+ammonite
 affreight
 aplite
 alfione
