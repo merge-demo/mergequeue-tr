@@ -13074,6 +13074,7 @@ cibol
 conjugacy
 curtailments
 cibols
+corrump
 columnea
 ciboney
 cibophobia
@@ -30009,7 +30010,6 @@ crotonyl
 crotonylene
 crotonization
 chitchat
-corrump
 crotons
 crotophaga
 chrismal
