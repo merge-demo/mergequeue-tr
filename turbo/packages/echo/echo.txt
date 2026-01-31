@@ -2984,6 +2984,7 @@ eliminate
 etiologies
 embind
 explait
+eruciform
 epipastic
 emony
 eurypterida
@@ -13792,7 +13793,6 @@ enouncement
 elephas
 extolls
 eskimos
-eruciform
 endospermic
 extorters
 embroiling
