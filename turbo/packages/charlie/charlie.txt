@@ -11959,7 +11959,6 @@ corked
 cichoriaceous
 covens
 communicatively
-cloky
 camois
 colophonite
 chiefdom
@@ -16726,6 +16725,7 @@ cloudology
 comptrollership
 chanteuses
 cloudship
+cloky
 creameryman
 cursedest
 chalcophile
