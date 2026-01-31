@@ -4645,7 +4645,6 @@ gourmandise
 gauping
 glazen
 geisothermal
-glycerate
 gigged
 geelbec
 galchic
@@ -9196,6 +9195,7 @@ grisons
 grandees
 genethlialogic
 goliard
+glycerate
 grisly
 gyse
 glagolitic
