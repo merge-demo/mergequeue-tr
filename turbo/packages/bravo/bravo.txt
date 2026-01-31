@@ -14937,7 +14937,6 @@ blastemal
 beknotting
 butterflylike
 breastbeam
-burut
 bungerly
 bitthead
 burgh
@@ -16744,6 +16743,7 @@ babehood
 buckwagon
 boodie
 buckwheatlike
+burut
 balaic
 brownstones
 butterwoman
