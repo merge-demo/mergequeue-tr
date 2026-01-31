@@ -243,7 +243,6 @@ eyeshots
 easiest
 eleutheromorph
 evensong
-electropsychrometer
 excrementitial
 emendately
 electroballistically
@@ -8806,6 +8805,7 @@ ensellure
 eight
 egritude
 esteems
+electropsychrometer
 enskyed
 embelin
 entempest
