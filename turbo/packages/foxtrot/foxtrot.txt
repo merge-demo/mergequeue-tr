@@ -2286,6 +2286,7 @@ fifteenfold
 fondness
 fellowess
 featherheaded
+fistulized
 febrility
 fast
 fixities
@@ -2760,7 +2761,6 @@ flatly
 fluorimeter
 forgift
 furdel
-fistulized
 forbearer
 ftncmd
 fadeout
