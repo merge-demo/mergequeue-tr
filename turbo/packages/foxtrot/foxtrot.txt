@@ -1495,7 +1495,6 @@ flunkyhood
 fluoroscopist
 folkish
 floatability
-fungillus
 faucre
 fishmeal
 fairgoer
@@ -6046,6 +6045,7 @@ fleyland
 forecome
 floush
 focalisation
+fungillus
 fouls
 foudroyant
 flossiest
