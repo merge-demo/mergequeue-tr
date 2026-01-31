@@ -735,6 +735,7 @@ famuli
 frustrater
 fana
 feoffment
+foretokening
 fluxion
 feministics
 fragmentate
@@ -4155,7 +4156,6 @@ floodtime
 falsehearted
 firebrick
 foulmouthed
-foretokening
 fand
 firebug
 flagstones

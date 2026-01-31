@@ -448,6 +448,7 @@ gamosepalous
 gardenable
 gammexane
 grapefruits
+generalship
 grimace
 garrote
 gallantness
@@ -7135,7 +7136,6 @@ geobotanical
 gnawable
 gloryful
 granate
-generalship
 gospoda
 gillotage
 granuloma
