@@ -549,6 +549,7 @@ adore
 acetolysis
 ataraxies
 amidophosphoric
+akenobeite
 amyotrophia
 actualize
 anba
@@ -7068,7 +7069,6 @@ arthropathy
 ameiotic
 allocation
 anthramin
-akenobeite
 atavus
 akepiro
 aker
