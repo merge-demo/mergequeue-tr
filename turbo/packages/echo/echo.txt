@@ -12205,7 +12205,6 @@ ephemera
 execute
 executed
 exceptor
-extravagancies
 enquicken
 eyewaters
 eras
@@ -13498,6 +13497,7 @@ exsect
 exsanguinating
 exposing
 ephererist
+extravagancies
 ethmoidal
 eudaemonic
 euchlorine

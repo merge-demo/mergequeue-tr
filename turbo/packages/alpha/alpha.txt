@@ -3534,7 +3534,6 @@ allotheistic
 actinography
 azores
 addressable
-antics
 avestan
 addressers
 anilities
@@ -10245,6 +10244,7 @@ antibalm
 aiguilletted
 admortization
 araban
+antics
 asiarchate
 amebicide
 antiface
