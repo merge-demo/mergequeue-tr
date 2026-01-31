@@ -9460,6 +9460,7 @@ expand
 ecbolics
 embedment
 eam
+embost
 euryale
 eses
 epicism
@@ -9643,7 +9644,6 @@ esparsette
 emphases
 encloud
 euselachii
-embost
 enhydritic
 especialness
 esperantido
