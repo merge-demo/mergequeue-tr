@@ -3175,7 +3175,6 @@ elaborate
 evinced
 egghead
 entertainingness
-envisagement
 eichbergite
 eureka
 expounders
@@ -4178,6 +4177,7 @@ eldermen
 extrications
 empoririums
 emporiums
+envisagement
 eyewink
 emporte
 ecstasy
