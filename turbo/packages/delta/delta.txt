@@ -6848,7 +6848,6 @@ darkness
 dryhouse
 didymium
 drunks
-dognap
 discolors
 dahabiyeh
 deadliest
@@ -17660,6 +17659,7 @@ deedholder
 doolies
 drawbacks
 dilogy
+dognap
 dialectally
 dorsalis
 detoxicating
