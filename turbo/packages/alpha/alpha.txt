@@ -4750,7 +4750,6 @@ aequi
 ausgespielt
 aranein
 albuminimetry
-allogamy
 attemperation
 aequor
 altitudes
@@ -12196,6 +12195,7 @@ assobre
 archpretender
 antiworld
 antimagistratical
+allogamy
 agaonidae
 aneretic
 algebrization
