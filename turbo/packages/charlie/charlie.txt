@@ -29703,7 +29703,6 @@ cromlech
 cromme
 cryptoanalytics
 clayweed
-cultirostral
 coronagraph
 crystalitic
 crasis
@@ -30572,6 +30571,7 @@ cuboctahedron
 cubocube
 cashboy
 crepidula
+cultirostral
 cubocuneiform
 cubododecahedral
 concarnation
