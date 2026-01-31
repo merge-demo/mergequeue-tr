@@ -1653,7 +1653,6 @@ deallocations
 deprival
 decapsulation
 dishrag
-dealt
 dissects
 democratizes
 dentimeter
@@ -6687,6 +6686,7 @@ dimedone
 dispeopled
 decapetalous
 disacidify
+dealt
 dilaceration
 designatum
 designedly
