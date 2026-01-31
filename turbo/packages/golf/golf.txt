@@ -2887,7 +2887,6 @@ grapy
 gaincope
 gomphoses
 gastrorrhagia
-gruesomeness
 gayety
 gadders
 geocentric
@@ -5833,6 +5832,7 @@ gipsyweed
 glucoses
 glances
 glucoside
+gruesomeness
 geophagy
 goshawk
 glissading
