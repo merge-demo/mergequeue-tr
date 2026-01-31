@@ -3897,7 +3897,6 @@ evendown
 exterminating
 eminent
 endorsor
-easternized
 esperance
 eminently
 enamored
@@ -8856,6 +8855,7 @@ eremuri
 exemplifying
 ethnoflora
 elaphodus
+easternized
 enerve
 escharoid
 englue

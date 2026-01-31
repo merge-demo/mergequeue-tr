@@ -20997,7 +20997,6 @@ comptie
 compting
 comblessness
 closedown
-comptness
 cabda
 comptroller
 comptrollers
@@ -24123,6 +24122,7 @@ crimples
 cuya
 convertor
 claybrained
+comptness
 coenzymes
 conveth
 convex
