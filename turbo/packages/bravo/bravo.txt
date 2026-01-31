@@ -5854,6 +5854,7 @@ bromometry
 biltong
 belligerents
 buildress
+bitterbump
 boxcar
 bullsnake
 berseem
@@ -13338,7 +13339,6 @@ bukat
 benadryl
 bridgeman
 botcherly
-bitterbump
 botchy
 botchily
 becrimson
