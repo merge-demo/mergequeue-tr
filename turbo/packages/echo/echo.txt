@@ -1911,7 +1911,6 @@ emptional
 electropneumatically
 eluting
 exemplary
-excite
 evertebral
 envenomed
 erotogeneses
@@ -8686,6 +8685,7 @@ endophyllous
 erotical
 euphemizing
 epilepsy
+excite
 ejecta
 equipotential
 exconjugant
