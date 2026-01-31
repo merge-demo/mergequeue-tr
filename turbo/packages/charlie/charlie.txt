@@ -22450,6 +22450,7 @@ conisance
 cattery
 cinnamonroot
 coniums
+cigaret
 chickies
 conj
 conjective
@@ -28963,7 +28964,6 @@ cricket
 converso
 cricketers
 cicindelid
-cigaret
 cricketlike
 coercibility
 crickle
