@@ -548,6 +548,7 @@ dao
 damagers
 damalic
 dextrorotation
+dynam
 demobilized
 dialyzing
 diplosis
@@ -4020,7 +4021,6 @@ darknesses
 domicil
 dismissible
 delicatessen
-dynam
 dustoor
 dominance
 delice
