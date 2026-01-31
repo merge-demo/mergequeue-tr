@@ -8388,7 +8388,6 @@ babish
 bindwood
 bigheartedness
 benedictionale
-basin
 boring
 bights
 blickeys
@@ -13126,6 +13125,7 @@ bregmatic
 boringness
 bilging
 bubblies
+basin
 befluster
 beaned
 brachycephalous
