@@ -9241,6 +9241,7 @@ grobian
 gesithcund
 gravies
 gigabyte
+goldin
 gigglesome
 groceryman
 goitre
@@ -10667,7 +10668,6 @@ geocentricism
 glyceryl
 gambol
 grove
-goldin
 glyphographic
 generalty
 glycerols
