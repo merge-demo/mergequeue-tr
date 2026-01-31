@@ -882,6 +882,7 @@ footworks
 florivorous
 feverfews
 fantastication
+flap
 forold
 flyaways
 faventine
@@ -11452,7 +11453,6 @@ furcule
 flaffer
 furfurylidene
 furrowy
-flap
 furrowing
 forletting
 furrowlike
