@@ -4934,6 +4934,7 @@ germanization
 ganof
 gastrelcosis
 ginger
+gregarian
 grisliest
 glamoured
 germanic
@@ -10842,7 +10843,6 @@ genotypical
 glycolylurea
 gasworker
 grailer
-gregarian
 gymnasiarch
 granospherite
 genesiurgic
