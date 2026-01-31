@@ -3640,7 +3640,6 @@ forelooper
 floorings
 furthers
 fuzzing
-funnelling
 fertilised
 foreglow
 finedrawing
@@ -6954,6 +6953,7 @@ fonding
 fondle
 foreface
 frayings
+funnelling
 fondled
 fondles
 fainter
