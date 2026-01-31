@@ -1158,6 +1158,7 @@ eosinophilic
 edrioasteroidea
 epipany
 electrotyped
+erthling
 epaulette
 ejaculators
 edriophthalmatous
@@ -5385,7 +5386,6 @@ eccentrometer
 endothermal
 endothermy
 ectopatagia
-erthling
 echinocactus
 electively
 evangelium
