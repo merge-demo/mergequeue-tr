@@ -1781,7 +1781,6 @@ glossolaly
 gutterblood
 gelatinotype
 grain
-grippelike
 ghyll
 glutinate
 gestalten
@@ -3421,6 +3420,7 @@ goutily
 glaucosis
 gamont
 gudrun
+grippelike
 gymkhanas
 gehey
 geodes
