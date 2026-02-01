@@ -2893,7 +2893,6 @@ desideratum
 disyllabizing
 decussoria
 decwriter
-deltoid
 divia
 dashel
 dedanite
@@ -18258,6 +18257,7 @@ dictery
 dipody
 diabolification
 darts
+deltoid
 dungiest
 disapprobative
 dacryorrhea
