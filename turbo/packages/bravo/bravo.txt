@@ -1343,6 +1343,7 @@ bermudian
 bernoullian
 bingy
 burelage
+btu
 bedways
 bluecap
 bunks
@@ -7934,7 +7935,6 @@ bibbons
 buphthalmos
 browser
 blanketry
-btu
 bibliophagous
 budgetary
 boscages
