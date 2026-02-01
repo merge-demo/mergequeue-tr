@@ -1912,7 +1912,6 @@ gaudless
 ganglia
 gulped
 gastromycosis
-geal
 garnetwork
 garnet
 garibaldi
@@ -2863,6 +2862,7 @@ genuflex
 glyptal
 gynaeceum
 groggier
+geal
 gallerylike
 gigmanhood
 gravediggers
