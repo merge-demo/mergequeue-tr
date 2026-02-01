@@ -4462,6 +4462,7 @@ doxologies
 defused
 drinkableness
 drumloidal
+denigrator
 destruction
 dialyzer
 demiculverin
@@ -5111,7 +5112,6 @@ decarburation
 desertic
 denierer
 dipolarize
-denigrator
 dietine
 desulphurizing
 dumbfounded
