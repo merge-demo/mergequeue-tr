@@ -5005,7 +5005,6 @@ glassful
 grapplers
 gloxinia
 glasshouses
-gateaux
 gasts
 glued
 gnarr
@@ -5805,6 +5804,7 @@ glucate
 gorevan
 gastrostomies
 glucinums
+gateaux
 gangflower
 giggle
 glucocorticoid
