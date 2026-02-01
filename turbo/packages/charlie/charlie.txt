@@ -8681,6 +8681,7 @@ cassican
 cartwheels
 coto
 chaparejos
+ciseleur
 chaparral
 chaparrals
 chaparraz
@@ -18957,7 +18958,6 @@ couldna
 clumped
 collators
 coenobitic
-ciseleur
 culbut
 colleaguing
 collect
