@@ -306,6 +306,7 @@ dollfaced
 daybill
 disinteress
 dourine
+disperses
 dalasi
 daybooks
 deckman
@@ -16116,7 +16117,6 @@ disharmonise
 doup
 dingee
 douping
-disperses
 deformity
 deforcing
 dour
