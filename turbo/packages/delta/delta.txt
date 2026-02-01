@@ -3674,7 +3674,6 @@ dowlas
 dehydrochlorinate
 doketism
 drabble
-drepanoid
 didact
 dehydrogenate
 dawtet
@@ -8477,6 +8476,7 @@ diane
 dianetics
 desulfuration
 didactically
+drepanoid
 dianilid
 deathworm
 dilate
