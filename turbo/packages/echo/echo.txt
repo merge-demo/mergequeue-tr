@@ -1076,7 +1076,6 @@ evaluates
 envined
 edificatory
 expostulatively
-elliptic
 ephahs
 edificed
 electrologic
@@ -10681,6 +10680,7 @@ extrasyllabic
 ensigning
 embraced
 endopleural
+elliptic
 euripus
 exprobate
 erebus
