@@ -8710,7 +8710,6 @@ dimps
 douching
 dynamitic
 dasheen
-diatoma
 diapase
 deems
 diastase
@@ -10360,6 +10359,7 @@ dioxane
 dioxanes
 demonises
 droiture
+diatoma
 diplosphene
 dioxy
 defecate
