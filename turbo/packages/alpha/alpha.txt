@@ -11639,7 +11639,6 @@ agars
 anachronize
 animalish
 albuminuria
-allothigenic
 annoyancer
 alamort
 arseniureted
@@ -22395,6 +22394,7 @@ arcturia
 ananas
 agenda
 asteriskless
+allothigenic
 ans
 armourers
 astrogony
