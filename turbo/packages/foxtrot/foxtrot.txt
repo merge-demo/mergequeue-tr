@@ -8715,7 +8715,6 @@ fleshiness
 forellenstein
 forwarded
 faceless
-fungo
 frondation
 facelifts
 foreplace
@@ -9556,6 +9555,7 @@ fusteric
 frizzing
 fortifications
 fivestones
+fungo
 ferrotyper
 forhooy
 fothering
