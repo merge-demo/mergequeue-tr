@@ -3094,6 +3094,7 @@ bannack
 blague
 boilerworks
 bullary
+bosporian
 breather
 blastplate
 bating
@@ -16010,7 +16011,6 @@ bushwhack
 bellmaster
 bashed
 bemourn
-bosporian
 bronchographic
 blooming
 bronchohemorrhagia
