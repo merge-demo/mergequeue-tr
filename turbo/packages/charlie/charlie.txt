@@ -15198,6 +15198,7 @@ caam
 colours
 chlorphenol
 crassina
+coniroster
 clam
 cabriolet
 circumnavigatory
@@ -22447,7 +22448,6 @@ coniosis
 coniospermous
 corms
 charisma
-coniroster
 conirostral
 conirostres
 cheechako
