@@ -554,6 +554,7 @@ gnatflower
 galempong
 gableended
 gravamem
+ganglionless
 gadinine
 glucosazone
 gallian
@@ -6157,7 +6158,6 @@ genecologist
 governmentalize
 grabbings
 glyptographic
-ganglionless
 grivois
 gossipdom
 gamblesome
