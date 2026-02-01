@@ -3217,7 +3217,6 @@ actualness
 allochromatic
 axopetal
 adderbolt
-acoumetry
 alstonine
 assident
 antennary
@@ -16812,6 +16811,7 @@ autotypic
 affamish
 antiunion
 aphrodisiacs
+acoumetry
 annule
 aphrodisiomania
 aphrodisiomaniac
