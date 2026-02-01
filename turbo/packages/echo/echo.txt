@@ -4835,7 +4835,6 @@ excellences
 effulgence
 epigne
 expertise
-emblematizing
 encourages
 embusy
 escapable
@@ -9710,6 +9709,7 @@ easing
 elegiast
 escry
 eventuated
+emblematizing
 enjoins
 entoptoscopic
 eschaufe
