@@ -1122,6 +1122,7 @@ goblins
 ganoidian
 gaillardia
 geonyctitropic
+graphics
 gutsiest
 geotactically
 grammatolatry
@@ -6802,7 +6803,6 @@ glauconite
 gloiosiphoniaceae
 granulomas
 gaffsman
-graphics
 gorbal
 guaranty
 globosities
