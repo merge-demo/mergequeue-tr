@@ -4420,7 +4420,6 @@ directoral
 demethylate
 definitize
 demetricize
-draughtmanship
 deceits
 diceplay
 duress
@@ -12343,6 +12342,7 @@ decempartite
 didymiums
 decoagulation
 dishaunt
+draughtmanship
 duddery
 deflationary
 dichromaticism
