@@ -1676,6 +1676,7 @@ deanthropomorphization
 docksides
 dearborn
 dumortierite
+detachableness
 dearest
 deadeners
 dottel
@@ -3080,7 +3081,6 @@ dipteral
 deaths
 defamation
 dingling
-detachableness
 decantation
 dixenite
 deterrers
