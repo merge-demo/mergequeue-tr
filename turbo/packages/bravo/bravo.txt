@@ -4768,7 +4768,6 @@ benitoite
 butcherliness
 badmash
 bangs
-bedlams
 bienseance
 bedlar
 bazoo
@@ -10858,6 +10857,7 @@ bugbeardom
 blepharomelasma
 blepharoncosis
 beplumed
+bedlams
 broses
 bassan
 blepharoptosis
