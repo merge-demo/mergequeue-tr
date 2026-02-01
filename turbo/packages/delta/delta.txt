@@ -4193,6 +4193,7 @@ decoherer
 dels
 djelfa
 dumpy
+dosing
 delsartian
 downplayed
 dislocate
@@ -15872,7 +15873,6 @@ discounts
 doser
 datura
 dogproof
-dosing
 dubs
 dehairer
 doped
