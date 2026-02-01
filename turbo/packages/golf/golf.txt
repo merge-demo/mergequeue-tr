@@ -6036,7 +6036,6 @@ gnats
 gorbit
 guttie
 gibbled
-grisset
 grume
 gnaws
 gramineous
@@ -8904,6 +8903,7 @@ gladelike
 grandiloquous
 gasteropod
 gnaw
+grisset
 glycosidic
 geranomorphic
 gothicize
