@@ -37,6 +37,7 @@ goodlike
 gabioned
 glutamate
 gmelina
+gnash
 guestimate
 grammes
 gabions
@@ -3037,7 +3038,6 @@ garnetz
 gossipper
 giant
 girons
-gnash
 graphiter
 greensauce
 gamelin
