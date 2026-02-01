@@ -3335,6 +3335,7 @@ gymnurine
 gneu
 gadbush
 gessamine
+gigantosaurus
 gonfanons
 gluside
 gibbar
@@ -4157,7 +4158,6 @@ guarache
 guidable
 galactolytic
 gliosa
-gigantosaurus
 ghibelline
 gynaecium
 gunned
