@@ -1412,7 +1412,6 @@ drapability
 dissatisfactoriness
 desipient
 diligentia
-disintegrable
 dulcid
 dechoralize
 deportation
@@ -5164,6 +5163,7 @@ dampens
 denotativeness
 denotatum
 difficultly
+disintegrable
 deacidifying
 denotes
 docetistic
