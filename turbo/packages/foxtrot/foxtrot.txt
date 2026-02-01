@@ -10762,6 +10762,7 @@ fletches
 forgotten
 frustum
 frutage
+ferren
 faithlessly
 footraces
 folious
@@ -11637,7 +11638,6 @@ fineness
 fructoses
 frized
 feists
-ferren
 flyability
 fustiness
 fustoc
