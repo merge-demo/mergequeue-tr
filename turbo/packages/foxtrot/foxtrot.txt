@@ -5205,7 +5205,6 @@ forcive
 flavescent
 funguses
 flitterbat
-farse
 fulfil
 fourling
 fleas
@@ -10161,6 +10160,7 @@ foreannouncement
 forbit
 forepredicament
 fishyback
+farse
 fantad
 fragmentise
 fractionalism
