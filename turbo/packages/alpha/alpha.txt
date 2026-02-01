@@ -7369,6 +7369,7 @@ albert
 albertin
 albertine
 albertist
+appointor
 adnomination
 antitradition
 azolitmin
@@ -15936,7 +15937,6 @@ armill
 accidia
 arnut
 angloman
-appointor
 autorotate
 antiq
 antiqua
