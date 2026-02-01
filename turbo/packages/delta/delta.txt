@@ -4662,7 +4662,6 @@ demivol
 disbend
 deutencephalic
 dendrolene
-deflexionize
 datatypes
 dunt
 desperateness
@@ -4865,6 +4864,7 @@ discriminability
 demonstrations
 doctrinary
 derotreme
+deflexionize
 decrescence
 daktylon
 duskily
