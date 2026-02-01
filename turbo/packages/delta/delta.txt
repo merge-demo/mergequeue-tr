@@ -5806,6 +5806,7 @@ deprecatory
 deoxidised
 dragonet
 desensitization
+diaphanoscopy
 deota
 degradingness
 dregless
@@ -16831,7 +16832,6 @@ deliquescent
 dissociable
 disring
 dendrodus
-diaphanoscopy
 deprecatingly
 drumbeat
 darbukka
