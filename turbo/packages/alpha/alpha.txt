@@ -1284,6 +1284,7 @@ acatalepsia
 acataleptic
 autocorrelate
 autosomally
+autarchoglossa
 advectitious
 affrontee
 acatamathesia
@@ -8100,7 +8101,6 @@ algalia
 anolytes
 algarroba
 alantin
-autarchoglossa
 adnexed
 alcabala
 artistry

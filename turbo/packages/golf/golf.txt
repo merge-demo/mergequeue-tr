@@ -4218,7 +4218,6 @@ gunshots
 gleamed
 gratuities
 gastroscope
-glaiket
 governments
 gangliated
 gibeonite
@@ -9105,6 +9104,7 @@ gillenia
 grammatically
 goading
 gratings
+glaiket
 gareh
 galvanometric
 gaffers
