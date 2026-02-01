@@ -2240,7 +2240,6 @@ gonidiogenous
 gehlenite
 goblet
 gratuity
-grunted
 geoplanidae
 glucokinase
 gringolee
@@ -9963,6 +9962,7 @@ gazetted
 gamasoidea
 guaiocums
 goitres
+grunted
 groset
 guatibero
 grysbok
