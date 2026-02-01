@@ -9784,7 +9784,6 @@ begobs
 barleduc
 bacillus
 brichette
-bigwiggedness
 bedridden
 breakages
 bodies
@@ -12728,6 +12727,7 @@ blastophthoric
 bibliographically
 butomaceae
 bowet
+bigwiggedness
 booker
 boatkeeper
 billion
