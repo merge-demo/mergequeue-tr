@@ -5797,7 +5797,6 @@ ancestor
 agate
 agates
 autoturning
-antenave
 appal
 aquatinter
 adducent
@@ -23111,6 +23110,7 @@ albumoses
 alewhap
 anthroponym
 areopagy
+antenave
 astonishingness
 antinode
 attitudinize
