@@ -4421,7 +4421,6 @@ excentrical
 endenizen
 extispices
 enthymeme
-e
 espacement
 exoculate
 ejaculation
@@ -14056,6 +14055,7 @@ embellishments
 extrathermodynamic
 emes
 excitonic
+e
 enterochromaffin
 extravagance
 extravagantly

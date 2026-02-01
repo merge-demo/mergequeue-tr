@@ -8087,7 +8087,6 @@ amphide
 alforja
 alfreda
 alfenide
-alfresco
 asianic
 ampelidaceae
 asymptotically
@@ -8609,6 +8608,7 @@ aegagropiles
 allassotonic
 alleviations
 allatrate
+alfresco
 abaction
 autosuggestibility
 antimedicine
