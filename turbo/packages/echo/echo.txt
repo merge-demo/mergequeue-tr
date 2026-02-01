@@ -2166,7 +2166,6 @@ elbows
 explores
 everywoman
 elfishness
-excommunication
 elcaja
 eld
 epimeritic
@@ -13862,6 +13861,7 @@ elaeothesia
 extraversively
 eyesores
 extracosmical
+excommunication
 ethnozoological
 equipotentiality
 endotropic
