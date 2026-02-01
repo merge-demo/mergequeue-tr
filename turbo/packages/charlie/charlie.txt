@@ -9324,7 +9324,6 @@ catamarans
 crossbarring
 chaus
 cabbalistical
-cataian
 cyclamin
 constatory
 carpenterworm
@@ -14111,6 +14110,7 @@ canioned
 colanders
 connexion
 circularization
+cataian
 chartology
 conversably
 circularizes
