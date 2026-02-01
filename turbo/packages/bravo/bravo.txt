@@ -13595,7 +13595,6 @@ bismutosmaltite
 berapt
 ballroom
 bobbysocks
-bearded
 bivane
 boughy
 bijugate
@@ -14551,6 +14550,7 @@ branchiness
 butterburr
 blockage
 braziery
+bearded
 blackcurrant
 betrail
 branchiogenous
