@@ -1436,7 +1436,6 @@ boun
 balestra
 batoneer
 bouffants
-bops
 bedazzled
 bureaucratical
 bedye
@@ -5402,6 +5401,7 @@ begrown
 begrudge
 boggishness
 branchiopodous
+bops
 begruntle
 biographical
 begrutten
