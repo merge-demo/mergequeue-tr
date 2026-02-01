@@ -996,6 +996,7 @@ cheesed
 cordyl
 celiomyodynia
 calamity
+cognac
 candy
 cash
 calamostachys
@@ -18344,7 +18345,6 @@ conformers
 cogmen
 chenevixite
 conterminant
-cognac
 curdier
 crookeries
 centime
