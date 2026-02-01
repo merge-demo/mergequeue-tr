@@ -8054,7 +8054,6 @@ granivore
 gasconader
 gybes
 glandularly
-gasiform
 gribane
 gamone
 gaiters
@@ -9065,6 +9064,7 @@ giraffa
 garishness
 gherkin
 gentlehood
+gasiform
 grinch
 goldwork
 geoid
