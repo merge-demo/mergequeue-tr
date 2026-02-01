@@ -9998,7 +9998,6 @@ clanjamfray
 chernites
 chernomorish
 cooried
-chernozem
 cyclarthrosis
 cuprammonia
 cherokee
@@ -24362,6 +24361,7 @@ cooled
 changepocket
 crosshairs
 cavally
+chernozem
 cooley
 capitatum
 cirsotome
