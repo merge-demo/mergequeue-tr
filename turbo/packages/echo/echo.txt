@@ -3794,6 +3794,7 @@ eyewater
 electroneutral
 eclaircise
 epilogs
+electives
 estonia
 entrusts
 emeers
@@ -9473,7 +9474,6 @@ ethylsulphuric
 embanks
 estudy
 entocoel
-electives
 eliquation
 extenuative
 exsculp
