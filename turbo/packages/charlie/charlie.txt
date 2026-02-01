@@ -19666,6 +19666,7 @@ combat
 criminal
 combatable
 crawled
+coshes
 chroma
 chrismale
 combatant
@@ -26045,7 +26046,6 @@ cupreine
 coshery
 coshers
 cholralosed
-coshes
 coshing
 cosy
 caulicule
