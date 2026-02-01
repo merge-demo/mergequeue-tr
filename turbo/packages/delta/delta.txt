@@ -4076,7 +4076,6 @@ dishonourably
 dorsicolumn
 dybbuks
 delineated
-delineating
 dodgasted
 died
 decodes
@@ -16211,6 +16210,7 @@ dextroamphetamine
 dermatotherapy
 dowsets
 densitometer
+delineating
 dowitchers
 determinedness
 demagogs
