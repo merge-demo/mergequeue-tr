@@ -11790,6 +11790,7 @@ backed
 bobstays
 berreaving
 bobtail
+bolder
 bobtailed
 bothria
 bobwhites
@@ -15740,7 +15741,6 @@ broadsword
 bamangwato
 bromethyl
 betorcin
-bolder
 besuit
 blithesomeness
 brocardic

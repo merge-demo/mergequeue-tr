@@ -10465,6 +10465,7 @@ entities
 etiquette
 entocranial
 erectilities
+edestosaurus
 etiquettical
 etna
 effortful
@@ -13785,7 +13786,6 @@ extispicious
 extoling
 epitympanum
 edingtonite
-edestosaurus
 epiphysary
 enserfing
 ecorch
