@@ -9608,6 +9608,7 @@ antepileptic
 amuse
 antecommunion
 aspersors
+acoelous
 altruists
 altun
 alimentary
@@ -10538,7 +10539,6 @@ amidation
 aliofar
 amide
 amidide
-acoelous
 adscript
 amidins
 anneal
