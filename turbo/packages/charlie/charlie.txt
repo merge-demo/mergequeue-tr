@@ -4140,6 +4140,7 @@ cardiographic
 creels
 cardiographies
 cardiohepatic
+chevesne
 cardioid
 courche
 calandrinia
@@ -5754,7 +5755,6 @@ citharoedic
 catechised
 criminalistician
 chumming
-chevesne
 crotches
 calibred
 codicillary
