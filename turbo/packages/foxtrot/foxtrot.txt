@@ -612,6 +612,7 @@ frighter
 fragaria
 flocculous
 fragrances
+fawnskin
 fleshes
 forehand
 folly
@@ -11716,7 +11717,6 @@ ferruled
 foredesign
 fosslology
 flighty
-fawnskin
 folkland
 fados
 fantastically
