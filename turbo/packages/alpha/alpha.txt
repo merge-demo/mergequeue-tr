@@ -2916,6 +2916,7 @@ alienist
 across
 aubrietas
 alvus
+aplacentalia
 allege
 ameristic
 alice
@@ -7427,7 +7428,6 @@ albinisms
 abbot
 arthrodiae
 antara
-aplacentalia
 albinotic
 antitypic
 apronful
