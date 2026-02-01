@@ -1146,7 +1146,6 @@ gantlet
 grocer
 gled
 gantleted
-gripier
 grouses
 gery
 goninidia
@@ -7893,6 +7892,7 @@ guruships
 geotic
 germanically
 gummy
+gripier
 geophagia
 generalist
 gouged
