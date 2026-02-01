@@ -7307,6 +7307,7 @@ ephah
 enact
 each
 enwood
+exp
 electrooptics
 escaping
 epanisognathism
@@ -9782,7 +9783,6 @@ empoisoner
 embitterment
 embracive
 explaining
-exp
 electrizer
 essoined
 embolemia

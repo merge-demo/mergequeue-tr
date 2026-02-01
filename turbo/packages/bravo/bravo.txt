@@ -1802,6 +1802,7 @@ bilanders
 brachman
 burdie
 bamboula
+bandied
 banterer
 boswellized
 bowmen
@@ -1891,7 +1892,6 @@ bandidos
 baronetizing
 bushie
 bandie
-bandied
 bilinear
 batrachoplasty
 biparty
