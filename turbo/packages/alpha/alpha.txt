@@ -17175,6 +17175,7 @@ apollonic
 antalkaline
 apology
 apologiae
+adjudicate
 asarone
 adenogenesis
 affreightment
@@ -25259,7 +25260,6 @@ asclepiadeous
 aphasiology
 azygobranchiate
 allemontite
-adjudicate
 argala
 azygote
 armfuls
