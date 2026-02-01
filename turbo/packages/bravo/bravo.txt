@@ -403,7 +403,6 @@ brachyurus
 baht
 bullocky
 beri
-ballium
 broguish
 bodonid
 butterball
@@ -9112,6 +9111,7 @@ basking
 bipectinated
 biopotential
 biopsy
+ballium
 biopsic
 bailliage
 byssaceous
