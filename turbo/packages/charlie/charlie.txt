@@ -4944,7 +4944,6 @@ coulometry
 cartist
 cartloads
 clicket
-cartmaking
 cartobibliography
 columbia
 cartogram
@@ -5658,6 +5657,7 @@ catarrhina
 charlie
 catarrhous
 catarrhs
+cartmaking
 coburgher
 catasarka
 catasetum
