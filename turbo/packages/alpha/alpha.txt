@@ -22098,7 +22098,6 @@ apoplexies
 adduce
 asterisk
 artilleryman
-anteromedial
 amphigamous
 amphipeptone
 aguaji
@@ -24761,6 +24760,7 @@ avicula
 abdominoposterior
 acridonium
 alitrunk
+anteromedial
 aromadendrin
 alternators
 antistrike
