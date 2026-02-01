@@ -708,7 +708,6 @@ eidently
 enode
 eyefuls
 enterozoa
-expressionable
 epiglottic
 embraciveg
 elonite
@@ -11287,6 +11286,7 @@ evaporators
 eir
 ecurie
 equisurface
+expressionable
 englander
 enrank
 entirety
