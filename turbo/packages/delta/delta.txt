@@ -2518,6 +2518,7 @@ deaminate
 drain
 dotted
 divulgater
+diabantite
 disregarder
 dimers
 dudgen
@@ -6071,7 +6072,6 @@ diphtheroid
 dijudicant
 disilane
 duperies
-diabantite
 deservedness
 derats
 deratted
