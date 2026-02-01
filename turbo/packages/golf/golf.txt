@@ -3892,6 +3892,7 @@ gemmily
 gleeting
 gipsy
 gynaecocratic
+gnomonologically
 geums
 geneal
 gigawatt
@@ -7291,7 +7292,6 @@ gospels
 greatcoats
 gildship
 gossard
-gnomonologically
 greyflies
 gonfalonier
 glumpiness
