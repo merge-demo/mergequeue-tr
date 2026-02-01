@@ -6697,7 +6697,6 @@ entertake
 exstimulate
 exhumed
 engraphia
-eonism
 eloining
 exstill
 entete
@@ -11175,6 +11174,7 @@ elver
 extatic
 evanescible
 evanescing
+eonism
 exorbitancy
 expilation
 exostracism
