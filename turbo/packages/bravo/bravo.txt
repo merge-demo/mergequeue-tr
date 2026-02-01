@@ -12656,7 +12656,6 @@ bonze
 butterhead
 bonzer
 betattered
-betided
 belluine
 bushgoats
 bewrite
@@ -15872,6 +15871,7 @@ barrows
 besomer
 blite
 borrelia
+betided
 beelol
 bratticer
 benaming
