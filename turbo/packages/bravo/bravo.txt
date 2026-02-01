@@ -7608,7 +7608,6 @@ bastardize
 bloodripe
 begiggle
 barnacle
-bimestrial
 biplicate
 bleater
 burele
@@ -13501,6 +13500,7 @@ basementward
 bebouldered
 bandoliered
 barbaloin
+bimestrial
 blennotorrhea
 brotherton
 becomes
