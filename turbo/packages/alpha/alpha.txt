@@ -8648,7 +8648,6 @@ absentment
 allegoriser
 anotto
 aeolomelodicon
-austenite
 applauded
 ampelosicyos
 adjudicatory
@@ -20978,6 +20977,7 @@ ascarids
 adjectivism
 alpinist
 agog
+austenite
 ascelli
 ascellus
 ascend
