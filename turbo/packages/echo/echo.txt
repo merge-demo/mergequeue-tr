@@ -1036,7 +1036,6 @@ entreasure
 endoskeleton
 eqpt
 edgar
-expatiatory
 edgeboned
 eringos
 eagerly
@@ -3680,6 +3679,7 @@ encolpion
 exomion
 excogitates
 emaciated
+expatiatory
 erythrons
 enwheel
 everse
