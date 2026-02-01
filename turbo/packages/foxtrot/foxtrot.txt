@@ -4923,6 +4923,7 @@ funtumia
 fevertwitch
 fraunch
 flameout
+foreshortened
 farthermost
 foreappoint
 fourflushers
@@ -7917,7 +7918,6 @@ fluidifier
 formoxime
 fluorometry
 filicidal
-foreshortened
 fenerate
 fozier
 foreshot
