@@ -22975,7 +22975,6 @@ consistently
 consistible
 consisting
 cent
-consistorial
 corydon
 consistorian
 consistories
@@ -27317,6 +27316,7 @@ coupons
 coups
 chemicking
 comodo
+consistorial
 circumciser
 coupstick
 coupure
