@@ -9290,7 +9290,6 @@ detersive
 depletable
 diluvions
 depilation
-dietrichite
 duvetine
 dyeware
 delisted
@@ -18020,6 +18019,7 @@ doroscentral
 dispatching
 damping
 dulcitude
+dietrichite
 dacryocystalgia
 duteous
 desmoneoplasm
