@@ -24328,7 +24328,6 @@ coarrange
 cookeite
 cooker
 cookeries
-cookhouse
 cyclopia
 currawang
 cookhouses
@@ -31225,6 +31224,7 @@ carlines
 cupulate
 crosslets
 cupule
+cookhouse
 ceratophyte
 ceramicists
 cupules
