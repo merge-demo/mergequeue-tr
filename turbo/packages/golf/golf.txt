@@ -781,7 +781,6 @@ greenhorns
 galliformes
 ginneries
 goose
-gies
 genuclast
 gracefullest
 geologised
@@ -8516,6 +8515,7 @@ gigsmen
 girliness
 grallatory
 gravette
+gies
 gaufrette
 garni
 grasscutter

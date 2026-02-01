@@ -978,7 +978,6 @@ forride
 fulgorid
 fictionization
 fardel
-flannelmouth
 foxhound
 fusion
 fardelet
@@ -2277,6 +2276,7 @@ feuterer
 fashionless
 filicales
 formulable
+flannelmouth
 flotation
 fistulizing
 fenestrae
