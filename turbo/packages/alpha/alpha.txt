@@ -9381,6 +9381,7 @@ antiprotease
 anguishful
 acrophonically
 austringer
+andamento
 alphamerically
 archtyrant
 approachers
@@ -17885,7 +17886,6 @@ aerologies
 anaclisis
 artfulness
 aceship
-andamento
 amblers
 acquired
 apprehending
