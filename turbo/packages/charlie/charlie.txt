@@ -2567,7 +2567,6 @@ conners
 candlewicks
 complementative
 candlewright
-candling
 cynically
 campaniles
 candollea
@@ -6554,6 +6553,7 @@ calamitoid
 cdf
 carid
 cheroot
+candling
 cdg
 cdr
 cesspool
