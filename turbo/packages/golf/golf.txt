@@ -624,6 +624,7 @@ gestic
 gradatory
 guenepe
 guideline
+galvanist
 gramineal
 geodetic
 genarchship
@@ -1341,7 +1342,6 @@ growingupness
 garlandless
 guillotiner
 greenalite
-galvanist
 geoside
 glomerulus
 galloner
