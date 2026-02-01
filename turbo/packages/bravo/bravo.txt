@@ -1700,7 +1700,6 @@ bagnios
 besottingly
 bowsing
 balneology
-breechesless
 balneological
 blasphemous
 bestializing
@@ -2324,6 +2323,7 @@ bromidic
 botryomyces
 betokened
 budgerygah
+breechesless
 bebite
 barbariousness
 burgling

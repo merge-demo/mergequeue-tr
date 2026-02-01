@@ -4719,6 +4719,7 @@ gotta
 gomeril
 galleta
 genarch
+gameness
 glar
 gypsy
 givingness
@@ -8297,7 +8298,6 @@ giansar
 glaciated
 ghostwritten
 geomagnetics
-gameness
 gentes
 greeneries
 gladness
