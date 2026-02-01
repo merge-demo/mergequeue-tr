@@ -4399,6 +4399,7 @@ fishiness
 fraxin
 fluigramme
 frogwort
+felstone
 frenghi
 fraiser
 fei
@@ -10260,7 +10261,6 @@ filum
 felons
 fistinut
 frolic
-felstone
 fermentation
 forensics
 fistulatome
