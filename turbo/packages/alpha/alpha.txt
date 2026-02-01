@@ -2075,6 +2075,7 @@ anhalonidine
 andantini
 acheron
 apostematous
+atmologic
 acheronian
 asdics
 antiplastic
@@ -22817,7 +22818,6 @@ atmolysis
 atmolyzation
 atmolyze
 atonality
-atmologic
 anisotropous
 alterability
 albopannin
