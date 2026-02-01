@@ -13557,6 +13557,7 @@ carbuncles
 convectively
 cote
 cimbrian
+curacaos
 cotsetle
 conferted
 cimbric
@@ -31247,7 +31248,6 @@ curable
 curableness
 cotyloidal
 coverlid
-curacaos
 coracler
 classification
 curace
