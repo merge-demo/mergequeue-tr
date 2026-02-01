@@ -29,7 +29,6 @@ dabs
 deutonymphal
 dabsters
 desalinates
-disgeneric
 dachas
 dachshund
 dachshunds
@@ -12582,6 +12581,7 @@ denominators
 disintegrator
 deifications
 disintegrators
+disgeneric
 dextrer
 disintegrity
 demurrages
