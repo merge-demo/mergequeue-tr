@@ -2944,7 +2944,6 @@ gusts
 gaddang
 guilt
 gurkha
-gollop
 guapilla
 gibes
 gastroenterostomy
@@ -5456,6 +5455,7 @@ gentian
 gloams
 granadillo
 grudgeons
+gollop
 greencoat
 gangling
 glob
