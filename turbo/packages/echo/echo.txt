@@ -145,6 +145,7 @@ expurgations
 etymons
 euphausiidae
 examining
+endlong
 enchylema
 enzygotic
 emargination
@@ -14193,7 +14194,6 @@ enterococci
 ectosome
 esthetics
 epulation
-endlong
 equidistance
 exuscitate
 estrif
