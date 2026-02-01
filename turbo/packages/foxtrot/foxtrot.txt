@@ -6583,6 +6583,7 @@ fractocumulus
 fireweeds
 fairgrass
 fruitery
+fellmongering
 funds
 fancymonger
 fatuousness
@@ -10717,7 +10718,6 @@ fartlek
 fortran
 forelaid
 fil
-fellmongering
 fingerwise
 flavedo
 frutescence
