@@ -4742,7 +4742,6 @@ cuestas
 conscient
 cartwrighting
 carpocarpal
-countersinking
 cimier
 convecting
 choriocarcinoma
@@ -7457,6 +7456,7 @@ clinically
 cardamoms
 ceria
 ceratophyllaceous
+countersinking
 crinch
 ceratophyllum
 colocephalous
