@@ -6094,7 +6094,6 @@ aminopeptidase
 aminocaproic
 airproofed
 apothegmatic
-anostosis
 axumite
 availment
 abulia
@@ -19418,6 +19417,7 @@ allicins
 arkie
 allowance
 auspicating
+anostosis
 argentin
 anglicanism
 antidemocratical
