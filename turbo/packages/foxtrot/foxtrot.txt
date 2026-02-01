@@ -4789,6 +4789,7 @@ falsen
 forties
 footbath
 frostbiter
+foggy
 fibrinuria
 fumish
 fracticipita
@@ -9856,7 +9857,6 @@ fiduciarily
 feterita
 fluviomarine
 fosh
-foggy
 fibroneuroma
 felinophobe
 frickle
