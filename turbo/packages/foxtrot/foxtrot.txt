@@ -8308,6 +8308,7 @@ feely
 filmcards
 forkedness
 folderol
+frumpish
 feastful
 fewsome
 forbidden
@@ -8665,7 +8666,6 @@ fortifiers
 firebrat
 frows
 flaxwench
-frumpish
 faunology
 fosset
 fid
