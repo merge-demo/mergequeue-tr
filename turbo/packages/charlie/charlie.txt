@@ -3552,6 +3552,7 @@ captive
 caucus
 calvarias
 captives
+cembali
 comatulae
 captor
 capturable
@@ -9377,7 +9378,6 @@ comitative
 cpl
 chawers
 combinement
-cembali
 chawing
 chawk
 clipsheet
