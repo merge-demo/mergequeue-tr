@@ -1779,6 +1779,7 @@ abbreviature
 agalloch
 astigmia
 agoniada
+aniseikonia
 aceldamas
 aquake
 absorptively
@@ -14368,7 +14369,6 @@ antinovels
 anthol
 anodes
 antireaction
-aniseikonia
 antholite
 anthological
 anthologically
