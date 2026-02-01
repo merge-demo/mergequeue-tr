@@ -3338,6 +3338,7 @@ calabash
 caponise
 corslets
 captivate
+clearcole
 chrystocrene
 caponising
 camaldolensian
@@ -15756,7 +15757,6 @@ clearable
 clearance
 clearances
 commensurately
-clearcole
 clearedness
 clearheadedly
 cardcases
