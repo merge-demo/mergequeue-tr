@@ -1189,6 +1189,7 @@ estimation
 eroded
 elenge
 entirities
+esthiomenus
 espathate
 enlute
 educationist
@@ -1653,7 +1654,6 @@ eiders
 epilemmal
 eidograph
 eclogues
-esthiomenus
 eases
 eligent
 elboic
