@@ -8416,6 +8416,7 @@ foxes
 formations
 furcellate
 fanner
+frigoric
 fatbrained
 formazan
 fitout
@@ -9969,7 +9970,6 @@ frigolabile
 fumigate
 frisson
 feloniousness
-frigoric
 foun
 futureless
 fibroid
