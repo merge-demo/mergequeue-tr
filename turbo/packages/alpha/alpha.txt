@@ -7180,6 +7180,7 @@ aphizog
 alabastrian
 alabastrine
 aortographic
+acutish
 ascenders
 awane
 apogees
@@ -18625,7 +18626,6 @@ arch
 anteriorness
 arolium
 antiarrhythmic
-acutish
 archaeocyathidae
 automate
 agropyron
