@@ -1761,7 +1761,6 @@ eyeservant
 eyeshade
 enticingness
 euglenales
-echinital
 evitation
 everliving
 euphonous
@@ -5918,6 +5917,7 @@ endobronchially
 exhilaration
 ergoism
 enhelm
+echinital
 elysia
 espalier
 effluviography
