@@ -10990,7 +10990,6 @@ contraposita
 chiropterygian
 chiropterite
 chiros
-chirospasm
 chirotherian
 casern
 corrals
@@ -19813,6 +19812,7 @@ catachresti
 condescendingness
 chinchilla
 comestible
+chirospasm
 cringles
 cradlesong
 cyclostrophic
