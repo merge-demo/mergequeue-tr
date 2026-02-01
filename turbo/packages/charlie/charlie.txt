@@ -4968,7 +4968,6 @@ cassettes
 cudweed
 cartouche
 curmudgeon
-cust
 costrel
 chiclero
 canalman
@@ -22640,6 +22639,7 @@ connotate
 connotation
 ceratitoid
 connotations
+cust
 connotative
 connotatively
 counterextend
