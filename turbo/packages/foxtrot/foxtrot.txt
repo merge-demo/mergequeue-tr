@@ -8785,6 +8785,7 @@ fictile
 fossilogy
 firmest
 fettstein
+frigidarium
 fieldwork
 fossorious
 fossulae
@@ -11436,7 +11437,6 @@ founte
 fortunetell
 fallibleness
 formfeed
-frigidarium
 fiducially
 fluviose
 falteringly
