@@ -1828,6 +1828,7 @@ groupage
 gasparillo
 grasses
 glutenous
+gates
 generalcies
 gemmules
 gousty
@@ -8673,7 +8674,6 @@ gavelling
 grammars
 gearing
 gastraeal
-gates
 gnathonical
 gastrodisc
 growler
