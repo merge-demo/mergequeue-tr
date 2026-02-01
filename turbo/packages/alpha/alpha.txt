@@ -1517,6 +1517,7 @@ accompanies
 accompanyist
 asperggilla
 abtruse
+antivivisection
 aminotransferase
 aphasiac
 accompanimental
@@ -24372,7 +24373,6 @@ arksutite
 apothec
 autoscope
 autoscopic
-antivivisection
 apparentation
 antagonise
 autosight
