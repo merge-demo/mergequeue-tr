@@ -2502,6 +2502,7 @@ bultow
 bruting
 blurriest
 bandelet
+ballarag
 barfish
 beetmister
 buckraming
@@ -13684,7 +13685,6 @@ bondholder
 billboard
 bevelment
 bourasque
-ballarag
 belander
 birred
 blames
