@@ -122,7 +122,6 @@ gadolinia
 gaugers
 gardenership
 grosz
-genotypicity
 goatfish
 gadroon
 giher
@@ -6711,6 +6710,7 @@ graybeards
 ganev
 goodyship
 garvanzo
+genotypicity
 gastronomics
 ganocephala
 gonionia
