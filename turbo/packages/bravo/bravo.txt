@@ -13217,7 +13217,6 @@ bewit
 bedrenches
 bose
 boselaphus
-bruskness
 bannockburn
 blaoners
 blackboy
@@ -16885,6 +16884,7 @@ buffooneries
 benzoxycamphor
 balancelle
 biotechnologies
+bruskness
 blended
 bichromatic
 bathysophic
