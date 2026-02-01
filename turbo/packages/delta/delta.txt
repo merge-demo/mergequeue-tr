@@ -1303,7 +1303,6 @@ dobsons
 dinitro
 densified
 dryermen
-declinate
 denunciatively
 drawnness
 disfranchisements
@@ -13847,6 +13846,7 @@ delectation
 downtroddenness
 driftier
 distasteful
+declinate
 disappointment
 dirties
 defoliated
