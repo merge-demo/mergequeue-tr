@@ -145,6 +145,7 @@ falls
 fulfillers
 fibbery
 factionalism
+fixate
 factualness
 fullbodied
 freezers
@@ -4880,7 +4881,6 @@ flakiest
 forged
 flambeau
 foamier
-fixate
 fossilist
 finisher
 flatterer
