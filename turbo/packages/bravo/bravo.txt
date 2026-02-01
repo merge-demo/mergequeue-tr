@@ -4758,6 +4758,7 @@ bibliogenesis
 bedewing
 bloomeria
 blennorrhinia
+bondager
 bedlamized
 bedlamizing
 bandlimited
@@ -14591,7 +14592,6 @@ brandy
 brosy
 bitty
 bambos
-bondager
 brandied
 bacis
 blatterer
