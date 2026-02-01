@@ -291,6 +291,7 @@ day
 distributed
 dak
 dayabhaga
+dragoonade
 dreed
 demisheath
 dayanim
@@ -11869,7 +11870,6 @@ doux
 deathblow
 dehypnotized
 dingled
-dragoonade
 daguerreotypic
 disdein
 dardani
