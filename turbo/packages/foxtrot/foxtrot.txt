@@ -5245,7 +5245,6 @@ fieldy
 flavourless
 funned
 flavourous
-flockier
 fideicommissa
 frostbird
 fockle
@@ -9660,6 +9659,7 @@ freedmen
 filch
 filosofe
 fanit
+flockier
 forfending
 flied
 femes
