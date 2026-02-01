@@ -9493,6 +9493,7 @@ escot
 endbrain
 eogaean
 euryalean
+exurge
 enghosted
 exequial
 excurved
@@ -10063,7 +10064,6 @@ ethanediol
 erianthus
 ethanedithiol
 epicoeloma
-exurge
 encumbered
 export
 envenoming
