@@ -5313,6 +5313,7 @@ fusillade
 faintheart
 fleabags
 fireclay
+fibromatosis
 fluorites
 feoffee
 fleadock
@@ -6914,7 +6915,6 @@ flub
 ferthumlungur
 fobbing
 fumarase
-fibromatosis
 fauconnier
 ferrocyanic
 flighter
