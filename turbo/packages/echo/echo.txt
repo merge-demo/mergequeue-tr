@@ -3094,7 +3094,6 @@ esemplastic
 enolic
 ethiopian
 ellipticity
-extemporize
 elliptograph
 esprise
 elliptoid
@@ -5282,6 +5281,7 @@ enchantress
 emendating
 effector
 endorsees
+extemporize
 emeriti
 epicoracoidal
 eustachium
