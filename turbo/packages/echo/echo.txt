@@ -4647,7 +4647,6 @@ enterobacterium
 epidermophyton
 enchorial
 echinoderm
-evolve
 eremiteship
 enchoric
 extraterritorials
@@ -10678,6 +10677,7 @@ effetmen
 enveloper
 extirpatory
 electrotelegraphy
+evolve
 eva
 euglenaceae
 extrasyllabic
