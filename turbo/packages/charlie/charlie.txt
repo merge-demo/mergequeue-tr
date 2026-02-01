@@ -3092,7 +3092,6 @@ capabler
 capably
 cerecloth
 capacify
-cowpat
 centare
 contrabandist
 capacious
@@ -3798,6 +3797,7 @@ chalkier
 chorioid
 cacochymical
 carbohydride
+cowpat
 carbohydrogen
 carboy
 celestes
