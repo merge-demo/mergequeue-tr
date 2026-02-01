@@ -11449,6 +11449,7 @@ earned
 evidences
 ethereous
 eutechnics
+endosperm
 englerophoenix
 epifaunas
 ecphonesis
@@ -11846,7 +11847,6 @@ eructated
 extancy
 elutes
 exceeded
-endosperm
 excelente
 evanescent
 excellencies
