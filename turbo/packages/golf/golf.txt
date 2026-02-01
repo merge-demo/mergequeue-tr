@@ -3747,7 +3747,6 @@ gaffing
 greenhew
 goffers
 geodetics
-glucke
 gnostical
 galliass
 grungier
@@ -4710,6 +4709,7 @@ gelidly
 gametophyll
 gesticulates
 goosegirl
+glucke
 glene
 gilbertite
 gnathites
