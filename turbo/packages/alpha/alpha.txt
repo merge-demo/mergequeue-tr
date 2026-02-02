@@ -5799,6 +5799,7 @@ ancestor
 agate
 agates
 autoturning
+advocate
 appal
 aquatinter
 adducent
@@ -13301,7 +13302,6 @@ assailing
 arctosis
 asnort
 anisodactylic
-advocate
 axilemma
 anisogametes
 abruptly
