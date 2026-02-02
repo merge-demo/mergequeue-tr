@@ -1256,7 +1256,6 @@ ganomalite
 garbler
 gradings
 golliwogg
-greasers
 galliardly
 guenon
 gapper
@@ -2293,6 +2292,7 @@ grange
 gunite
 granulosa
 gynarchy
+greasers
 galante
 gumihan
 gestant
