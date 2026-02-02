@@ -2929,7 +2929,6 @@ autotuberculin
 acrostic
 accidentiality
 anacromyodian
-armamentary
 advisive
 aerobatics
 albugineous
@@ -9476,6 +9475,7 @@ apicad
 angiosclerotic
 autocinesis
 alterable
+armamentary
 acatery
 alterably
 argas
