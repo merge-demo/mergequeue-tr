@@ -18494,7 +18494,6 @@ arbitrariness
 arbitrate
 aquamanile
 arbitration
-arbitrative
 appetent
 acquirements
 aruspices
@@ -24311,6 +24310,7 @@ autopoisonous
 acclimatize
 autopolar
 autopolyploid
+arbitrative
 autopolo
 anomalous
 autopoloist
