@@ -3799,6 +3799,7 @@ adiaphon
 autophagia
 antimechanist
 annexable
+astate
 aizoaceous
 acuerdos
 aichmophobia
@@ -20483,7 +20484,6 @@ arteriectopia
 ananda
 arteried
 absey
-astate
 axers
 adjectivally
 antefurcal

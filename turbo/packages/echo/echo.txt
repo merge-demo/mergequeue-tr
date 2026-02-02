@@ -4629,7 +4629,6 @@ enhydrite
 extratensive
 exteriorisation
 erythroxyline
-endarchies
 exuberantness
 elasticizes
 epimerase
@@ -12720,6 +12719,7 @@ exalted
 exophthalmia
 embloom
 epibolism
+endarchies
 exenterating
 exophthalmus
 euonymus
