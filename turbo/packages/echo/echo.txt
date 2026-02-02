@@ -11643,7 +11643,6 @@ enterophthisis
 erotics
 electrophone
 equimomental
-elasmobranch
 electromechanics
 ethnical
 exaestuate
@@ -13512,6 +13511,7 @@ edge
 epifolliculitis
 enzymatically
 ectocondyloid
+elasmobranch
 editing
 etruscologist
 evaporite
