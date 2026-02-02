@@ -5397,6 +5397,7 @@ fledgiest
 floatless
 foisonless
 fabian
+fiftypenny
 forefigure
 furor
 flurt
@@ -6786,7 +6787,6 @@ fragmentizer
 foretold
 fasces
 forger
-fiftypenny
 fireproof
 foliaged
 firetower
