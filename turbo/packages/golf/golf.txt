@@ -6706,7 +6706,6 @@ glycogens
 gaolers
 glaireous
 graybeards
-ganev
 goodyship
 garvanzo
 genotypicity
@@ -8503,6 +8502,7 @@ glycin
 geisha
 graveolent
 gymnoderinae
+ganev
 gozzan
 gramineae
 gulpier
