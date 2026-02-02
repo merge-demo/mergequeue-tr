@@ -9224,7 +9224,6 @@ galeres
 grizzel
 gibingly
 graininess
-glowworm
 grizzly
 gaugeably
 grizzling
@@ -10541,6 +10540,7 @@ grilling
 guillemot
 graverobber
 gimpy
+glowworm
 gambetta
 guayules
 grandmaster
