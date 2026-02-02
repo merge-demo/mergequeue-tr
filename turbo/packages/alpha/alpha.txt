@@ -7430,7 +7430,6 @@ autobahn
 albiness
 affere
 adipose
-argyroneta
 albinic
 antiphrastical
 ananias
@@ -14806,6 +14805,7 @@ anticeremoniousness
 aristocratic
 antichamber
 allogenically
+argyroneta
 archicleistogamy
 anadipsic
 antiscii
