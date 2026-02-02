@@ -5144,6 +5144,7 @@ caseous
 caserios
 cyphering
 caserne
+coulomb
 casernes
 costumery
 caserns
@@ -13320,7 +13321,6 @@ cycloramic
 coaling
 consonantly
 cyclorrhapha
-coulomb
 curatize
 cycloscope
 centuply
