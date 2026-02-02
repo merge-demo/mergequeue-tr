@@ -4897,6 +4897,7 @@ adoors
 archhost
 anticonservative
 arenite
+azotate
 areek
 aerodrome
 aerodromes
@@ -10995,7 +10996,6 @@ assemblers
 amperometric
 amoebeum
 apologize
-azotate
 adrenals
 alb
 attabal
