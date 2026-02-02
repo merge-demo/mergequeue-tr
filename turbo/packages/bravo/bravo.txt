@@ -246,7 +246,6 @@ bachelordom
 bachelorette
 bachelorhood
 bachelorly
-babbishly
 bp
 bifteck
 buckie
@@ -9184,6 +9183,7 @@ beefburger
 bhaktas
 branchial
 bubbybush
+babbishly
 buckone
 barotropy
 banderlog
