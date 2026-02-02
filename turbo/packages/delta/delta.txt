@@ -5706,7 +5706,6 @@ dredged
 drainageway
 dreck
 depones
-deponing
 distributee
 doodler
 dewormed
@@ -11360,6 +11359,7 @@ disquisited
 droopingly
 daidling
 disciplinarians
+deponing
 deemster
 disquieten
 dollie
