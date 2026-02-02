@@ -2572,7 +2572,6 @@ acor
 angelophanic
 acorea
 atomistic
-aecidia
 acorus
 acosmism
 assizing
@@ -8810,6 +8809,7 @@ astatine
 allylthiourea
 allineation
 alloplasmatic
+aecidia
 ayu
 allyou
 antilift
