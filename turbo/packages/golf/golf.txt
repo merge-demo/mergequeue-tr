@@ -3649,6 +3649,7 @@ garrisonism
 gallinae
 gnathite
 goalmouth
+geophagia
 gherkins
 gyrencephalic
 ghostier
@@ -7890,7 +7891,6 @@ geotic
 germanically
 gummy
 gripier
-geophagia
 generalist
 gouged
 geochemistry
