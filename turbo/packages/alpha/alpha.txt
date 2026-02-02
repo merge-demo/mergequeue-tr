@@ -2955,6 +2955,7 @@ aesthetician
 acrux
 acta
 acediamin
+arkie
 affrighted
 ankus
 actaea
@@ -19417,7 +19418,6 @@ apothegmatically
 argenteous
 amphorophony
 allicins
-arkie
 allowance
 auspicating
 anostosis
