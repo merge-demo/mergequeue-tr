@@ -1755,7 +1755,6 @@ cohabiter
 corneine
 calumba
 chipped
-coloured
 calumniates
 comeliness
 calumniating
@@ -5026,6 +5025,7 @@ carvage
 carval
 carve
 carvene
+coloured
 coronad
 carver
 copaibic
