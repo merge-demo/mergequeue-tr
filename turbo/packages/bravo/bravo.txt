@@ -2627,7 +2627,6 @@ bifronted
 balletomane
 bhaiyachara
 borana
-barkey
 bonne
 briers
 barkery
@@ -7583,6 +7582,7 @@ blueprints
 bevomiting
 briefer
 bread
+barkey
 bevvy
 bewailers
 belimousined
