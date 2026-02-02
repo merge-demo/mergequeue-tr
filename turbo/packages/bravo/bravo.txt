@@ -8215,7 +8215,6 @@ benefice
 bathroom
 bienvenue
 bayaderes
-burfish
 bespurred
 bier
 broid
@@ -10744,6 +10743,7 @@ bleeps
 batonne
 blepharoplegia
 bronzine
+burfish
 banksias
 bleymes
 blellums
