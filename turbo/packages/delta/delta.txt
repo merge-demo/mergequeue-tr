@@ -8804,7 +8804,6 @@ depolarizers
 deliberates
 deterring
 drachmas
-dibbled
 degame
 dybbuk
 disfavourable
@@ -10945,6 +10944,7 @@ dictyosiphon
 disaffirmation
 decidedness
 defedation
+dibbled
 dermococcus
 dayberry
 dissyllabising
