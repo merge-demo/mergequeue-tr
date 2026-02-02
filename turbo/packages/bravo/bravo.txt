@@ -13579,7 +13579,6 @@ bopster
 baizing
 bougainvilliidae
 bitangential
-bougar
 bouge
 bochur
 brogued
@@ -15591,6 +15590,7 @@ bilbos
 bination
 barometer
 beavers
+bougar
 burbles
 brewsterite
 barbacan
