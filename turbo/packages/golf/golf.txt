@@ -1163,7 +1163,6 @@ gnetums
 guffin
 gulls
 galliney
-grifters
 grogs
 graftdom
 grift
@@ -7834,6 +7833,7 @@ gynaeocracy
 grovy
 grecomaniac
 gyrostachys
+grifters
 gradualistic
 grimes
 glossematic
