@@ -3324,7 +3324,6 @@ frogfoot
 fractionally
 fidgeted
 fractals
-faultage
 floorers
 frowsiest
 flotsam
@@ -8394,6 +8393,7 @@ felonsetter
 febronian
 fique
 flaucht
+faultage
 fathercraft
 fidelia
 fescues
