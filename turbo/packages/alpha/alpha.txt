@@ -156,7 +156,6 @@ abatised
 alliable
 amine
 alcades
-abaton
 asperggilli
 anhinga
 afear
@@ -17350,6 +17349,7 @@ aumail
 apostatize
 apostaxis
 apostem
+abaton
 anticapital
 armigeral
 acetylsalicylic
