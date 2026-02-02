@@ -11769,6 +11769,7 @@ buzzword
 bobol
 biconvex
 bedamns
+bemoult
 brynza
 bajocian
 breton
@@ -17958,7 +17959,6 @@ blackheartedness
 bolty
 blanket
 brahui
-bemoult
 bushwhacked
 beanball
 boheas
