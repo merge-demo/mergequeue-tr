@@ -21650,7 +21650,6 @@ condylectomy
 condyles
 crimsony
 clubbers
-cariacus
 carbamidine
 condyloma
 condylomatous
@@ -22429,6 +22428,7 @@ conylene
 conrey
 ceric
 calends
+cariacus
 conines
 coning
 cantando
