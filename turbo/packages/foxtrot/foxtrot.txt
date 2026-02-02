@@ -5789,6 +5789,7 @@ flywinch
 fulfils
 flouncey
 footback
+frowsty
 foredone
 filariid
 faunlike
@@ -10902,7 +10903,6 @@ falloffs
 fides
 fulleries
 fleets
-frowsty
 flivver
 fletched
 fullmouthed
