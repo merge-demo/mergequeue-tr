@@ -9610,6 +9610,7 @@ forfoughen
 facsimiles
 fluoborate
 foresides
+fanman
 fathers
 fourths
 floyt
@@ -10510,7 +10511,6 @@ favouringly
 frot
 froth
 formulatory
-fanman
 fluffed
 fittingly
 forays
