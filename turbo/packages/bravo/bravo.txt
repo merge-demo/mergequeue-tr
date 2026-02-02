@@ -5233,6 +5233,7 @@ berating
 bardish
 bacteriostatic
 beggarhood
+bitter
 baboosh
 bergamots
 befurbelowed
@@ -9930,7 +9931,6 @@ brotherly
 bitstock
 beasties
 besmirches
-bitter
 bitterbloom
 bethorns
 beyerite
