@@ -6041,7 +6041,6 @@ calliphorine
 catkinate
 catkins
 curatory
-candify
 catlike
 crowns
 catling
@@ -16196,6 +16195,7 @@ chao
 clinkering
 clinking
 chields
+candify
 concessionaries
 concrfsce
 clinkum
