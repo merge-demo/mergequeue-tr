@@ -3660,7 +3660,6 @@ disburdening
 dehydrate
 dermoneural
 dehydrator
-dhooras
 dehydrating
 diploidies
 depiedmontize
@@ -4465,6 +4464,7 @@ dialyzer
 demiculverin
 dodgiest
 demidistance
+dhooras
 diabetogenic
 downtrend
 discircumspection
