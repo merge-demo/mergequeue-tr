@@ -8890,7 +8890,6 @@ fourble
 frigiddaria
 folktales
 fermental
-faroeish
 flimsily
 favorers
 frenchy
@@ -9615,6 +9614,7 @@ fathers
 fourths
 floyt
 forlese
+faroeish
 freezy
 fubbed
 fromage
