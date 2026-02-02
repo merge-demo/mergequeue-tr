@@ -5274,6 +5274,7 @@ decimalized
 dismissals
 demibombard
 disguising
+defers
 dysteleology
 displant
 deadheadism
@@ -12399,7 +12400,6 @@ diakineses
 dishley
 diamond
 deterrability
-defers
 degrades
 dimerlie
 dialectical
