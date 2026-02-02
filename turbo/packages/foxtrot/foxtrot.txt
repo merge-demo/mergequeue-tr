@@ -3362,6 +3362,7 @@ falern
 fastigate
 forcut
 fopling
+ferruginous
 fossilification
 flappering
 fishermen
@@ -11760,6 +11761,5 @@ fellowred
 femalist
 fulminatory
 fascination
-ferruginous
 fascines
 flocculi
