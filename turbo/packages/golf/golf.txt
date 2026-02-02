@@ -757,7 +757,6 @@ gerim
 gunbearer
 gerkin
 galvanopuncture
-gummaker
 goutwort
 groupings
 gladsomer
@@ -10336,6 +10335,7 @@ gules
 gown
 gonoph
 grot
+gummaker
 glebal
 guarana
 gaums
