@@ -4467,7 +4467,6 @@ dialyzer
 demiculverin
 dodgiest
 demidistance
-diaphane
 diabetogenic
 downtrend
 discircumspection
@@ -15010,6 +15009,7 @@ diagrammatically
 divus
 demirhumb
 doggedness
+diaphane
 demonographer
 dishmaker
 dysmetria
