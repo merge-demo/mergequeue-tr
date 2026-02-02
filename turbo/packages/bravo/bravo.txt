@@ -10502,6 +10502,7 @@ blares
 boongary
 blaring
 bookwise
+barrelhead
 brimborium
 bedeafens
 boatlike
@@ -18006,7 +18007,6 @@ bersiamite
 baryphonic
 breastworks
 businesslikeness
-barrelhead
 brutification
 barbotte
 babbitt
