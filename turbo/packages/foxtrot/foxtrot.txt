@@ -8543,7 +8543,6 @@ fricative
 flexor
 fornix
 fanegada
-forspent
 flocculus
 freehold
 fainters
@@ -8831,6 +8830,7 @@ fling
 fatiloquent
 feedstuff
 forethough
+forspent
 fidation
 feazed
 forepast
