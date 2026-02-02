@@ -5739,6 +5739,7 @@ bebeast
 bemuzzles
 boilingly
 beliefless
+bisymmetrically
 badman
 beliers
 blemishing
@@ -12480,7 +12481,6 @@ barde
 bells
 bescrawl
 booklists
-bisymmetrically
 bicameralism
 budlike
 boohoo
