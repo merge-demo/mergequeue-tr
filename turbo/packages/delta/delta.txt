@@ -8242,6 +8242,7 @@ dizzy
 dulcimore
 draped
 disputableness
+desecrating
 diagonal
 diagonalizable
 diagonalization
@@ -18369,7 +18370,6 @@ downloaded
 duodenocholecystostomy
 duodenocholedochotomy
 decency
-desecrating
 dreamish
 dorse
 denudative
