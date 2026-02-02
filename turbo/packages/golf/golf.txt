@@ -799,6 +799,7 @@ graf
 gimlet
 garrotting
 gelates
+glucosidase
 gastroenteritic
 galluptious
 gambang
@@ -6189,7 +6190,6 @@ gavotting
 galloway
 glycerin
 glue
-glucosidase
 gonne
 greaves
 gaum
