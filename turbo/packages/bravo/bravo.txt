@@ -13881,7 +13881,6 @@ barleybird
 brooch
 biduous
 boathook
-bang
 bowheads
 balr
 beanfeast
@@ -14094,6 +14093,7 @@ bowpot
 baconism
 brachydactylia
 bakehouse
+bang
 bathhouses
 bicuspidate
 brachydactylism
