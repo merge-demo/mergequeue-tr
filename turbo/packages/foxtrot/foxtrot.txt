@@ -9878,6 +9878,7 @@ forgiven
 fastuously
 furnishings
 forcelessness
+freckled
 flintstone
 flitching
 fraghan
@@ -9927,7 +9928,6 @@ feazing
 fossilated
 fantoms
 fumatorium
-freckled
 fa
 fogbow
 frigates
