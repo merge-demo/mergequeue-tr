@@ -8818,6 +8818,7 @@ broker
 binding
 bookkeep
 bindingness
+bors
 breakfasted
 bekissing
 basoche
@@ -13183,7 +13184,6 @@ borrowable
 barocyclonometer
 borrower
 borrowers
-bors
 butteriest
 barded
 belive
