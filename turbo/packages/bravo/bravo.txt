@@ -14990,7 +14990,6 @@ breastwork
 beterschap
 bearwood
 breathability
-baptism
 bilateralism
 browbeat
 begun
@@ -16187,6 +16186,7 @@ bimodal
 bilobate
 ban
 bloodstain
+baptism
 bins
 brotel
 breves
