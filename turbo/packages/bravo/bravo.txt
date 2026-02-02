@@ -9152,6 +9152,7 @@ binominated
 biosynthesize
 benzonitrol
 beclout
+beer
 birds
 bushwhacking
 bistournage
@@ -13473,7 +13474,6 @@ bawdship
 bottlemaker
 burgs
 broilery
-beer
 bleeding
 beforesaid
 bottleman
