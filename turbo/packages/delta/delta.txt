@@ -452,7 +452,6 @@ defensative
 disseats
 deprevation
 daysmen
-dayspring
 disthrall
 daswen
 disdainful
@@ -18592,6 +18591,7 @@ duskness
 dust
 delphian
 dustbins
+dayspring
 dustcart
 devocalisation
 distance
