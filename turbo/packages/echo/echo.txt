@@ -4899,6 +4899,7 @@ endameba
 endamebae
 equiv
 eveck
+electroosmosis
 eudemons
 endamoebas
 endamoebidae
@@ -12487,7 +12488,6 @@ exanthem
 educatory
 enneadic
 electrifying
-electroosmosis
 enomania
 escarbuncle
 erythrophyllin
