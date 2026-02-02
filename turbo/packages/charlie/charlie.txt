@@ -24503,6 +24503,7 @@ copaliferous
 copalite
 copalm
 coparcenar
+crucians
 coparcenary
 cyclopropane
 comic
@@ -30163,7 +30164,6 @@ crucially
 courge
 crucian
 chokidar
-crucians
 cruciately
 cruciating
 costopulmonary
