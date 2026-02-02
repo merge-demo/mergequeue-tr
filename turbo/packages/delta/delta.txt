@@ -2294,7 +2294,6 @@ dewatering
 decentralizing
 distributing
 deicers
-daphne
 defensory
 dismounted
 diagraphs
@@ -10724,6 +10723,7 @@ dhoon
 decessor
 delia
 dipsie
+daphne
 declared
 decarboxylize
 drainspout
