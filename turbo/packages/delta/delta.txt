@@ -5171,6 +5171,7 @@ destructuralize
 denoting
 duplification
 deeping
+dinarchy
 denouement
 denounce
 disputativeness
@@ -17408,7 +17409,6 @@ dropwort
 damlike
 dogeships
 desolative
-dinarchy
 diener
 danged
 droseraceae
