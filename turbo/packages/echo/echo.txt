@@ -2562,6 +2562,7 @@ exenteration
 erucic
 escapeful
 ethchlorvynol
+escarmouche
 everest
 enhaloed
 embryonate
@@ -8468,7 +8469,6 @@ entrants
 emda
 enregiment
 enhemospore
-escarmouche
 electrophotometry
 everness
 epileptoid

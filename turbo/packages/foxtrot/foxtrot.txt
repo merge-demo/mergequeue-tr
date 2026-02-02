@@ -5374,6 +5374,7 @@ fruittime
 forthbringer
 formable
 flecking
+forgoer
 firehouses
 fennel
 friending
@@ -8247,7 +8248,6 @@ frontlets
 forgiving
 flintify
 finableness
-forgoer
 fetas
 flasher
 fetishes
