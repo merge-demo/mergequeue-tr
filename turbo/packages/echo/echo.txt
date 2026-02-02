@@ -8170,6 +8170,7 @@ entomophthoraceae
 eons
 epitendineum
 exergual
+exosmotic
 empowered
 eirene
 executiveship
@@ -12792,7 +12793,6 @@ elsewise
 exortion
 endodontia
 exosmose
-exosmotic
 explicative
 erotize
 ensembles
