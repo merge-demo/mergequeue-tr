@@ -5122,6 +5122,7 @@ fructure
 flasker
 fibrochondritis
 furless
+flaite
 fayed
 fastuousness
 foretooth
@@ -10866,7 +10867,6 @@ forwore
 frondosely
 fabledom
 fulgidity
-flaite
 fantasizing
 footholds
 fallings
