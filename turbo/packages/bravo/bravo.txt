@@ -572,6 +572,7 @@ bib
 backwind
 balladmongering
 burdens
+baloo
 brio
 bucco
 backcasts
@@ -12242,7 +12243,6 @@ blizzardly
 bolo
 bicron
 bogberries
-baloo
 bicarbide
 buckhound
 balustered
