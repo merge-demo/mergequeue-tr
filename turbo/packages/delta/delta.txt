@@ -4940,6 +4940,7 @@ dacoited
 demultiplexers
 disroot
 desexing
+dethronable
 deposed
 dinamode
 decussion
@@ -10972,7 +10973,6 @@ dissevered
 deodorised
 disrelation
 disagreing
-dethronable
 dredges
 dioptroscopy
 demonlike
