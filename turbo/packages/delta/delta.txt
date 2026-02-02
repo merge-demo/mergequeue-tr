@@ -9493,7 +9493,6 @@ digged
 deuterostome
 demonstrational
 dighted
-dighter
 dynamogeny
 dialysers
 demiurge
@@ -12612,6 +12611,7 @@ deodorise
 definitise
 dephase
 disinvagination
+dighter
 deltidia
 deepfroze
 directs
