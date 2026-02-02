@@ -14375,7 +14375,6 @@ antireaction
 antholite
 anthological
 anthologically
-anthologies
 autobiographies
 alberto
 antiphonically
@@ -18780,6 +18779,7 @@ archean
 archearl
 attorneydom
 archebanc
+anthologies
 archebancs
 alkine
 amylocoagulase
