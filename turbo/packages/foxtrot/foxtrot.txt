@@ -624,6 +624,7 @@ frame
 facesaving
 falconelle
 falsifier
+fortnightlies
 frogmouths
 foveolet
 floaty
@@ -8428,7 +8429,6 @@ fortin
 frondesce
 factorized
 formatter
-fortnightlies
 father
 flong
 flunkeyite
