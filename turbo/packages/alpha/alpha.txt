@@ -287,7 +287,6 @@ anolian
 appurtenances
 accuracy
 autotropism
-abdominally
 aeroacoustic
 aguamas
 abdominals
@@ -4617,6 +4616,7 @@ acrock
 antipill
 amreeta
 ailuropoda
+abdominally
 advocacy
 anahao
 afterspeech
