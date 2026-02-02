@@ -4369,6 +4369,7 @@ confidentiality
 cyberneticists
 cobwebbed
 carillonneur
+crayoned
 carillonning
 carillons
 carinae
@@ -17010,7 +17011,6 @@ cnicin
 cnidae
 cnidarian
 cnidian
-crayoned
 cnidoblast
 cobbed
 coexplosion
