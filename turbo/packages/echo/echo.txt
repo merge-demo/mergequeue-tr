@@ -1828,7 +1828,6 @@ enigmatical
 eared
 eighties
 eightieth
-eightling
 edematose
 elychnious
 epidiorite
@@ -11295,6 +11294,7 @@ electrocute
 ecdysons
 epupillate
 enwrap
+eightling
 evaporitic
 enforcively
 evapotranspiration
