@@ -16819,6 +16819,7 @@ abastral
 autotypic
 affamish
 antiunion
+asterospondylous
 aphrodisiacs
 acoumetry
 annule
@@ -20500,7 +20501,6 @@ asg
 anticorrosively
 admov
 aristological
-asterospondylous
 athbash
 arteriocapillary
 arteriogenesis
