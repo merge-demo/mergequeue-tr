@@ -12985,6 +12985,7 @@ depredicate
 dinoceratidae
 disorganization
 dinning
+dissented
 deconsecrating
 disorientate
 dottrel
@@ -13566,7 +13567,6 @@ dichotomising
 dyas
 dissensualize
 dissentation
-dissented
 dissenter
 daemonic
 diastrophy
