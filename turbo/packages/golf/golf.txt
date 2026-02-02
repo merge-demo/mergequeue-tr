@@ -3719,7 +3719,6 @@ grumpishness
 greycoat
 giants
 ghoulishness
-gratifyingly
 glossology
 gouges
 giantship
@@ -5428,6 +5427,7 @@ glisk
 gastruran
 grangerising
 gemmier
+gratifyingly
 gluttery
 glyster
 galumphed
