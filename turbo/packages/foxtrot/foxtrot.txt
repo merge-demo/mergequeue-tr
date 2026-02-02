@@ -5241,7 +5241,6 @@ flot
 fissiped
 fanfares
 flavoured
-fisheye
 fondant
 flavourful
 fieldy
@@ -6587,6 +6586,7 @@ fireweeds
 fairgrass
 fruitery
 fellmongering
+fisheye
 funds
 fancymonger
 fatuousness
