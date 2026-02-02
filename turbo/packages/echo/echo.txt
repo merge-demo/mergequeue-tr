@@ -1543,6 +1543,7 @@ enmeshments
 erotopathy
 excresence
 explication
+enchants
 empaling
 effigiation
 eggnog
@@ -2320,7 +2321,6 @@ escoted
 epicenity
 epically
 effulge
-enchants
 epistroma
 encloses
 electrocardiogram
