@@ -2943,6 +2943,7 @@ enricher
 exploiters
 epagomenal
 evolute
+excursing
 endoplast
 etrogim
 encamped
@@ -11267,7 +11268,6 @@ evaporating
 eviscerating
 endoarteritis
 esophagodynia
-excursing
 endue
 epicureanism
 eliquated
