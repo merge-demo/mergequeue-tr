@@ -12322,7 +12322,6 @@ bomb
 barratrous
 bombacaceae
 bombace
-behang
 bedoctor
 bombardiers
 bisulphite
@@ -16538,6 +16537,7 @@ breathlessly
 babbittism
 buddling
 bangtailed
+behang
 bequeathal
 birr
 bishops
