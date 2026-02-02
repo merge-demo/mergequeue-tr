@@ -2421,7 +2421,6 @@ decimolar
 drainpipe
 diplacusis
 deluminize
-decimole
 dangling
 diparentum
 danization
@@ -8045,6 +8044,7 @@ daftardar
 dhyana
 dhobee
 dhoby
+decimole
 dhobie
 dervishhood
 densher
