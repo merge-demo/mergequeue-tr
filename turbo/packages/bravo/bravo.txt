@@ -3102,7 +3102,6 @@ boneblack
 barksome
 basale
 berascaling
-bathetic
 basalts
 basaltware
 bombiccite
@@ -16918,6 +16917,7 @@ bugaboo
 bugan
 bugbane
 beaume
+bathetic
 bimetallists
 bugbearish
 burdened
