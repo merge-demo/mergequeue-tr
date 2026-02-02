@@ -1218,6 +1218,7 @@ bloop
 byplays
 bakeoven
 blennostatic
+byrrus
 bakeress
 besigh
 bakeries
@@ -3426,7 +3427,6 @@ boehmenism
 bryophytic
 benzalazine
 burghership
-byrrus
 bedsores
 blushing
 bulletmaker
