@@ -3314,6 +3314,7 @@ backpacking
 balche
 baccalaureat
 basiotripsy
+beclamour
 branchway
 boobyism
 bookwork
@@ -10284,7 +10285,6 @@ beparse
 barothermohygrograph
 blacklists
 brainer
-beclamour
 banian
 biune
 backwater
