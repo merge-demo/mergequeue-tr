@@ -722,7 +722,6 @@ duro
 dopester
 diatom
 dyspnoeas
-deadmelt
 danceability
 danceable
 demoniacs
@@ -14256,6 +14255,7 @@ ditchers
 deathwards
 disproportionably
 derivatist
+deadmelt
 diluendo
 ditchless
 ditchwater
