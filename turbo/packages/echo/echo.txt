@@ -3813,7 +3813,6 @@ electrized
 ekerite
 expiratory
 esthetical
-exla
 emparl
 extolled
 engrain
@@ -7862,6 +7861,7 @@ epigrammatizing
 endaortitis
 endonuclease
 erection
+exla
 epilimnia
 epigrams
 entozoan
