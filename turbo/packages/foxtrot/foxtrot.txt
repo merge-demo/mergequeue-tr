@@ -5051,6 +5051,7 @@ fluorescence
 feloness
 faky
 flapping
+fusilading
 fiord
 fessely
 flumps
@@ -5724,7 +5725,6 @@ frontate
 funiculate
 foge
 freckliness
-fusilading
 foehns
 finebent
 finings
