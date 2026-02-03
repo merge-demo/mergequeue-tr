@@ -347,7 +347,6 @@ detrimentally
 daygoing
 desiccation
 daiker
-dcor
 densest
 doorboy
 dailamite
@@ -2705,6 +2704,7 @@ dont
 discounsel
 deedful
 dassy
+dcor
 deductibility
 decoration
 diphygenic
