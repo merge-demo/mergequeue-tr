@@ -95,7 +95,6 @@ baldachins
 babhan
 balafo
 barkened
-beastliest
 bespout
 becked
 babied
@@ -3663,6 +3662,7 @@ blackball
 budded
 bumbleberry
 betacism
+beastliest
 brazenfacedly
 botchery
 billheads
