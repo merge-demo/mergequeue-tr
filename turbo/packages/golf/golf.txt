@@ -3381,6 +3381,7 @@ grains
 greenwing
 gulpiest
 greco
+gittite
 gynaeolatry
 gerontotherapy
 gibraltar
@@ -10437,7 +10438,6 @@ gumly
 gruffs
 gelees
 guaiacs
-gittite
 gastronomically
 gummaking
 gjetost
