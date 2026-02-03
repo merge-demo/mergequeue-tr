@@ -674,6 +674,7 @@ decapitalize
 damped
 desquamated
 dukely
+decard
 deafen
 dipleuric
 dudgeons
@@ -4543,7 +4544,6 @@ dharmasmriti
 disenthrall
 derere
 diastases
-decard
 disorienting
 dellies
 disroof
