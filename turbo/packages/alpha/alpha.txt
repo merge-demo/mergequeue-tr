@@ -11643,7 +11643,6 @@ aeropathy
 autosite
 acicularly
 algebras
-alleged
 antemingent
 andreaeaceae
 advertise
@@ -22524,6 +22523,7 @@ angiospermous
 ataunto
 antelopian
 antivirotic
+alleged
 accessioned
 atavi
 anansi
