@@ -7103,6 +7103,7 @@ demolitions
 dynamometric
 depictor
 deambulate
+disregarded
 dreamers
 desulfurs
 desulphur
@@ -13433,7 +13434,6 @@ dumbheaded
 dimetient
 disregardant
 dorippid
-disregarded
 disregarding
 dingbat
 dropshot
