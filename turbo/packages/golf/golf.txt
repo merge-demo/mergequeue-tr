@@ -6726,6 +6726,7 @@ ganglioside
 gossiping
 geront
 gymnogyps
+gaboons
 geologically
 gazania
 gyrostatics
@@ -7939,7 +7940,6 @@ goma
 gerontophilia
 generativeness
 gangster
-gaboons
 galvanotaxis
 goniatitid
 ghettoize
