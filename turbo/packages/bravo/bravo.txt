@@ -8133,7 +8133,6 @@ breezelike
 bdle
 bendaying
 branches
-byronian
 blooper
 binous
 bracken
@@ -16625,6 +16624,7 @@ beraunite
 buccanned
 bent
 buccanning
+byronian
 blastogeny
 bilaminated
 biometry
