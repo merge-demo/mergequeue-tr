@@ -447,7 +447,6 @@ cactus
 copying
 chancered
 cactuslike
-cinclidotus
 cassavas
 cartages
 catheretic
@@ -754,6 +753,7 @@ cages
 cocoa
 colonelship
 cagester
+cinclidotus
 chromicizing
 cogrediency
 chlornal
