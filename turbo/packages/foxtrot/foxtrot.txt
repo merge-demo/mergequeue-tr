@@ -5131,6 +5131,7 @@ fastuousness
 foretooth
 floccular
 fellifluous
+freezable
 froom
 furoid
 flatlands
@@ -7561,7 +7562,6 @@ flintworker
 frizzes
 foreshadow
 forespeak
-freezable
 fervors
 forgathers
 forril
