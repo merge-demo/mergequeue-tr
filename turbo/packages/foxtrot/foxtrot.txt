@@ -408,6 +408,7 @@ fribbled
 fasciae
 forthon
 flouting
+fusils
 factful
 foredesk
 fusetron
@@ -3042,7 +3043,6 @@ firker
 filtratable
 fairily
 fluorin
-fusils
 filmizing
 forehoof
 frounceless
