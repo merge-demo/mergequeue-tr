@@ -7943,6 +7943,7 @@ epimeres
 electrostenolysis
 epimerism
 enterolithiasis
+essoined
 evangels
 epitomate
 encephalonarcosis
@@ -9781,7 +9782,6 @@ embitterment
 embracive
 explaining
 electrizer
-essoined
 embolemia
 eachwhere
 exfoliated
