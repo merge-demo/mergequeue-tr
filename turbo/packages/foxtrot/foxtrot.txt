@@ -194,6 +194,7 @@ factotum
 felsitic
 ferrihemoglobin
 furloughing
+feower
 furcate
 frasier
 factrix
@@ -2919,7 +2920,6 @@ furloughs
 fungological
 froths
 fevered
-feower
 foliate
 flitchen
 franklinian
