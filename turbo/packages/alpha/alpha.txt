@@ -15005,6 +15005,7 @@ anticorrosiveness
 animose
 anisidino
 alsatia
+autotherapy
 anapophyses
 anterior
 arilli
@@ -20772,7 +20773,6 @@ aplodontia
 amphicrania
 austenitic
 artilleryship
-autotherapy
 artillerist
 aetosaur
 apocarpy
