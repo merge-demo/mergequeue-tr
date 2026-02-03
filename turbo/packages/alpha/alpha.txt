@@ -5381,7 +5381,6 @@ anidiomatic
 adenose
 affronts
 affuse
-acquisitum
 alkarsine
 aefald
 affusion
@@ -18725,6 +18724,7 @@ accusably
 addlebrain
 autocephality
 airmail
+acquisitum
 astonied
 archbishopric
 acroamata
