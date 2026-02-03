@@ -510,6 +510,7 @@ echelle
 exhibitant
 electrosurgeries
 extraphenomenal
+evocated
 estate
 entosphenal
 echeneidae
@@ -5482,7 +5483,6 @@ elasmosaurus
 esterifiable
 epiploic
 energizes
-evocated
 electroscopic
 entwists
 erade
