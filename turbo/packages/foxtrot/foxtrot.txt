@@ -5556,7 +5556,6 @@ flicker
 fixity
 flagginess
 frapler
-floatable
 fiords
 ferfel
 flickermouse
@@ -5733,6 +5732,7 @@ fulth
 flitfold
 flytiers
 fulhams
+floatable
 fpsps
 fornenst
 flutteration
