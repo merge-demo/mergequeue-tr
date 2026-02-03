@@ -770,6 +770,7 @@ badges
 badging
 buddhism
 banksman
+begabled
 bifrost
 badiaga
 bannerman
@@ -5236,7 +5237,6 @@ baboosh
 bergamots
 befurbelowed
 befurred
-begabled
 bowla
 begad
 bedders
