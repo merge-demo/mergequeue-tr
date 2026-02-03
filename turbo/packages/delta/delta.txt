@@ -1801,7 +1801,6 @@ discede
 dwelled
 debarkment
 doohickeys
-debarment
 debarrance
 duryl
 debarring
@@ -17893,6 +17892,7 @@ dillydallies
 debromination
 disgrace
 disburser
+debarment
 deadlocks
 deterministically
 durance

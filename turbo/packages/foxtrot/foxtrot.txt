@@ -2950,6 +2950,7 @@ fewterer
 francophil
 fewtrils
 follower
+fullterm
 francium
 flanned
 freethinker
@@ -6314,7 +6315,6 @@ fontes
 forementioned
 feminality
 flang
-fullterm
 fluoran
 fennish
 fluorane
