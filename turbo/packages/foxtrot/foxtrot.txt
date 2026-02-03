@@ -5472,7 +5472,6 @@ fossed
 fretwork
 forbarred
 fratching
-foraged
 fleshy
 fillet
 ferally
@@ -6624,6 +6623,7 @@ filt
 felonous
 figurism
 foeti
+foraged
 fica
 ferbams
 finewed
