@@ -1646,6 +1646,7 @@ ballots
 ballottement
 backlotter
 bailiffship
+byronic
 baronage
 bahamian
 byelorussians
@@ -9539,7 +9540,6 @@ babingtonite
 biron
 byronesque
 birostrate
-byronic
 binocles
 beirut
 brahmaness
