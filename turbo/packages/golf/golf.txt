@@ -6175,6 +6175,7 @@ glissader
 gregor
 gastrimargy
 guillotinade
+guildic
 gamopetalae
 galactophagist
 glucosamine
@@ -7666,7 +7667,6 @@ gnawed
 granzita
 gypsyesque
 gynostemium
-guildic
 glaringness
 getter
 gaspy
