@@ -6580,6 +6580,7 @@ deperming
 drench
 dreamwhile
 desert
+despiteful
 darkroom
 deescalated
 deacidification
@@ -6919,7 +6920,6 @@ despisingly
 draco
 deaeration
 deperdition
-despiteful
 digs
 daphnia
 dinoflagellate
