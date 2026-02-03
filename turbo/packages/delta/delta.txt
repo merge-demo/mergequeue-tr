@@ -2691,6 +2691,7 @@ desmon
 decor
 debuggers
 decurves
+downbend
 decorable
 deist
 delectable
@@ -10981,7 +10982,6 @@ dowsabels
 disalliege
 deoxidization
 dodona
-downbend
 doorframe
 disallow
 dorneck
