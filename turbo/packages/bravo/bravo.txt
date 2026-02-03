@@ -2668,7 +2668,6 @@ barbitals
 blousons
 barlafummil
 biopsychologist
-boggy
 barleybrake
 broadener
 barleycorn
@@ -6258,6 +6257,7 @@ benisons
 bombay
 benitier
 baguio
+boggy
 benjamin
 benjaminite
 bound
