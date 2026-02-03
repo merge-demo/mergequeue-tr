@@ -3745,6 +3745,7 @@ battler
 battleships
 barrace
 blushiness
+besquirt
 battlesome
 brigantes
 battlestead
@@ -18220,7 +18221,6 @@ beshod
 bourran
 blabbers
 butterfish
-besquirt
 butterpaste
 botching
 blubberingly
