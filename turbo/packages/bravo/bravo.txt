@@ -1022,7 +1022,6 @@ boat
 brushite
 bayamos
 brigand
-bayano
 birlie
 bourdon
 biotope
@@ -9098,6 +9097,7 @@ barky
 butterier
 bisegment
 berrettino
+bayano
 backfire
 biophotophone
 bemire
