@@ -3689,7 +3689,6 @@ fillies
 families
 feetless
 fractionalized
-firedogs
 foalfoot
 forwake
 flaccidities
@@ -8048,6 +8047,7 @@ forejudged
 forenews
 foyboat
 friars
+firedogs
 fulminated
 foveolae
 funkiest
