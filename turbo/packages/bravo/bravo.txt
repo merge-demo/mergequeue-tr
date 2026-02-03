@@ -5192,6 +5192,7 @@ blellum
 buoyage
 befriended
 bellbind
+belfast
 beardfish
 befriender
 benignly
@@ -11735,7 +11736,6 @@ bolivias
 bobbinite
 bobbish
 bais
-belfast
 basidia
 bobcats
 binmen
