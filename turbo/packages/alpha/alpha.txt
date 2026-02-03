@@ -12028,7 +12028,6 @@ adiaphora
 adosculation
 actualistic
 autobahnen
-anapnoic
 anapodeictic
 annihilates
 australopithecus
@@ -12195,6 +12194,7 @@ annet
 anatox
 axed
 anatoxin
+anapnoic
 anthropophysite
 ailie
 auxinic
