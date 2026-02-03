@@ -12572,7 +12572,6 @@ dispersoid
 disfavorer
 diamantoid
 denominators
-disintegrator
 deifications
 disintegrators
 disgeneric
@@ -13058,6 +13057,7 @@ dispatched
 devaster
 diathermance
 duckish
+disintegrator
 disesteeming
 dispatches
 drillings
