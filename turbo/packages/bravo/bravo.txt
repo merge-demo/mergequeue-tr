@@ -4468,6 +4468,7 @@ bestialised
 banting
 bonasus
 bhili
+bumblingness
 beribers
 beclothes
 blushwort
@@ -7788,7 +7789,6 @@ begrudging
 bhungi
 blameableness
 boulangerite
-bumblingness
 blockages
 bacchae
 bill
