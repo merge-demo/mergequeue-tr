@@ -6118,6 +6118,7 @@ gazetteers
 goal
 griffithite
 galactophore
+greenly
 galactolysis
 goniatite
 gigantolite
@@ -10627,7 +10628,6 @@ girns
 glimmerous
 grillades
 gambette
-greenly
 gossipries
 gorebill
 gauntest
