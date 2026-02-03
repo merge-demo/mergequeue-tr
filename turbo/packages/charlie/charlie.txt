@@ -2901,6 +2901,7 @@ clothesmonger
 chalcis
 cantabrian
 cantabrigian
+cuprites
 cantalever
 cantaliver
 catacombs
@@ -31199,7 +31200,6 @@ carriers
 cupressus
 campagus
 custode
-cuprites
 cuproammonium
 cunningly
 crammer
