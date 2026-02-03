@@ -234,7 +234,6 @@ gratiano
 gaiassa
 gelasimus
 guidman
-grandsir
 globalized
 gourinae
 garrons
@@ -9949,6 +9948,7 @@ geocratic
 guarrau
 gogglers
 glegness
+grandsir
 glyptic
 googols
 gipsyfy
