@@ -6644,7 +6644,6 @@ downcurved
 derries
 desyatin
 deaconries
-dubonnets
 desman
 desiderable
 diascopy
@@ -18308,6 +18307,7 @@ draftproof
 dunnish
 dunnite
 dagger
+dubonnets
 dextorsal
 doray
 desmepithelium
