@@ -933,6 +933,7 @@ atomistics
 absolvitor
 aldolize
 alloxy
+anda
 animous
 appeasably
 absonous
@@ -12353,7 +12354,6 @@ ancraophobia
 archpublican
 ancress
 ancresses
-anda
 arborise
 astylospongia
 analog
