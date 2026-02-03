@@ -3235,7 +3235,6 @@ capital
 channeler
 chevronny
 capitaldom
-capitaled
 capitalisable
 capitalised
 capitalising
@@ -31711,6 +31710,7 @@ chondromyxoma
 cesuras
 carbuncled
 cotyloid
+capitaled
 cuspidor
 cephalopodan
 counterapse
