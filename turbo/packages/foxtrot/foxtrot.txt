@@ -5818,6 +5818,7 @@ fertilisable
 fowling
 factorially
 floatsmen
+fraternise
 fluff
 flaxbush
 famelessness
@@ -10345,7 +10346,6 @@ fundungi
 floribunda
 foxinesses
 fosterers
-fraternise
 fomentations
 forrarder
 faithfully
