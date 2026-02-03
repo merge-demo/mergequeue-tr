@@ -5822,6 +5822,7 @@ bibliothecaire
 blueprinted
 beflatter
 brassworker
+borsch
 becrawling
 bromization
 bedlamic
@@ -17238,7 +17239,6 @@ batardeau
 bulten
 bandores
 bromacetate
-borsch
 biltongs
 bulwarked
 blanketers
