@@ -6591,7 +6591,6 @@ bahima
 berberidaceae
 broils
 berberidaceous
-berberis
 brunizem
 bournous
 bagattino
@@ -9783,6 +9782,7 @@ bombylious
 begobs
 barleduc
 bacillus
+berberis
 brichette
 bedridden
 breakages

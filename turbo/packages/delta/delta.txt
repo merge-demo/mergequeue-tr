@@ -8727,7 +8727,6 @@ defocusses
 deescalations
 diatomist
 dover
-dot
 debadge
 diaporesis
 demimonk
@@ -12770,6 +12769,7 @@ disloyalist
 disloyally
 decrepity
 downcomer
+dot
 doored
 disloyalties
 dislove
