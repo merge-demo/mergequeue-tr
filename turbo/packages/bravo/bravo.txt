@@ -10053,7 +10053,6 @@ biverb
 beblear
 bedfast
 breeched
-bivocal
 bossism
 bivocalized
 buffos
@@ -17805,6 +17804,7 @@ bacterizing
 brave
 bronchoplegia
 begani
+bivocal
 bursarial
 butlerage
 blypes
