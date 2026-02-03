@@ -10520,7 +10520,6 @@ derate
 doorsills
 diceratidae
 diazotate
-downturned
 deipotent
 dimpling
 dragonroot
@@ -15324,6 +15323,7 @@ domage
 domainal
 dourines
 dummel
+downturned
 domains
 dativogerundial
 dissimilatory
