@@ -7140,7 +7140,6 @@ furnariidae
 fiendism
 fulvescent
 foothot
-frowstily
 faraon
 fele
 fruitions
@@ -9262,6 +9261,7 @@ forsado
 faulting
 flappers
 forty
+frowstily
 figured
 fresher
 fruticulture
