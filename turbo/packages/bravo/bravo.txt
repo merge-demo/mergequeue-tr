@@ -15716,7 +15716,6 @@ bulbilis
 blowzy
 bands
 bonbonniere
-bogglebo
 barbering
 battarism
 brunonia
@@ -17646,6 +17645,7 @@ blockish
 boris
 britchel
 belady
+bogglebo
 blowier
 barrelfish
 bellipotent

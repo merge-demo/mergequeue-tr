@@ -4554,6 +4554,7 @@ enodation
 euphemized
 epiphytal
 eleazar
+epistaxis
 enchancement
 empeoplement
 enchanted
@@ -8225,7 +8226,6 @@ exonerates
 epilimnionia
 epistatic
 empyrosis
-epistaxis
 epistemically
 extemporising
 enjoyingly
