@@ -15681,7 +15681,6 @@ droving
 detractiveness
 disaffect
 dopper
-dopperbird
 disespouse
 deflorescence
 dopping
@@ -16963,6 +16962,7 @@ domus
 drearing
 drearly
 drearness
+dopperbird
 decimalist
 drecks
 demihorse
