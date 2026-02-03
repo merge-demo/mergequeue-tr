@@ -8803,6 +8803,7 @@ deliberates
 deterring
 drachmas
 degame
+donkeyman
 dybbuk
 disfavourable
 dominantly
@@ -15530,7 +15531,6 @@ dewanny
 disuniformity
 doloriferous
 dedicatee
-donkeyman
 draffman
 drafty
 decahedra
