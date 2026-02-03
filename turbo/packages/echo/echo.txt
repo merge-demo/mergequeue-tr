@@ -6690,7 +6690,6 @@ electrophysics
 endarteritis
 entertainment
 endosepsis
-echimys
 epicenters
 equines
 espaliers
@@ -11338,6 +11337,7 @@ emergers
 extenders
 exigency
 eyoty
+echimys
 ethnohistory
 exotropic
 electrodesiccation
