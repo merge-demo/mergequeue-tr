@@ -11999,7 +11999,6 @@ exclaves
 excavational
 expensed
 eryngium
-everyone
 enterfeat
 exampleship
 essentials
@@ -13876,6 +13875,7 @@ eluated
 enmities
 eyestrings
 epicly
+everyone
 estuant
 eggcups
 engagingness
