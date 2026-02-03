@@ -8239,7 +8239,6 @@ draped
 disputableness
 desecrating
 diagonal
-diagonalizable
 diagonalization
 diagnosing
 duel
@@ -9949,6 +9948,7 @@ dimmer
 defensor
 dasyatidae
 dimness
+diagonalizable
 decisiveness
 dermatographism
 dysacousma
