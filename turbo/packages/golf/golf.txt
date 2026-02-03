@@ -1008,7 +1008,6 @@ galenoid
 gabgab
 generously
 glissette
-glossed
 gordunite
 givers
 gangava
@@ -8384,6 +8383,7 @@ guaiacums
 gonoblastic
 goldonian
 glassweed
+glossed
 guadagnini
 gavottes
 gawked
