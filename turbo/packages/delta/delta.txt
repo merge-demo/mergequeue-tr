@@ -5036,7 +5036,6 @@ dasypygal
 dendrocoele
 dendrocolaptine
 dendroctonus
-degrade
 duplicating
 dendrohyrax
 deneutralization
@@ -12365,6 +12364,7 @@ deigning
 dantist
 decomposing
 disconnective
+degrade
 doweries
 dicarpellary
 dendrophagous
