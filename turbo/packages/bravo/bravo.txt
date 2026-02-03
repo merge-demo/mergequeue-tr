@@ -6881,6 +6881,7 @@ bioluminescent
 bescourge
 buckeroos
 bust
+balls
 bescramble
 bescreen
 barit
@@ -10781,7 +10782,6 @@ brachistocephali
 boney
 byssus
 beaverboard
-balls
 batties
 baalisms
 blennogenous
