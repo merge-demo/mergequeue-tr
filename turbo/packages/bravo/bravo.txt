@@ -5229,7 +5229,6 @@ ballistophobia
 bumpkinet
 berating
 bardish
-bacteriostatic
 beggarhood
 bitter
 baboosh
@@ -13293,6 +13292,7 @@ barrulet
 boulders
 bombesin
 beng
+bacteriostatic
 braciolas
 bowge
 bulldogging
