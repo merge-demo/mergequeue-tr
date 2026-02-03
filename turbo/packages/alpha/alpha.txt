@@ -1714,7 +1714,6 @@ apostatizes
 ayne
 aerobacteriologist
 acier
-alcyoniform
 accuracies
 ada
 accursed
@@ -10651,6 +10650,7 @@ amiidae
 amyl
 ainu
 amylan
+alcyoniform
 aphorismatic
 attomy
 aglyphodontia
