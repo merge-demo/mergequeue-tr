@@ -3582,7 +3582,6 @@ deontological
 degging
 deglamorizing
 doubtlessly
-disrespectfulness
 dreepiness
 deglazed
 discoblastic
@@ -11457,6 +11456,7 @@ doest
 defalcations
 deads
 doffer
+disrespectfulness
 discolorment
 discolouring
 discolourization
