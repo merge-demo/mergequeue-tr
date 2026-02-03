@@ -2225,6 +2225,7 @@ endocytic
 elecives
 electant
 elect
+endocranium
 epitheliulia
 electary
 engrailing
@@ -13245,7 +13246,6 @@ ethize
 explement
 envine
 edacity
-endocranium
 ephebeum
 envisioned
 explicably
