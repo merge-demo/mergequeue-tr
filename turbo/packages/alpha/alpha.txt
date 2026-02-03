@@ -6017,7 +6017,6 @@ alimenation
 alhena
 angelica
 anemophilous
-apparence
 anachronistic
 anticommunistic
 archt
@@ -9542,6 +9541,7 @@ alternatively
 alternativeness
 acaleph
 alternatives
+apparence
 angioblast
 alternifoliate
 alternipetalous
