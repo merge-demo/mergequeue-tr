@@ -5895,7 +5895,6 @@ explees
 ecarinate
 execrators
 entwine
-exaggerativeness
 epitomise
 edeitis
 externalise
@@ -12658,6 +12657,7 @@ ephete
 empyemas
 emissarium
 exogen
+exaggerativeness
 earldom
 esophagostomy
 encratism

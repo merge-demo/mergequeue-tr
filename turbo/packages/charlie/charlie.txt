@@ -7123,7 +7123,6 @@ centralise
 centralised
 convictively
 centralising
-coelosperm
 centrality
 canthi
 conusable
@@ -20616,6 +20615,7 @@ competitor
 competitory
 conjugal
 cascol
+coelosperm
 competitors
 challengee
 competitrix
