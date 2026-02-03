@@ -1652,7 +1652,6 @@ emendandum
 exsecting
 enshielding
 exanthine
-eiders
 epilemmal
 eidograph
 eclogues
@@ -3550,6 +3549,7 @@ ecumenism
 emuscation
 estriols
 enfoeffment
+eiders
 exothermic
 exanthematous
 ergographic
