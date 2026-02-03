@@ -2166,6 +2166,7 @@ gastrotrichan
 guacos
 geoponics
 galea
+geldability
 goniostat
 goldfinches
 galliards
@@ -9519,7 +9520,6 @@ glandulose
 gadaea
 gastrophthisis
 gastrocentrous
-geldability
 grouts
 gabblers
 grouze
