@@ -4729,6 +4729,7 @@ euphemization
 emptings
 ericaceae
 exinite
+epactal
 erotesis
 enclaves
 entrepreneurs
@@ -6629,7 +6630,6 @@ endermically
 enuring
 exhedrae
 enterology
-epactal
 enterologic
 epanastrophe
 ethionamide
