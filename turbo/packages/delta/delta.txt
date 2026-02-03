@@ -12628,6 +12628,7 @@ defaultant
 descendentalist
 descrial
 disepalous
+disputator
 dodgeries
 duplicidentate
 discusser
@@ -13346,7 +13347,6 @@ dodecaphonist
 deflators
 disputatiously
 disputatiousness
-disputator
 disputeful
 dacrydium
 disfeature
