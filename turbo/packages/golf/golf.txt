@@ -2289,7 +2289,6 @@ granulocytopoiesis
 geitonogamy
 gooiest
 gonostyle
-geomoroi
 grange
 gunite
 granulosa
@@ -5004,6 +5003,7 @@ glassful
 grapplers
 gloxinia
 glasshouses
+geomoroi
 gasts
 glued
 gnarr
