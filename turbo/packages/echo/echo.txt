@@ -11459,6 +11459,7 @@ epifaunas
 ecphonesis
 escargatoire
 eucharis
+emf
 eonian
 ekistics
 eventuates
@@ -13472,7 +13473,6 @@ electrolyse
 ensuingly
 encopresis
 eatanswill
-emf
 elizabethanize
 expurgate
 equivocate

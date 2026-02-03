@@ -2556,6 +2556,7 @@ burglarise
 bois
 barcolongo
 breadearner
+butyrousness
 blepharocoloboma
 besnare
 bs
@@ -4429,7 +4430,6 @@ bepress
 barrable
 beadworks
 booleans
-butyrousness
 bouquiniste
 bushwhacker
 bathyseism
