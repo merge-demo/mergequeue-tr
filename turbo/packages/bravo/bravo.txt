@@ -1991,7 +1991,6 @@ browns
 bronchoscopy
 brachydactyl
 byplace
-bulbous
 bombard
 ballocks
 basilicas
@@ -2133,6 +2132,7 @@ bulging
 barring
 borofluoride
 bantayan
+bulbous
 buckshots
 bidstand
 bantam
