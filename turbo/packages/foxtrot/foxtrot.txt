@@ -2600,7 +2600,6 @@ farish
 formalistic
 fountainless
 fantee
-frivol
 filigreed
 ferio
 forbiddance
@@ -8370,6 +8369,7 @@ fm
 filcher
 foamed
 futhark
+frivol
 fluoroscopes
 fullerboard
 felloe
