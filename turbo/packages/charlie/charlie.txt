@@ -4048,7 +4048,6 @@ cardanol
 chymist
 cardboard
 crissum
-cardel
 crucianella
 ceroid
 chromocentral
@@ -19264,6 +19263,7 @@ colonializing
 crystic
 colonially
 cowinners
+cardel
 colonialness
 carshop
 caryatic
