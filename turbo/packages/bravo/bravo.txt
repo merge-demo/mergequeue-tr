@@ -633,6 +633,7 @@ bacterid
 birdcages
 baraka
 barracked
+bethlehemite
 brin
 bletherskate
 bisellia
@@ -6863,7 +6864,6 @@ bescab
 blepharoplast
 belout
 blandishment
-bethlehemite
 braying
 branchings
 blibe
