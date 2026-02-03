@@ -1069,7 +1069,6 @@ fiberboard
 fids
 frontons
 farrage
-ferroelectricity
 furziest
 farrago
 franchisement
@@ -7857,6 +7856,7 @@ flourishingly
 fatter
 fendillate
 factualist
+ferroelectricity
 florent
 fusillades
 froeman
