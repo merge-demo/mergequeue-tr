@@ -263,7 +263,6 @@ greenlandic
 geologizing
 ghostlike
 glops
-gambrelled
 guao
 gemless
 glaires
@@ -3418,6 +3417,7 @@ glaucosis
 gamont
 gudrun
 grippelike
+gambrelled
 gymkhanas
 gehey
 geodes
