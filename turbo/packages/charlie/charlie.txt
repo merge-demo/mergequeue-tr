@@ -3212,6 +3212,7 @@ cogracious
 clunks
 cosmoid
 caducicorn
+catalpas
 cattle
 coquet
 concatenations
@@ -29895,7 +29896,6 @@ crosscutting
 crosse
 crossed
 crossers
-catalpas
 crossette
 crossfertilizable
 crossfired
