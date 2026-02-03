@@ -18925,7 +18925,6 @@ actification
 aboiteaus
 abridge
 archigastrula
-archigonic
 autotomising
 addoom
 aphelian
@@ -20398,6 +20397,7 @@ alefzero
 awearied
 alabaman
 archegoniatae
+archigonic
 avision
 antiochianism
 armeria
