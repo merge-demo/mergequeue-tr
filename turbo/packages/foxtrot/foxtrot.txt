@@ -4826,7 +4826,6 @@ flagstick
 flagworm
 fandangle
 feramorz
-fittedness
 florida
 flivvers
 fairwater
@@ -11382,6 +11381,7 @@ fibropolypus
 faute
 furnacelike
 firetraps
+fittedness
 ferromagneticism
 flashlamp
 furnariides
