@@ -12603,7 +12603,6 @@ catechisation
 columnize
 cyperaceous
 chronothermal
-chronotropic
 countable
 collocution
 cheney
@@ -18156,6 +18155,7 @@ coeruleolactite
 cohost
 cancerin
 counterleague
+chronotropic
 careeners
 cutset
 coesites
