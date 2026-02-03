@@ -2280,7 +2280,6 @@ buteo
 butted
 bummil
 burgherdom
-befuddle
 broadsheet
 brier
 bianco
@@ -12630,6 +12629,7 @@ braccate
 bombardier
 bakshaish
 beshag
+befuddle
 beaproned
 bolos
 bonspiel

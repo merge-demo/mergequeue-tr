@@ -9277,6 +9277,7 @@ atomics
 antiparliamentarian
 argentamin
 autometric
+anapestic
 aphony
 asaraceae
 abhorrent
@@ -15463,7 +15464,6 @@ antimelancholic
 attainder
 assented
 alabastos
-anapestic
 antimension
 archisperm
 antimere
