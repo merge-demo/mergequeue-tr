@@ -2095,6 +2095,7 @@ bronchus
 bcf
 baldest
 blesses
+bellower
 bannerols
 bannisters
 birthmarks
@@ -3557,7 +3558,6 @@ basilyst
 blackroot
 bipinnariae
 bathed
-bellower
 bathes
 backslidden
 bicondylar
