@@ -12817,6 +12817,7 @@ anglophilia
 antiricin
 angioid
 amentum
+anisocytosis
 antimilitarist
 angiokeratoma
 apocopation
@@ -13299,7 +13300,6 @@ assailant
 autocoid
 anisocercal
 acetifying
-anisocytosis
 aval
 apograph
 allwhere
