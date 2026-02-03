@@ -2383,6 +2383,7 @@ foredating
 fromfile
 foreordinating
 fantods
+flycatcher
 fervidor
 formicivorous
 filtrable
@@ -11061,7 +11062,6 @@ faon
 faunological
 fellatrices
 fangless
-flycatcher
 frictionizing
 funambulatory
 fondaco
