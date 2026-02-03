@@ -3381,7 +3381,6 @@ equivokes
 eremopteris
 ethanethiol
 ensealing
-electrotechnics
 embarge
 espier
 enteropneustal
@@ -12210,6 +12209,7 @@ execute
 executed
 exceptor
 enquicken
+electrotechnics
 eyewaters
 eras
 epitrichium
