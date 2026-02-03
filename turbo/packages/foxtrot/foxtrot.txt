@@ -5204,6 +5204,7 @@ flav
 flavanilin
 fiscals
 flavescence
+folkcraft
 fingall
 flytrap
 flatnose
@@ -6407,7 +6408,6 @@ feneration
 forweary
 flummery
 filth
-folkcraft
 fordy
 fellatrix
 forsar
