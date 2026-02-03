@@ -7685,7 +7685,6 @@ goldworker
 gamins
 grouf
 grewsome
-gos
 gliomatous
 generalism
 gyassa
@@ -8201,6 +8200,7 @@ gweduc
 goldbug
 gutturalising
 gnosticism
+gos
 greater
 gallowsmaker
 grossers
