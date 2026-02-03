@@ -15917,7 +15917,6 @@ antiprime
 antiprinciple
 agrotis
 amoebicide
-arrhizous
 aceratosis
 antiproductivity
 atacaman
@@ -19122,6 +19121,7 @@ allocute
 absorbant
 alkylamino
 alphanumeric
+arrhizous
 agritos
 actu
 anthocyanidin
