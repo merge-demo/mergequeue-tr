@@ -1607,6 +1607,7 @@ egotized
 egracias
 eradicated
 egress
+entoplastic
 erizo
 economists
 epiblastic
@@ -7721,7 +7722,6 @@ eyedrop
 equalable
 epidermic
 epidermical
-entoplastic
 enteroplasty
 erechtheus
 electropolish
