@@ -736,6 +736,7 @@ ecumenically
 ecosystem
 ephthianura
 enstyle
+eruca
 erythristic
 ecospecific
 emblematised
@@ -11630,7 +11631,6 @@ elocutionary
 epitaphical
 exacting
 electroirrigation
-eruca
 electivity
 eliminations
 eburnian
