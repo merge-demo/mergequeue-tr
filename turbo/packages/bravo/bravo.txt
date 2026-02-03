@@ -6658,6 +6658,7 @@ breastbone
 boneshave
 binal
 bodegon
+blattiform
 beribanded
 birdy
 bargeboard
@@ -10936,7 +10937,6 @@ blimey
 braced
 blent
 begild
-blattiform
 backpacks
 breechless
 ballgames
