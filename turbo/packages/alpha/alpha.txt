@@ -2898,6 +2898,7 @@ acrophonetic
 acrophonic
 astrol
 aubrite
+antiphonally
 antiendowment
 acropolitan
 asthenope
@@ -15801,7 +15802,6 @@ asport
 antiphona
 aminobarbituric
 antieugenic
-antiphonally
 antiphonary
 abyes
 adulterize
