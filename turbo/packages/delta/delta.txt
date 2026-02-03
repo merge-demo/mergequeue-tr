@@ -15139,7 +15139,6 @@ doilies
 decancellating
 diglottism
 divarication
-diaphragmed
 deerherd
 dislustre
 damaging
@@ -15727,6 +15726,7 @@ deciduary
 doris
 diaxonic
 disyntheme
+diaphragmed
 dater
 dicht
 drubbly
