@@ -275,7 +275,6 @@ diarthroses
 denticle
 disassiduity
 doliolidae
-diploperistomic
 dahabeahs
 dahabieh
 disinflation
@@ -9489,6 +9488,7 @@ dynamogeny
 dialysers
 demiurge
 decontaminated
+diploperistomic
 digital
 drunkest
 digitalin
