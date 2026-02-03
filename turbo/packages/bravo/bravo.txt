@@ -3061,6 +3061,7 @@ bartramian
 bliest
 burlesks
 breathy
+bilabial
 balsaming
 brigantine
 baruch
@@ -3186,7 +3187,6 @@ bashyle
 buttresses
 balanopsidales
 baka
-bilabial
 baptisin
 bataleur
 bashmuric
