@@ -534,6 +534,7 @@ falcons
 falculate
 fawnery
 falcunculus
+foolocracy
 falderals
 flossed
 fussier
@@ -7173,7 +7174,6 @@ frizzlers
 faenas
 footpaces
 fifer
-foolocracy
 factionaries
 farers
 falderols
