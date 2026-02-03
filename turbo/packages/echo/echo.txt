@@ -296,7 +296,6 @@ encamps
 epitheliums
 earle
 enterolobium
-enantiosis
 ealderman
 endark
 espousage
@@ -6653,6 +6652,7 @@ eutychianism
 enkindler
 electromotiv
 ethered
+enantiosis
 enchelycephali
 enterosepsis
 enterotome
