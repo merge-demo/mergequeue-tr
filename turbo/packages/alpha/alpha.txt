@@ -8897,6 +8897,7 @@ alids
 alcyonacea
 assilag
 allochiria
+ascaridole
 adaptionism
 alcoves
 allochlorophyll
@@ -19654,7 +19655,6 @@ aryls
 apodeictical
 acreages
 aerially
-ascaridole
 arimathaean
 asswaging
 amboinese
