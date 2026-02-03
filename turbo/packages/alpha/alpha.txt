@@ -11407,6 +11407,7 @@ acroteric
 amphora
 amphorae
 acappella
+alphabetizers
 algors
 alohas
 apiator
@@ -14289,7 +14290,6 @@ ashman
 ahypnia
 antevert
 anteverting
-alphabetizers
 anthdia
 appraisals
 anthroposociologist
