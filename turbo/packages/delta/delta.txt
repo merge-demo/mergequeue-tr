@@ -10814,6 +10814,7 @@ dashwheel
 diadematoida
 desmidiaceous
 digit
+dislicense
 dynameter
 darkest
 distant
@@ -12690,7 +12691,6 @@ dendric
 disappoints
 disli
 diskophile
-dislicense
 disperiwig
 diacromyodian
 desecrater
