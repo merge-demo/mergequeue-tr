@@ -7267,6 +7267,7 @@ glitches
 goldsinny
 gynics
 grahams
+gaelicism
 gnocchi
 grossness
 glendover
@@ -9712,7 +9713,6 @@ greediness
 glossaries
 gelants
 gratiosolin
-gaelicism
 guying
 grummet
 genuflector
