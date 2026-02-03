@@ -2054,7 +2054,6 @@ eudialyte
 elanus
 enantiopathia
 extravenate
-encampments
 eyehook
 embalm
 enterocinesia
@@ -13468,6 +13467,7 @@ exorate
 expropriator
 eringo
 epenthetic
+encampments
 electrolyse
 ensuingly
 encopresis
