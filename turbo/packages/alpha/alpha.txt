@@ -5857,7 +5857,6 @@ asperness
 achiote
 acculturizing
 archfelon
-anisocarpic
 aponeurosis
 ankylosaur
 agendum
@@ -13926,6 +13925,7 @@ annullation
 amherstite
 anserine
 apicular
+anisocarpic
 ashen
 alacreatine
 achievability
