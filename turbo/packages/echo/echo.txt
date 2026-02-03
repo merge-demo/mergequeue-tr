@@ -8643,7 +8643,6 @@ erelong
 extractor
 enervous
 exceptionable
-expels
 especially
 elutriating
 emergently
@@ -13740,6 +13739,7 @@ enveigle
 elatine
 endnote
 extratemporal
+expels
 ensnares
 esteemed
 educating
