@@ -4375,6 +4375,7 @@ disassembled
 dementation
 dementedly
 dementholize
+deplorer
 disseated
 demiatheism
 dementia
@@ -8714,7 +8715,6 @@ disproportionateness
 discriminate
 diatomales
 dedicated
-deplorer
 diatomeae
 diatomicity
 duetted
