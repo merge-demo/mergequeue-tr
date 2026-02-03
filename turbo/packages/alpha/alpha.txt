@@ -8275,6 +8275,7 @@ alienabilities
 airfields
 acceleratory
 antitheological
+ampelograpny
 agouties
 acetylacetone
 ancylodactyla
@@ -11150,7 +11151,6 @@ argol
 abnegations
 ampelographist
 ascensional
-ampelograpny
 aquincubitalism
 ampelopsidin
 abirritative
