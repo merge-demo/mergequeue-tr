@@ -3309,6 +3309,7 @@ dilatant
 deliriate
 diastem
 demitting
+disherit
 destiny
 domesticable
 datiscoside
@@ -4109,7 +4110,6 @@ didrachmal
 dreikanters
 doctrinization
 divagate
-disherit
 delisk
 delists
 demonstratorship
