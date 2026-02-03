@@ -1992,6 +1992,7 @@ girth
 gageite
 gonadotrope
 granville
+galactemia
 glyconian
 goosewing
 gaspingly
@@ -4453,7 +4454,6 @@ gorgio
 groovy
 gays
 grubbers
-galactemia
 gawcey
 gorry
 graveless
