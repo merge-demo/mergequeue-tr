@@ -6362,7 +6362,6 @@ goldeyes
 gingivalgia
 glommed
 gastroduodenoscopy
-gematria
 gymnoblastea
 gonged
 gongorist
@@ -10226,6 +10225,7 @@ gobbet
 gunless
 guillotinist
 geryonid
+gematria
 gonophorous
 gastroptosis
 grape
