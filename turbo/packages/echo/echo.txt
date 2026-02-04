@@ -7910,6 +7910,7 @@ euphemistic
 eclampsia
 enclavement
 excoriable
+extinction
 enneastylar
 engender
 enframes
@@ -12557,7 +12558,6 @@ encrypted
 exite
 ephydriad
 eranist
-extinction
 envied
 enherit
 epistolist
