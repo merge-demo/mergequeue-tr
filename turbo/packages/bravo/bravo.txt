@@ -13305,7 +13305,6 @@ birdmen
 blennies
 botanic
 bobbery
-bromeliaceous
 backlet
 botanica
 bandoleered
@@ -16638,6 +16637,7 @@ bowmaker
 blackarm
 beanpole
 bejewelled
+bromeliaceous
 brawls
 butte
 bavius

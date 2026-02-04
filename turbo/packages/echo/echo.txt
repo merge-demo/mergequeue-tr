@@ -2261,7 +2261,6 @@ evenhand
 ethnarchies
 endothys
 electricize
-emphasizes
 electriferous
 elongated
 equally
@@ -10027,6 +10026,7 @@ eternalize
 eternally
 extill
 embarking
+emphasizes
 exempting
 equalist
 endoperidial
