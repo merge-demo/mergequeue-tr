@@ -6826,7 +6826,6 @@ entomologies
 entomologised
 emblemized
 eelskin
-externa
 ealdorman
 emanations
 epituberculosis
@@ -9955,6 +9954,7 @@ eudalene
 eucalyptuses
 evert
 ertebolle
+externa
 eschars
 ennew
 endorachis
