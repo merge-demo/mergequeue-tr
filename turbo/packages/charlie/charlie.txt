@@ -5767,6 +5767,7 @@ calibred
 codicillary
 catechising
 chordamesoderm
+ceric
 crooktoothed
 courlans
 cardisophistical
@@ -22427,7 +22428,6 @@ cormophyte
 coniines
 conylene
 conrey
-ceric
 calends
 cariacus
 conines
