@@ -3237,7 +3237,6 @@ dockhead
 domesticate
 defiber
 deionized
-duodecillionth
 dominie
 departs
 defibrillated
@@ -16986,6 +16985,7 @@ dill
 demonocracy
 designee
 dirtily
+duodecillionth
 dampish
 destining
 dunning
