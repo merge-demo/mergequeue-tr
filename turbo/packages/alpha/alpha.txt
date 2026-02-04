@@ -3178,6 +3178,7 @@ activated
 achtel
 advolution
 active
+angularly
 aweather
 ahungered
 actives
@@ -9217,7 +9218,6 @@ ammonites
 ageist
 acquitted
 almner
-angularly
 almohad
 aorta
 anticlimactical
