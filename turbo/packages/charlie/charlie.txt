@@ -19409,7 +19409,6 @@ cephalopagus
 carbohydrazide
 cup
 chasty
-crosshaul
 colormaker
 cornicing
 colorman
@@ -31495,6 +31494,7 @@ costa
 currycombs
 cheesily
 cogitators
+crosshaul
 curricula
 curricularize
 cardiomyoliposis
