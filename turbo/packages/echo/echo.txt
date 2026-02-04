@@ -4618,7 +4618,6 @@ endoabdominal
 eulogical
 empyreumatical
 ectostosis
-epithalamiums
 enajim
 exercite
 ermelin
@@ -11282,6 +11281,7 @@ epoche
 excoriator
 earthbred
 evaporators
+epithalamiums
 eir
 ecurie
 equisurface

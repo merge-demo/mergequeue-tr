@@ -10523,7 +10523,6 @@ flees
 frotton
 fum
 fumelike
-frequentness
 firetail
 farandman
 frousty
@@ -11130,6 +11129,7 @@ fetidly
 farads
 forecarriage
 fauteuils
+frequentness
 fedellini
 fruitiness
 feverbush
