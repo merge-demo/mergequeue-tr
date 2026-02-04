@@ -10565,7 +10565,6 @@ ewry
 epephragmal
 enthusing
 entomophily
-exhibitory
 epiclidal
 equibiradiate
 esprits
@@ -13867,6 +13866,7 @@ equipotentiality
 endotropic
 eelpot
 equivocation
+exhibitory
 equimultiple
 evaporize
 ethionic
