@@ -8898,6 +8898,7 @@ faroeish
 flimsily
 favorers
 frenchy
+frostbiting
 fusiformis
 floit
 flywort
@@ -9323,7 +9324,6 @@ foretimed
 fritillaria
 federator
 frigatoon
-frostbiting
 franciums
 fascinates
 flocculant
