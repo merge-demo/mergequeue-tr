@@ -11426,7 +11426,6 @@ consultations
 choanephora
 cystopyelography
 choanocyte
-choanoflagellate
 cotta
 choanophorous
 cataplasm
@@ -20050,6 +20049,7 @@ commensurability
 commensurable
 cajoled
 commensurate
+choanoflagellate
 commensurateness
 curatorial
 commensurating
