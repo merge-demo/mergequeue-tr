@@ -12583,7 +12583,6 @@ cercle
 cafetiere
 chronologizing
 chronomantic
-chronomastix
 chronometer
 crom
 citolers
@@ -31565,6 +31564,7 @@ cursores
 cubistic
 curtain
 cheesemongery
+chronomastix
 centrals
 cariamae
 cowlicks
