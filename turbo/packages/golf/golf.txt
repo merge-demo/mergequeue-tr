@@ -8261,7 +8261,6 @@ gentians
 grapples
 grappling
 graptolitha
-gheraoed
 gambits
 gutturalise
 gleets
@@ -9352,6 +9351,7 @@ gobelin
 glaymore
 gorgonize
 gelatinized
+gheraoed
 geneserin
 graciosity
 gradeless
