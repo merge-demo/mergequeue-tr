@@ -2573,6 +2573,7 @@ backlists
 bashlyk
 brained
 bonaci
+barabra
 beltways
 bloodberry
 bardel
@@ -8593,7 +8594,6 @@ bandos
 bennis
 barih
 bejeweling
-barabra
 bo
 bedder
 bradycardia
