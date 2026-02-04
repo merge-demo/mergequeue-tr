@@ -530,7 +530,6 @@ fleeces
 forfeiter
 factitial
 funambulant
-folium
 falcons
 falculate
 fawnery
@@ -7207,6 +7206,7 @@ fiorded
 flumed
 footsy
 foiled
+folium
 fashions
 fitz
 footslogger
