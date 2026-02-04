@@ -7619,7 +7619,6 @@ didelphis
 development
 doxie
 developmental
-developmentally
 decompressions
 decolouring
 dermatologist
@@ -15338,6 +15337,7 @@ disbogue
 daimioate
 donationes
 deserver
+developmentally
 dome
 dyssnite
 dysaesthetic

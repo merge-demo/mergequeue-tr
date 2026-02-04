@@ -45,7 +45,6 @@ banally
 brachydomal
 bodleian
 begowned
-brutalizes
 bracketwise
 babblers
 bodement
@@ -2364,6 +2363,7 @@ barreler
 bryales
 benzoperoxide
 badarrah
+brutalizes
 bourignianism
 braggart
 barboy
