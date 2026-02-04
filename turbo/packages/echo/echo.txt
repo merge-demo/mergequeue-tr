@@ -97,7 +97,6 @@ epithelioma
 enumerate
 earpick
 elastician
-earpiece
 enchisel
 equiperiodic
 exterminate
@@ -10107,6 +10106,7 @@ eumolpus
 eutopia
 euphausiacea
 ethereality
+earpiece
 epiboly
 etherealization
 extrusible

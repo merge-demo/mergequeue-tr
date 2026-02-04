@@ -6562,7 +6562,6 @@ carid
 cheroot
 candling
 cdg
-cdr
 cesspool
 cosmonaut
 celibates
@@ -6625,6 +6624,7 @@ cedillas
 ceding
 cosheath
 chromule
+cdr
 cedrat
 conglution
 cedrate
