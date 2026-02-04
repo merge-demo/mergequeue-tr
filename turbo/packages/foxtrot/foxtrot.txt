@@ -1955,7 +1955,6 @@ foreknower
 flunkeyistic
 familiarizingly
 falsify
-fenouillet
 falsum
 fooyoung
 flagmaker
@@ -7994,6 +7993,7 @@ faunally
 fanfoot
 fieldie
 favoured
+fenouillet
 fredricite
 forestation
 faceup
