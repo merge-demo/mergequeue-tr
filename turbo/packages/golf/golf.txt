@@ -2329,7 +2329,6 @@ gelatinizer
 gradates
 giornatate
 gadbee
-gidgee
 gavials
 guaiacols
 galopin
@@ -3031,6 +3030,7 @@ graminicolous
 gemmipares
 glyptotheca
 gametogenous
+gidgee
 garnetz
 gossipper
 giant
