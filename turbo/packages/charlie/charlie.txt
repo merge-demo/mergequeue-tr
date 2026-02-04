@@ -5870,7 +5870,6 @@ catercornered
 craner
 catered
 codpiece
-caterer
 caterers
 cytolymph
 cateringly
@@ -28868,6 +28867,7 @@ cinematographically
 cretify
 cavalla
 communitary
+caterer
 cabana
 cadastre
 chickweeds
