@@ -7087,6 +7087,7 @@ blaming
 bespangle
 bespangling
 bespate
+bewraps
 brickbatted
 basset
 benzalethylamine
@@ -7685,7 +7686,6 @@ bukshee
 backened
 biogenies
 beeper
-bewraps
 belesprit
 bewrapt
 bewreck
