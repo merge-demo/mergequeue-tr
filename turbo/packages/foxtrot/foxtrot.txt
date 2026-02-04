@@ -501,6 +501,7 @@ frisch
 friz
 fertilizing
 frenne
+fretted
 filicite
 faking
 fumify
@@ -2797,7 +2798,6 @@ folacins
 finlander
 fumigatories
 fcomp
-fretted
 falcade
 faunae
 fibrointestinal

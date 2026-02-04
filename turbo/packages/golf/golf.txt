@@ -2369,7 +2369,6 @@ glump
 gerrhosaurid
 greeshoch
 glug
-geb
 george
 galloots
 ghiordes
@@ -2479,6 +2478,7 @@ gangrened
 genitalic
 girdlelike
 gaucher
+geb
 golds
 gradienter
 gotch
