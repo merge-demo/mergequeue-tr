@@ -3021,7 +3021,6 @@ fustin
 fiber
 fiberizes
 fritillary
-formolite
 frogginess
 fleshless
 federalists
@@ -7128,6 +7127,7 @@ footfolk
 ficklewise
 fictionised
 fifteener
+formolite
 foremind
 flukewort
 foothalt
