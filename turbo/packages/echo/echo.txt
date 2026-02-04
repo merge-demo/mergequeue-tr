@@ -857,7 +857,6 @@ epistolizer
 eigenfunction
 erythrocytolysin
 electrocution
-encomiastical
 endophyte
 entailed
 ectomorph
@@ -10750,6 +10749,7 @@ evangelically
 ephemeran
 extramoralist
 emer
+encomiastical
 endogalvanism
 eucnemidae
 excursions
