@@ -85,7 +85,6 @@ dactylopore
 dustyfoot
 dignifying
 disclaimant
-drivelled
 dripper
 delater
 demibrute
@@ -3161,6 +3160,7 @@ dulcineas
 dandriffs
 determinant
 deracine
+drivelled
 distilment
 deinotherium
 defectors
