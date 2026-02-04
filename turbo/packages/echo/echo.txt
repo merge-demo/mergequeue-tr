@@ -163,6 +163,7 @@ expiring
 expressive
 escallop
 enticed
+exonym
 echinostome
 echidna
 engelmanni
@@ -12708,7 +12709,6 @@ exonerator
 eudiometer
 elmer
 everbearer
-exonym
 era
 eelback
 earcockle
