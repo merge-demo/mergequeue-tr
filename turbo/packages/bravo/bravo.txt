@@ -11437,6 +11437,7 @@ blueblood
 boro
 baronetical
 bandits
+bullnose
 bluebottle
 badinaged
 bouncily
@@ -17178,7 +17179,6 @@ bullition
 bar
 boggin
 bulletproof
-bullnose
 beewinged
 bullnoses
 bullnut

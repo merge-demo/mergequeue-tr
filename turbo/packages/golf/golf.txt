@@ -1000,7 +1000,6 @@ gamester
 geanticline
 garnel
 gubernia
-gingerberry
 gemmed
 grumblingly
 galenoid
@@ -6800,6 +6799,7 @@ gnomonic
 gloryingly
 glauconite
 gloiosiphoniaceae
+gingerberry
 granulomas
 gaffsman
 gorbal
