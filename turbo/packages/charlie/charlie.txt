@@ -1404,6 +1404,7 @@ caliginously
 cyanin
 cunctipotent
 colubaria
+clavers
 cylindrical
 cabbling
 caucusses
@@ -18529,7 +18530,6 @@ ceratite
 coiffe
 coiffed
 caustics
-clavers
 coiffeur
 coiffeurs
 coiffeuses
