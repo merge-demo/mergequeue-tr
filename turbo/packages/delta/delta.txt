@@ -1079,6 +1079,7 @@ defuses
 decanoyl
 downpour
 dysoxidizable
+depolarization
 defluxion
 datiscaceae
 dhyal
@@ -5673,7 +5674,6 @@ depoh
 decd
 depolarise
 dehumidify
-depolarization
 dernly
 depolarize
 disuniters
