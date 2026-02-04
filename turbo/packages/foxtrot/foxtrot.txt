@@ -919,7 +919,6 @@ fanums
 ferine
 fenberry
 fanwise
-falangism
 fadaise
 fleabug
 fallouts
@@ -5136,6 +5135,7 @@ furoid
 flatlands
 fiberized
 fatigued
+falangism
 flywheels
 fjords
 flatman
