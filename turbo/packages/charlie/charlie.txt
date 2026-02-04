@@ -1315,7 +1315,6 @@ conelet
 calibrated
 calibrater
 calibrates
-cloison
 catchwater
 calibrating
 calibre
@@ -22756,6 +22755,7 @@ caulocarpous
 coemptio
 consecrative
 columnarized
+cloison
 caligraphy
 conscience
 canalete
