@@ -3364,6 +3364,7 @@ gothicist
 gerontic
 generale
 graphometry
+glomi
 gondolier
 gnatling
 gorkun
@@ -7232,7 +7233,6 @@ grundyism
 grace
 gormandism
 gormandize
-glomi
 gormandizes
 gundeck
 gangsa
