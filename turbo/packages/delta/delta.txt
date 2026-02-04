@@ -11229,7 +11229,6 @@ disbursing
 depolymerized
 discommendableness
 discamp
-duotriacontane
 drawstring
 discanted
 dermochelys
@@ -18210,6 +18209,7 @@ duncish
 dechlog
 duncishness
 dermataneuria
+duotriacontane
 decener
 dundasite
 didascalar
