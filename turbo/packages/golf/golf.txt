@@ -3563,7 +3563,6 @@ gawkiness
 galleriidae
 glovers
 goetae
-gynaecology
 granitification
 ghastliness
 ghatwazi
@@ -10377,6 +10376,7 @@ giambeux
 gonyalgia
 gunda
 griddles
+gynaecology
 glycyls
 gutta
 gullies
