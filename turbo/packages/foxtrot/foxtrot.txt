@@ -1874,7 +1874,6 @@ frutify
 fatuously
 fec
 fight
-floruit
 feelingly
 fecundate
 fianchetti
@@ -3044,6 +3043,7 @@ firker
 filtratable
 fairily
 fluorin
+floruit
 filmizing
 forehoof
 frounceless
