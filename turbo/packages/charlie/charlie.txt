@@ -9982,7 +9982,6 @@ chequin
 cherchez
 chercock
 cherem
-calcimine
 cherenkov
 cherimoyer
 cump
@@ -31376,6 +31375,7 @@ constitutionist
 curiara
 chromocollotypy
 chaetopodous
+calcimine
 choanate
 criosphinges
 curie
