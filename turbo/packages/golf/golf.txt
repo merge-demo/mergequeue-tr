@@ -2340,7 +2340,6 @@ gelated
 gorgets
 gustfulness
 gymnics
-geographism
 glassy
 graptomancy
 gruss
@@ -9568,6 +9567,7 @@ gravelike
 gobbed
 gossiphood
 gujrati
+geographism
 galley
 glandula
 grex
