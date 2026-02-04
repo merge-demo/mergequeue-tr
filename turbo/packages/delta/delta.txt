@@ -5346,7 +5346,6 @@ daffodil
 dendra
 decontrol
 delim
-deschampsia
 denudating
 disordained
 discanter
@@ -10610,6 +10609,7 @@ diploplaculate
 degarnish
 doon
 discoveries
+deschampsia
 diplopod
 diplopoda
 discorrespondent
