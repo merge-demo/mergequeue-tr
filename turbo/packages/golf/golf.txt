@@ -3881,7 +3881,6 @@ gnoff
 gladatorial
 gigatons
 gastroschisis
-gastrosoph
 genetical
 geoduck
 geminates
@@ -5616,6 +5615,7 @@ grandsons
 grafts
 grumes
 glorying
+gastrosoph
 gatemen
 gant
 gothites
