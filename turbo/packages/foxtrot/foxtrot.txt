@@ -5443,6 +5443,7 @@ fleeter
 flex
 fusionless
 firefighter
+frondosely
 forevow
 firearmed
 falsifiable
@@ -10867,7 +10868,6 @@ fontal
 frisky
 flagitiously
 forwore
-frondosely
 fabledom
 fulgidity
 fantasizing
