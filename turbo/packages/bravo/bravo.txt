@@ -3166,6 +3166,7 @@ blurrer
 brevet
 bleakest
 bonnes
+barkantine
 burghemot
 bronchography
 bleat
@@ -17190,7 +17191,6 @@ beduins
 blastulae
 brisque
 beneficiaryship
-barkantine
 bullpen
 bullpoll
 bunglesome
