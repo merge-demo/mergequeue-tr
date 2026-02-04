@@ -8046,7 +8046,6 @@ ghain
 genealogic
 genteelish
 gesning
-gentlewoman
 granivore
 gasconader
 gybes
@@ -8285,6 +8284,7 @@ gregos
 greenslade
 gracefulness
 greyer
+gentlewoman
 gau
 geographic
 gravicembalo
