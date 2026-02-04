@@ -3253,7 +3253,6 @@ gordiacea
 gluteofemoral
 gutty
 gerfalcon
-gothite
 gahnites
 gunrack
 geriatrician
@@ -10028,6 +10027,7 @@ genetoid
 geomancies
 gangliac
 gleans
+gothite
 gazebos
 glaistig
 gammation
