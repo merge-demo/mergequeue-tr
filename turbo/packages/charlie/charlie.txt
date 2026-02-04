@@ -12308,7 +12308,6 @@ christmasing
 christocentric
 christogram
 christolatry
-controverts
 christological
 corseted
 christophe
@@ -16386,6 +16385,7 @@ clivus
 clk
 cuprose
 clo
+controverts
 cloaca
 cloacae
 cryptanalyzed
