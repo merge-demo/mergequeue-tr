@@ -4257,7 +4257,6 @@ fatiguability
 fulsomely
 ferdwit
 foreshortens
-foreordains
 fendable
 flunkyism
 fastuous
@@ -11080,6 +11079,7 @@ forficated
 flicflac
 fumariaceous
 flaunter
+foreordains
 freightment
 flense
 footrace
