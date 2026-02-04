@@ -3176,6 +3176,7 @@ gooier
 geotaxy
 gie
 geologers
+grattoirs
 gotiglacial
 guerdoning
 gephyrea
@@ -7369,7 +7370,6 @@ gunflints
 gelsemine
 gayness
 gunnery
-grattoirs
 globousness
 grangerization
 gadean
