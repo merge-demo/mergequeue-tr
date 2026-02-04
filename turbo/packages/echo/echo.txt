@@ -6548,7 +6548,6 @@ eccritic
 embattled
 epimedium
 enorthotrope
-eohippuses
 electricity
 emigrates
 enhuile
@@ -13529,6 +13528,7 @@ endostoma
 erected
 electrocauterization
 elbert
+eohippuses
 earcap
 evensongs
 epitimesis

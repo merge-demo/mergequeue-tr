@@ -9646,7 +9646,6 @@ ghana
 guipures
 gamogony
 gibuses
-gowdie
 griotte
 gastroscopy
 gascons
@@ -9936,6 +9935,7 @@ glozer
 guardianship
 garb
 gumptions
+gowdie
 geomaly
 grilladed
 guarico
