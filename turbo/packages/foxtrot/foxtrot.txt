@@ -7356,6 +7356,7 @@ frugs
 fissirostral
 ferrarese
 floressence
+freestone
 fusk
 fatalistic
 feminologist
@@ -10884,7 +10885,6 @@ filagreing
 foreskins
 feston
 fango
-freestone
 flayer
 furore
 fullish
