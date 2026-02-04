@@ -1058,7 +1058,6 @@ ead
 ensanguining
 edhs
 esculic
-envergure
 exostotic
 edible
 entailment
@@ -4562,6 +4561,7 @@ euthycomic
 encephalola
 esoterism
 executionist
+envergure
 enlightened
 exigence
 exploited
