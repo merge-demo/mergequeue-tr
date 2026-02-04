@@ -472,6 +472,7 @@ grubbier
 gravitating
 granadine
 glop
+glycoproteid
 gearset
 gymnical
 gleewoman
@@ -4107,7 +4108,6 @@ globuloid
 gelinotte
 graphemic
 germin
-glycoproteid
 gastroarthritis
 goodly
 guaranin
