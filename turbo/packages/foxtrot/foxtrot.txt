@@ -758,7 +758,6 @@ forepart
 frankalmoigne
 frostiness
 foulmart
-fruitful
 fanaticizing
 fortunella
 footmanhood
@@ -10877,6 +10876,7 @@ fallings
 fossors
 flavor
 frowardly
+fruitful
 fon
 fluvioterrestrial
 fustianist
