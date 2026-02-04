@@ -3523,6 +3523,7 @@ diethylamine
 decarchy
 disenchanter
 dipleura
+dregginess
 defunctionalize
 defusion
 deformalize
@@ -3649,7 +3650,6 @@ degust
 dasnt
 degusted
 disbowelled
-dregginess
 dewlaps
 dehache
 dorsoepitrochlear
