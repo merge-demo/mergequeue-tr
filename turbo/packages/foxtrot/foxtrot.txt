@@ -1868,7 +1868,6 @@ farthermore
 fruiterers
 federacies
 febriphobia
-flemishing
 fielden
 fiveling
 fiances
@@ -5290,6 +5289,7 @@ flukes
 fumage
 fishingly
 fatwood
+flemishing
 flain
 fernwort
 fulyie
