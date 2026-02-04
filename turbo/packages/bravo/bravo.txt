@@ -2584,6 +2584,7 @@ backtalk
 barrat
 barile
 barilla
+bloodcurdling
 beleaf
 barters
 bathofloric
@@ -11177,7 +11178,6 @@ barotaxy
 bizygomatic
 bacchanalia
 bolivian
-bloodcurdling
 bloodcurdlingly
 booboos
 bloodiness
