@@ -10491,6 +10491,7 @@ chalicotherium
 chunderous
 children
 childrenite
+cobalticyanic
 corylin
 chalazogamic
 childridden
@@ -15759,7 +15760,6 @@ conveniently
 chelaship
 corruptibly
 colonized
-cobalticyanic
 clearable
 clearance
 clearances
