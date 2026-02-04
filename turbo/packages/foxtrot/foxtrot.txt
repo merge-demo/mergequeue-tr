@@ -1304,7 +1304,6 @@ fossoria
 fluctuous
 feminophobe
 falconoid
-fatalists
 fop
 fleeced
 former
@@ -11022,6 +11021,7 @@ fabliaux
 fusuma
 farmery
 forcipate
+fatalists
 falafel
 fumets
 fumiest
