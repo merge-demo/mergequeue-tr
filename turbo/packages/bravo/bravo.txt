@@ -3717,6 +3717,7 @@ bucketmaker
 beltis
 batterie
 breck
+boorish
 batterman
 blennemesis
 bullockman
@@ -11755,7 +11756,6 @@ bobfloat
 bosoms
 bobjerom
 bioelectricity
-boorish
 backpacker
 behung
 buzzword
