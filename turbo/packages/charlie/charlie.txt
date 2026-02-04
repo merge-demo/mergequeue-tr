@@ -5709,7 +5709,6 @@ chickwit
 catchcry
 corinthian
 conceptus
-corey
 colocates
 catched
 catcher
@@ -11276,6 +11275,7 @@ chicote
 counterion
 chlorite
 coenures
+corey
 chloritic
 carlie
 continuities
