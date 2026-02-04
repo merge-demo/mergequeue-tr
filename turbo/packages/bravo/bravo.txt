@@ -376,7 +376,6 @@ backgame
 backgammon
 board
 barbarical
-barwares
 breaststroke
 background
 backhand
@@ -525,6 +524,7 @@ bombsights
 butomaceous
 backstroke
 beckoners
+barwares
 bicentennial
 backstromite
 bu
