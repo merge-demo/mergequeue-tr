@@ -9441,7 +9441,6 @@ enamber
 eschel
 eschele
 effulging
-ecod
 ensnarement
 ectrogenic
 embowering
@@ -12089,6 +12088,7 @@ embryectomies
 enflames
 exploit
 editress
+ecod
 echinologist
 eartag
 emasculation
