@@ -10697,7 +10697,6 @@ aptly
 acatharsia
 aerophobic
 amyloidosis
-amyloleucite
 afterwrath
 archiepiscopality
 amylolysis
@@ -15258,6 +15257,7 @@ arborolatry
 apicilar
 adarticulation
 antifowl
+amyloleucite
 arthrolite
 adapa
 amalgamates
