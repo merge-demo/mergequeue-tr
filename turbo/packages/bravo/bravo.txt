@@ -9121,7 +9121,6 @@ bailliage
 byssaceous
 bespice
 benightmare
-bite
 biopsychological
 breunnerite
 biliously
@@ -12636,6 +12635,7 @@ bookbind
 boruca
 bronchocele
 beatniks
+bite
 bagels
 baguets
 beleaguerment

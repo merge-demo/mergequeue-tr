@@ -13628,7 +13628,6 @@ actinopterygious
 annunciade
 arthropod
 aloneness
-annunciating
 annunciation
 apophonia
 amasthenic
@@ -20956,6 +20955,7 @@ amygdonitrile
 ascape
 abstrahent
 amidid
+annunciating
 adherence
 ascariasis
 aerodynamicist
