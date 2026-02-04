@@ -8463,7 +8463,6 @@ garum
 glisteningly
 glossotype
 gurgle
-gelatinization
 gravely
 galops
 groupers
@@ -9154,6 +9153,7 @@ grippiest
 granulating
 gluttei
 gratulatory
+gelatinization
 glycolytically
 galvanometer
 greenwich
