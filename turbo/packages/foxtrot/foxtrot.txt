@@ -6532,7 +6532,6 @@ frabjous
 fortuitist
 flyboats
 falconiform
-featurely
 franseria
 flunkeyism
 feltness
@@ -8768,6 +8767,7 @@ frailes
 fetchers
 flotillas
 fossage
+featurely
 fanlight
 female
 fearable
