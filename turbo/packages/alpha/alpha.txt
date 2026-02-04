@@ -18479,7 +18479,6 @@ arbalists
 adventry
 abrenunciation
 ascorbic
-adeline
 antipendium
 arber
 autolesion
@@ -23260,6 +23259,7 @@ adipogenous
 abactinally
 adnumber
 antship
+adeline
 asthorin
 anglophobic
 adventitia
