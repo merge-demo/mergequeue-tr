@@ -2717,7 +2717,6 @@ evaporated
 electrolytical
 electrovalent
 electrowinning
-exaggerators
 elemong
 ediya
 essenianism
@@ -9609,6 +9608,7 @@ enchiridions
 ecclesiophobia
 euphuistically
 esoterist
+exaggerators
 evildoers
 eventlessness
 exceptionary
