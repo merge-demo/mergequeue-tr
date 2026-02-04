@@ -616,7 +616,6 @@ damnability
 damnabilities
 deloul
 disegno
-dawut
 deadrize
 disintegrating
 deadhand
@@ -3317,6 +3316,7 @@ distemperer
 downweight
 dicot
 dayment
+dawut
 distressfulness
 dullery
 definitor
