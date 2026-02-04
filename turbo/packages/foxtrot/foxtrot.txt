@@ -4535,7 +4535,6 @@ fourth
 feudists
 frit
 fanmaking
-fetidity
 futtocks
 forespoken
 feuder
@@ -7656,6 +7655,7 @@ forehoofs
 fewter
 forehooves
 forpit
+fetidity
 foreboding
 fissidentaceae
 foreween
