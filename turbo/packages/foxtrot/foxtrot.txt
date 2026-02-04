@@ -6311,7 +6311,6 @@ farmhouses
 flatlings
 flowchart
 flagpole
-fontes
 forementioned
 feminality
 flang
@@ -7101,6 +7100,7 @@ feckful
 friszka
 footboy
 feministic
+fontes
 fossette
 footboys
 fairling
