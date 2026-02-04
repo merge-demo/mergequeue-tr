@@ -11691,7 +11691,6 @@ discoach
 discoverable
 distilland
 disworth
-discoverer
 diabolised
 decancellation
 discoverture
@@ -15932,6 +15931,7 @@ distasting
 deprivers
 doted
 doters
+discoverer
 donable
 dotes
 dispreads
