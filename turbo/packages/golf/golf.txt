@@ -802,7 +802,6 @@ gelates
 glucosidase
 gastroenteritic
 galluptious
-gambang
 gastrular
 grazer
 glaceing
@@ -8796,6 +8795,7 @@ gm
 gunne
 greegrees
 gymnanthous
+gambang
 gooses
 gastral
 grandparenthood
