@@ -6916,7 +6916,6 @@ disshroud
 despisingly
 draco
 deaeration
-deperdition
 digs
 daphnia
 dinoflagellate
@@ -14354,6 +14353,7 @@ dubiously
 dittographic
 dutcher
 ditrochean
+deperdition
 dynastical
 deign
 deanship
