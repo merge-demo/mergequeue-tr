@@ -5816,6 +5816,7 @@ bearably
 beblubbered
 behint
 bigthatch
+beefish
 ballaster
 belton
 bountihead
@@ -16590,7 +16591,6 @@ buaze
 bourreau
 bubales
 bandwork
-beefish
 bubals
 belling
 bubastid
