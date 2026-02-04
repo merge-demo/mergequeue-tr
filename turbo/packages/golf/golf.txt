@@ -737,7 +737,6 @@ galvanologist
 giantlikeness
 gollywog
 gonoplasm
-geostrategic
 gerbillinae
 gar
 goniometric
@@ -1353,6 +1352,7 @@ guess
 gesturers
 grafting
 gemmel
+geostrategic
 gelogenic
 green
 garments
