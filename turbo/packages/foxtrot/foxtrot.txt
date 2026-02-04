@@ -2558,7 +2558,6 @@ fanti
 fimbriatum
 flappy
 fluidification
-fetishry
 firefanging
 finding
 finlike
@@ -4436,6 +4435,7 @@ febricity
 fishplate
 feste
 fate
+fetishry
 fishpoles
 flueless
 flameproof
