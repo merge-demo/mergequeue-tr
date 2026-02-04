@@ -12231,7 +12231,6 @@ anatum
 analysable
 anerethisia
 amphibali
-aegyptilla
 antiflash
 anaunters
 ablaut
@@ -16226,6 +16225,7 @@ antistreptococcin
 alligation
 astartidae
 antiauthoritarian
+aegyptilla
 aesthetically
 aluminothermic
 aerocharidae

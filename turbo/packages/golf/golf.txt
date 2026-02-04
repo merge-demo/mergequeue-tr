@@ -5350,6 +5350,7 @@ gamogenetical
 groundflower
 gumchewer
 graspingly
+gruffily
 grandmotherliness
 gangplank
 graciously
@@ -7735,7 +7736,6 @@ gilpey
 gluttonously
 gonotype
 grorudite
-gruffily
 grimiest
 gormed
 glee
