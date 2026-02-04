@@ -3980,6 +3980,7 @@ apologer
 adjutrice
 ambassage
 ameba
+assortment
 affirm
 amelification
 anecdotical
@@ -16901,7 +16902,6 @@ araucan
 apiculturist
 apiece
 annelida
-assortment
 agyria
 aluminotype
 advocates
