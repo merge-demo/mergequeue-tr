@@ -3532,6 +3532,7 @@ flannelleaves
 fishfall
 flagrancy
 fath
+fetchers
 flaggelating
 filaments
 fistule
@@ -8763,7 +8764,6 @@ feoffing
 favorably
 falcinellus
 frailes
-fetchers
 flotillas
 fossage
 featurely
