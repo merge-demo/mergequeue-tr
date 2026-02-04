@@ -140,6 +140,7 @@ fulgurate
 facks
 forefront
 fumitories
+frowzier
 favus
 falls
 fulfillers
@@ -9371,7 +9372,6 @@ frenum
 ficaria
 forequoted
 finickiness
-frowzier
 fractionised
 flamboyer
 franticly

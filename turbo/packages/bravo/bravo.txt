@@ -13935,7 +13935,6 @@ backhauled
 billback
 brugh
 brushoffs
-bowstring
 burial
 bacteriotropic
 binoculate
@@ -17917,6 +17916,7 @@ bushidos
 bractless
 broadaxes
 bahmanid
+bowstring
 brahmanda
 besour
 beminstrel
