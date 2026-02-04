@@ -7596,7 +7596,6 @@ enteric
 epicoele
 elkesaite
 extolment
-espinos
 euchymous
 epicoelous
 epicondyle
@@ -13422,6 +13421,7 @@ encephalomalacosis
 expressio
 exploring
 ensnaringly
+espinos
 enraptured
 exploitable
 expressional
