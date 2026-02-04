@@ -5283,7 +5283,6 @@ emendating
 effector
 endorsees
 extemporize
-emeriti
 epicoracoidal
 eustachium
 enravishes
@@ -13436,6 +13435,7 @@ expressionlessness
 etchimin
 expresso
 embitterer
+emeriti
 erogate
 ethnodicy
 eponymous
