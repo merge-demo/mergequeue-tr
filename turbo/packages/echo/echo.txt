@@ -4233,6 +4233,7 @@ earwiggy
 elucidator
 ewhow
 emulations
+encirclements
 eppes
 echograph
 exporters
@@ -8630,7 +8631,6 @@ equivocates
 equimodal
 eunomia
 espantoon
-encirclements
 exship
 enchasten
 erythrogonium
