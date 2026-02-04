@@ -9101,7 +9101,6 @@ container
 chartable
 charter
 charterer
-cartaceous
 charterers
 charterhouse
 chartering
@@ -26396,6 +26395,7 @@ cinderlike
 coterie
 ciminite
 cryptoglioma
+cartaceous
 concavities
 centipoise
 chronically
