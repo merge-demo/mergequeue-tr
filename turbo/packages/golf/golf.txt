@@ -5079,7 +5079,6 @@ gemel
 goldylocks
 gyps
 glaucophanite
-goldcrest
 gundogs
 guerdon
 gammick
@@ -6833,6 +6832,7 @@ gannet
 glibly
 goodenia
 gestated
+goldcrest
 gatling
 guyed
 gitterns
