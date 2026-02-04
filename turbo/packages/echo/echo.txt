@@ -4962,7 +4962,6 @@ eucephalous
 emigates
 electrocorticogram
 envy
-equinia
 engraphic
 excreation
 earthgall
@@ -9581,6 +9580,7 @@ expressing
 emigrated
 expediente
 excurse
+equinia
 esculent
 egocentristic
 encephaloma
