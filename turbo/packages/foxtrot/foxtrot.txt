@@ -2853,6 +2853,7 @@ forepreparation
 fetwa
 ferlies
 fetterlock
+foretype
 flatfish
 forewing
 foxship
@@ -3632,7 +3633,6 @@ filigrained
 fiftieths
 fibrillar
 freshed
-foretype
 filigrane
 furlana
 frangula
