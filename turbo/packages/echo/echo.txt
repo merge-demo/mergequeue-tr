@@ -2834,7 +2834,6 @@ elymi
 eliza
 extrarhythmical
 eosins
-exrupeal
 europhium
 elephantoid
 elephantoidal
@@ -4592,6 +4591,7 @@ earthtongue
 ethologically
 eucryphiaceae
 epistolean
+exrupeal
 erethizontidae
 equitably
 epilimnion

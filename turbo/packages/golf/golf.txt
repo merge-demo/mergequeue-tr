@@ -3582,6 +3582,7 @@ gogos
 grewhound
 ghees
 gladen
+glaumrie
 guanylic
 granilla
 goglets
@@ -8722,7 +8723,6 @@ guineaman
 guddled
 gawkers
 gudefather
-glaumrie
 gregarianism
 goo
 galyak
