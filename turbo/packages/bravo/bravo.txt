@@ -5634,7 +5634,6 @@ bombloads
 belaboring
 blisters
 brough
-bulletheaded
 blepharal
 bewigs
 barbitone
@@ -5696,6 +5695,7 @@ badgeless
 beleapt
 brining
 burling
+bulletheaded
 belecture
 burbush
 belemnitic
