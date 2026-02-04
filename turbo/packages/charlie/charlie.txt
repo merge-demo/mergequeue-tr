@@ -8943,7 +8943,6 @@ charger
 charges
 charybdian
 crankman
-charybdis
 chestnutty
 charicleia
 castigates
@@ -15900,6 +15899,7 @@ clepsydra
 contorniate
 clepsine
 condemnatory
+charybdis
 cogitantly
 cleptobioses
 conics
