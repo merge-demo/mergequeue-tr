@@ -5661,7 +5661,6 @@ factional
 facilitator
 flyovers
 flype
-feodaries
 funiculi
 forkmen
 federalizing
@@ -11157,6 +11156,7 @@ frumple
 fanciful
 francas
 fingerhold
+feodaries
 funeralize
 footnoted
 ferulae
