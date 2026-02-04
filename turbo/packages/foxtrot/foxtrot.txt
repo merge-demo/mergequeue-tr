@@ -1084,6 +1084,7 @@ farreachingly
 flurr
 fingerprint
 futiley
+foregame
 federates
 farrel
 figuresome
@@ -8265,7 +8266,6 @@ faultiness
 freestyler
 fusspots
 forepole
-foregame
 fountaining
 foursome
 fiscalism
