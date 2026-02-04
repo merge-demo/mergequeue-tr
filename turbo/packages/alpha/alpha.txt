@@ -5232,7 +5232,6 @@ antagonisation
 accoast
 affeerer
 aum
-ankerite
 antichristianly
 almendron
 ampulated
@@ -10003,6 +10002,7 @@ abayah
 antaranga
 abele
 abluents
+ankerite
 activator
 authenticities
 assayer
