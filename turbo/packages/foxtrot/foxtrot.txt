@@ -7546,6 +7546,7 @@ factual
 fandangos
 fleshquake
 ferrules
+forejudger
 foredefeated
 frankheartedness
 flightworthy
@@ -9452,7 +9453,6 @@ frauleins
 formaliter
 fissiparousness
 flatbottom
-forejudger
 fosterlings
 floatman
 fondlesome
