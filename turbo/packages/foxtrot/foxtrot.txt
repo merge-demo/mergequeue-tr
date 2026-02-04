@@ -7542,7 +7542,6 @@ felicities
 fanfare
 filamented
 factual
-fandangos
 fleshquake
 ferrules
 forejudger
@@ -10716,6 +10715,7 @@ fatherliness
 figent
 fitfully
 flary
+fandangos
 fleckered
 faradays
 fartlek
