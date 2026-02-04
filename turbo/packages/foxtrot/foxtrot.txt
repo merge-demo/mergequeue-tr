@@ -5169,6 +5169,7 @@ fictions
 flameflower
 feeding
 flued
+frontsman
 flangeway
 futter
 fibs
@@ -10452,7 +10453,6 @@ fullery
 foreadvice
 frontotemporal
 forestian
-frontsman
 fluxional
 frontspieces
 fwd
