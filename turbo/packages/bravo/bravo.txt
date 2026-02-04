@@ -4773,7 +4773,6 @@ bangs
 bienseance
 bedlar
 bazoo
-bibliotic
 blackseed
 bord
 bedmate
@@ -7471,6 +7470,7 @@ batrachia
 barbules
 becovet
 buboes
+bibliotic
 bashalick
 betterment
 bepewed
