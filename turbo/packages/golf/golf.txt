@@ -361,6 +361,7 @@ gofers
 greekless
 galactophoritis
 gutwort
+gallicanism
 gingerin
 gyrectomies
 grade
@@ -5570,7 +5571,6 @@ glossocomium
 gauming
 gruelingly
 gruidae
-gallicanism
 gastrasthenia
 game
 gunstick
