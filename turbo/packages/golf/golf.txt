@@ -5454,6 +5454,7 @@ gazingly
 gentian
 gloams
 granadillo
+gunarchy
 grudgeons
 gollop
 greencoat
@@ -6327,7 +6328,6 @@ gunmetals
 glucosone
 granolithic
 grouty
-gunarchy
 gossaniferous
 gog
 graymill
