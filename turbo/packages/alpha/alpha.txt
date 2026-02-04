@@ -13336,7 +13336,6 @@ aeroballistic
 agamidae
 antimerger
 abcess
-anorexic
 aquilawood
 artifacts
 albatross
@@ -15786,6 +15785,7 @@ amidic
 antiphylloxeric
 acarpellous
 arist
+anorexic
 arthrempyesis
 antiphilosophies
 antiphysically
