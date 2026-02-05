@@ -8214,6 +8214,7 @@ fesse
 forgeable
 forwaked
 fillingness
+ferrite
 fibromyomatous
 forthcall
 forgetful
@@ -11483,7 +11484,6 @@ formular
 fuzzle
 foothill
 fisticuffery
-ferrite
 foredescribe
 fionnuala
 farms
