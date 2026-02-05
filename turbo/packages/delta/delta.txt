@@ -3491,6 +3491,7 @@ defrayable
 disembarrassment
 dismissable
 doom
+diapensiaceous
 desaturate
 desiccated
 dagobas
@@ -10877,7 +10878,6 @@ doorplates
 defrayer
 deterges
 divulgement
-diapensiaceous
 dioeciodimorphous
 dentelated
 doohinkus
