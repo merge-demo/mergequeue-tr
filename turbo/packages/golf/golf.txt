@@ -9060,6 +9060,7 @@ gherkin
 gentlehood
 gasiform
 grinch
+grovellings
 goldwork
 geoid
 garotte
@@ -9557,7 +9558,6 @@ geishas
 gneissoid
 guester
 guytrash
-grovellings
 growan
 gogmagog
 gravelike
