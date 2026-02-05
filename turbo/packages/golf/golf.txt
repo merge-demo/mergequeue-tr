@@ -6443,6 +6443,7 @@ grit
 guirlande
 graduatical
 ghazel
+guileful
 gliming
 grooving
 gibbert
@@ -8764,7 +8765,6 @@ grandchildren
 gelatinochloride
 gunslinger
 garbles
-guileful
 generable
 gerful
 gangan

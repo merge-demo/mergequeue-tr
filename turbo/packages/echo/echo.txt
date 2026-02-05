@@ -6702,7 +6702,6 @@ engraphia
 eloining
 exstill
 entete
-eupatory
 eurytherm
 epistrophy
 exungulate
@@ -14060,6 +14059,7 @@ excitonic
 e
 enterochromaffin
 extravagance
+eupatory
 extravagantly
 enchantingly
 euemerism
