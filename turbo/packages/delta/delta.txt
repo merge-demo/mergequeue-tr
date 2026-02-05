@@ -16675,7 +16675,6 @@ diablo
 drakelet
 drugging
 dramatically
-decemvirs
 dantophilist
 devote
 dowelled
@@ -17814,6 +17813,7 @@ duckmeat
 duckpin
 diabolarch
 dower
+decemvirs
 dermatological
 demographies
 descendants
