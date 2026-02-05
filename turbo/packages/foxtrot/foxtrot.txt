@@ -133,7 +133,6 @@ footfeed
 falser
 fracturable
 frigidaria
-flayers
 fifthly
 fellaheen
 fulgurate
@@ -9415,6 +9414,7 @@ fratry
 flippery
 furnaceman
 fulcrate
+flayers
 furculum
 fastwalk
 febricitant

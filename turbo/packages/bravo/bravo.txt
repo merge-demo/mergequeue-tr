@@ -1329,7 +1329,6 @@ bashless
 baroquely
 benzamino
 barbed
-balases
 balat
 basellaceous
 bedroll
@@ -7911,6 +7910,7 @@ biocatalytic
 bibliographize
 burglarising
 bourignian
+balases
 bridegroom
 billyo
 backstitched
