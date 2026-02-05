@@ -4818,7 +4818,6 @@ cymulose
 cycling
 corallita
 carracks
-chronobarometer
 conceitless
 carraway
 cortinate
@@ -6955,6 +6954,7 @@ craighle
 cenotes
 ceremonially
 cuerda
+chronobarometer
 counterimitation
 censitaire
 champion
