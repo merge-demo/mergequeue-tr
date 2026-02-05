@@ -10636,6 +10636,7 @@ biotelemetric
 biffies
 blats
 bygones
+boskiest
 blatta
 blackbreast
 biostrome
@@ -16131,7 +16132,6 @@ bounteous
 babiana
 brumalia
 baluster
-boskiest
 brookier
 brahmany
 brookite
