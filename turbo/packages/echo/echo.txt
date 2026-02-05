@@ -3972,6 +3972,7 @@ earshots
 equilibrium
 empanelling
 enfamish
+egressing
 ecumene
 emparchment
 exaltative
@@ -9254,7 +9255,6 @@ ejido
 errancies
 endospermous
 entrapments
-egressing
 electra
 exonerative
 exarch
