@@ -7168,7 +7168,6 @@ detainee
 detaining
 disinfecter
 detar
-dumbfounderment
 detassel
 detat
 defoliating
@@ -11915,6 +11914,7 @@ disembarking
 dishware
 denominationally
 disbloom
+dumbfounderment
 disembarks
 dentifrices
 degum

@@ -3332,6 +3332,7 @@ caponier
 caponiere
 cognominate
 caponiers
+cellarage
 cavilling
 cotyledon
 concavely
@@ -6770,7 +6771,6 @@ cowshard
 capless
 celioscope
 cella
-cellarage
 cellared
 chamoix
 choleraic
