@@ -9170,7 +9170,6 @@ chass
 chasse
 chassed
 chasseing
-chassepot
 chassepots
 chiarooscurist
 chasseurs
@@ -24353,6 +24352,7 @@ coral
 coercer
 concentrate
 caverning
+chassepot
 caritas
 cookshop
 cookshops
