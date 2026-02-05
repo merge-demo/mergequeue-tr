@@ -801,6 +801,7 @@ allergies
 archilithic
 abrogating
 avocado
+askant
 angiomegaly
 abronia
 abrood
@@ -8910,7 +8911,6 @@ anticosmetic
 aeolodicon
 allochthon
 antlike
-askant
 ambilevous
 azurous
 amakebe
