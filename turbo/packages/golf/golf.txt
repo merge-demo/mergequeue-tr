@@ -1919,6 +1919,7 @@ gaudless
 ganglia
 gulped
 gastromycosis
+gurgle
 garnetwork
 garnet
 garibaldi
@@ -8461,7 +8462,6 @@ graffias
 garum
 glisteningly
 glossotype
-gurgle
 gravely
 galops
 groupers
