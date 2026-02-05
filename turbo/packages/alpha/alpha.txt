@@ -11041,6 +11041,7 @@ amolilla
 amomal
 aceite
 alligating
+antaean
 araeosystyle
 antibank
 amomis
@@ -13963,7 +13964,6 @@ antheroid
 acraspedote
 ardisia
 antae
-antaean
 antaeus
 agriotypidae
 alvelos
