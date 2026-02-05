@@ -8446,6 +8446,7 @@ aljamia
 areological
 attirail
 atfalati
+annotators
 aortostenosis
 alkahest
 agalaxy
@@ -13570,7 +13571,6 @@ albuminization
 annotator
 alasas
 aventine
-annotators
 arrendator
 assonant
 anacardiaceae
