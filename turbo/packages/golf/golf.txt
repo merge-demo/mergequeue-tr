@@ -8008,7 +8008,6 @@ glossopalatine
 gasolinic
 gabby
 grayer
-goatbeard
 glycosides
 guildry
 geometry
@@ -8129,6 +8128,7 @@ gerontal
 galbanum
 generalissimo
 grager
+goatbeard
 gironde
 gordiaceous
 granulocytic
