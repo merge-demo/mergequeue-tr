@@ -2329,7 +2329,6 @@ fra
 fogramite
 fiftyfold
 footstalk
-formalizing
 fer
 firecoat
 featherstitching
@@ -10617,6 +10616,7 @@ finched
 fructuate
 flucan
 forcipulate
+formalizing
 fishifying
 festooned
 flabbergasting
