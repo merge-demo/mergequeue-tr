@@ -6058,6 +6058,7 @@ exposer
 evenhandedly
 eluant
 enfever
+esquiring
 etherealise
 edinburgh
 escheated
@@ -6401,7 +6402,6 @@ ensilist
 exceptions
 ensilver
 ensisternum
-esquiring
 eye
 earthling
 enterprisingness
