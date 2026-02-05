@@ -2617,7 +2617,6 @@ framesmith
 fibrinogenic
 forecastles
 fervent
-formalizable
 fireless
 flusters
 foreshoulder
@@ -2829,6 +2828,7 @@ furunculosis
 flatwares
 formol
 feltyfare
+formalizable
 fisty
 finable
 foresails
