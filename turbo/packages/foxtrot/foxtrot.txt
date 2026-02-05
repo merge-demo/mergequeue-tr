@@ -624,7 +624,6 @@ fragrances
 fawnskin
 fleshes
 forehand
-folly
 farrantly
 forelimb
 funnies
@@ -11172,6 +11171,7 @@ fungia
 fades
 fungicide
 fremdness
+folly
 fungian
 felspar
 fideists

@@ -4819,7 +4819,6 @@ geopolar
 guttersnipe
 guessed
 gorgonizing
-giinwale
 gladiatrix
 goyim
 gladier
@@ -8733,6 +8732,7 @@ gatherable
 gentilism
 glyceryls
 gravel
+giinwale
 gazpachos
 giantesses
 greensickness
