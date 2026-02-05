@@ -9832,6 +9832,7 @@ brights
 borg
 bewitching
 barleymow
+bloviated
 beja
 bistriate
 bombardment
@@ -11306,7 +11307,6 @@ blouse
 blearier
 basks
 blouses
-bloviated
 bhaktis
 blowbys
 benzophenanthroline
