@@ -1421,7 +1421,6 @@ amoebae
 accessariness
 arcubalist
 amidothiazole
-adipofibroma
 axilemmata
 accessioner
 accessive
@@ -2857,6 +2856,7 @@ acromiohumeral
 accrete
 actuals
 adinida
+adipofibroma
 acromphalus
 acronic
 acronically
