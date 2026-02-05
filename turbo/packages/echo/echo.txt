@@ -7216,7 +7216,6 @@ effervesce
 embrave
 economese
 ergatomorphism
-eof
 enaena
 evolutionally
 epicurize
@@ -12513,6 +12512,7 @@ exinguinal
 effare
 erythrean
 existimation
+eof
 embarcation
 eunicid
 epicalyx
