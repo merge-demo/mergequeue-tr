@@ -4611,7 +4611,6 @@ circlers
 canescene
 chronisotherm
 cangenet
-caryotin
 cutleria
 chuprassie
 caroline
@@ -13606,6 +13605,7 @@ castorial
 cymometer
 colature
 cardiarctia
+caryotin
 clavicembali
 cymophanous
 cymophenol
