@@ -3853,7 +3853,6 @@ dinobryon
 deixis
 decreases
 diduce
-daphnite
 desilicated
 deja
 dejection
@@ -6186,6 +6185,7 @@ diaphragmatically
 desiccator
 dizaine
 dermatatrophia
+daphnite
 dammer
 discretely
 dodonaena
