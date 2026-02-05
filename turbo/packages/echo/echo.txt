@@ -7801,6 +7801,7 @@ echolalia
 exodermis
 edmund
 empirical
+equimodal
 endopoditic
 equivocators
 extrudes
@@ -8626,7 +8627,6 @@ epionychia
 equilibriums
 etherialization
 equivocates
-equimodal
 eunomia
 espantoon
 exship
