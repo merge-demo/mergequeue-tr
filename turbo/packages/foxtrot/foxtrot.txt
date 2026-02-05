@@ -1487,7 +1487,6 @@ fasciculite
 feoffees
 flittern
 flix
-felicitators
 flavorings
 favourable
 friedman
@@ -4245,6 +4244,7 @@ flowerpecker
 foreyard
 fatless
 flail
+felicitators
 fireward
 forehead
 firewater
