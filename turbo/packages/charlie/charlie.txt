@@ -17697,7 +17697,6 @@ counternoise
 couched
 cinchonin
 comaking
-chemosmoic
 catan
 cockroaches
 cozing
@@ -28463,6 +28462,7 @@ creashaks
 cuffyism
 chevachie
 creasier
+chemosmoic
 curiegram
 consistory
 creasot
