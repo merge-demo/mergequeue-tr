@@ -1484,7 +1484,6 @@ banig
 breathtaking
 beryllonite
 balker
-balkiest
 byronize
 balking
 budgy
@@ -8990,6 +8989,7 @@ blueberries
 bioethics
 belltopperdom
 barricados
+balkiest
 boogaloo
 boskiness
 banghy
