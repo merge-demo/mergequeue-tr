@@ -2836,6 +2836,7 @@ geatas
 genioglossus
 genuflecting
 gaberdine
+geog
 guildship
 gratifier
 guser
@@ -8978,7 +8979,6 @@ glossalgia
 gritstone
 ghent
 gneissose
-geog
 gobletful
 gnathophorous
 gravenstein
