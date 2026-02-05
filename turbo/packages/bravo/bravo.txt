@@ -7642,7 +7642,6 @@ bollixes
 bribri
 brisbane
 bewilderment
-bewitched
 boughed
 bewitcher
 bewitches
@@ -11164,6 +11163,7 @@ blazes
 bodikin
 backbreaking
 barbero
+bewitched
 beshrouds
 berengena
 bidpai

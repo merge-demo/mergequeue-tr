@@ -12778,6 +12778,7 @@ chaenactis
 chun
 chunam
 camuse
+caphtor
 cacocnemia
 calcifies
 cutitis
@@ -28753,7 +28754,6 @@ civetone
 crepon
 crept
 canters
-caphtor
 cacographical
 circaetus
 compendiary
