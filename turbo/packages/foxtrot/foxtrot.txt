@@ -2516,6 +2516,7 @@ flunky
 favaginous
 foulmouth
 formaldehyde
+foreweigh
 feverlike
 frondescent
 ferrelling
@@ -9360,7 +9361,6 @@ fantastical
 facing
 fettler
 foxholes
-foreweigh
 flacons
 flubbing
 fidgeter
