@@ -12924,6 +12924,7 @@ antispiritual
 abscise
 arverni
 anatabine
+anthrapurpurin
 aditio
 ameer
 anglify
@@ -13152,7 +13153,6 @@ abiders
 anim
 anima
 agistor
-anthrapurpurin
 archaeopteris
 antiromance
 animacule
