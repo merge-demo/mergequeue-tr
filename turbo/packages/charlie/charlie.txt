@@ -2429,6 +2429,7 @@ caneware
 cancerogenic
 circumcentral
 condescent
+claro
 cancerophobe
 cancerophobia
 caddle
@@ -15460,7 +15461,6 @@ conga
 coapostate
 crocker
 confraternization
-claro
 cravenness
 claroes
 collegian

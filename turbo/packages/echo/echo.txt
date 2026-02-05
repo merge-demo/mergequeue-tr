@@ -9401,6 +9401,7 @@ escapees
 erysipelas
 eyehole
 enlaced
+emplacement
 extraordinarily
 exactus
 entonic
@@ -10701,7 +10702,6 @@ eugubine
 entoderm
 emeerate
 epitomizer
-emplacement
 euhemerist
 erichthus
 exothecium
