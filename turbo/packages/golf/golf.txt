@@ -6890,6 +6890,7 @@ gomeral
 galavanted
 goodrich
 geromorphism
+guessable
 guitarfishes
 geometrised
 gradients
@@ -7490,7 +7491,6 @@ germanical
 graypate
 gloomfully
 glitch
-guessable
 glottalized
 gat
 governed
