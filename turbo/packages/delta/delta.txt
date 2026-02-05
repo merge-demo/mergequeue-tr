@@ -5453,6 +5453,7 @@ dynatron
 directionality
 drought
 dyvour
+diptyca
 disattire
 debunked
 deutomala
@@ -11259,7 +11260,6 @@ downsome
 desponsage
 diesel
 disadvantagedness
-diptyca
 discases
 discasing
 discatter
