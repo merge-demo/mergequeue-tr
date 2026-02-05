@@ -3559,7 +3559,6 @@ depredations
 dripping
 dextrogyre
 dinosauric
-dinornithiformes
 degenerate
 desulphurizer
 diagrammatize
@@ -10036,6 +10035,7 @@ dauphins
 demological
 dynamograph
 dauerschlaf
+dinornithiformes
 dynamometamorphic
 disseverance
 dynamometrical
