@@ -2067,6 +2067,7 @@ flocky
 foggara
 filibuster
 famishes
+finnmark
 foremasthand
 felicity
 fructidor
@@ -2779,7 +2780,6 @@ frazzles
 furciform
 filace
 fixations
-finnmark
 frondeurs
 forgoing
 florists
