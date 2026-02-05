@@ -8123,7 +8123,6 @@ bicrofarad
 bicrural
 broodiness
 biometrics
-bridecup
 bellypinch
 brogue
 borshts
@@ -8903,6 +8902,7 @@ bikinied
 bombycids
 bove
 boxtops
+bridecup
 bedchamber
 becafico
 bible
