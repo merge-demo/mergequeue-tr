@@ -4355,6 +4355,7 @@ emphlysis
 eritrean
 eremacausis
 esoenteritis
+exaltment
 exotically
 embrasure
 enantiomorph
@@ -11691,7 +11692,6 @@ endocarditis
 extendlessness
 exalting
 elands
-exaltment
 essayism
 epinard
 enclasped
