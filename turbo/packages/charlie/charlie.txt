@@ -7316,7 +7316,6 @@ chelicera
 cerusites
 carneys
 carks
-comnenian
 cupels
 cephalocentesis
 coprocessors
@@ -28981,6 +28980,7 @@ cricoid
 cricoids
 couper
 cricopharyngeal
+comnenian
 cricothyreotomy
 choosey
 cojuror
