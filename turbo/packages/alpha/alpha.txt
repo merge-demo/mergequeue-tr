@@ -15138,7 +15138,6 @@ athena
 admonish
 antieducation
 antieducational
-abstr
 arkansas
 almemor
 antiegotistic
@@ -23257,6 +23256,7 @@ accommodately
 attractiveness
 adipogenous
 abactinally
+abstr
 adnumber
 antship
 asthorin
