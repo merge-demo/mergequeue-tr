@@ -1480,6 +1480,7 @@ explanatorily
 exonarthex
 epics
 enwombing
+edomite
 ethicalness
 endosiphonate
 enervative
@@ -4532,7 +4533,6 @@ enureses
 emplaned
 embarkation
 encephalotome
-edomite
 ethics
 epionynychia
 euphony
