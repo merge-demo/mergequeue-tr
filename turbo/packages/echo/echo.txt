@@ -13040,6 +13040,7 @@ edificator
 elites
 engrapple
 enhazard
+extrametrical
 embound
 entrusted
 epinaoi
@@ -13924,7 +13925,6 @@ engineer
 etheria
 esthesio
 extrameridional
-extrametrical
 extramission
 erythrism
 eom
