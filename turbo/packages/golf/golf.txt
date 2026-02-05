@@ -1420,6 +1420,7 @@ grapenuts
 golfs
 galactocele
 gemologists
+gutsily
 gn
 gargle
 gynoeciumcia
@@ -9791,7 +9792,6 @@ glossemes
 glares
 gnathostoma
 ginglyni
-gutsily
 glomerulonephritis
 gastrohysterotomy
 gnotobiotics
