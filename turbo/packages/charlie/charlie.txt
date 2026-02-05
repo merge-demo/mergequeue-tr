@@ -15517,7 +15517,6 @@ classed
 cyclicism
 classers
 classfellow
-classy
 contrastably
 classicalism
 crossbolted
@@ -31716,6 +31715,7 @@ cephalopodan
 counterapse
 cusping
 cur
+classy
 cuspis
 cusps
 cuspule
