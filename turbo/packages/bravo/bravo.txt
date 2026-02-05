@@ -1117,7 +1117,6 @@ bairagi
 bismarckianism
 bairdi
 bumbailiff
-beneficency
 budges
 bastiles
 bairn
@@ -13828,6 +13827,7 @@ bywoner
 block
 babesias
 bleachery
+beneficency
 bucephalus
 bricktop
 bowe
