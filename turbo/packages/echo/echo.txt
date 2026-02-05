@@ -8405,7 +8405,6 @@ earflaps
 epinasties
 exchange
 evisceration
-egyptianize
 equip
 enjoyment
 eglogue
@@ -11759,6 +11758,7 @@ extracorpuscular
 euripidean
 ekphore
 eversive
+egyptianize
 epimerise
 extrospective
 exorcises
