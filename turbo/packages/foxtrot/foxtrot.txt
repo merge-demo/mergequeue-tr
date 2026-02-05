@@ -81,7 +81,6 @@ folkright
 flattening
 flowerfence
 fiendish
-funambulating
 falsest
 fondue
 furfuroid
@@ -1049,6 +1048,7 @@ farmeress
 fireling
 flerrying
 farmerly
+funambulating
 forrel
 fletcherize
 folates
