@@ -7500,6 +7500,7 @@ filemaking
 ferroboron
 factorizations
 forespake
+foreroyal
 fallacious
 fasciation
 foreboder
@@ -8272,7 +8273,6 @@ fiscalism
 fireplaces
 forhaile
 featherer
-foreroyal
 floralia
 fod
 fraughan
