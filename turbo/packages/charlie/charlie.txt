@@ -3223,7 +3223,6 @@ capillitium
 caping
 coelelminthes
 cauli
-centrotus
 counterpoised
 crax
 catenated
@@ -6231,6 +6230,7 @@ cutinises
 chloralism
 cubically
 cartouch
+centrotus
 coreductase
 christine
 cauldrife
