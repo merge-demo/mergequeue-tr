@@ -6196,6 +6196,7 @@ extrametropolitan
 explicableness
 etiologic
 enological
+effluxion
 execs
 ellipsoid
 exodist
@@ -7680,7 +7681,6 @@ epideistic
 enthymematical
 enfeebler
 eriocaulaceous
-effluxion
 estrus
 extruder
 ellipticalness
