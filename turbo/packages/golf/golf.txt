@@ -2363,7 +2363,6 @@ gastrotomies
 galatians
 germanies
 geotectonic
-gravitates
 goggler
 gabon
 guardants
@@ -10312,6 +10311,7 @@ gemologist
 gujarati
 gametic
 gamodesmic
+gravitates
 gymnostomous
 gigantostraca
 gastroenterology
