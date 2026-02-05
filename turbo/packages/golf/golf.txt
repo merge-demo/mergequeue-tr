@@ -734,6 +734,7 @@ galvanizers
 gripple
 goaling
 galvanizing
+goles
 gemmiferousness
 gunner
 galvanologist
@@ -4337,7 +4338,6 @@ gowdnook
 grindings
 groundhog
 gink
-goles
 gorgoneia
 grandsonship
 gynogenetic
