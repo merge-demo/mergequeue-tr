@@ -1821,6 +1821,7 @@ glummer
 gibbles
 gabbier
 gatekeepers
+grandeurs
 glos
 gentile
 groupage
@@ -10136,7 +10137,6 @@ guller
 glareless
 greenier
 grouping
-grandeurs
 grudges
 granophyric
 gideonite
