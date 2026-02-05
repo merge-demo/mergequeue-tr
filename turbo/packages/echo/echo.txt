@@ -2336,6 +2336,7 @@ espaliering
 encore
 encomia
 evenlong
+evangelists
 electrocataphoresis
 ephedrine
 electrochronometric
@@ -8673,7 +8674,6 @@ encharging
 episcleritis
 earth
 epiglottides
-evangelists
 emendations
 equipoise
 endophyllous
