@@ -3123,7 +3123,6 @@ editorialized
 ellachick
 eventognathous
 epiphytology
-elogy
 exhorting
 elogium
 enthrallingly
@@ -6708,6 +6707,7 @@ epistrophy
 exungulate
 effume
 ectosomal
+elogy
 extratarsal
 ectopistes
 elusions
