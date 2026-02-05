@@ -22883,6 +22883,7 @@ checkbit
 coxcombically
 conservativeness
 commoves
+coxed
 chittering
 choisya
 collapsable
@@ -27786,7 +27787,6 @@ coxcombity
 coxcomically
 cenobitical
 cytocentrum
-coxed
 cissing
 commie
 collinear
