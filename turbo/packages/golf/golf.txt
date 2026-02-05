@@ -5197,7 +5197,6 @@ gawkier
 genial
 grenade
 goatish
-gullet
 gelsemiums
 gusseting
 glenohumeral
@@ -5964,6 +5963,7 @@ goldbricker
 gibetting
 grin
 gentry
+gullet
 goney
 gusting
 glossoplasty
