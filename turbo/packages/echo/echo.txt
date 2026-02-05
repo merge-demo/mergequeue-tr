@@ -4072,7 +4072,6 @@ eutherian
 ecthymata
 euthymy
 esthetophore
-emboil
 equitant
 enjambement
 erotophobia
@@ -11818,6 +11817,7 @@ excalcarate
 extractible
 equiproducing
 elecive
+emboil
 eulogization
 extromit
 excalceate
