@@ -6443,7 +6443,6 @@ benzonaphthol
 benzonitrile
 behedge
 benzophenothiazine
-benzophloroglucinol
 bestayed
 betting
 bewake
@@ -13630,6 +13629,7 @@ blowsy
 bouncier
 batteried
 barra
+benzophloroglucinol
 begladding
 binning
 beclouded
