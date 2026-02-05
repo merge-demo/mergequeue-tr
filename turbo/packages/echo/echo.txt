@@ -755,7 +755,6 @@ epizootiologic
 echinocaris
 evangelism
 extorsive
-emotive
 enabling
 embryoctony
 equilibrist
@@ -13972,6 +13971,7 @@ extraparliamentary
 ectotrophic
 expressless
 epimer
+emotive
 eozoonal
 endokaryogamy
 escheatage
