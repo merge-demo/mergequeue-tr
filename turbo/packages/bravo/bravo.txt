@@ -3619,7 +3619,6 @@ bathool
 balneary
 bathophobia
 buvette
-bathos
 bathrobes
 bunkmates
 buttle
@@ -13995,6 +13994,7 @@ bluecup
 bolometrically
 bensel
 boxwoods
+bathos
 bozo
 basher
 bonesetter

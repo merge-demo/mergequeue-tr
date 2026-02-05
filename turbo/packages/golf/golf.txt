@@ -7215,7 +7215,6 @@ gimcracks
 goriness
 galvanometrically
 germanocentric
-getah
 gangion
 governorate
 gourmands
@@ -10032,6 +10031,7 @@ gargoyles
 greasing
 granitoidal
 gaslit
+getah
 gisler
 guerdoner
 greatheart
