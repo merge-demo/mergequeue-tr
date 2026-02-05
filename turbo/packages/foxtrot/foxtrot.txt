@@ -2943,7 +2943,6 @@ fluke
 fissiparity
 fading
 fewterer
-francophil
 fewtrils
 follower
 fullterm
@@ -9312,6 +9311,7 @@ fastidiousness
 fireguard
 freaks
 foreschool
+francophil
 flocci
 folcgemot
 flurriment
