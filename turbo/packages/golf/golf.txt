@@ -1785,7 +1785,6 @@ gutterblood
 gelatinotype
 grain
 ghyll
-glutinate
 gestalten
 granodioritic
 gangwaymen
@@ -6389,6 +6388,7 @@ gobiesocid
 gymnocladus
 geegaws
 gentlemanliness
+glutinate
 gocart
 giddypate
 girnie
