@@ -4775,7 +4775,6 @@ audios
 aerations
 abbreviator
 avaunt
-anthologizing
 aftermath
 adenochondroma
 asterionella
@@ -9897,6 +9896,7 @@ antiprotons
 amargosa
 antigravitationally
 aphthoid
+anthologizing
 amargosos
 amaryllidaceae
 anguillula

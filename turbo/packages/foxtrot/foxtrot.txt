@@ -10408,7 +10408,6 @@ flagmen
 flags
 fitche
 footer
-floramor
 fraggings
 filigree
 fictility
@@ -10582,6 +10581,7 @@ filmily
 framable
 formylate
 feracities
+floramor
 florins
 founds
 fatidical
