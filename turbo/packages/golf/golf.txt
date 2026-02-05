@@ -4878,7 +4878,6 @@ gradational
 grasping
 gynecocentric
 gapingly
-gynandrophore
 get
 gent
 galangal
@@ -6509,6 +6508,7 @@ gomer
 gesten
 gpss
 greyskin
+gynandrophore
 guiders
 glandarious
 glouted
