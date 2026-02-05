@@ -8622,7 +8622,6 @@ exonerators
 ethylamide
 egol
 equilibria
-equilibrious
 extraliminal
 estimating
 eighteens
@@ -9590,6 +9589,7 @@ esoethmoiditis
 exornation
 energiser
 emplacing
+equilibrious
 emulator
 epihippus
 enterohemorrhage
