@@ -496,6 +496,7 @@ foretokens
 frieseite
 fiumara
 forcleave
+flabbergasted
 fakery
 flaxweed
 funbre
@@ -5274,7 +5275,6 @@ fails
 freemasonry
 flawing
 fosteringly
-flabbergasted
 footloose
 fluorosis
 flawlessness
