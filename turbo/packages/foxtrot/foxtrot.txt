@@ -1781,7 +1781,6 @@ fedn
 featherfew
 fluoridates
 fn
-featheriness
 frogface
 foreslack
 forsterite
@@ -6361,6 +6360,7 @@ fecundatory
 formularization
 furanoside
 flagelliferous
+featheriness
 floatmaker
 fireworm
 fatiguabilities
