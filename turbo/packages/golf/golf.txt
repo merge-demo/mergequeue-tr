@@ -534,6 +534,7 @@ glycyrize
 grandmammy
 grandsirs
 germanium
+galvanotonic
 gurian
 gallera
 glossodynamometer
@@ -7498,7 +7499,6 @@ governed
 gotten
 graecizing
 governesses
-galvanotonic
 greathead
 guideless
 gatelike
