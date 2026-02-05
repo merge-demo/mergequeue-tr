@@ -1531,6 +1531,7 @@ factionary
 ferruminating
 fural
 florigen
+farle
 filmmaking
 foulards
 filibeg
@@ -11136,7 +11137,6 @@ fruitiness
 feverbush
 fetometry
 fishtail
-farle
 fosters
 footmarks
 furuncular
