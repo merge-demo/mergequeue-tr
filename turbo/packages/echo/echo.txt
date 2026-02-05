@@ -6440,7 +6440,6 @@ ensorceled
 encephalometer
 epicondylitis
 earfuls
-encheck
 exercisable
 ensorcellment
 encumberment
@@ -10548,6 +10547,7 @@ endboard
 eclectical
 ensurers
 equational
+encheck
 excaudate
 elevates
 excursionary
