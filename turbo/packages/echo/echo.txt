@@ -6702,6 +6702,7 @@ engraphia
 eloining
 exstill
 entete
+eupatory
 eurytherm
 epistrophy
 exungulate
@@ -7605,7 +7606,6 @@ excysted
 epicondylian
 engraulidae
 exintine
-eupatory
 ensient
 effectless
 entocnemial
