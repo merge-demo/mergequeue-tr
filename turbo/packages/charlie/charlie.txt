@@ -8039,6 +8039,7 @@ chafery
 chiles
 cagayan
 capitulum
+colonising
 chaferies
 chafers
 caranx
@@ -19279,7 +19280,6 @@ clinid
 consumingness
 colonisationist
 colonised
-colonising
 colonist
 colonizable
 colonize
