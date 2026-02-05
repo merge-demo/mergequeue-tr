@@ -1053,7 +1053,6 @@ forrel
 fletcherize
 folates
 farmership
-flypaper
 formicarian
 frieda
 focalization
@@ -9984,6 +9983,7 @@ fencings
 fliest
 fairness
 fossilising
+flypaper
 frijole
 frightening
 footprint
