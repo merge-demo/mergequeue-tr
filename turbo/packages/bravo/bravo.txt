@@ -1887,7 +1887,6 @@ bella
 bandidos
 baronetizing
 bushie
-bandie
 bilinear
 batrachoplasty
 biparty
@@ -18282,6 +18281,7 @@ buggane
 bamah
 buttyman
 backwashing
+bandie
 bowless
 buttinski
 bourout
