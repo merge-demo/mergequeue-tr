@@ -5478,7 +5478,6 @@ growls
 groggeries
 gyrovagi
 gently
-gump
 grassfinch
 griefs
 gauffers
@@ -6434,6 +6433,7 @@ gannister
 gastraead
 guarded
 guanare
+gump
 gangrenate
 gapeworms
 gurry
