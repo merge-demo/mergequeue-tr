@@ -2222,7 +2222,6 @@ firebombs
 fuliguline
 freezing
 flatcars
-fructosan
 ferrara
 forlornest
 fightingly
@@ -3179,6 +3178,7 @@ focal
 figurally
 fuchsinophilous
 fesels
+fructosan
 fermentitious
 filariidae
 freeholds
