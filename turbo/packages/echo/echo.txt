@@ -644,6 +644,7 @@ eclegma
 ehrman
 etatism
 establishment
+edifyingness
 equisufficiency
 etherialise
 estonians
@@ -9384,7 +9385,6 @@ eventail
 embosoms
 embolies
 eucleid
-edifyingness
 ebdomade
 extensionalism
 enantiobiosis
