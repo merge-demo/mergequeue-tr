@@ -1399,7 +1399,6 @@ ericoid
 entosterna
 excoct
 encashable
-enzymes
 efflorescing
 effluences
 endoral
@@ -8714,6 +8713,7 @@ equisignal
 eupad
 epigaeous
 extradicting
+enzymes
 eriophyllous
 esculapian
 emulsifies
