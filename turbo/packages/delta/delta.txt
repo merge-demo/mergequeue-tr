@@ -3122,7 +3122,6 @@ demisemitone
 downs
 diluviate
 dissimulated
-drouths
 dryness
 defeats
 deathroot
@@ -10202,6 +10201,7 @@ dayshine
 destry
 dinotherian
 dins
+drouths
 defenestrate
 dinted
 dintless
