@@ -3560,6 +3560,7 @@ cembali
 comatulae
 captor
 capturable
+compendiously
 catechized
 capture
 captured
@@ -16871,7 +16872,6 @@ crotonbug
 chinches
 cometoid
 cypselae
-compendiously
 challah
 clucky
 concussional
