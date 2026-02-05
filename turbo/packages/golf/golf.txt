@@ -6432,6 +6432,7 @@ glossopodium
 garrupa
 gannister
 gastraead
+galactogogue
 guarded
 guanare
 gangrenate
@@ -7403,7 +7404,6 @@ gadids
 galbulidae
 girdering
 gastralgy
-galactogogue
 greable
 gynecophore
 guanins
