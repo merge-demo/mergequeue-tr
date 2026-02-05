@@ -7409,6 +7409,7 @@ densitometry
 diandria
 disseised
 detrivorous
+dispersibility
 dervish
 damn
 doggereled
@@ -13133,7 +13134,6 @@ doubtful
 dipicrylamin
 didascalic
 donkeyback
-dispersibility
 dissolution
 disconfirmation
 decaspermous
