@@ -6432,6 +6432,7 @@ disencumber
 diffusedly
 deranged
 descanted
+dog
 descants
 discourtesies
 diastatic
@@ -9261,7 +9262,6 @@ dismarketed
 displode
 dietetics
 defilading
-dog
 diethylstilboestrol
 detainal
 dekaliters
