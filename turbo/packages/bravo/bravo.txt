@@ -3305,7 +3305,6 @@ bourn
 brattle
 bastardising
 benzols
-bandaite
 babbler
 bloodiest
 basions
@@ -5772,6 +5771,7 @@ bribes
 bastonet
 beparody
 bedsheets
+bandaite
 barrator
 bechance
 belittle
