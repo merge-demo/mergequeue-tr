@@ -1508,7 +1508,6 @@ fila
 flutings
 fetcher
 furibund
-flunkeyish
 furanose
 fillipeen
 foundering
@@ -8657,6 +8656,7 @@ forgive
 fizzing
 filii
 fourness
+flunkeyish
 fiendhead
 frightsome
 fogydom
