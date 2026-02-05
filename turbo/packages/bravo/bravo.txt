@@ -1257,6 +1257,7 @@ balachong
 bambacciata
 balaena
 blindedly
+bequeaths
 barrowful
 berascals
 bendy
@@ -3844,7 +3845,6 @@ boreas
 burgeoning
 baulked
 bearbane
-bequeaths
 behight
 broccoli
 boarfishes
