@@ -8452,7 +8452,6 @@ cynegetic
 champerties
 chalaze
 champertor
-carbolxylol
 champertous
 cephalomotor
 champy
@@ -9986,6 +9985,7 @@ cherenkov
 cherimoyer
 cump
 cherish
+carbolxylol
 chordeiles
 crawfishes
 counteractant
