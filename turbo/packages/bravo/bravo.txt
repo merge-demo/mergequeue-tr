@@ -692,7 +692,6 @@ basyl
 bombo
 bungey
 biannual
-bronchiolitis
 bathyesthesia
 baculine
 boiseries
@@ -10509,6 +10508,7 @@ blarneys
 bullbird
 bridgetree
 blarny
+bronchiolitis
 blout
 bought
 begs
