@@ -1933,7 +1933,6 @@ acetylglycin
 apologetical
 argyria
 acetylhydrazine
-algetic
 anacardiaceous
 attentional
 aotus
@@ -13896,6 +13895,7 @@ affix
 anour
 asher
 anovulant
+algetic
 anovulatory
 anoxemias
 ashrams
