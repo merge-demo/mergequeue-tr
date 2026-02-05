@@ -2799,6 +2799,7 @@ elenchi
 elenchic
 elves
 elenchize
+electrodispersive
 ecthlipsis
 eath
 electrocutes
@@ -4252,7 +4253,6 @@ escutcheons
 endocrinologies
 experiment
 endometrium
-electrodispersive
 embossmen
 evertile
 exclusivism

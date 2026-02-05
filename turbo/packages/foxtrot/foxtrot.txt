@@ -4181,6 +4181,7 @@ featurish
 froe
 fidicinales
 fetus
+fungibility
 fructose
 fibrospongiae
 fruitlessness
@@ -11173,7 +11174,6 @@ fungicide
 fremdness
 fungian
 felspar
-fungibility
 fideists
 farmer
 fungicidally
