@@ -2262,6 +2262,7 @@ achtehalber
 amounts
 anvil
 agraffes
+arrowing
 auride
 armigeri
 antiager
@@ -13601,7 +13602,6 @@ antihierarchical
 algy
 annulary
 annularia
-arrowing
 adjourning
 aquarist
 amidated
