@@ -7696,7 +7696,6 @@ bewry
 bankroller
 bullwhip
 bahar
-barranca
 bourgeoisitic
 balanidae
 bilabiate
@@ -14764,6 +14763,7 @@ bipolar
 bradycrotic
 braves
 bisect
+barranca
 bravi
 braving
 bravissimo
