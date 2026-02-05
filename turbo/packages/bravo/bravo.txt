@@ -6291,7 +6291,6 @@ blatantly
 brush
 braceleted
 bimodulus
-benni
 bennies
 benomyl
 benightedness
@@ -7878,6 +7877,7 @@ biberon
 bibi
 bibionid
 brackebuschite
+benni
 bewreath
 bealtine
 bibiri
