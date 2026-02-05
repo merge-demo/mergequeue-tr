@@ -13080,7 +13080,6 @@ columnea
 ciboney
 cibophobia
 cryptocarpic
-cyborg
 ceros
 cibory
 ciboules
@@ -24397,6 +24396,7 @@ confessarius
 coolnesses
 cytochemical
 cools
+cyborg
 cardiophrenia
 coolung
 coolwort
