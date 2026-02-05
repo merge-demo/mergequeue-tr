@@ -1021,7 +1021,6 @@ cohoba
 calascione
 cydonia
 calastic
-calathea
 calathi
 calathidia
 chamberlainship
@@ -14326,6 +14325,7 @@ chipmunk
 circumstantiate
 circumstantiating
 circumstantiation
+calathea
 chloridation
 configurated
 cullied
