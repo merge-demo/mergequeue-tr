@@ -3299,6 +3299,7 @@ additament
 acutilingual
 axal
 acutilobate
+articulation
 arterioarctia
 acutiplantar
 autoluminescence
@@ -13704,7 +13705,6 @@ attern
 assart
 anointment
 anointments
-articulation
 adulterer
 astrometrical
 aunt

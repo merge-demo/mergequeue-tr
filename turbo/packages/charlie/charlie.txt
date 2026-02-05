@@ -13815,7 +13815,6 @@ cinerin
 cinerous
 correllation
 cingalese
-cortinae
 corrupted
 cynghanedd
 catalysis
@@ -19163,6 +19162,7 @@ commodatary
 collothun
 collotype
 cardiospasm
+cortinae
 corporally
 collotyped
 cousinry
