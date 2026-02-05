@@ -3003,6 +3003,7 @@ garnered
 glosser
 gushingness
 gauchest
+gasify
 gravipause
 glorias
 grounden
@@ -8032,7 +8033,6 @@ guttulae
 geminiflorous
 gruffness
 gravels
-gasify
 glenoidal
 granitiform
 geomancer
