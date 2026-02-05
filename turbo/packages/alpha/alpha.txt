@@ -11848,6 +11848,7 @@ aslake
 anticephalalgic
 analgias
 analgic
+anisopetalous
 antimalarial
 antidysuric
 africanthropus
@@ -19232,7 +19233,6 @@ ardellae
 ardency
 abenteric
 ascogonium
-anisopetalous
 acervative
 anchoritic
 antiproductively
