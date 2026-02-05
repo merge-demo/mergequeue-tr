@@ -8650,7 +8650,6 @@ admonitor
 apodeipna
 apoharmine
 aqueduct
-abandoners
 arboricultural
 allegorisation
 allegorise
@@ -8960,6 +8959,7 @@ alloiogenesis
 assizer
 alloiometric
 adjustments
+abandoners
 acrogenic
 alloisomerism
 axisymmetric
