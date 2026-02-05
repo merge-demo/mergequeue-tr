@@ -1754,7 +1754,6 @@ epigraphic
 eutony
 eyes
 encasing
-eyeseed
 entophytically
 eyeservant
 eyeshade
@@ -2639,6 +2638,7 @@ environic
 expansion
 esoterica
 estadel
+eyeseed
 eiry
 exchangeably
 entad
