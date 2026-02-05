@@ -1063,7 +1063,6 @@ edible
 entailment
 expeditive
 embase
-endothelial
 embeddable
 epistolic
 echinology
@@ -3404,6 +3403,7 @@ extrajudicial
 embarkment
 embarks
 equipage
+endothelial
 exteroceptor
 elohist
 em
