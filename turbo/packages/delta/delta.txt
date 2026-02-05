@@ -14579,6 +14579,7 @@ divisorial
 dreint
 dispensing
 divorcee
+deflow
 disembower
 dryfarm
 departmentization
@@ -16979,7 +16980,6 @@ dayan
 drometer
 drencher
 disappearing
-deflow
 dill
 demonocracy
 designee
