@@ -12643,6 +12643,7 @@ chuckawalla
 chucked
 childkind
 chucker
+chieftainships
 chuckfarthing
 chuckhole
 canvassy
@@ -22590,7 +22591,6 @@ connectibly
 chamferer
 chanson
 connecticut
-chieftainships
 cairba
 cogenial
 connection
