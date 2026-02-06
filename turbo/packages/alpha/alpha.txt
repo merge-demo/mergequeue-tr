@@ -734,7 +734,6 @@ aptote
 allantoic
 animine
 abrade
-angaralite
 accourt
 atrabile
 aphid
@@ -10102,6 +10101,7 @@ ambition
 acorned
 anisoin
 amission
+angaralite
 amerceable
 ambivalence
 aiger
