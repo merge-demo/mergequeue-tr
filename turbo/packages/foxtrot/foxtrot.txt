@@ -6664,7 +6664,6 @@ folksily
 flame
 felted
 fernery
-frounced
 frescoists
 fighters
 feast
@@ -11217,6 +11216,7 @@ firer
 failles
 flamethrowers
 fieldsman
+frounced
 fetoplacental
 fungosities
 funic
