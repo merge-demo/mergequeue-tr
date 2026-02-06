@@ -1361,7 +1361,6 @@ dreyfusism
 demobilised
 dobule
 dauties
-dauting
 divulsion
 delta
 dejecting
@@ -6667,6 +6666,7 @@ dropforge
 desideration
 desiderative
 drunkard
+dauting
 disorganize
 disorderliness
 darnex
