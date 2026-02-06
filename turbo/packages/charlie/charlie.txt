@@ -8872,7 +8872,6 @@ chingpaw
 carbolised
 candylike
 cunni
-cryptanalyst
 cremains
 cochylis
 charadrius
@@ -8998,6 +8997,7 @@ cupelers
 celestiality
 countergauge
 cookings
+cryptanalyst
 charlatanic
 charlatanistic
 charlatans
