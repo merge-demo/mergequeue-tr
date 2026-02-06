@@ -7242,6 +7242,7 @@ codbank
 chaldese
 coromell
 centuplicate
+cruelest
 centuplicating
 civility
 chucking
@@ -24706,7 +24707,6 @@ copperware
 copperwing
 cladodes
 colletarium
-cruelest
 coppices
 crepehanger
 coppin
