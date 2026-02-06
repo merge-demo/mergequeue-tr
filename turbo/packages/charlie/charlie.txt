@@ -24068,7 +24068,6 @@ camarillas
 cosmonautic
 classical
 cringing
-circularise
 conversationable
 competency
 coactor
@@ -29650,6 +29649,7 @@ chimariko
 copyholding
 chat
 crocodility
+circularise
 cattishly
 cognizer
 chemosterilant

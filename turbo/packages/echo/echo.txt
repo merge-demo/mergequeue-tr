@@ -2691,6 +2691,7 @@ erosions
 excitors
 enmesh
 enduros
+eucharist
 electrotherapy
 electrotheraputic
 emyds
@@ -9756,7 +9757,6 @@ euhedral
 emblematicize
 ectogenesis
 enrobing
-eucharist
 exfoliatory
 epyllion
 estivating
