@@ -3078,7 +3078,6 @@ biobibliographical
 bdellostomatidae
 baruria
 barvel
-bunnell
 besmearing
 brocage
 baleful
@@ -15027,6 +15026,7 @@ bredbergite
 baumhauerite
 bredes
 blindfoldedly
+bunnell
 bredestitch
 butyls
 burtons
