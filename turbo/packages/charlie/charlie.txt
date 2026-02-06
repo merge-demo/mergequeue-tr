@@ -7702,7 +7702,6 @@ ceroplastic
 ceroplastics
 cyanocrystallin
 cerosin
-cerote
 chastises
 cerotin
 chorogi
@@ -15239,6 +15238,7 @@ clamjamfery
 clammed
 caramelizes
 clammy
+cerote
 cardiagraph
 confederate
 coreciprocal
