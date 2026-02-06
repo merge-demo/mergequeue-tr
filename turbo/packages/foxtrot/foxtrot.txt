@@ -4022,6 +4022,7 @@ furbelows
 fungoid
 finishable
 flemer
+footways
 fabrication
 femininely
 foredo
@@ -11373,7 +11374,6 @@ fluencies
 fornicated
 frothless
 foreprovision
-footways
 foister
 factish
 focalizing
