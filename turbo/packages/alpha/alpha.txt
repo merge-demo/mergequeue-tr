@@ -14573,7 +14573,6 @@ asphyxiation
 alveolitis
 aquaplaned
 avesta
-aestival
 antireality
 anthropopathically
 anteclassical
@@ -20585,6 +20584,7 @@ aleuronat
 anguishing
 auriculariales
 arthritis
+aestival
 arthrobacterium
 arranged
 apathies
