@@ -4109,6 +4109,7 @@ cardinalfish
 cory
 croslet
 cancans
+climber
 cardinalfishes
 casuist
 chughole
@@ -17260,7 +17261,6 @@ cachucha
 cinematical
 cantil
 coalternate
-climber
 coaltitude
 coambulant
 crinkliest
