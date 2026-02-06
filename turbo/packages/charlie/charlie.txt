@@ -1984,7 +1984,6 @@ campanero
 comp
 crenelates
 choliambist
-crampbit
 cameronian
 coyure
 condescendent
@@ -7446,6 +7445,7 @@ caffle
 ceratitis
 ceratitoidea
 cataleptics
+crampbit
 ceratoblast
 ceratodidae
 centrifugalization
