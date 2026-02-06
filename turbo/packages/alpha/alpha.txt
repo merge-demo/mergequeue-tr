@@ -489,7 +489,6 @@ amylemia
 antiscriptural
 abiuret
 abjectedness
-attriting
 aueto
 abjections
 abjective
@@ -20258,6 +20257,7 @@ anthologise
 aphides
 animalcula
 arrivals
+attriting
 atracheate
 aromatize
 alimonied
