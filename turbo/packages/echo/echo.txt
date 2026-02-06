@@ -3750,7 +3750,6 @@ eyelast
 eolipile
 episiohematoma
 enwiden
-espartos
 eulogizing
 etuvee
 embryoism
@@ -14163,6 +14162,7 @@ extrusory
 examinations
 ecdysiast
 ethmopalatine
+espartos
 extubation
 engouee
 eriobotrya
