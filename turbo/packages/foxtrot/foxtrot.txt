@@ -4556,7 +4556,6 @@ flaunted
 fossilized
 fool
 feigned
-frenchily
 fingery
 flippance
 forestwards
@@ -10354,6 +10353,7 @@ faithfully
 felichthys
 furrowers
 foederis
+frenchily
 freshwoman
 flaps
 fingan
