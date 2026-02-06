@@ -5025,7 +5025,6 @@ equerry
 endings
 elapsing
 emplace
-elaeomargaric
 enrolled
 econometer
 excels
@@ -7995,6 +7994,7 @@ epinikia
 eriosoma
 ernestine
 ecological
+elaeomargaric
 elitism
 epicleidian
 exorganic
