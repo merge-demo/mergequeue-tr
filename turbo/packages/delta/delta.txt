@@ -258,6 +258,7 @@ dizzard
 dagomba
 daguerreotype
 downspout
+dinoceratan
 dolichopodous
 dihexahedron
 degermed
@@ -1615,7 +1616,6 @@ dicecup
 disenrol
 decl
 dealcoholize
-dinoceratan
 datisca
 deutsche
 disorientated
