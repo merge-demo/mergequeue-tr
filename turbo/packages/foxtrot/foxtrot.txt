@@ -4312,6 +4312,7 @@ freespac
 fleshings
 formicivora
 ficiform
+flambes
 fieriest
 fibromatoid
 fosslify
@@ -5146,7 +5147,6 @@ filtering
 frotteur
 frankfurter
 flavanone
-flambes
 fudge
 formicidae
 funambulism
