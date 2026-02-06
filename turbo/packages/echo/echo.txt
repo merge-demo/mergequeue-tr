@@ -2605,7 +2605,6 @@ expurgative
 electrophoretically
 eudiaphoresis
 excerpted
-elliptically
 exercitor
 enjelly
 epithelize
@@ -6119,6 +6118,7 @@ encina
 erminites
 extremum
 elaterometer
+elliptically
 elephantiases
 embelia
 ereptic
