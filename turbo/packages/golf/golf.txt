@@ -6892,7 +6892,6 @@ grammy
 glumous
 gomeral
 galavanted
-goodrich
 geromorphism
 guessable
 guitarfishes
@@ -7427,6 +7426,7 @@ garlopa
 goujat
 grampuses
 garrulous
+goodrich
 googlies
 grangerized
 genotype
