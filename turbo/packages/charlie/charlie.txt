@@ -10991,7 +10991,6 @@ chiropodous
 chiropompholyx
 contraposita
 chiropterygian
-chiropterite
 chiros
 chirotherian
 casern
@@ -13731,6 +13730,7 @@ cubbyholes
 cinema
 cinemactic
 complementary
+chiropterite
 cinemagoer
 caxiri
 cinemagoers
