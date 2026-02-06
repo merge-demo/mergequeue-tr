@@ -1086,6 +1086,7 @@ foregame
 federates
 farrel
 figuresome
+ferrumination
 faculae
 fontinalaceous
 fam
@@ -2632,7 +2633,6 @@ fraternality
 fabric
 fluocerite
 frumpling
-ferrumination
 fluviatic
 feedings
 fainaigue
