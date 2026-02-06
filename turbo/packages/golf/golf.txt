@@ -5490,7 +5490,6 @@ grumbles
 gamecocks
 ginkgoaceae
 guardlike
-globigerinae
 grainering
 guarnerius
 gourd
@@ -6272,6 +6271,7 @@ goblin
 gettable
 gullible
 gigartinaceous
+globigerinae
 gunmen
 gargantua
 gauster
