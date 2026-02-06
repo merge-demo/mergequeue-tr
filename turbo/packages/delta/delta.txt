@@ -2464,6 +2464,7 @@ duckwing
 deckle
 dulls
 diatropism
+depurition
 duds
 dishonourary
 declaim
@@ -12031,7 +12032,6 @@ dentine
 disentanglement
 daymare
 drudge
-depurition
 disentangling
 disputeless
 divinises
