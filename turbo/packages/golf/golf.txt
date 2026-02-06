@@ -5615,6 +5615,7 @@ grafts
 grumes
 glorying
 gastrosoph
+glycines
 gatemen
 gant
 gothites
@@ -7414,7 +7415,6 @@ goodmen
 grimacingly
 glasswork
 germens
-glycines
 gandering
 greggriffin
 gamotropic
