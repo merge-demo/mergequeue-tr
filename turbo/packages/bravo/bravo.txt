@@ -3076,6 +3076,7 @@ bitten
 betatter
 briery
 bialate
+bikhaconitine
 biobibliographical
 bdellostomatidae
 baruria
@@ -12972,7 +12973,6 @@ betulaceae
 benettle
 bushelage
 ballades
-bikhaconitine
 boozes
 boozier
 bombings
