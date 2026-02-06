@@ -969,7 +969,6 @@ gamogamy
 gastriloquism
 gitanemuck
 gunstone
-ghostless
 glomeruli
 graptolite
 glist
@@ -4197,6 +4196,7 @@ gazella
 geumatophobia
 gradometer
 galravitch
+ghostless
 generationism
 gypsuming
 goniopholis
