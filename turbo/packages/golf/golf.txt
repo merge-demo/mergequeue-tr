@@ -3844,6 +3844,7 @@ guelph
 guaycuru
 gyroplane
 gatherings
+glali
 geomorphogenic
 globeholder
 garnetiferous
@@ -5071,7 +5072,6 @@ gubbo
 glycoside
 glossate
 gregarinous
-glali
 gaumed
 grumbly
 gallweed
