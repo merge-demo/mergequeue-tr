@@ -932,7 +932,6 @@ gnashes
 gerardia
 glycaemia
 grumousness
-glucosemia
 gawkishness
 gatewise
 gymnophobia
@@ -5451,6 +5450,7 @@ gloomingly
 garnishment
 gadaria
 gastroparietal
+glucosemia
 gazingly
 gentian
 gloams
