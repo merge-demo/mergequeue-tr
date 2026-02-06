@@ -3125,7 +3125,6 @@ gurgles
 georgics
 glycosyl
 goosetongue
-gnathobasic
 gnast
 galumphing
 garial
@@ -8554,6 +8553,7 @@ gretchen
 gurgeons
 griped
 guarri
+gnathobasic
 gastrolatrous
 ginnier
 gonidioid
