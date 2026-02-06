@@ -4525,7 +4525,6 @@ angiostegnosis
 ankylodactylia
 asellus
 aristodemocratical
-adventurism
 axonic
 aquotization
 acheirus
@@ -25064,6 +25063,7 @@ antelation
 anaesthetist
 arcadianism
 aguinaldo
+adventurism
 adaptations
 aggregation
 awrist
