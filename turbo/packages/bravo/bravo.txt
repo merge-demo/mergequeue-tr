@@ -7050,7 +7050,6 @@ bollixed
 bicephalic
 balsamous
 brideknot
-boating
 bussings
 belletrist
 biometricist
@@ -16238,6 +16237,7 @@ boxcars
 bagmaking
 blandish
 bryologies
+boating
 breadstuffs
 brouhaha
 broussonetia
