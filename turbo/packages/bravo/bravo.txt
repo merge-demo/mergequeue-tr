@@ -8038,6 +8038,7 @@ bicyclers
 bicyclic
 bicyclism
 bathinette
+butterfat
 blastaea
 bedabbles
 burntly
@@ -18211,7 +18212,6 @@ beshadowing
 brisken
 bonhomous
 beyond
-butterfat
 bucranium
 bandages
 bushwhacks
