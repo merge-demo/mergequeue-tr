@@ -4603,7 +4603,6 @@ erethizontidae
 equitably
 epilimnion
 echevin
-eudemony
 exeunt
 elucubrate
 excellent
@@ -4853,6 +4852,7 @@ eulogizes
 encranial
 externalize
 expectorator
+eudemony
 electroed
 exportable
 episcopolatry
