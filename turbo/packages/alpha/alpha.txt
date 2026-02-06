@@ -4876,7 +4876,6 @@ aerodermectasia
 aerodynamically
 arn
 appoggiatura
-apopetalous
 amphibiology
 aloma
 anucleated
@@ -8173,6 +8172,7 @@ algorab
 amenage
 antioptimism
 amaterialistic
+apopetalous
 ambitendency
 autobasidium
 alcapton
