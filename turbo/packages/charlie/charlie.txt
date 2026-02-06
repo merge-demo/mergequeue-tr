@@ -2992,7 +2992,6 @@ carne
 campesino
 canticles
 conquerableness
-conceptualistically
 cantilating
 cantilene
 cantilever
@@ -26298,6 +26297,7 @@ costoabdominal
 collegianer
 coccyxes
 cultured
+conceptualistically
 costoapical
 carmel
 cholemia
