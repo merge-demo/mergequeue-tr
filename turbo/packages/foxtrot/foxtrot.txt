@@ -4567,7 +4567,6 @@ fesswise
 fringilliformes
 forcipated
 foliages
-feetage
 fossilify
 fieldstone
 fistuca
@@ -8706,6 +8705,7 @@ flogged
 followership
 forester
 foeless
+feetage
 furfuralcohol
 fossule
 fiddlers
