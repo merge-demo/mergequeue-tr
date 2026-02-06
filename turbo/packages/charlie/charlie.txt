@@ -7953,7 +7953,6 @@ chaa
 cholecalciferol
 chab
 celibate
-chabasite
 counterclockwise
 chabazite
 celiosalpingectomy
@@ -17795,6 +17794,7 @@ conjunctivitis
 codeclination
 codecs
 cellularly
+chabasite
 chawan
 carby
 cognisableness
