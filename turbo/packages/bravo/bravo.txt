@@ -16837,7 +16837,6 @@ bacterioid
 buffable
 bahamas
 buffalo
-buffalofish
 burglarised
 bonnyvis
 buffaloing
@@ -17525,6 +17524,7 @@ bides
 bibliotherapies
 bobadilish
 bundlet
+buffalofish
 braggat
 burdensome
 beslushed
