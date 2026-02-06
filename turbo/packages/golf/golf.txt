@@ -380,7 +380,6 @@ goniometrical
 guyer
 galactosis
 grimsire
-gauric
 galactotrophy
 grf
 gastrostaxis
@@ -494,6 +493,7 @@ galere
 garaged
 gridirons
 glut
+gauric
 gipsies
 galericulate
 germing
