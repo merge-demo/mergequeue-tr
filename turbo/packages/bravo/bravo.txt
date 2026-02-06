@@ -9001,7 +9001,6 @@ biogases
 backwardation
 beliked
 biokinetics
-beautifiers
 backwort
 beledgered
 blepharochalasis
@@ -12307,6 +12306,7 @@ bonellia
 bindis
 budgeteer
 brunetness
+beautifiers
 blanquillo
 bombinae
 bolus
