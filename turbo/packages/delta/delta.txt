@@ -1597,7 +1597,6 @@ deafened
 doorjambs
 dummered
 dawe
-destruct
 dunkirker
 deafmuteness
 disembrace
@@ -14888,6 +14887,7 @@ duodenojejunostomy
 divata
 deploys
 disanimating
+destruct
 dictyonina
 drogue
 disencrease
