@@ -6361,7 +6361,6 @@ collencytal
 caustification
 caustifying
 campfires
-casefies
 comicotragedy
 charioted
 chancre
@@ -18345,6 +18344,7 @@ cogito
 coglorify
 cogman
 coralloid
+casefies
 counterbuilding
 conformers
 cogmen
