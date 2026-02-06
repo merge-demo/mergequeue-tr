@@ -3836,7 +3836,6 @@ galloperdix
 gigaherz
 gymnarchidae
 genips
-gighe
 gedeckt
 gramaryes
 grossen
@@ -5828,6 +5827,7 @@ genteelest
 gadder
 guadalcazarite
 goldfinch
+gighe
 gawney
 gipsyweed
 glucoses
