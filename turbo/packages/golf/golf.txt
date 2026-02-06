@@ -3929,7 +3929,6 @@ guardage
 grassnut
 gunhouse
 graphometrical
-groaner
 geckoes
 graduated
 geoscientist
@@ -6505,6 +6504,7 @@ granduncles
 gelseminic
 gromwell
 gamelans
+groaner
 gleeman
 gastrologists
 gomer
