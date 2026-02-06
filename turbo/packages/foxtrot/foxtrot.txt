@@ -8315,7 +8315,6 @@ filmcards
 forkedness
 folderol
 frumpish
-feastful
 fewsome
 forbidden
 fulminates
@@ -10707,6 +10706,7 @@ fise
 fibriform
 foretelling
 frumenty
+feastful
 fungals
 footband
 forecar
