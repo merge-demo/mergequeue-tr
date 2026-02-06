@@ -6733,6 +6733,7 @@ daeva
 dolichocephal
 drafts
 detachments
+dahlias
 desinence
 desinent
 desinential
@@ -17718,7 +17719,6 @@ disused
 demipauldron
 discriminable
 durables
-dahlias
 dedifferentiation
 decanonization
 dubbins
