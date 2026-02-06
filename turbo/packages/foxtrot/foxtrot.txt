@@ -8201,6 +8201,7 @@ fetors
 forficulidae
 finestra
 faltering
+flatette
 forgat
 flavines
 footwork
@@ -9531,7 +9532,6 @@ fogginess
 feroher
 filliped
 filical
-flatette
 figureless
 final
 fluter

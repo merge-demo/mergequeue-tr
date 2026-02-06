@@ -13412,7 +13412,6 @@ brushing
 bedeswoman
 bulgier
 birles
-beaver
 botryllus
 bucketer
 batonistic
@@ -18025,6 +18024,7 @@ busload
 busman
 bondmanship
 busmen
+beaver
 benda
 busses
 bussock
