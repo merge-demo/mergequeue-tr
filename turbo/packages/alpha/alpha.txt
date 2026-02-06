@@ -5092,7 +5092,6 @@ athodyds
 aerotropism
 allantois
 aeruginous
-aerugo
 aes
 autosepticemia
 aeschynomenous
@@ -5374,6 +5373,7 @@ agnosticism
 agglutinable
 affriended
 applying
+aerugo
 affrightful
 autoloaders
 affydavy
