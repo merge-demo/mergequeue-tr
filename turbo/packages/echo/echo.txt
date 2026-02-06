@@ -1134,7 +1134,6 @@ easefulness
 editorship
 editorships
 elasticness
-equatability
 encrown
 environ
 enthrill
@@ -9622,6 +9621,7 @@ eventless
 eternalise
 espada
 ethanethial
+equatability
 esurine
 espadon
 engraves
