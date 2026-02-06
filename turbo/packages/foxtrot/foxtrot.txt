@@ -3208,7 +3208,6 @@ foots
 friers
 frostwort
 flexionless
-fuchsone
 forefend
 festered
 forewarnings
@@ -6720,6 +6719,7 @@ fried
 fronded
 fissate
 folacin
+fuchsone
 falsidical
 foibles
 filmmake
