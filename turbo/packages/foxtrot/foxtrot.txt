@@ -4090,6 +4090,7 @@ fergusonite
 featherbrain
 fattable
 formal
+foozling
 forgery
 fatalness
 fissipedal
@@ -10093,7 +10094,6 @@ fennec
 functions
 fritz
 furnisher
-foozling
 fremontia
 fenian
 fordam

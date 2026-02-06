@@ -6552,6 +6552,7 @@ desegregates
 destroyed
 dilettant
 denumerative
+drawarm
 dipentene
 decipherable
 digested
@@ -6623,7 +6624,6 @@ dollmaker
 droplight
 dragading
 decadianome
-drawarm
 dipneedle
 danders
 detonator
