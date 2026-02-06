@@ -4733,6 +4733,7 @@ footlike
 fulmination
 forfeitableness
 follies
+fastuously
 fortress
 forereach
 fieldstrip
@@ -9877,7 +9878,6 @@ feverless
 filibusters
 fungicolous
 forgiven
-fastuously
 furnishings
 forcelessness
 freckled
