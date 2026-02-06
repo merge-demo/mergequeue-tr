@@ -4874,7 +4874,6 @@ arkwright
 aerodermectasia
 aerodynamically
 arn
-astrolater
 appoggiatura
 apopetalous
 amphibiology
@@ -9119,6 +9118,7 @@ antisoporific
 alcahest
 alloxan
 absterged
+astrolater
 alloxans
 arsenicalism
 alloxantin
