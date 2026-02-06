@@ -13680,7 +13680,6 @@ allocable
 abys
 alliciency
 anodos
-annalia
 apprenticed
 ambivalent
 anoestrum
@@ -18841,6 +18840,7 @@ agoniatite
 archers
 acetonurometer
 arches
+annalia
 albumosuria
 autonephrectomy
 archesporial
