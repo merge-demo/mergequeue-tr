@@ -305,6 +305,7 @@ abnormals
 agas
 admiratively
 abdominothoracic
+adjective
 acquiescent
 astoundment
 abdominous
@@ -12490,7 +12491,6 @@ apiarist
 adventists
 andronicus
 arborator
-adjective
 aromal
 androphorous
 antipyryl
