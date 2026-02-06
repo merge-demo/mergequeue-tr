@@ -9362,7 +9362,6 @@ gesticulating
 grosshead
 grosso
 gowans
-gabriel
 gaskings
 generates
 grizzled
@@ -10194,6 +10193,7 @@ gingko
 gargles
 ganzie
 getspa
+gabriel
 guyers
 gobet
 grindstone
