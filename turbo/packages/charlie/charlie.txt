@@ -21799,6 +21799,7 @@ crunchable
 carrotier
 condurangin
 cone
+cooks
 compt
 communistical
 couvades
@@ -26343,7 +26344,6 @@ costumers
 costumes
 costumic
 cabstand
-cooks
 costumiere
 costumiers
 cinematize
