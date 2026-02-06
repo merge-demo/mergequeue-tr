@@ -3414,6 +3414,7 @@ grandiosely
 gertie
 geggery
 glamourize
+glyoxim
 greyware
 gesturist
 geothermic
@@ -10704,7 +10705,6 @@ gushily
 gaumless
 grate
 gearwheel
-glyoxim
 goonda
 grandeur
 gubernatorial
