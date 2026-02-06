@@ -12125,7 +12125,6 @@ depict
 daystreak
 dilker
 declinations
-dehusk
 depthometer
 diacetine
 deadlily
@@ -16096,6 +16095,7 @@ designfulness
 deipnosophistic
 doughtiest
 doughtily
+dehusk
 directest
 diplozoon
 dishevels
