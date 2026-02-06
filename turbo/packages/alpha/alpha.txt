@@ -3713,6 +3713,7 @@ autocarpic
 adeona
 attenuative
 argoan
+arises
 amies
 archidiaceae
 antilogarithmic
@@ -24352,7 +24353,6 @@ accurately
 aneurysmatic
 authorly
 amaroidal
-arises
 autorotation
 acceptor
 atopen
