@@ -2238,6 +2238,7 @@ femora
 fatil
 fain
 fenced
+fascinated
 fimbrilla
 fencelessness
 fengite
@@ -10058,7 +10059,6 @@ flabbiest
 fascicular
 feloniously
 familistical
-fascinated
 figure
 faradonervous
 fleyed
