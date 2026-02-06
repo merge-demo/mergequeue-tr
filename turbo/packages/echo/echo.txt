@@ -5731,6 +5731,7 @@ eau
 educabilia
 etherolate
 emerald
+evince
 engirdle
 ebullient
 engrege
@@ -11486,7 +11487,6 @@ electromyogram
 emendate
 engouled
 eunuchize
-evince
 enalid
 endlessly
 embryoma
