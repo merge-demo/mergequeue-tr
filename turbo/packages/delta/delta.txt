@@ -2097,7 +2097,6 @@ decameron
 digraph
 decamethonium
 decametric
-deerhound
 decanal
 decancellate
 dominator
@@ -14751,6 +14750,7 @@ diazide
 dasycladaceous
 divinator
 duppy
+deerhound
 disabusal
 diaheliotropically
 doublegear
