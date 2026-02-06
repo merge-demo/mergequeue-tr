@@ -156,7 +156,6 @@ erotopath
 enunciations
 earthly
 enriched
-exequy
 eelbobber
 expiring
 expressive
@@ -6942,6 +6941,7 @@ entrancedly
 entrancement
 ectotrophi
 endocrinism
+exequy
 ebonites
 enscene
 empusa
