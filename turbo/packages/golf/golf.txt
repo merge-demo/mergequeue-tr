@@ -3761,7 +3761,6 @@ grungier
 gastrosuccorrhea
 gibbosely
 gibbous
-ganching
 gloriously
 gelastocoridae
 gnattier
@@ -5214,6 +5213,7 @@ gymnogenous
 gurish
 glaucophane
 garish
+ganching
 goloka
 grihyasutra
 guessingly
