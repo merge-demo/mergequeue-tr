@@ -11173,7 +11173,6 @@ abstractiveness
 ascidioidea
 amper
 amatory
-assientist
 ascots
 analects
 achromatized
@@ -24922,6 +24921,7 @@ attractability
 awakening
 awakeningly
 awaking
+assientist
 amphibiotica
 automotor
 archform
