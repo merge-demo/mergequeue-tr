@@ -10398,7 +10398,6 @@ fronting
 fizzle
 focus
 feedable
-fissidens
 feared
 frangipanis
 fatalist
@@ -11460,6 +11459,7 @@ flaffer
 furfurylidene
 furrowy
 furrowing
+fissidens
 forletting
 furrowlike
 fiction
