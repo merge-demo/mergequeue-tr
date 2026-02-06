@@ -3460,6 +3460,7 @@ enate
 endocarpal
 epees
 elaeothesium
+endnote
 enginemen
 excusative
 epistemologist
@@ -13734,7 +13735,6 @@ elementarity
 epicarid
 enveigle
 elatine
-endnote
 extratemporal
 expels
 ensnares
