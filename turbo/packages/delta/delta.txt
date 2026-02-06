@@ -14972,7 +14972,6 @@ dorab
 dogberry
 dogberryism
 dubbeh
-dogboat
 dolomites
 dumpfile
 diathermacy
@@ -18409,6 +18408,7 @@ defrauder
 diatribist
 depark
 doke
+dogboat
 duosecant
 daedalidae
 drinky
