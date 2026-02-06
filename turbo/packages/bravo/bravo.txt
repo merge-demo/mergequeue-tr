@@ -7295,7 +7295,6 @@ beswarm
 beswelter
 bisque
 bethuel
-balti
 beguard
 beta
 broombush
@@ -7708,6 +7707,7 @@ bezazzes
 bilk
 boe
 butterflyer
+balti
 blackflies
 biocenotic
 bescribbled
