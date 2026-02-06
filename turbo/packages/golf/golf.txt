@@ -1762,6 +1762,7 @@ germinance
 goodless
 golliwogs
 gallic
+gapless
 grx
 guanine
 gentisein
@@ -3154,7 +3155,6 @@ gramoches
 gypsywort
 geoscopic
 geosphere
-gapless
 guerilla
 geochronologist
 guardiancy
