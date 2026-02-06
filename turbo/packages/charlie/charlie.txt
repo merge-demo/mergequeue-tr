@@ -12049,6 +12049,7 @@ caruage
 chockler
 casal
 chorusmaster
+calapite
 chorussed
 chorusses
 cathedralic
@@ -21533,7 +21534,6 @@ carpenteria
 conchinine
 concubine
 chasteningly
-calapite
 concubines
 cottonless
 concubitancy

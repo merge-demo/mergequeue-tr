@@ -5171,6 +5171,7 @@ echeloning
 enchanter
 expedition
 endogenous
+entangledness
 enlistment
 electo
 eleme
@@ -6511,7 +6512,6 @@ entomophthora
 exponentials
 endurant
 ended
-entangledness
 endotrachelitis
 expansometer
 ehlite
