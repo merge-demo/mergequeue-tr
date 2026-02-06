@@ -5465,7 +5465,6 @@ desiccate
 dealation
 diphyllous
 dashboard
-departmentalised
 diversities
 dx
 dimmock
@@ -17376,6 +17375,7 @@ declined
 dipleurula
 droppers
 diurnalness
+departmentalised
 dropping
 disframe
 declaims
