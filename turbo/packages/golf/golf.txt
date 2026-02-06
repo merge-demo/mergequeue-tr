@@ -4170,7 +4170,6 @@ gyron
 gynaecological
 gabbiness
 gobbing
-gastornis
 gynaeconitis
 geysers
 gaillard
@@ -6589,6 +6588,7 @@ gyrovagues
 girlery
 globulysis
 glycosuria
+gastornis
 gossans
 gp
 gemutlichkeit
