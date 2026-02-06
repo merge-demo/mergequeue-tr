@@ -2526,7 +2526,6 @@ dwined
 denitrification
 declasses
 dorn
-disjudication
 declass
 dimorphs
 declassification
@@ -13119,6 +13118,7 @@ diaphototropism
 dethyroidism
 decompositions
 defamer
+disjudication
 dipeptidase
 diocese
 disperple
