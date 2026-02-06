@@ -625,6 +625,7 @@ abolished
 acacetin
 amatols
 atelomitic
+apostle
 astigmatism
 alastrim
 astrologic
@@ -9214,7 +9215,6 @@ almery
 abide
 almerian
 ardeae
-apostle
 apetaloid
 abranchiate
 alpigene
