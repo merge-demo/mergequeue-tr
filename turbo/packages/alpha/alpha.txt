@@ -9666,6 +9666,7 @@ abridges
 aluminate
 archicontinent
 absfarad
+anthecology
 abacaxi
 appall
 aluminide
@@ -23093,7 +23094,6 @@ adjutorious
 atte
 archocele
 avodires
-anthecology
 antheriform
 attemperament
 aizle
