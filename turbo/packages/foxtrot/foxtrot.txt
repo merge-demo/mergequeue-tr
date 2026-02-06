@@ -7211,6 +7211,7 @@ financiery
 fatstocks
 fluorogen
 foregoing
+fungate
 fissuration
 fledglings
 fratricidal
@@ -9225,7 +9226,6 @@ friesic
 fruiter
 fayalites
 freckling
-fungate
 frangipani
 frizers
 framea
