@@ -10065,7 +10065,6 @@ arctisca
 avidya
 ambidextrously
 autarkikal
-avellan
 axion
 asyllabical
 ambiency
@@ -22084,6 +22083,7 @@ adversant
 adaptably
 applier
 anthemy
+avellan
 acylal
 anviltop
 arethuse
