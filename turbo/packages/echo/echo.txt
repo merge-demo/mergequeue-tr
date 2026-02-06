@@ -1223,6 +1223,7 @@ equicaloric
 exstemporal
 eme
 extrascripturality
+evenmete
 epit
 enneastyle
 eel
@@ -6433,7 +6434,6 @@ ensnared
 ensnarer
 elementish
 edental
-evenmete
 euctical
 ectropionize
 eskars
