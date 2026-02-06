@@ -7988,6 +7988,7 @@ funerals
 flutterer
 fundraise
 fitment
+fishwives
 faroese
 felsites
 ferroalloy
@@ -9514,7 +9515,6 @@ forche
 fioretti
 foliated
 fyrd
-fishwives
 felicitate
 fotched
 fursemide
