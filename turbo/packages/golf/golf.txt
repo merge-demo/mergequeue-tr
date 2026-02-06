@@ -241,6 +241,7 @@ gourinae
 garrons
 gracelessness
 gangdom
+glauconite
 gloeocapsa
 ghettoes
 gutsy
@@ -6800,7 +6801,6 @@ gremmie
 gobonee
 gnomonic
 gloryingly
-glauconite
 gloiosiphoniaceae
 gingerberry
 granulomas
