@@ -6677,6 +6677,7 @@ exploitations
 elongations
 enterprize
 egestion
+earlish
 epee
 expertising
 entosclerite
@@ -9299,7 +9300,6 @@ engulf
 erst
 easers
 edited
-earlish
 electroreceptive
 entomolegist
 erthen
