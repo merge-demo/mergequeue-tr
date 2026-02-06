@@ -3096,7 +3096,6 @@ geophilid
 galvanoscopic
 granula
 gymnasisia
-glucosine
 gelatinity
 grassie
 gumdrops
@@ -8519,6 +8518,7 @@ gourmand
 grabbling
 geranomorph
 geodetical
+glucosine
 gusla
 gilo
 germaneness
