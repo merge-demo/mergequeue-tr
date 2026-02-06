@@ -1622,6 +1622,7 @@ bewray
 ballone
 ballones
 brasier
+boxfuls
 boiguacu
 ballonne
 bewrays
@@ -14437,7 +14438,6 @@ brainstems
 brainstone
 biconical
 bodykins
-boxfuls
 belloot
 bacchanalian
 blowsed

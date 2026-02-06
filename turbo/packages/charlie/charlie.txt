@@ -9805,7 +9805,6 @@ cheloids
 cutinizing
 contrails
 chelonian
-cheloniidae
 crucialness
 cunit
 chemehuevi
@@ -20763,6 +20762,7 @@ compliances
 compliancy
 cyanauric
 compliant
+cheloniidae
 columellate
 cupcake
 complicacy
