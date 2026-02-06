@@ -6123,7 +6123,6 @@ greenly
 galactolysis
 goniatite
 gigantolite
-gunmanship
 gymnasisiums
 goyin
 grandstanded
@@ -9461,6 +9460,7 @@ gonyaulax
 gernative
 genapping
 graceful
+gunmanship
 guelphish
 grundlov
 group
