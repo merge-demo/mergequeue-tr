@@ -3329,7 +3329,6 @@ bookwork
 basipetal
 basipodite
 blank
-basipterygium
 baratheas
 believe
 brisant
@@ -9716,6 +9715,7 @@ bullish
 bisymmetry
 brandyman
 breadth
+basipterygium
 bisymmetrical
 borate
 bisync
