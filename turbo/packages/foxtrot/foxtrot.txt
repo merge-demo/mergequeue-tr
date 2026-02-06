@@ -6956,6 +6956,7 @@ fainter
 formalazine
 fumant
 flannels
+fourposter
 fineries
 furnacing
 fondly
@@ -11397,7 +11398,6 @@ frontirostria
 forgiveably
 footballer
 flushness
-fourposter
 fleak
 furnishes
 fiddles
