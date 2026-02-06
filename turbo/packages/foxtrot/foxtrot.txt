@@ -1105,7 +1105,6 @@ forthcame
 farruca
 farseer
 frenchwoman
-frondescence
 foughten
 farsighted
 fiddled
@@ -9800,6 +9799,7 @@ feverishly
 fluors
 fovilla
 freudian
+frondescence
 filthiness
 fluorenyl
 fomenter
