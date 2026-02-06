@@ -2985,6 +2985,7 @@ deoxidizing
 doxologized
 destructiveness
 deemphasized
+donator
 denaturizing
 dhai
 dolomitizing
@@ -15477,7 +15478,6 @@ drag
 daymen
 diapery
 disbands
-donator
 detergence
 discodactyl
 deceivableness
