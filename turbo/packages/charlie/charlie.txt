@@ -4949,7 +4949,6 @@ coulometry
 cartist
 cartloads
 clicket
-cartobibliography
 columbia
 cartogram
 cartography
@@ -12590,6 +12589,7 @@ cafetiere
 chronologizing
 chronomantic
 chronometer
+cartobibliography
 crom
 citolers
 chronometers
