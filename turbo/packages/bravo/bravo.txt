@@ -5770,6 +5770,7 @@ baaed
 bulgaria
 bulldozer
 belike
+brushups
 bogeying
 bribes
 bastonet
@@ -14155,7 +14156,6 @@ beaujolais
 barquantine
 brachyrrhinia
 battleward
-brushups
 brachistocephaly
 bontee
 boloed
