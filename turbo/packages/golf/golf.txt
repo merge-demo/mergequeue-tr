@@ -1436,7 +1436,6 @@ garbages
 gulfy
 grosgrained
 gainward
-glossarial
 germiparity
 garnishee
 glovemaker
@@ -9374,6 +9373,7 @@ grothine
 grothite
 glumiflorae
 guatoan
+glossarial
 glissandi
 gymel
 grottoes

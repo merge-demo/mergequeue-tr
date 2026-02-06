@@ -2645,7 +2645,6 @@ eiry
 exchangeably
 entad
 exemplarity
-ethnocentrism
 electrosmosis
 excelling
 exegetist
@@ -11337,6 +11336,7 @@ exigency
 eyoty
 echimys
 ethnohistory
+ethnocentrism
 exotropic
 electrodesiccation
 evenforth
