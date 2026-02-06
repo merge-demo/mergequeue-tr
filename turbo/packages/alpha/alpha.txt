@@ -2829,7 +2829,6 @@ aerie
 acquirer
 acromegaly
 analogs
-antiscience
 akeki
 acromelalgia
 airworthier
@@ -7693,6 +7692,7 @@ alcoholdom
 abbrev
 alcoholemia
 alcoholically
+antiscience
 appetition
 anaudia
 appendicocaecostomy
