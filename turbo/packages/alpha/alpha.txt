@@ -8107,7 +8107,6 @@ acidotic
 amora
 amphide
 alforja
-alfreda
 alfenide
 asianic
 ampelidaceae
@@ -13331,6 +13330,7 @@ archiater
 abstemiously
 anisoles
 adipopexic
+alfreda
 albireo
 aurifex
 agglutinability
