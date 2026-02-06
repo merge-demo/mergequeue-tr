@@ -871,7 +871,6 @@ gloriousness
 groundlings
 greeing
 gastromyxorrhea
-gire
 grammaticality
 gonadotropin
 gameless
@@ -5796,6 +5795,7 @@ gendarmes
 gruiformes
 guilds
 glycolaldehyde
+gire
 gedact
 galvanoplastic
 grundel
