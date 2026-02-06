@@ -3240,7 +3240,6 @@ freestanding
 forthrightly
 faradizer
 foppery
-flaught
 filbert
 freit
 fascinative
@@ -10346,6 +10345,7 @@ friendless
 fundungi
 floribunda
 foxinesses
+flaught
 fosterers
 fomentations
 forrarder
