@@ -1864,6 +1864,7 @@ gawkihood
 graphemics
 grecizing
 gossip
+generalissima
 gyrostabilized
 gleir
 graptolithina
@@ -5317,7 +5318,6 @@ gemmary
 gumbotils
 gritrock
 guiltless
-generalissima
 gracelessly
 glykopexic
 goblinize
