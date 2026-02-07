@@ -4027,6 +4027,7 @@ besiegement
 blepharophimosis
 brawnier
 beads
+bitterworm
 builds
 barcelonas
 besquib
@@ -11435,7 +11436,6 @@ bullnose
 bluebottle
 badinaged
 bouncily
-bitterworm
 build
 beside
 bibio
