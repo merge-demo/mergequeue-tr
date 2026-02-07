@@ -2142,7 +2142,6 @@ aganice
 arracks
 azobenzol
 achinese
-amphophilous
 adspiration
 abbaye
 amortissement
@@ -21506,6 +21505,7 @@ abecedaries
 agapeically
 asperser
 astrochronological
+amphophilous
 arianistical
 angaria
 archabomination
