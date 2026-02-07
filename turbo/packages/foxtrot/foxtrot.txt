@@ -7346,6 +7346,7 @@ flatworms
 floatplane
 frost
 fattened
+fetch
 fierding
 flirtigig
 foraramens
@@ -11609,7 +11610,6 @@ forced
 ferrado
 febrifugal
 for
-fetch
 forcarve
 frough
 forewinning
