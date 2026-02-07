@@ -9098,7 +9098,6 @@ fungosity
 freights
 fossorial
 fractionization
-fractions
 forncast
 foolheaded
 fads
@@ -9407,6 +9406,7 @@ faux
 furcae
 falconbill
 familial
+fractions
 foeticide
 fico
 flamens
