@@ -11377,6 +11377,7 @@ dermorhynchous
 disclimax
 dialogite
 drossing
+diethanolamine
 dastardy
 dockyard
 dropsicalness
@@ -16205,7 +16206,6 @@ dent
 dioestrous
 dowery
 derailer
-diethanolamine
 dichogamous
 dowf
 daren
