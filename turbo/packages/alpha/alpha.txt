@@ -11224,7 +11224,6 @@ adsorb
 amphiboles
 affliction
 axometric
-airiest
 agynous
 aerologists
 authority
@@ -19882,6 +19881,7 @@ aeroneurosis
 autotomized
 aimful
 aposelene
+airiest
 arithmomania
 aromatising
 armilla
