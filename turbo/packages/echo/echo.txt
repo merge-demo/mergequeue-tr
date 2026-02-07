@@ -11082,7 +11082,6 @@ electros
 espies
 esquiredom
 encage
-entune
 emulated
 emblemish
 eutaenia
@@ -12504,6 +12503,7 @@ expertize
 exine
 exies
 extraviolet
+entune
 errantia
 electicism
 everyway
