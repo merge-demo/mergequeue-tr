@@ -16686,6 +16686,7 @@ detractor
 depopulate
 dramatiser
 duret
+devaunt
 divisionistic
 dabble
 deliberalize
@@ -17308,7 +17309,6 @@ dronage
 discovenant
 dronepipe
 decurion
-devaunt
 deduct
 devolvement
 drony
