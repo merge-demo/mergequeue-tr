@@ -8325,7 +8325,6 @@ effierce
 evangelise
 enscrolls
 eternizing
-eland
 enslaved
 ethylbenzene
 endocyemate
@@ -11846,6 +11845,7 @@ elutes
 exceeded
 excelente
 evanescent
+eland
 excellencies
 eucre
 econometric
