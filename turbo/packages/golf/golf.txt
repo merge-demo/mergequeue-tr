@@ -1611,7 +1611,6 @@ grimly
 grimines
 glibness
 geratologous
-glycolipid
 gaskin
 grists
 grants
@@ -5308,6 +5307,7 @@ gingal
 goodsome
 graph
 gammadion
+glycolipid
 gliddery
 gloaters
 gigge
