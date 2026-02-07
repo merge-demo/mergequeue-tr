@@ -921,7 +921,6 @@ gaverick
 guna
 gnatcatcher
 gelatinate
-gambia
 gyrocompass
 garnishable
 grittiness
@@ -9327,6 +9326,7 @@ gwen
 glareola
 goutiness
 glonoin
+gambia
 gustative
 gladiators
 glided
