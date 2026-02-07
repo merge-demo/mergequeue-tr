@@ -2506,7 +2506,6 @@ fluxgraph
 fatihah
 fuzzily
 faldworth
-foremeant
 footsore
 feudal
 faired
@@ -9804,6 +9803,7 @@ filthiness
 fluorenyl
 fomenter
 freddy
+foremeant
 fennoman
 freudist
 foretrysail
