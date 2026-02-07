@@ -1742,7 +1742,6 @@ fibrocyte
 flashflood
 feastfully
 finny
-frouze
 fu
 felonies
 feastraw
@@ -8145,6 +8144,7 @@ forgrown
 ferula
 fantastry
 feverberries
+frouze
 formicinae
 faddle
 fraught
