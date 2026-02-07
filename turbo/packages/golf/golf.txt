@@ -2561,6 +2561,7 @@ grosses
 giveaways
 goldenrods
 generalized
+gleed
 graywall
 guv
 gabbards
@@ -5157,7 +5158,6 @@ guttae
 groundsheet
 gale
 gleamless
-gleed
 gramophone
 germinant
 glyptologist
