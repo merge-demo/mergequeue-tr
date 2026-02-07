@@ -6778,7 +6778,6 @@ gladiolus
 gatewright
 grainers
 gaberdines
-gelsemic
 gulravage
 gratiolin
 grandtotal
@@ -9466,6 +9465,7 @@ grundlov
 group
 gland
 germanophobist
+gelsemic
 gnosiological
 gammoner
 gynophoric
