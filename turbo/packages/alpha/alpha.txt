@@ -8335,7 +8335,6 @@ accumulativeness
 aliferous
 amorousness
 anasarcous
-adumbrates
 aliener
 arenga
 absquatulation
@@ -10763,6 +10762,7 @@ antiorgastic
 aminopherase
 aminopyrine
 agrobiologic
+adumbrates
 angulometer
 armitas
 arachne
