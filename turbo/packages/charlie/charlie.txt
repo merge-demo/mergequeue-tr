@@ -21198,6 +21198,7 @@ concentrativeness
 chromotypographic
 correctly
 concentrator
+conformal
 communitywide
 concentric
 circumneutral
@@ -22081,7 +22082,6 @@ cyprinoid
 cashierer
 councilor
 conformably
-conformal
 complexed
 crosstalk
 cloyne

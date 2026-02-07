@@ -8941,7 +8941,6 @@ gibbier
 gull
 germans
 gumbolike
-glaucopis
 grievable
 grievance
 grievous
@@ -9323,6 +9322,7 @@ glamorize
 gestonie
 goggliest
 gwen
+glaucopis
 glareola
 goutiness
 glonoin
