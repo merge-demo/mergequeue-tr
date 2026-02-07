@@ -2221,7 +2221,6 @@ gooseskin
 goaves
 gemwork
 gastrolith
-gymnosperms
 gerastian
 guanidopropionic
 galas
@@ -9647,6 +9646,7 @@ griotte
 gastroscopy
 gascons
 gowaned
+gymnosperms
 gorgonaceous
 globalist
 gruelers
