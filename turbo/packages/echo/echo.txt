@@ -1703,7 +1703,6 @@ eyedot
 exploder
 evener
 exaggerating
-enunciatory
 enamel
 electrolyses
 earpieces
@@ -7341,6 +7340,7 @@ eased
 etiolates
 eccoprotic
 eleut
+enunciatory
 eparchies
 eternization
 equinoctial
