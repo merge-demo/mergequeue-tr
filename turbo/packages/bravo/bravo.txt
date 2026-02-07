@@ -1721,7 +1721,6 @@ bohea
 blur
 bravehearted
 biasing
-buccate
 baloney
 bryan
 bridgepot
@@ -6435,6 +6434,7 @@ benzoglyoxaline
 bastioned
 benzoylated
 becuna
+buccate
 benzene
 burners
 benzoylation
