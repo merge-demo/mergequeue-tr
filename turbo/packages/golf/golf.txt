@@ -8886,6 +8886,7 @@ geoducks
 generaliter
 gemming
 ghess
+groggy
 granters
 grandparent
 galesaur
@@ -10732,7 +10733,6 @@ galloot
 garnish
 gournard
 gagers
-groggy
 gustiest
 geocentrically
 galewort
