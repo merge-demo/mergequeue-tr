@@ -1770,7 +1770,6 @@ featheredged
 fanzines
 forejudgment
 feldspathoidal
-faultfinders
 forehent
 fashioning
 fusels
@@ -8301,6 +8300,7 @@ firmament
 fatherlike
 flapperish
 flatulentness
+faultfinders
 fittiest
 fair
 foundling
