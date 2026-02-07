@@ -7551,6 +7551,7 @@ alodiaries
 albuminoscope
 acari
 anonyms
+alphabetary
 anisodont
 albumins
 albuminurophobia
@@ -18998,7 +18999,6 @@ astringence
 angiolith
 actinine
 ambagiousness
-alphabetary
 abstention
 archaeostomatous
 ageratum
