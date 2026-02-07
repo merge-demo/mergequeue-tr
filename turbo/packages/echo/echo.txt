@@ -4507,7 +4507,6 @@ embiidae
 encephalomyelitic
 epochally
 extramorainal
-easement
 epirrheme
 encephalomyelitis
 entalent
@@ -4527,6 +4526,7 @@ entoptoscope
 emigrationist
 electrical
 encapsulated
+easement
 encephalospinal
 ecclesiastic
 elevatedness

@@ -1424,6 +1424,7 @@ fermiums
 fratricides
 fusilly
 frequentage
+fraenum
 fatsos
 fossils
 fightwite
@@ -7745,7 +7746,6 @@ frithbot
 flyblew
 flickery
 faint
-fraenum
 forgathering
 finning
 fluorescein
