@@ -1049,7 +1049,6 @@ calcaneum
 calcannea
 calcannei
 chloroplastid
-channellers
 calcareous
 chironomidae
 calcareousness
@@ -27658,6 +27657,7 @@ cerium
 cytoarchitecturally
 clavicornate
 capeworks
+channellers
 caliver
 cowhided
 criminative
