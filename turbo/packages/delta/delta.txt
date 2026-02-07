@@ -9097,6 +9097,7 @@ disweapon
 dredging
 didelphoid
 disinclines
+dromaeognathous
 derisory
 doffs
 desexualized
@@ -12312,7 +12313,6 @@ discredited
 dutchess
 detracted
 dactyl
-dromaeognathous
 dielectrics
 doitrified
 discharged
