@@ -3837,7 +3837,6 @@ crinose
 carbonarist
 carbonating
 carbonation
-copywriter
 codfishes
 combings
 carbonators
@@ -12531,6 +12530,7 @@ chromotypography
 chromotropy
 cityish
 chromotropic
+copywriter
 commonplaceness
 cradleboard
 concepts
