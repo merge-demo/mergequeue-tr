@@ -6222,7 +6222,6 @@ gospelly
 gainable
 gobble
 gowpen
-gierfalcon
 gobbled
 gidjee
 gothicizer
@@ -7225,6 +7224,7 @@ gammas
 gromyl
 gormand
 gemmingia
+gierfalcon
 glycerine
 gormandised
 geissolomataceous
