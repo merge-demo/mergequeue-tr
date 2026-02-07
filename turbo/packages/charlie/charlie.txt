@@ -9080,7 +9080,6 @@ charr
 charras
 charre
 charred
-charrette
 consenescence
 charrier
 charriest
@@ -11157,6 +11156,7 @@ chlamyd
 chlamydate
 chlamydobacteriaceous
 cantion
+charrette
 chlamydobacteriales
 clamours
 chlamydosaurus
