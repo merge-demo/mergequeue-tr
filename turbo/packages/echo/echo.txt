@@ -1245,7 +1245,6 @@ epigrammatise
 eelcake
 elsewheres
 eumeromorph
-envenomization
 exposition
 episomal
 evaluation
@@ -2851,6 +2850,7 @@ expatiative
 evanid
 eleusinia
 explicantia
+envenomization
 emasculator
 effortfully
 eventognath

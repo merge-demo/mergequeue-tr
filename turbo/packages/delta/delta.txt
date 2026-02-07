@@ -1806,7 +1806,6 @@ desmothoraca
 debases
 duyker
 doggoned
-daggerlike
 debate
 disemboguing
 distintion
@@ -13142,6 +13141,7 @@ derelicta
 dogmatizing
 dispersing
 dynastid
+daggerlike
 dispersonate
 dysanagnosia
 dondia
