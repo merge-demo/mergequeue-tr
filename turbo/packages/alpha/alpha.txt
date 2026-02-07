@@ -9170,7 +9170,6 @@ autism
 allhallow
 abhorring
 alky
-aristogenetic
 anemometric
 antacid
 alluvious
@@ -17819,6 +17818,7 @@ appointment
 alburnous
 adonia
 ablaze
+aristogenetic
 apport
 apportionable
 ampule
