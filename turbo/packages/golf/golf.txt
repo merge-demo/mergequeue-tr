@@ -8,7 +8,6 @@ gummous
 gunrooms
 gabber
 gabbers
-gobi
 grasswork
 gabelles
 galiot
@@ -630,6 +629,7 @@ glide
 gastrotheca
 gestic
 gradatory
+gobi
 guenepe
 guideline
 galvanist
