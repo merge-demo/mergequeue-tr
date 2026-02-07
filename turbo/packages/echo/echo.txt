@@ -2548,6 +2548,7 @@ eatable
 embracery
 ezra
 emptiable
+expertizing
 electrometer
 erical
 exstrophy
@@ -7881,7 +7882,6 @@ epihydric
 elaeagnaceae
 eunuchised
 endolaryngeal
-expertizing
 electrooculogram
 edgingly
 emancipist
