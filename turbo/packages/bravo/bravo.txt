@@ -7472,6 +7472,7 @@ besmirched
 batrachia
 barbules
 becovet
+bowlegs
 buboes
 bibliotic
 bashalick
@@ -18308,7 +18309,6 @@ buttoner
 buttoners
 bedel
 bilirubinemia
-bowlegs
 buttony
 bluenosed
 brink
