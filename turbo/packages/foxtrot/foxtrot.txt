@@ -4661,6 +4661,7 @@ fixt
 furca
 flopwing
 fangs
+fetterer
 fummel
 furtherer
 flamboyancy
@@ -10438,7 +10439,6 @@ folks
 flodge
 feedhead
 fumous
-fetterer
 forfex
 finnesko
 fillagree
