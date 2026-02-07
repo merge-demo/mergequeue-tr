@@ -17296,7 +17296,6 @@ casual
 cockpit
 coapprentice
 caraipe
-coaptate
 cease
 cerements
 clankingly
@@ -23494,6 +23493,7 @@ contentional
 contentions
 colin
 catoism
+coaptate
 campephagidae
 contently
 contentment
