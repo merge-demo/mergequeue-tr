@@ -20457,7 +20457,6 @@ comparableness
 comparably
 cionotome
 comparascope
-comminuting
 coorie
 comparate
 comparatist
@@ -21183,6 +21182,7 @@ compasses
 cyclonoscope
 concento
 concolor
+comminuting
 chemicobiological
 concentrated
 concentrates

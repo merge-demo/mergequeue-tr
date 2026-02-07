@@ -6253,7 +6253,6 @@ biomechanics
 benic
 benight
 buzzed
-bandalore
 batters
 bet
 barked
@@ -6836,6 +6835,7 @@ bradylalia
 bertie
 bertolonia
 bioacoustics
+bandalore
 basigenous
 bertrum
 bullarium
