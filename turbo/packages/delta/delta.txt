@@ -7285,6 +7285,7 @@ detorsion
 deashed
 disagreed
 diclytra
+doomage
 disvulnerability
 determiner
 diameters
@@ -15761,7 +15762,6 @@ dorp
 diphthongalize
 dorpers
 dorr
-doomage
 deflorations
 dorsa
 dentiparous
