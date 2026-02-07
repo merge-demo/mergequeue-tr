@@ -9417,7 +9417,6 @@ emulgens
 escaper
 embodied
 enfranchiser
-extent
 elaphomyces
 esophagorrhagia
 elsewhere
@@ -12351,6 +12350,7 @@ endower
 enteromyiasis
 earshell
 epicleidium
+extent
 emerod
 expoliate
 extradictionary
