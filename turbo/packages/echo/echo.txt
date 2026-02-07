@@ -13560,7 +13560,6 @@ exuviae
 emmarbling
 erato
 epexegetic
-exopterygotic
 engl
 esociform
 evildoer
@@ -14135,6 +14134,7 @@ existentialize
 eutrophy
 endosternite
 embusqu
+exopterygotic
 exegetical
 endosiphonal
 extensory
