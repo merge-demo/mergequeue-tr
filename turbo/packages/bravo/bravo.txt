@@ -1076,7 +1076,6 @@ bersil
 boroughmaster
 bailiwick
 bridler
-benzothiopyran
 blockhead
 brachycephalization
 brasswork
@@ -11327,6 +11326,7 @@ blowie
 beryline
 blear
 bourbonian
+benzothiopyran
 backups
 blowing
 blowings
