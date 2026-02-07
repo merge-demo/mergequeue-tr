@@ -2396,7 +2396,6 @@ gobioidei
 geminid
 geminous
 gratinating
-gestating
 gemma
 gardeners
 gemmating
@@ -5956,6 +5955,7 @@ gaols
 garoter
 gillot
 groutiest
+gestating
 gonifs
 gemmates
 gastroenterocolostomy
