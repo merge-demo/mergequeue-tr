@@ -1244,6 +1244,7 @@ ethylidyne
 epigrammatise
 eelcake
 elsewheres
+eumeromorph
 envenomization
 exposition
 episomal
@@ -9371,7 +9372,6 @@ eucti
 eulogistic
 elkoshite
 esseda
-eumeromorph
 escalloped
 ethylates
 excerptible
