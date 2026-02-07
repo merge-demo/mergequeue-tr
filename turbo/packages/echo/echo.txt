@@ -9820,6 +9820,7 @@ estang
 ethnographist
 extincteur
 econometrician
+earthdrake
 eatables
 enanthema
 estats
@@ -11124,7 +11125,6 @@ electrolysation
 extipulate
 executing
 evacuants
-earthdrake
 exophagous
 epaulet
 entity
