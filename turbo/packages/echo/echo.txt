@@ -1449,6 +1449,7 @@ eelpout
 effort
 ethmovomer
 emeline
+emication
 ergonomic
 epanorthotic
 emunct
@@ -7018,7 +7019,6 @@ eggfruit
 enpia
 elastomer
 electricalize
-emication
 eglatere
 ethos
 enepidermic
