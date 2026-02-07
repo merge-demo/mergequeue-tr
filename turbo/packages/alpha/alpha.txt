@@ -11549,6 +11549,7 @@ alodiality
 aerometry
 agglomerant
 anisettes
+acronical
 acetoin
 ascospore
 anapnoeic
@@ -13129,7 +13130,6 @@ apprenticeship
 ablach
 alienize
 antiparliament
-acronical
 ascus
 anil
 anilau
