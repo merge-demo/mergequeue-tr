@@ -13743,7 +13743,6 @@ congruities
 cinematheques
 cutleriales
 clodpole
-cinematic
 comedienne
 czechoslovakian
 cogency
@@ -18959,6 +18958,7 @@ catouse
 collator
 chorotega
 couldna
+cinematic
 clumped
 collators
 coenobitic
