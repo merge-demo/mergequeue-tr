@@ -4456,7 +4456,6 @@ doxologies
 defused
 drinkableness
 drumloidal
-denigrator
 destruction
 dialyzer
 demiculverin
@@ -10115,6 +10114,7 @@ destriers
 desilicating
 danai
 dusks
+denigrator
 distills
 dislip
 devulgarize
