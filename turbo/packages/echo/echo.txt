@@ -1839,7 +1839,6 @@ encystments
 errabund
 edaciousness
 equitemporal
-expeller
 entoparasitic
 eremology
 erastian
@@ -10285,6 +10284,7 @@ extension
 ethmofrontal
 eyebridled
 esquamate
+expeller
 empemata
 enteromycosis
 escorial
