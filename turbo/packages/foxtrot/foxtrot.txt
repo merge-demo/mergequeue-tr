@@ -607,7 +607,6 @@ finders
 filippic
 fumishness
 falsehood
-flosculet
 frazil
 fertility
 faintingly
@@ -10876,6 +10875,7 @@ fossors
 flavor
 frowardly
 fruitful
+flosculet
 fon
 fluvioterrestrial
 fustianist
