@@ -3177,7 +3177,6 @@ active
 aweather
 ahungered
 actives
-apparency
 attunely
 activin
 activism
@@ -16407,6 +16406,7 @@ aurelius
 antodontalgic
 aberrated
 antoeci
+apparency
 antoecian
 ascogonia
 anticonvention
