@@ -13635,7 +13635,6 @@ disship
 disshiver
 deletory
 dissiliency
-dissilient
 duodecimos
 dolichurus
 dermatobia
@@ -14832,6 +14831,7 @@ disorderly
 doctress
 due
 discombobulation
+dissilient
 drafted
 dynametric
 doctrinality
