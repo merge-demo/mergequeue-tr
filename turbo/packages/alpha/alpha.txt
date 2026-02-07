@@ -8005,6 +8005,7 @@ argasid
 assapan
 auscultations
 alternates
+annotating
 aleurodes
 aleurometer
 absi
@@ -10527,7 +10528,6 @@ amical
 amarettos
 attachments
 answerableness
-annotating
 anticlimactically
 amice
 anatriptic
