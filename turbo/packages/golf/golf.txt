@@ -9790,7 +9790,6 @@ glares
 gnathostoma
 ginglyni
 glomerulonephritis
-gastrohysterotomy
 gnotobiotics
 garpikes
 greasewood
@@ -10030,6 +10029,7 @@ glaistig
 gammation
 gargoyles
 greasing
+gastrohysterotomy
 granitoidal
 gaslit
 getah
