@@ -6660,6 +6660,7 @@ ceilometer
 ceylonite
 chiococcine
 ceils
+coalas
 compound
 counterquestion
 coathangers
@@ -17194,7 +17195,6 @@ coak
 cofighter
 coakum
 cozey
-coalas
 chimmesyan
 coalbag
 coalbagger
