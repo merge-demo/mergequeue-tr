@@ -7215,6 +7215,7 @@ ells
 eh
 estolide
 esplanades
+euhyostyly
 electropercussive
 elastometry
 exocycloida
@@ -10129,7 +10130,6 @@ extranean
 etabelli
 expressiveness
 earphones
-euhyostyly
 epagomenic
 elegante
 exenterated
