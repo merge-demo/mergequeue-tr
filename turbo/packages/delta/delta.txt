@@ -7020,7 +7020,6 @@ desterilization
 dilucid
 dayak
 dolts
-deposits
 destigmatization
 destigmatizing
 destination
@@ -18311,6 +18310,7 @@ dextorsal
 doray
 desmepithelium
 danaan
+deposits
 densimeter
 dibranchious
 debtorship
