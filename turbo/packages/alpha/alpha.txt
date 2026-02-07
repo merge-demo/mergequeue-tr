@@ -8656,6 +8656,7 @@ allegorisation
 allegorise
 abscising
 admirance
+anteprostate
 aerodynamic
 absentment
 allegoriser
@@ -22045,7 +22046,6 @@ ascriptitii
 asswages
 atrebates
 asepticism
-anteprostate
 astable
 aedeagus
 astay

@@ -1933,7 +1933,6 @@ epinette
 empathically
 enthelmintha
 endict
-exarchateship
 elementalist
 ejaculatory
 ectental
@@ -11957,6 +11956,7 @@ epithecate
 exactress
 easters
 enarthroses
+exarchateship
 enteromesenteric
 epistemophilic
 epitaphist
