@@ -6437,7 +6437,6 @@ churning
 cossetted
 cavatina
 concent
-chawl
 confidente
 cavatine
 checkpoint
@@ -20564,6 +20563,7 @@ compelling
 cornerways
 compellingly
 curblike
+chawl
 cosines
 checks
 compendency
