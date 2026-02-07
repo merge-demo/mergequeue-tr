@@ -2084,7 +2084,6 @@ gyrocompasses
 glottology
 guilefully
 gawgaw
-gillian
 graminological
 gratingly
 gozzard
@@ -3393,6 +3392,7 @@ gittite
 gynaeolatry
 gerontotherapy
 gibraltar
+gillian
 gyromancy
 gentisate
 geometrized
