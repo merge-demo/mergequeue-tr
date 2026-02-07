@@ -7731,7 +7731,6 @@ bezzle
 blackmailing
 brachydactylous
 bumblebee
-bereareft
 backfilling
 bezzo
 bhabar
@@ -17299,6 +17298,7 @@ bumming
 basilweed
 bummler
 barberite
+bereareft
 burrowed
 blobber
 beechier
