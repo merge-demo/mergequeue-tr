@@ -6320,6 +6320,7 @@ cause
 caused
 cyllosis
 causey
+chylifying
 calesin
 causerie
 causers
@@ -10531,7 +10532,6 @@ chromiferous
 chylific
 chylification
 charlatanish
-chylifying
 clamworms
 carlylesque
 ceratozamia

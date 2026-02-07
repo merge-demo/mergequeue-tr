@@ -13666,7 +13666,6 @@ abaisance
 anodizes
 acoelomous
 artefacts
-ampollosity
 antituberculous
 anticum
 anesthesia
@@ -20962,6 +20961,7 @@ assuefaction
 anticlassicalness
 alimentally
 ascarid
+ampollosity
 ascaridae
 ascarides
 authoresses
