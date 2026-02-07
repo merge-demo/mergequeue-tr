@@ -3803,7 +3803,6 @@ dicellate
 deionizations
 dichroiscope
 diatropic
-dyspnoea
 deionize
 degraduation
 dopatta
@@ -13463,6 +13462,7 @@ disillusionment
 diuretic
 disguiseless
 despotism
+dyspnoea
 droyl
 disrobement
 disrober
