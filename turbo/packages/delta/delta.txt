@@ -1225,6 +1225,7 @@ daystars
 datebook
 dilacerated
 doucine
+dentinal
 dibstones
 drivehead
 disembarkation
@@ -13606,7 +13607,6 @@ dreariest
 dendritic
 doodia
 dissertational
-dentinal
 dissertative
 damme
 disparple
