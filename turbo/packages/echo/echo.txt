@@ -2097,7 +2097,6 @@ excretory
 elastica
 emboweled
 extrapolator
-effuse
 elastically
 extensionally
 eurycephalous
@@ -11825,6 +11824,7 @@ excandescent
 explemental
 erythrochroic
 endocrinopathy
+effuse
 engrossingness
 eulogized
 enacts
