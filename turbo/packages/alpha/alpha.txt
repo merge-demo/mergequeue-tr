@@ -12715,7 +12715,6 @@ artemis
 anthodium
 arsenicize
 ameliorated
-abroad
 angelate
 angeleen
 airsick
@@ -20756,6 +20755,7 @@ activates
 aerobiology
 artificial
 adverted
+abroad
 antipragmatically
 ambach
 artificialism
