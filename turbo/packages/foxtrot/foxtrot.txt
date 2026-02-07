@@ -9045,6 +9045,7 @@ forespeaker
 featy
 falsification
 flourisher
+follyer
 firmance
 furbishable
 foxly
@@ -10734,7 +10735,6 @@ forecount
 forbore
 frumpishly
 foreyear
-follyer
 fructified
 fascistize
 freelancing
