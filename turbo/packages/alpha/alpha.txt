@@ -20258,7 +20258,6 @@ animalcula
 arrivals
 attriting
 atracheate
-aromatize
 alimonied
 arrivist
 attender
@@ -21783,6 +21782,7 @@ assertion
 androids
 actinologue
 avowter
+aromatize
 assertional
 awninged
 appreciating

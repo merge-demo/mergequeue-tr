@@ -328,7 +328,6 @@ galabeah
 gazolyte
 grandpappy
 galabieh
-globulous
 galactagog
 galvanoglyph
 gradualist
@@ -5799,6 +5798,7 @@ galvanoplastic
 grundel
 gadger
 gate
+globulous
 gymnosporangium
 gynoecium
 glucate
