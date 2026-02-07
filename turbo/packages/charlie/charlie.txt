@@ -283,7 +283,6 @@ cachrys
 cachua
 cachuchas
 cachunde
-comournful
 culottes
 caci
 cacicus
@@ -4953,6 +4952,7 @@ cypseli
 cartographic
 cartographical
 cartographically
+comournful
 carton
 cartoner
 cannonball
