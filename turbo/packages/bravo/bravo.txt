@@ -8081,7 +8081,6 @@ bicolors
 beadleism
 binna
 biconcave
-bidder
 bullescene
 blusher
 biconic
@@ -14364,6 +14363,7 @@ behowl
 boxkeeper
 brahminists
 brahmoism
+bidder
 brahmsian
 barbicanage
 batocrinidae
