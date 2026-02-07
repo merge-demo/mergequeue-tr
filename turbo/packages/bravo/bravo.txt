@@ -7576,7 +7576,6 @@ bevillain
 befell
 bedote
 breezeless
-banes
 boehmite
 bevilled
 butterbill
@@ -16038,6 +16037,7 @@ bronchoscopic
 benempted
 breastsummer
 bronchoscopist
+banes
 backbear
 bronchospasm
 bellbottle

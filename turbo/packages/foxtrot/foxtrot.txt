@@ -694,7 +694,6 @@ fizzier
 folliculina
 fireman
 filemot
-floccing
 flannelmouths
 feathercut
 fairish
@@ -1962,6 +1961,7 @@ flagmaker
 fone
 feeb
 feeblemindedly
+floccing
 femaleness
 flowerlike
 festshrifts
