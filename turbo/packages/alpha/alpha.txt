@@ -524,7 +524,6 @@ abjurer
 abjurers
 abkari
 amerism
-abkhasian
 ashtrays
 abl
 asperities
@@ -11901,6 +11900,7 @@ ascertained
 anaximandrian
 amphicome
 analogicalness
+abkhasian
 amidomyelin
 abdominocardiac
 analogised
