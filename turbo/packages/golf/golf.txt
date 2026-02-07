@@ -8951,7 +8951,6 @@ guaranteed
 gradgrindish
 glander
 golgothas
-grating
 gushers
 greenbelt
 guiltier
@@ -9382,6 +9381,7 @@ geryonidae
 galloptious
 glycocholate
 gunneraceae
+grating
 gamble
 gingivoglossitis
 gramps
