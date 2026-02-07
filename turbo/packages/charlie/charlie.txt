@@ -1344,7 +1344,6 @@ calycifloral
 cascabels
 calyciflorate
 contranatural
-caliciform
 calycinal
 calycine
 calderium
@@ -29750,6 +29749,7 @@ cactales
 croodle
 challenged
 cheder
+caliciform
 colpheg
 confessory
 crookbacked
