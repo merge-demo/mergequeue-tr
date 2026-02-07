@@ -8386,6 +8386,7 @@ cantilena
 commercialized
 cckw
 cultrirostral
+corticosteroid
 chamfer
 cabirean
 chamfers
@@ -27625,7 +27626,6 @@ cowbane
 coolheaded
 chamfered
 cowbanes
-corticosteroid
 cowberry
 cardiology
 circumplect
