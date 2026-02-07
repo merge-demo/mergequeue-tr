@@ -586,7 +586,6 @@ gabfest
 gorilloid
 garron
 greaseball
-garthman
 gallinaceae
 gallinacean
 galesaurus
@@ -1005,6 +1004,7 @@ garnel
 gubernia
 gemmed
 grumblingly
+garthman
 galenoid
 gabgab
 generously
