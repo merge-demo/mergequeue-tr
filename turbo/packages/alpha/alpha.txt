@@ -8478,6 +8478,7 @@ antilog
 avogram
 anticausotic
 aschaffite
+allocators
 adulatory
 apotheosizing
 aristolochiaceae
@@ -12686,7 +12687,6 @@ anfractuosity
 authentications
 addleheadedly
 aperies
-allocators
 amixia
 aporrhaidae
 antistrumous
