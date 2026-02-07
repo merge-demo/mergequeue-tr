@@ -4084,6 +4084,7 @@ delinter
 deliquiate
 deliquium
 demisolde
+despot
 demagnetised
 dianthuses
 debye
@@ -9597,7 +9598,6 @@ dishonestly
 dollardom
 didacticity
 depass
-despot
 dihydroergotamine
 destructs
 diplexer
