@@ -4085,7 +4085,6 @@ emil
 entries
 ethmophysal
 eichhornia
-entoilment
 emplaster
 enantiomer
 elevating
@@ -11775,6 +11774,7 @@ empocket
 enteradenography
 erraticness
 exasperatingly
+entoilment
 empoisoned
 epiphytous
 enrolment
