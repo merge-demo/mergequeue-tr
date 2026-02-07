@@ -5232,7 +5232,6 @@ falangist
 faveoli
 fitful
 fierceness
-fishmen
 faugh
 flavorsome
 falda
@@ -10322,6 +10321,7 @@ ferrochrome
 farriers
 fingerleaf
 fingering
+fishmen
 forecourt
 fere
 francia
