@@ -5047,7 +5047,6 @@ dendrology
 dola
 daubes
 dumber
-dendrologous
 derivatives
 depth
 devorative
@@ -5355,6 +5354,7 @@ dermolysis
 douched
 dialysation
 denumerantive
+dendrologous
 disestablished
 drumbledore
 disinure
