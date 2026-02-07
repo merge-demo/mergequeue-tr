@@ -3777,6 +3777,7 @@ gratefulness
 greyling
 greenbugs
 greenland
+goloka
 gavialoid
 gulancha
 gorblimey
@@ -5211,7 +5212,6 @@ gurish
 glaucophane
 garish
 ganching
-goloka
 grihyasutra
 guessingly
 galoubet
