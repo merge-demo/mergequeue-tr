@@ -789,7 +789,6 @@ acurative
 afternote
 argles
 abridging
-anourous
 abris
 abristle
 alabandine
@@ -11049,6 +11048,7 @@ alligating
 antaean
 araeosystyle
 antibank
+anourous
 amomis
 autosled
 arbitre
