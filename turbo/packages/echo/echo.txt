@@ -1010,6 +1010,7 @@ energised
 elaborations
 electrohorticulture
 expansionists
+electrothermally
 epigonation
 egilops
 eudyptes
@@ -10171,7 +10172,6 @@ eyedropper
 exertion
 endodermis
 expressness
-electrothermally
 endocarpoid
 elenctical
 elodeaceae
