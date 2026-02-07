@@ -2977,7 +2977,6 @@ exister
 extraovate
 eliminable
 etymologizing
-eradiation
 eliminate
 etiologies
 embind
@@ -3670,6 +3669,7 @@ entreprenant
 entombment
 epigrammatist
 endura
+eradiation
 euploids
 eruptiveness
 exscinded
