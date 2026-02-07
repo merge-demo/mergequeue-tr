@@ -5657,7 +5657,6 @@ brabblement
 beclamoring
 brunet
 baggages
-backlashing
 baptistery
 bima
 blarina
@@ -14647,6 +14646,7 @@ bacteriologic
 branchiopneustic
 bibliomanism
 brantness
+backlashing
 brants
 bararesque
 branular
