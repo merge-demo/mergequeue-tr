@@ -6875,7 +6875,6 @@ gunpapers
 gruffest
 grimness
 grandeval
-golgotha
 gondite
 geniohyoglossal
 gonosome
@@ -7948,6 +7947,7 @@ globing
 glottologies
 goldenmouthed
 gasifiable
+golgotha
 gainer
 guttee
 globosity
