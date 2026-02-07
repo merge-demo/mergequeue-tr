@@ -2173,6 +2173,7 @@ gastrotomy
 grainer
 gaze
 genteelly
+gunslinging
 glout
 gastrotrichan
 guacos
@@ -3516,7 +3517,6 @@ ganglions
 gymnorhina
 geomagnetist
 grugru
-gunslinging
 grinded
 geo
 gloats
