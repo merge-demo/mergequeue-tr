@@ -3568,7 +3568,6 @@ glack
 gawkiness
 galleriidae
 glovers
-goetae
 granitification
 ghastliness
 ghatwazi
@@ -3628,6 +3627,7 @@ granulations
 gangwa
 georgie
 gillnets
+goetae
 gigantine
 ghizite
 gurgly
