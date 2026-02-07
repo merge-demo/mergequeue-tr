@@ -10918,7 +10918,6 @@ chirks
 contrariety
 chlorotrifluoroethylene
 chirmed
-chirming
 chirms
 crumena
 chirogale
@@ -23587,6 +23586,7 @@ continuativeness
 continuator
 cathodical
 continue
+chirming
 coulthard
 continued
 continuedness
