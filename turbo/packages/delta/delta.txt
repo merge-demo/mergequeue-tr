@@ -5302,7 +5302,6 @@ dawned
 denting
 defrayal
 demagogically
-duotype
 dentirostral
 drumbeating
 deceptory
@@ -18348,6 +18347,7 @@ disrupted
 duodecimole
 dithionic
 duodedena
+duotype
 dasi
 deputies
 duodedenums
