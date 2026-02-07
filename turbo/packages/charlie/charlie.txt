@@ -11192,6 +11192,7 @@ chloramphenicol
 caperwort
 chilopodous
 chloranemia
+capacitance
 couchy
 chloranemic
 chuffs
@@ -15815,7 +15816,6 @@ cleavers
 crusilee
 coremaker
 cleche
-capacitance
 constants
 cleck
 commune
