@@ -1112,6 +1112,7 @@ flatiron
 flots
 foretime
 farsightedness
+fifing
 flooring
 forkedly
 faciocervical
@@ -2970,7 +2971,6 @@ flycatchers
 fistmele
 flowers
 fasciate
-fifing
 fiestas
 featest
 fiar
