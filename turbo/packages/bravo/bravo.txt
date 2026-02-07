@@ -886,6 +886,7 @@ backband
 bagdad
 bunters
 begoniaceae
+badgeless
 bauxites
 bouilli
 bicolour
@@ -5693,7 +5694,6 @@ belderroot
 bodgie
 beleaguering
 bongar
-badgeless
 beleapt
 brining
 burling
