@@ -307,6 +307,7 @@ foaming
 filar
 flexuosity
 fraternation
+fillagree
 feints
 feint
 frenchize
@@ -10441,7 +10442,6 @@ feedhead
 fumous
 forfex
 finnesko
-fillagree
 fescue
 follied
 furlongs
