@@ -4011,7 +4011,6 @@ countertierce
 choosingly
 carcinomatoid
 carcinomatosis
-carpetweed
 cellophane
 cholers
 cornhusk
@@ -24002,6 +24001,7 @@ conveners
 convenience
 compliancies
 conveniences
+carpetweed
 curin
 chubb
 conveniency
