@@ -5586,7 +5586,6 @@ fortitude
 fraik
 foret
 fleysome
-forehock
 funicular
 flummydiddle
 faddiest
@@ -6011,6 +6010,7 @@ farandine
 fremescence
 forethoughted
 flewed
+forehock
 fateful
 floriation
 freet
