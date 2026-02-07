@@ -3522,6 +3522,7 @@ geo
 gloats
 gymkhana
 grudgery
+ginghams
 ghaffir
 ginniest
 garnishes
@@ -4848,7 +4849,6 @@ globularity
 guest
 greensand
 grudge
-ginghams
 greeter
 glaizie
 geologies

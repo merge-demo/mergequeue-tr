@@ -2170,7 +2170,6 @@ epimeritic
 effiguration
 enamoredness
 ethynes
-environmentalists
 encoronal
 entozoologist
 elderberries
@@ -10442,6 +10441,7 @@ emetology
 ettling
 euripi
 etiologue
+environmentalists
 endocortex
 emplume
 erstwhile
