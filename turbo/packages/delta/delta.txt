@@ -5309,6 +5309,7 @@ drumbeating
 deceptory
 dribbler
 downless
+dubba
 decorative
 dolmens
 dentistical
@@ -15979,7 +15980,6 @@ dragonnade
 dia
 dissimulative
 dimberdamber
-dubba
 devolutionary
 ditetrahedral
 duodenocholangitis
