@@ -7496,7 +7496,6 @@ graecizing
 governesses
 greathead
 guideless
-gatelike
 goliardery
 greenbone
 gymnast
@@ -8513,6 +8512,7 @@ gith
 gourmand
 grabbling
 geranomorph
+gatelike
 geodetical
 glucosine
 gusla
