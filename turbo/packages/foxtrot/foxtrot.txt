@@ -2792,7 +2792,6 @@ finlander
 fumigatories
 fcomp
 falcade
-faunae
 fibrointestinal
 ficus
 flagellums
@@ -3188,6 +3187,7 @@ fusilade
 flutterers
 flavourer
 fringiness
+faunae
 foods
 fogman
 floorshift
