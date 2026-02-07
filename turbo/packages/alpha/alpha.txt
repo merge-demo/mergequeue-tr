@@ -3536,6 +3536,7 @@ anilities
 allesthesia
 assignment
 anhydrization
+arvicole
 anybodyd
 antthrush
 apargia
@@ -19592,7 +19593,6 @@ autoslip
 almude
 acyls
 aryanism
-arvicole
 askari
 arianist
 anticouncil
