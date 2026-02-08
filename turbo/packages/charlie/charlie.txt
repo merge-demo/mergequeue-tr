@@ -6733,7 +6733,6 @@ compartmentally
 concordantly
 colliculate
 caruncle
-celestify
 cuttages
 celestina
 celestite
@@ -21424,6 +21423,7 @@ correa
 cicadidae
 camerlingos
 concludingly
+celestify
 clerkly
 corvinas
 conclusible
