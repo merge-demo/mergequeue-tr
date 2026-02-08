@@ -10869,7 +10869,6 @@ diathermometer
 demonologic
 doddart
 debaters
-deconcentrate
 distillery
 disjuncts
 desalting
@@ -17673,6 +17672,7 @@ desulphurating
 disapprovingly
 disanimal
 dimerisms
+deconcentrate
 dualizes
 demarcate
 dualmutef
