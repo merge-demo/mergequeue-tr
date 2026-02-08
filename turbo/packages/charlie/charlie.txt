@@ -3206,6 +3206,7 @@ caboclos
 capilli
 capilliculture
 cogracious
+chesboll
 clunks
 cosmoid
 caducicorn
@@ -27135,7 +27136,6 @@ countersympathy
 carburet
 countersink
 colical
-chesboll
 countersinks
 countersleight
 countersnarl
