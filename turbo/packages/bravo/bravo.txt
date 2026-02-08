@@ -8220,7 +8220,6 @@ boyism
 brahmi
 biens
 benefice
-bathroom
 bienvenue
 bayaderes
 bespurred
@@ -14436,6 +14435,7 @@ branchiocardiac
 bradynosus
 blowline
 bypath
+bathroom
 brainstems
 brainstone
 biconical
