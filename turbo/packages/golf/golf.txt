@@ -1125,7 +1125,6 @@ globalization
 glossing
 goblins
 ganoidian
-gaillardia
 geonyctitropic
 graphics
 gutsiest
@@ -6220,6 +6219,7 @@ glycogenic
 glucolipin
 galoch
 gospelly
+gaillardia
 gainable
 gobble
 gowpen
