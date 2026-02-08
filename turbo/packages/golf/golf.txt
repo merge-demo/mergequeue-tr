@@ -48,6 +48,7 @@ genotypically
 groundswell
 gableboard
 gypping
+gablatores
 groats
 graperies
 gangue
@@ -4808,7 +4809,6 @@ gagelike
 gatherer
 growlingly
 gunnysack
-gablatores
 gunnen
 gaff
 gallybagger
