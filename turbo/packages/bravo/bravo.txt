@@ -1112,7 +1112,6 @@ bayonets
 benefactors
 bifacial
 blksize
-bayong
 babongo
 bairagi
 bismarckianism
@@ -7633,6 +7632,7 @@ bibliophage
 bewhiten
 bedrivel
 bewhore
+bayong
 bewidow
 boke
 breaming
