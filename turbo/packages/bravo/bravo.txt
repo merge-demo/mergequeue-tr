@@ -10456,7 +10456,6 @@ badling
 bronco
 bailwood
 burgrave
-biosynthesis
 bravado
 bragged
 buonamano
@@ -10844,6 +10843,7 @@ bayish
 blesmol
 bestripe
 batyphone
+biosynthesis
 bienvenu
 bakership
 boul
