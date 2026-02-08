@@ -1259,6 +1259,7 @@ balaena
 blindedly
 bequeaths
 barrowful
+bulleting
 berascals
 bendy
 barleys
@@ -9705,7 +9706,6 @@ bisyllabic
 benefactions
 burao
 braize
-bulleting
 bisimine
 breaches
 brabant
