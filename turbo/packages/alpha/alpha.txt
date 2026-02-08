@@ -5440,7 +5440,6 @@ anthomania
 anastomotic
 antirestoration
 antiliquor
-anableps
 astylosternus
 anterospinal
 africanize
@@ -15583,6 +15582,7 @@ armory
 antimusically
 animalculous
 aceldama
+anableps
 afront
 antimusicalness
 androgyny
