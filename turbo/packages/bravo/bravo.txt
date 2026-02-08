@@ -10860,7 +10860,6 @@ beplumed
 bedlams
 broses
 bassan
-blepharoptosis
 biosynthetic
 blepharosynechia
 buckism
@@ -16941,6 +16940,7 @@ buggers
 buggy
 bakshi
 bluestockingish
+blepharoptosis
 buggier
 bushboy
 bombardon

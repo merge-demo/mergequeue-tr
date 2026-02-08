@@ -1043,7 +1043,6 @@ anesthesiologist
 antirentism
 absurder
 aeronautically
-advertized
 alcoholophilia
 absurdity
 assonances
@@ -14980,6 +14979,7 @@ alexas
 anathematism
 anticonstitutionally
 amorosity
+advertized
 alcamine
 anticontagionist
 agrin
