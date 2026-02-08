@@ -6782,6 +6782,7 @@ betimes
 blastocheme
 berossos
 beround
+balloonfish
 bendability
 berreaves
 berret
@@ -15522,7 +15523,6 @@ bolshevistically
 brindlish
 bryndza
 bleaters
-balloonfish
 buckstall
 bearskins
 brineless
