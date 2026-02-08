@@ -6506,7 +6506,6 @@ baccate
 broached
 bletted
 behaviorist
-burge
 backdate
 bellon
 bepatched
@@ -6665,6 +6664,7 @@ baseheartedness
 bagass
 bergman
 bergs
+burge
 breastbone
 boneshave
 binal
