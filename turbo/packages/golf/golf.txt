@@ -2041,6 +2041,7 @@ growers
 gerres
 grunion
 gyroscopics
+gibbous
 gerocomia
 gavelocks
 gattine
@@ -3758,7 +3759,6 @@ galliass
 grungier
 gastrosuccorrhea
 gibbosely
-gibbous
 gloriously
 gelastocoridae
 gnattier
