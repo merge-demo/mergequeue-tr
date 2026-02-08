@@ -8735,7 +8735,6 @@ floret
 forechurch
 flunking
 fezzy
-fjerding
 falcopern
 fetologist
 fliped
@@ -9876,6 +9875,7 @@ filibusters
 fungicolous
 forgiven
 furnishings
+fjerding
 forcelessness
 freckled
 flintstone
