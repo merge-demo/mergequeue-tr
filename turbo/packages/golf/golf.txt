@@ -1800,6 +1800,7 @@ gigots
 glycine
 gastrocolostomy
 geodesia
+gomarist
 gthite
 goala
 gainspeaker
@@ -7968,7 +7969,6 @@ grandmotherly
 groutnoll
 glistens
 gymnastical
-gomarist
 gunnies
 gorsechat
 grabbots

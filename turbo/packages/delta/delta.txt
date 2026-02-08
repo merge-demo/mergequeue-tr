@@ -4312,6 +4312,7 @@ demandant
 demarcation
 demarcatordemarcators
 demarchy
+dativogerundial
 dextroduction
 dinical
 demaree
@@ -15327,7 +15328,6 @@ dourines
 dummel
 downturned
 domains
-dativogerundial
 dissimilatory
 diploglossata
 decarboxylate
