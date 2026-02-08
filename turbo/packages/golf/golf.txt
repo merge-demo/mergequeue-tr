@@ -4693,6 +4693,7 @@ ganglander
 greenwood
 gonimolobe
 gyric
+gravitic
 germanophobia
 gryphite
 goad
@@ -8545,7 +8546,6 @@ griqua
 gravity
 germinal
 gradually
-gravitic
 gretchen
 gurgeons
 griped
