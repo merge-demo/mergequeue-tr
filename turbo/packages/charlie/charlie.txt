@@ -21893,7 +21893,6 @@ cornerbind
 camalig
 conferrers
 cohorn
-counterstain
 capelans
 crotchet
 caulote
@@ -28385,6 +28384,7 @@ crawm
 cartridge
 coalpits
 conversations
+counterstain
 cyanophyceous
 craze
 caupones
