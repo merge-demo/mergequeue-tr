@@ -389,7 +389,6 @@ enleaf
 exalte
 estrepement
 ensear
-enchondromatous
 emeries
 egoists
 ectoproctan
@@ -3225,6 +3224,7 @@ expendability
 esotery
 extraschool
 eluctate
+enchondromatous
 elude
 equant
 educive
