@@ -6210,6 +6210,7 @@ gobber
 gazettes
 goateed
 guttural
+gasolene
 ghostiest
 gconv
 gladdened
@@ -8521,7 +8522,6 @@ gusla
 gilo
 gerately
 germaneness
-gasolene
 geonoma
 gravicembalos
 gamphrel
