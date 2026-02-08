@@ -3705,7 +3705,6 @@ adenotomic
 adenous
 autocarpic
 adeona
-attenuative
 argoan
 arises
 amies
@@ -21771,6 +21770,7 @@ albanenses
 assertable
 antinganting
 assagaied
+attenuative
 awesomely
 amphitheater
 asserter
