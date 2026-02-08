@@ -1559,7 +1559,6 @@ celosia
 calliphoridae
 callipygous
 callirrhoe
-callisaurus
 callisteia
 callistephus
 callisthenic
@@ -21645,6 +21644,7 @@ crust
 condiddlement
 condiddling
 cooth
+callisaurus
 copepodous
 consternated
 condigness
