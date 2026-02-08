@@ -8358,6 +8358,7 @@ anticodon
 alilonghi
 arnaut
 animadversive
+atrabiliarious
 alimentariness
 alimentation
 alimentativeness
@@ -23474,7 +23475,6 @@ aphorizer
 ambidexterous
 ansel
 arguendo
-atrabiliarious
 augurate
 abulias
 avert
