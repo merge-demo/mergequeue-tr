@@ -6183,7 +6183,6 @@ forefence
 flightily
 forlana
 fatlings
-freyja
 floccules
 focusable
 formwork
@@ -9986,6 +9985,7 @@ fairness
 fossilising
 flypaper
 frijole
+freyja
 frightening
 footprint
 forewarner
