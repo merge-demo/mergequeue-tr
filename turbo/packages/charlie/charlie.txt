@@ -11687,6 +11687,7 @@ cholum
 celeries
 clavicor
 cladistic
+cingulectomy
 choluria
 copygraphed
 confesser
@@ -13821,7 +13822,6 @@ chronogenetic
 cheapie
 contiguously
 carina
-cingulectomy
 consumership
 cingulectomies
 cynhyena
