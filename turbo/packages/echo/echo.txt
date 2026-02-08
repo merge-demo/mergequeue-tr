@@ -8282,7 +8282,6 @@ epithalamize
 ennobles
 exactions
 epithalline
-elastase
 einstein
 earthwards
 electropuncturation
@@ -12250,6 +12249,7 @@ elegists
 extemporizer
 exegetics
 exing
+elastase
 ecphorias
 ensheaths
 electroaffinity
