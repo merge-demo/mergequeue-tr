@@ -776,6 +776,7 @@ fernleaf
 fetidness
 fezzan
 fibroangioma
+frier
 ferv
 frequently
 forelouper
@@ -4147,7 +4148,6 @@ frequence
 flunkeydom
 frottola
 fumago
-frier
 forecloses
 flattery
 fundal
