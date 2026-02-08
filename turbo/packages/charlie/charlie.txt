@@ -25224,7 +25224,6 @@ corynid
 corynine
 corinna
 corinne
-corynocarpus
 corynteria
 corinth
 corinthes
@@ -30758,6 +30757,7 @@ chummy
 cuisse
 canonical
 composing
+corynocarpus
 cuitlateco
 correctional
 chloroauric
