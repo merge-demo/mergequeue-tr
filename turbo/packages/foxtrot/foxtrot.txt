@@ -2750,7 +2750,6 @@ festoonery
 familistere
 fuddlebrained
 forgivingness
-featness
 festinated
 festinating
 festination
@@ -9775,6 +9774,7 @@ fusionism
 forisfamiliate
 fyrdung
 fatals
+featness
 formyls
 fluozirconic
 farrows
