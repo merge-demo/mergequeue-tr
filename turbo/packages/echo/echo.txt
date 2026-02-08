@@ -6378,7 +6378,6 @@ espagnole
 euskarian
 egested
 eyemark
-ethmoids
 elaboration
 enrobed
 epist
@@ -7823,6 +7822,7 @@ enterocoel
 exarchate
 ejaculator
 eddish
+ethmoids
 epigoni
 espressivo
 entomotaxy
