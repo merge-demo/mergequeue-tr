@@ -1943,6 +1943,7 @@ glorifiers
 gauffered
 groundwave
 garvie
+geoisotherm
 gonorrhoeic
 gauged
 grovet
@@ -2469,7 +2470,6 @@ globality
 gnathidium
 girt
 gillflirt
-geoisotherm
 grief
 geodynamic
 glandules
