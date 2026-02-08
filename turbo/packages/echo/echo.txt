@@ -5947,7 +5947,6 @@ erythrose
 euflavine
 eking
 expectorates
-enframing
 enigma
 egotism
 enigmas
@@ -6159,6 +6158,7 @@ ectoparasitic
 endotoxin
 erns
 embronze
+enframing
 evagation
 enthused
 entertainers
