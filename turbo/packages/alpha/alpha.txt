@@ -3427,7 +3427,6 @@ atap
 alane
 animadversal
 attentions
-abscises
 arrectary
 audaean
 angelito
@@ -8215,6 +8214,7 @@ aisles
 algorithmically
 alguifou
 actinula
+abscises
 antependium
 alhambraic
 asteria
