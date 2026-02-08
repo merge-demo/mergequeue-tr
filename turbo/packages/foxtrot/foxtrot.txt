@@ -7975,6 +7975,7 @@ forestage
 frivolled
 fae
 ferie
+fora
 flashbulb
 forbearances
 freeways
@@ -11042,7 +11043,6 @@ floriferously
 festal
 furzery
 foresights
-fora
 filiferous
 fraction
 fumarate
