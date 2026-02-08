@@ -108,7 +108,6 @@ ecphoria
 eusteles
 eaves
 exsculptate
-engobe
 egotistically
 eartab
 exodermal
@@ -9009,6 +9008,7 @@ entohyal
 effund
 erythremia
 exerted
+engobe
 entertainer
 edituate
 eteocretes
