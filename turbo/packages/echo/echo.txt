@@ -452,7 +452,6 @@ evector
 ecclesia
 enumerable
 enlacing
-ecclesiarchy
 ensnarls
 ecclesiast
 entrada
@@ -8323,6 +8322,7 @@ enscrolls
 eternizing
 enslaved
 ethylbenzene
+ecclesiarchy
 endocyemate
 epithetic
 effortlessness
