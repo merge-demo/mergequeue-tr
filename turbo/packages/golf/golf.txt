@@ -7035,6 +7035,7 @@ gynandrarchy
 gunnage
 guelphic
 giottesque
+ghoul
 glaces
 gestalter
 gourounut
@@ -10612,7 +10613,6 @@ goy
 guildite
 gunpoints
 gloomiest
-ghoul
 gunpower
 gasping
 gentled
