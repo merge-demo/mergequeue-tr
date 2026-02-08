@@ -3359,7 +3359,6 @@ feeless
 foreyards
 fusilades
 falern
-fastigate
 forcut
 fopling
 ferruginous
@@ -10943,6 +10942,7 @@ fetal
 floorage
 fadridden
 fack
+fastigate
 fecials
 francs
 fulminurate
