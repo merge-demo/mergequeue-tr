@@ -1417,6 +1417,7 @@ geneva
 gallinazo
 gnamma
 gothicism
+galidictis
 grapenuts
 golfs
 galactocele
@@ -4206,7 +4207,6 @@ gramophonist
 goby
 gynecocrat
 greenheaded
-galidictis
 gulae
 gunshots
 gleamed
