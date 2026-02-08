@@ -21491,6 +21491,7 @@ asperly
 acupuncturation
 appendicostomy
 amphiprostyle
+autolyzes
 aerophysicist
 aspermatic
 akhundzada
@@ -24190,7 +24191,6 @@ autoinfection
 alnein
 anhydraemia
 autolyzate
-autolyzes
 autoloader
 autology
 aporosa
