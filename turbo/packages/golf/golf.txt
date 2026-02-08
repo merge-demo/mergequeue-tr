@@ -5004,6 +5004,7 @@ gret
 glassful
 grapplers
 gloxinia
+gossipmonger
 glasshouses
 geomoroi
 gasts
@@ -9577,7 +9578,6 @@ gangerel
 goitered
 garrick
 gemses
-gossipmonger
 gowns
 gutteral
 gr
