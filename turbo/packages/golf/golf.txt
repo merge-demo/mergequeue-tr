@@ -479,6 +479,7 @@ gearset
 gymnical
 gleewoman
 goosefishes
+gelatia
 guardedly
 gymnospore
 genyoplasty
@@ -3325,7 +3326,6 @@ gonydial
 gahnite
 globed
 gasogen
-gelatia
 groovelike
 garrulinae
 germifuge
