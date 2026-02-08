@@ -3150,6 +3150,7 @@ eskimoes
 expurgators
 extinguishment
 eloins
+exergue
 etioporphyrin
 explorativeness
 embalms
@@ -9803,7 +9804,6 @@ escapade
 estaminet
 emittance
 electrothermostatic
-exergue
 emunctories
 exprobrate
 estampage
