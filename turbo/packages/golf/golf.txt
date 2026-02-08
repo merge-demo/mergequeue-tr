@@ -5748,6 +5748,7 @@ gauchos
 grieveship
 gast
 gloveless
+genal
 glorifiable
 gym
 gadarene
@@ -6734,7 +6735,6 @@ gaboons
 geologically
 gazania
 gyrostatics
-genal
 genros
 gondola
 goniums
