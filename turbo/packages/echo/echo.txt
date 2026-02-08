@@ -4217,7 +4217,6 @@ eccyclema
 eggeater
 euphotide
 evagination
-extrathecal
 epicycloid
 erubescite
 eduction
@@ -12610,6 +12609,7 @@ exocrines
 emanative
 epitonium
 ectethmoid
+extrathecal
 enriches
 effectualness
 epigenetically
