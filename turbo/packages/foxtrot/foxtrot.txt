@@ -4984,7 +4984,6 @@ factordom
 fullage
 fribourg
 formals
-forego
 flick
 flankers
 feued
@@ -7603,6 +7602,7 @@ forefinger
 figary
 fixed
 fritillaries
+forego
 floruits
 faeculence
 foreimagination

@@ -168,6 +168,7 @@ graphorrhea
 guesthouse
 gingerroot
 guaiaretic
+glossitic
 gardenmaker
 grumping
 graniticoline
@@ -4582,7 +4583,6 @@ gammarid
 gunlocks
 gaudy
 guerinet
-glossitic
 guttersnipish
 gyppers
 griggles
