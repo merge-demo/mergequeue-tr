@@ -6440,7 +6440,6 @@ benzoylated
 becuna
 buccate
 benzene
-burners
 benzoylation
 benzoinated
 borize
@@ -15584,6 +15583,7 @@ bdelloida
 barraclade
 braggadocio
 bryozoon
+burners
 belyingly
 brique
 bucconasal
