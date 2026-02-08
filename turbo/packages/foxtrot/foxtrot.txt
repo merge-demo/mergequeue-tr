@@ -1960,6 +1960,7 @@ fone
 feeb
 feeblemindedly
 floccing
+falcata
 femaleness
 flowerlike
 festshrifts
@@ -9575,7 +9576,6 @@ firemaster
 forlet
 firetop
 feeders
-falcata
 fortalice
 finalities
 flukier
