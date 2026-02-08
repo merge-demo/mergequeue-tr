@@ -7447,7 +7447,6 @@ apronful
 aesthesis
 albion
 allogamies
-atrematous
 assessor
 apertly
 adventitiously
@@ -24589,6 +24588,7 @@ alabamian
 aquarian
 availer
 antimachine
+atrematous
 availing
 amapondo
 apollyon
