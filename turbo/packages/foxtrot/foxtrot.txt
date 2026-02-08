@@ -1853,7 +1853,6 @@ firefly
 farcicality
 funambulate
 foreign
-febricant
 frilly
 feastless
 febrific
@@ -7281,6 +7280,7 @@ fronds
 fearnaught
 frampold
 favour
+febricant
 fulcrum
 feathered
 focimeter
