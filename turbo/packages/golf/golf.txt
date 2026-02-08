@@ -4527,6 +4527,7 @@ goobers
 germane
 gagger
 grinter
+gambette
 gladiole
 guardrail
 garotter
@@ -10628,7 +10629,6 @@ geronto
 girns
 glimmerous
 grillades
-gambette
 gossipries
 gorebill
 gauntest
