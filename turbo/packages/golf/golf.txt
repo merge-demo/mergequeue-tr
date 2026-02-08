@@ -2085,7 +2085,6 @@ glottology
 guilefully
 gawgaw
 graminological
-gratingly
 gozzard
 gerberia
 greatening
@@ -2879,6 +2878,7 @@ gynospore
 gyromitra
 gossoons
 gedunk
+gratingly
 geobotanic
 grievants
 gustation
