@@ -1592,7 +1592,6 @@ graphology
 guiltily
 goodeniaceous
 geulah
-galavant
 gasteromycetous
 geneat
 giraffine
@@ -4062,6 +4061,7 @@ gilder
 glycerogelatin
 giraffish
 genapper
+galavant
 gimleteyed
 glutamine
 gastroduodenostomies
