@@ -949,6 +949,7 @@ gingeli
 gammerstang
 garboils
 gastropneumatic
+genteelize
 gannets
 groundplot
 gammock
@@ -2746,7 +2747,6 @@ grover
 gekkonidae
 glaister
 girling
-genteelize
 gelating
 groutite
 gentiana
