@@ -2417,6 +2417,7 @@ enfoul
 erythematous
 euphausid
 epitaxial
+enapt
 etherate
 earthnut
 extinguished
@@ -4367,7 +4368,6 @@ electrolyzer
 encephalosclerosis
 endoplastule
 euornithes
-enapt
 elemi
 encages
 evilsayer
