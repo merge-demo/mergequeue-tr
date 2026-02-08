@@ -1579,6 +1579,7 @@ backslash
 balli
 burmanniaceous
 burlesques
+beagling
 befiddle
 bacchanal
 brahminism
@@ -8798,7 +8799,6 @@ bimotors
 belonged
 bruisers
 bosc
-beagling
 behests
 behinder
 barycentre
