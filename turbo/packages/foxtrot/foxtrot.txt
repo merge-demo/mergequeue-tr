@@ -6250,7 +6250,6 @@ fluent
 flukeworm
 follicle
 ferryhouse
-fob
 falerian
 flumes
 fluminous
@@ -8149,6 +8148,7 @@ formicinae
 faddle
 fraught
 flourishable
+fob
 furores
 flockbed
 foghorn
