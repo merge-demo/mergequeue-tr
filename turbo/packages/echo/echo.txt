@@ -4398,7 +4398,6 @@ environmentally
 enfacing
 exarticulation
 ensigncies
-endosmometric
 eubacteria
 ecumenist
 elaeis
@@ -6610,6 +6609,7 @@ enterohydrocele
 emetocathartic
 elevation
 embryoctonic
+endosmometric
 eched
 eyeing
 exoderms
