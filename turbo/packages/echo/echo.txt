@@ -8172,6 +8172,7 @@ epitendineum
 exergual
 exosmotic
 empowered
+exclamative
 eirene
 executiveship
 excalfaction
@@ -11982,7 +11983,6 @@ exclaiming
 exclaims
 epitenon
 evangely
-exclamative
 epithermally
 exclamatory
 exclaves
