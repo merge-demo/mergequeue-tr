@@ -11595,7 +11595,6 @@ choledochostomies
 coevolutionary
 closured
 choledochotomies
-cholee
 cholehematin
 choleine
 circinal
@@ -27393,6 +27392,7 @@ coonroot
 closter
 courtierly
 chuck
+cholee
 cabinetmaker
 courtin
 catastatic
