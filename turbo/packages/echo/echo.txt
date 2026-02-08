@@ -1585,7 +1585,6 @@ eglomise
 episkeletal
 errite
 extraoral
-eurasia
 entires
 enumerator
 eff
@@ -8332,6 +8331,7 @@ epithetically
 entifical
 excurvature
 epithets
+eurasia
 enterocolostomy
 exuvial
 eyetooth
