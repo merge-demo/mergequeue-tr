@@ -3514,6 +3514,7 @@ disseminate
 diethylamine
 decarchy
 disenchanter
+divinify
 dipleura
 dregginess
 defunctionalize
@@ -8340,7 +8341,6 @@ dialin
 dialiness
 dilution
 descensional
-divinify
 dialypetalous
 diplumbic
 dichotomization
