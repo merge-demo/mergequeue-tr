@@ -2229,7 +2229,6 @@ elysee
 electic
 ethnal
 electioneer
-elaphurine
 extramoral
 elevatory
 effluve
@@ -12461,6 +12460,7 @@ epifaunal
 enthronization
 enclosure
 exchequer
+elaphurine
 entreaty
 emotionalism
 explanatory
