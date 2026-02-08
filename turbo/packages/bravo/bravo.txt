@@ -492,6 +492,7 @@ bibliothecal
 besom
 betatron
 battarismus
+battable
 bioplast
 blady
 balaenoidea
@@ -1417,7 +1418,6 @@ baleen
 bobance
 beach
 benzotrichloride
-battable
 balefires
 barmbrack
 baleys
