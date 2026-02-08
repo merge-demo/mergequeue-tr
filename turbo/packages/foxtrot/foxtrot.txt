@@ -7517,7 +7517,6 @@ ficoidal
 foggier
 forecourts
 freeholding
-furuncles
 faille
 fifers
 forerecited
@@ -8381,6 +8380,7 @@ fribby
 fickler
 formaliser
 fozinesses
+furuncles
 fritting
 freshman
 formalist
