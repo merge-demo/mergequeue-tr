@@ -469,6 +469,7 @@ cadaverin
 cormus
 cadaverous
 cadaverously
+cricoid
 cadavers
 centonical
 cadbait
@@ -28975,7 +28976,6 @@ charlatanical
 cricoarytenoid
 cheilotomy
 cyanic
-cricoid
 cricoids
 couper
 cricopharyngeal
