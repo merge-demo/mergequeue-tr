@@ -2557,6 +2557,7 @@ bereaving
 burgus
 barye
 burglarise
+bayadeer
 bois
 barcolongo
 breadearner
@@ -8377,7 +8378,6 @@ bise
 biventral
 buttonholing
 biggish
-bayadeer
 bepelt
 bigheaded
 blastostylar
