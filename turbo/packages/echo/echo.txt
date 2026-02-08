@@ -4492,6 +4492,7 @@ episematic
 earlock
 enamelling
 earthpeas
+epicure
 entosthoblast
 euchysiderite
 esthesiophysiology
@@ -11965,7 +11966,6 @@ eastbound
 eulogists
 enveloped
 excited
-epicure
 excitedly
 eulytin
 empeine
