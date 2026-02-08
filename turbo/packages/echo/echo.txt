@@ -6256,7 +6256,6 @@ enomotarch
 excepable
 epicyte
 eyre
-educate
 epigaster
 ethanes
 enrich
@@ -6935,6 +6934,7 @@ entraining
 eurytomid
 entrainment
 entrains
+educate
 emissaryship
 entrancedly
 entrancement
