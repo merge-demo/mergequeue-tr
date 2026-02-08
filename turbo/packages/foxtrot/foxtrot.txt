@@ -1361,7 +1361,6 @@ fatiferous
 feaster
 flavorfully
 florentine
-fearfuller
 fatigable
 favorable
 fatigableness
@@ -2614,6 +2613,7 @@ farandmen
 foraminated
 folkfree
 ferruginating
+fearfuller
 fulful
 flashly
 factionally
