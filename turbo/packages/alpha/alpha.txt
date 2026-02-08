@@ -3536,6 +3536,7 @@ allesthesia
 assignment
 anhydrization
 arvicole
+ambilateral
 anybodyd
 antthrush
 apargia
@@ -9517,7 +9518,6 @@ alternamente
 aframerican
 alongships
 antilocapridae
-ambilateral
 acidulant
 annotatory
 arabia

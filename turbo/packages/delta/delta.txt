@@ -2292,7 +2292,6 @@ dermatropic
 dactylioglyphic
 danglement
 drat
-diacetyls
 delectations
 denizens
 disavowable
@@ -7571,6 +7570,7 @@ doublewidth
 diddikai
 darking
 darwinistic
+diacetyls
 deva
 dequeuing
 dactylonomy
