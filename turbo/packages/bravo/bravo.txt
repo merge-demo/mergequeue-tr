@@ -4958,6 +4958,7 @@ barkentines
 bepride
 burhinidae
 bract
+brachering
 bilobular
 blackwash
 bunomastodontidae
@@ -10405,7 +10406,6 @@ blamers
 beode
 behaviorally
 bidarkee
-brachering
 bebait
 bummest
 breezes
