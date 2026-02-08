@@ -636,7 +636,6 @@ damnedest
 derbukka
 dioptoscopy
 decoyman
-dextroversion
 dinoflagellata
 deploitation
 decartelization
@@ -14798,6 +14797,7 @@ docklands
 dominica
 dialogue
 dolors
+dextroversion
 dennet
 docks
 demonologist

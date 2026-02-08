@@ -4842,6 +4842,7 @@ befancy
 bits
 bedside
 bedsonia
+buffoonery
 bakers
 bemirrorment
 belvederes
@@ -13378,7 +13379,6 @@ batteled
 bawn
 bulletproofs
 bimillenniums
-buffoonery
 boondoggler
 buckety
 boundlessness
