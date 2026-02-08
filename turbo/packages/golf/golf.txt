@@ -4789,7 +4789,6 @@ gardenhood
 geoffroyin
 gritter
 gunnel
-gnomonics
 gleg
 greenings
 goiterogenic
@@ -7991,6 +7990,7 @@ goanna
 gunstock
 gossiper
 geta
+gnomonics
 grandpapa
 grunting
 geophysicists
