@@ -3603,7 +3603,6 @@ carabiner
 carabineros
 claik
 carabines
-calefaction
 carabinier
 carabiniere
 carabinieri
@@ -9525,6 +9524,7 @@ circumferences
 cultriform
 chulpa
 checkpointed
+calefaction
 chemitypies
 checkpointing
 combmaking
