@@ -5199,6 +5199,7 @@ glenohumeral
 genomes
 grouted
 garnets
+grizzel
 gorgonising
 guitarfish
 gliadine
@@ -9209,7 +9210,6 @@ gimpiest
 grivna
 geosynchronous
 galeres
-grizzel
 gibingly
 graininess
 grizzly
