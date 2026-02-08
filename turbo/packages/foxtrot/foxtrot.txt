@@ -1629,6 +1629,7 @@ floriage
 fraters
 flappier
 frijol
+formalistic
 fervescence
 flannel
 fawkener
@@ -2604,7 +2605,6 @@ filmed
 feral
 fratchy
 farish
-formalistic
 fountainless
 fantee
 filigreed
