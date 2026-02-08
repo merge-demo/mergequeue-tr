@@ -551,7 +551,6 @@ debacle
 detains
 duodenojejunostomies
 damars
-decoratory
 devocate
 doesnt
 delivers
@@ -6672,6 +6671,7 @@ disorderliness
 darnex
 diatribes
 desiderta
+decoratory
 diptycas
 duckmole
 designable
