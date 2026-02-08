@@ -3042,7 +3042,6 @@ blechnoid
 brilliancy
 blood
 bullace
-bartholomewtide
 bartisan
 broadhorn
 ballrooms
@@ -10687,6 +10686,7 @@ branchiosaurus
 bullheadedly
 bluebutton
 bleachable
+bartholomewtide
 bartramia
 beworrying
 becloud
