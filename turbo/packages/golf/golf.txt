@@ -2608,7 +2608,6 @@ garabato
 granules
 galluot
 genesial
-genesitic
 glees
 groupoid
 geographized
@@ -3768,6 +3767,7 @@ guarders
 ginep
 greenbark
 grippal
+genesitic
 gaudily
 gastrophilist
 gouaree
