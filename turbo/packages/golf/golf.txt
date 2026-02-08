@@ -3078,7 +3078,6 @@ gashliness
 ghorkhar
 geat
 gynethusia
-grulla
 greegree
 gunpoint
 guardroom
@@ -6895,6 +6894,7 @@ guitarfishes
 geometrised
 gradients
 geostatics
+grulla
 goodwife
 grecians
 gibbartas
