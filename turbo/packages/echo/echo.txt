@@ -5394,7 +5394,6 @@ echinocactus
 electively
 evangelium
 endotys
-endotracheal
 empresario
 exuviated
 exinanite
@@ -12339,6 +12338,7 @@ enurny
 eseptate
 equilobate
 eupepsies
+endotracheal
 edgeling
 evase
 expects
