@@ -2651,6 +2651,7 @@ barkier
 backwoodsiness
 buttonhook
 bravery
+bongos
 beduchess
 bantamweight
 birdhouses
@@ -7497,7 +7498,6 @@ briards
 briefest
 bated
 breasted
-bongos
 bureaucracies
 bishydroxycoumarin
 bailies
