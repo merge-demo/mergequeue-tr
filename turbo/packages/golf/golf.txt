@@ -1777,7 +1777,6 @@ guiba
 guaycuruan
 gonorrheic
 galliambic
-gastrorrhea
 graecizes
 goutiest
 gibbsite
@@ -6553,6 +6552,7 @@ guesswork
 gonycampsis
 gastrohyperneuria
 guerillas
+gastrorrhea
 galeass
 gambades
 grenadiers
