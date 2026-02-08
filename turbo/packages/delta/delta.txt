@@ -14849,7 +14849,6 @@ delinition
 disgraces
 decumbently
 docudramas
-document
 documentable
 delimer
 dactylose
@@ -16535,6 +16534,7 @@ draftings
 diesinker
 disinterred
 dallop
+document
 dendrodont
 defoliage
 dacryops

@@ -5232,7 +5232,6 @@ glyoxilin
 gelatins
 granitical
 graveling
-geometries
 gamelan
 gharry
 gromil
@@ -9446,6 +9445,7 @@ glandulosity
 grammar
 genitalial
 gazes
+geometries
 glycose
 gladiate
 glossy
