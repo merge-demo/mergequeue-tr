@@ -5360,7 +5360,6 @@ castellany
 crizzling
 castellanies
 castellano
-castellans
 cinerararia
 chaufer
 castellate
@@ -28073,6 +28072,7 @@ crampits
 crampon
 crampons
 crampoon
+castellans
 carefree
 cran
 cranage
