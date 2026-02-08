@@ -29328,7 +29328,6 @@ cytochalasin
 cryptolith
 cryptology
 conspiracies
-callas
 consubstantiality
 cryptomere
 cryptomerous
@@ -29555,6 +29554,7 @@ criticisingly
 corbiculae
 cog
 criticized
+callas
 criticizers
 criticizing
 cabbie
