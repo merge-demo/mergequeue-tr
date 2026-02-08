@@ -4194,7 +4194,6 @@ athamantid
 archaeornithes
 adoptee
 alkaphrah
-autozooid
 artemon
 autocarpous
 ambulantes
@@ -17863,6 +17862,7 @@ afteroar
 appaloosas
 amelioratively
 appraises
+autozooid
 appraising
 autoalkylation
 acrotretidae
