@@ -1888,7 +1888,6 @@ grecale
 grubstake
 gating
 galipoidin
-guaiocum
 gerontologists
 gobiidae
 gavelock
@@ -6504,6 +6503,7 @@ gamelans
 groaner
 gleeman
 gastrologists
+guaiocum
 gomer
 gesten
 gpss
