@@ -13269,7 +13269,6 @@ clipperman
 crudding
 cyclometric
 contributes
-cyclomyaria
 cyclonal
 contravention
 cyclone
@@ -22244,6 +22243,7 @@ comonte
 coppicing
 coastwaiter
 counterreaction
+cyclomyaria
 cottonopolis
 croisad
 chrysocale
