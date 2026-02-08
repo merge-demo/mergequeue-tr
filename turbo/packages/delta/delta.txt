@@ -1846,7 +1846,6 @@ debilitates
 dermatoglyphics
 devirginator
 debitum
-declaratory
 douvecot
 dorsale
 deblaterate
@@ -4486,6 +4485,7 @@ dynastically
 demilawyer
 diwans
 demilitarisation
+declaratory
 demilitarised
 dehydrogenase
 dibranchiate
