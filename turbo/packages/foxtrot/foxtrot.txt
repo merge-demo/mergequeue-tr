@@ -2391,6 +2391,7 @@ formicivorous
 filtrable
 fingernail
 flanged
+finnip
 ferigee
 fleer
 fad
@@ -5407,7 +5408,6 @@ furor
 flurt
 fittingness
 fault
-finnip
 fleecy
 flyblown
 forager
