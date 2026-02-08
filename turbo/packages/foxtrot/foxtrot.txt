@@ -404,7 +404,6 @@ farcy
 ficoes
 frislet
 faq
-fibber
 firetrap
 frustraneous
 fribbled
@@ -10668,6 +10667,7 @@ fegatella
 fickly
 fitzroy
 feltlike
+fibber
 fenestrate
 flocculency
 fruitester
