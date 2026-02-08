@@ -7881,6 +7881,7 @@ fonder
 foreseize
 flatteries
 fike
+fliting
 firy
 fantasticness
 fervorous
@@ -10146,7 +10147,6 @@ felspathic
 felled
 forgives
 filisters
-fliting
 fenite
 fissile
 fecundation
