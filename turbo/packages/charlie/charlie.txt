@@ -13884,7 +13884,6 @@ caviars
 cyathos
 cleek
 cynography
-cirripeds
 cynoid
 contributiveness
 casusistry
@@ -14595,6 +14594,7 @@ crime
 cryptogenous
 confederations
 cystolith
+cirripeds
 caduca
 cystolithiasis
 cystoma
