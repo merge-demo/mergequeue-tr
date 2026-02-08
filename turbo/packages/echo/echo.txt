@@ -6886,7 +6886,6 @@ elasticize
 escudos
 embonpoint
 ephoric
-eighteenths
 exuviable
 enweave
 ebullitive
@@ -8119,6 +8118,7 @@ enaction
 enkolpia
 enseel
 extratabular
+eighteenths
 episcopalianism
 endangium
 elvet
