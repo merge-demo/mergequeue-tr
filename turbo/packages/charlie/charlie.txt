@@ -14615,6 +14615,7 @@ cholochrome
 campodeiform
 cystophora
 calumet
+coupstick
 cystophore
 coadjustment
 cystophotography
@@ -27321,7 +27322,6 @@ coups
 chemicking
 comodo
 circumciser
-coupstick
 coupure
 courage
 courageous
