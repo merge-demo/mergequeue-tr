@@ -5785,6 +5785,7 @@ filemark
 farts
 ferr
 freakdom
+funky
 ferox
 forestallment
 fenestration
@@ -11246,7 +11247,6 @@ funked
 flatbrod
 forbearable
 feuilleton
-funky
 filter
 functional
 fylfot
