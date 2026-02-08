@@ -3955,7 +3955,6 @@ conditionalism
 carburizer
 carburizes
 chattelize
-caecilian
 cruster
 carburometer
 chinee
@@ -5413,6 +5412,7 @@ cinchotoxine
 chapourn
 chon
 carpi
+caecilian
 confervas
 castle
 cumacean
