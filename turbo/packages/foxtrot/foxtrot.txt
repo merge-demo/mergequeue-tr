@@ -929,7 +929,6 @@ faradaic
 filleted
 foaling
 flamed
-feel
 fluoroborate
 faradisation
 freeings
@@ -10300,6 +10299,7 @@ fluorotic
 faquirs
 flandowser
 flavid
+feel
 fitten
 finary
 folksongs

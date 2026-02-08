@@ -3984,7 +3984,6 @@ domineeringness
 directitude
 desuetudes
 dislikeful
-diaphanous
 dysepulotic
 deliberalization
 duiker
@@ -10688,6 +10687,7 @@ depersonalizing
 densely
 dentes
 dippings
+diaphanous
 draff
 dipppier
 doubtingly
