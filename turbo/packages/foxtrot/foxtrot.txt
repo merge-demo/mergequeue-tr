@@ -6759,6 +6759,7 @@ forseeable
 fluidics
 ferme
 frontal
+forehandedly
 flaccidity
 footbeat
 fundatorial
@@ -10030,7 +10031,6 @@ fimbles
 frogskin
 fortune
 fibrocystoma
-forehandedly
 fleetly
 favors
 fringilline
