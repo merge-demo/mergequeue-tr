@@ -13967,7 +13967,6 @@ amzel
 antagonism
 alef
 alligators
-antagonistical
 airedale
 awestricken
 antagonistically
@@ -22674,6 +22673,7 @@ atheromatosis
 atheroscleroses
 archbuffoon
 ateuchi
+antagonistical
 atherosclerosis
 advancer
 atherosclerotic
