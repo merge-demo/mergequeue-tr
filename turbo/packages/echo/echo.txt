@@ -10645,7 +10645,6 @@ expands
 extradictable
 eudist
 etiam
-eudoxian
 extentions
 epimyth
 embryotrophe
@@ -13723,6 +13722,7 @@ epileptogenous
 ergocalciferol
 externs
 endothelioblastoma
+eudoxian
 exhaustedness
 eclats
 elocular
