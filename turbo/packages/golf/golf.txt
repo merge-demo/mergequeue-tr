@@ -5218,7 +5218,6 @@ guaranies
 guarea
 gorgelet
 glister
-grenier
 glibnesses
 glyceria
 grangerite
@@ -8885,6 +8884,7 @@ guidance
 giddies
 giros
 geoducks
+grenier
 generaliter
 gemming
 ghess
