@@ -13090,7 +13090,6 @@ abidances
 auspicious
 anakinetic
 aradid
-anhysteretic
 agrologist
 anils
 aerogels
@@ -20627,6 +20626,7 @@ arthromeric
 actiniferous
 afterplay
 adamantoma
+anhysteretic
 arthrometry
 atsara
 alvine
