@@ -6881,6 +6881,7 @@ domineer
 despecificate
 despecification
 desperado
+denda
 darky
 drew
 dioptre
@@ -7469,7 +7470,6 @@ doorwise
 degger
 dibase
 denitrify
-denda
 deusan
 dogtrots
 drosera
