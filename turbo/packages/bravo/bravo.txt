@@ -9073,6 +9073,7 @@ biomes
 beanlike
 beavery
 babelike
+besputter
 brontephobia
 besmuts
 biometries
@@ -9603,7 +9604,6 @@ bakerdom
 bis
 borussian
 bachelorize
-besputter
 baister
 bicipitous
 boarfish
