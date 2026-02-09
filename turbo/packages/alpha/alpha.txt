@@ -6880,6 +6880,7 @@ alcalizate
 acieral
 airplot
 airport
+algorism
 appropinquity
 ady
 asst
@@ -23669,7 +23670,6 @@ auxograph
 axlike
 aurify
 aurific
-algorism
 auriflamme
 authorize
 aurigerous
