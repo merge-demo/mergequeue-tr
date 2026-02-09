@@ -11894,6 +11894,7 @@ estuarial
 enhypostatic
 epiphytes
 emissivity
+epiploon
 emends
 eightfoil
 engore
@@ -11960,7 +11961,6 @@ exarchateship
 enteromesenteric
 epistemophilic
 epitaphist
-epiploon
 excitations
 escapes
 eastbound

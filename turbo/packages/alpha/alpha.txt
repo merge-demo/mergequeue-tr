@@ -9771,7 +9771,6 @@ apiology
 arcked
 argentina
 arabica
-atbash
 amable
 anchorer
 allegatum
@@ -23658,6 +23657,7 @@ auricularian
 appealingness
 auriculas
 aussie
+atbash
 actinally
 auriculocranial
 apios
