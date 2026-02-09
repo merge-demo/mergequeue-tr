@@ -7330,7 +7330,6 @@ flyness
 findy
 forbidals
 fasted
-featous
 forbiddenly
 fuage
 florideae
@@ -10085,6 +10084,7 @@ frondiform
 feudatary
 firster
 foredecree
+featous
 formalise
 fearfulness
 finfishes
