@@ -11,7 +11,6 @@ acromyodous
 alkalimetric
 anisotropy
 anaitis
-ataxy
 anidrosis
 adipolysis
 arriding
@@ -23526,6 +23525,7 @@ auletai
 auletes
 atalaya
 aulae
+ataxy
 aetiophyllin
 aulicism
 aries

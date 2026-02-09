@@ -2147,6 +2147,7 @@ beglerbegship
 barriers
 briary
 banter
+bottling
 banterers
 bantery
 boxfishes
@@ -13488,7 +13489,6 @@ brayer
 bottlenest
 bottlenose
 bottlestone
-bottling
 beaneries
 blemishes
 borstall
