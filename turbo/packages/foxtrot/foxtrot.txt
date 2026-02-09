@@ -8042,6 +8042,7 @@ ferrochromium
 forests
 fellies
 fissuriform
+foxfires
 fumer
 flusterated
 frippet
@@ -9011,7 +9012,6 @@ friesish
 funnellike
 fenter
 forbruise
-foxfires
 falsettos
 folksinger
 feedbag
