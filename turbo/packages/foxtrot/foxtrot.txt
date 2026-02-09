@@ -3210,6 +3210,7 @@ foots
 friers
 frostwort
 flexionless
+fionnuala
 forefend
 festered
 forewarnings
@@ -11486,7 +11487,6 @@ fuzzle
 foothill
 fisticuffery
 foredescribe
-fionnuala
 farms
 facilities
 figural
