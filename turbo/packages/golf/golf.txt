@@ -465,6 +465,7 @@ garliclike
 gloating
 gaping
 galeid
+galantuomo
 gyms
 gemmation
 gerontogeous
@@ -8876,7 +8877,6 @@ governail
 goniopholidae
 gentman
 glimpsing
-galantuomo
 gobang
 grete
 grainage
