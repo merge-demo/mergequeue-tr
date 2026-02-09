@@ -2737,7 +2737,6 @@ emetic
 engorge
 eleemosynarily
 egos
-enditing
 erythrocyte
 evangelary
 elegy
@@ -6978,6 +6977,7 @@ escalin
 exiting
 effecting
 excisor
+enditing
 encauma
 entrelac
 emetically
