@@ -664,6 +664,7 @@ forwarding
 fimetic
 featherbedding
 farnesol
+fragging
 fluotitanic
 fames
 fuddled
@@ -2273,7 +2274,6 @@ filamentiferous
 fantails
 folktale
 fulmineous
-fragging
 fluorocarbons
 fibrochondrosteal
 floored
