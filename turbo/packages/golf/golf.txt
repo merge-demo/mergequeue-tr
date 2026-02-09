@@ -708,6 +708,7 @@ genteelness
 grass
 gals
 galtrap
+gurgly
 gianthood
 gastroenterologically
 guebucu
@@ -3628,7 +3629,6 @@ gillnets
 goetae
 gigantine
 ghizite
-gurgly
 governorships
 gadgeteers
 glyptician
