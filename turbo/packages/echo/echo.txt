@@ -7323,7 +7323,6 @@ elongate
 epanorthidae
 electrojet
 ephorates
-embrasured
 enravishment
 epapophysis
 easeled
@@ -13356,6 +13355,7 @@ excretive
 estating
 emotionalising
 emergence
+embrasured
 erogenous
 ethnogeographically
 egyptize
