@@ -6960,7 +6960,6 @@ griefless
 guldengroschen
 gestalts
 geir
-glossopode
 gallerian
 gapes
 guaconize
@@ -7260,6 +7259,7 @@ gallophobe
 gerated
 gastraeadae
 gooky
+glossopode
 gamostelic
 garcon
 gastraea
