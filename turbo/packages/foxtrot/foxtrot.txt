@@ -1341,6 +1341,7 @@ flyable
 frantically
 fluxible
 fatherly
+foreseers
 feest
 features
 fendering
@@ -5047,7 +5048,6 @@ fosses
 fetialis
 foveated
 fezes
-foreseers
 frsiket
 fowler
 fitches

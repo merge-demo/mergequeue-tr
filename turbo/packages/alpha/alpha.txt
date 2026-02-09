@@ -1783,7 +1783,6 @@ acemila
 antilepton
 allocthonous
 ahaaina
-affixing
 acromioscapular
 acenaphthylene
 adiphenine
@@ -21711,6 +21710,7 @@ assibilating
 assecution
 amend
 acaudal
+affixing
 algogenic
 anconad
 assegaiing
