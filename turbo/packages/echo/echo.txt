@@ -2694,7 +2694,6 @@ enmesh
 enduros
 eucharist
 electrotherapy
-electrotheraputic
 emyds
 ephippial
 emulsoidal
@@ -8493,6 +8492,7 @@ eurindic
 erases
 elongates
 epuration
+electrotheraputic
 exculpable
 euchloric
 effectual
