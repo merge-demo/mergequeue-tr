@@ -1158,6 +1158,7 @@ culturology
 calcsinter
 chinnam
 cranioclasis
+calcaneal
 calcspars
 cotwal
 crunches
@@ -18007,7 +18008,6 @@ chuse
 cordaitales
 coembrace
 chaeta
-calcaneal
 coeminency
 cysteine
 coemploying
