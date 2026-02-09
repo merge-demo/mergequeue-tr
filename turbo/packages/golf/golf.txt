@@ -5803,6 +5803,7 @@ gymnosporangium
 gynoecium
 glucate
 gorevan
+germander
 gastrostomies
 glucinums
 gateaux
@@ -6917,7 +6918,6 @@ gratelike
 grasseye
 grapevine
 goodwives
-germander
 grasswidow
 garrigue
 garhwali
