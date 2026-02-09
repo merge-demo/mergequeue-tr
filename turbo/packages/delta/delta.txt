@@ -7358,6 +7358,7 @@ detonations
 demean
 detonative
 detonize
+diverse
 detour
 duncifying
 dezinc
@@ -14427,7 +14428,6 @@ distensible
 divergent
 dishpans
 decrials
-diverse
 diversify
 daddle
 domestics
