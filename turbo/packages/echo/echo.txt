@@ -1106,6 +1106,7 @@ elatrometer
 equipartition
 electrotypes
 epicaridea
+evaporativity
 epitrichial
 exsanguinated
 encatarrhaphy
@@ -2588,7 +2589,6 @@ etua
 enantioblastous
 eruginous
 electromagnets
-evaporativity
 eighteenthly
 ensnarl
 exudatory
