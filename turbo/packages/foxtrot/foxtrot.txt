@@ -7505,7 +7505,6 @@ fuzils
 flattops
 foretake
 fructokinase
-funebrial
 formers
 falconries
 fortuuned
@@ -10163,6 +10162,7 @@ fabricant
 falcidian
 foresing
 freycinetia
+funebrial
 flaxen
 farmwife
 foreannouncement
