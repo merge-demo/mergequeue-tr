@@ -514,6 +514,7 @@ evocated
 estate
 entosphenal
 echeneidae
+excuser
 endobiotic
 endonucleolus
 evocate
@@ -12157,7 +12158,6 @@ electric
 exostome
 embrittlement
 embergoose
-excuser
 elytron
 endpoint
 exposure
