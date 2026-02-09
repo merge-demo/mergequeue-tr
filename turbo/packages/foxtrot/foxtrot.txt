@@ -3661,7 +3661,6 @@ futuro
 fibrilated
 filigrees
 fidos
-footman
 flourishes
 flaying
 furnacer
@@ -7586,6 +7585,7 @@ fallowness
 foolhardy
 flaxy
 fortyish
+footman
 frankmarriage
 falces
 fools
