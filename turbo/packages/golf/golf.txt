@@ -625,6 +625,7 @@ gillie
 geophysicist
 gigartina
 glide
+goldenlocks
 gastrotheca
 gestic
 gradatory
@@ -5934,7 +5935,6 @@ granuloadipose
 gingelies
 giftedness
 guaba
-goldenlocks
 gamori
 gaur
 glutose
