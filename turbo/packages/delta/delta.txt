@@ -3010,7 +3010,6 @@ dragonfish
 disestablishment
 diphthongs
 deucedly
-dispermic
 dowress
 decarbonized
 desegregation
@@ -7636,6 +7635,7 @@ deray
 drawers
 diffusional
 develops
+dispermic
 devels
 devenustate
 disjeune
