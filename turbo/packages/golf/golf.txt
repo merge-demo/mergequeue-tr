@@ -1975,7 +1975,6 @@ glairs
 gastricism
 garnishments
 gnomonical
-glasgow
 gimbal
 geology
 geranic
@@ -6079,6 +6078,7 @@ gypsoplast
 gnathostome
 gjetosts
 gallivants
+glasgow
 gammarus
 gnosis
 galenist
