@@ -15466,7 +15466,6 @@ dressy
 dompteuse
 don
 danker
-donaciform
 drowned
 donack
 dowsed
@@ -16396,6 +16395,7 @@ dogtrotted
 downgrowth
 deducive
 dultie
+donaciform
 drawtube
 deltal
 doeuvre
