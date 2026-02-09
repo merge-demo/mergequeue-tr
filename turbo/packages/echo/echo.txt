@@ -5465,6 +5465,7 @@ equestrian
 epacrid
 extrasystole
 exospheres
+epimanikion
 eigenstate
 entitledness
 edematous
@@ -7934,7 +7935,6 @@ equivocatory
 estragol
 ensilation
 expounds
-epimanikion
 epimeres
 electrostenolysis
 epimerism
