@@ -12345,6 +12345,7 @@ exhibitors
 endorsers
 excrescencies
 exflect
+exarchist
 endower
 enteromyiasis
 earshell
@@ -12803,7 +12804,6 @@ emodins
 exines
 extensional
 exostosis
-exarchist
 exostra
 ebullition
 elementary
