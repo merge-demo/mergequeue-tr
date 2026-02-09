@@ -10893,7 +10893,6 @@ aleyard
 acrisius
 artly
 antitrypsin
-ankaramite
 ammoniated
 ammoniating
 antioxygenator
@@ -12209,6 +12208,7 @@ archpretender
 antiworld
 antimagistratical
 allogamy
+ankaramite
 agaonidae
 aneretic
 algebrization
