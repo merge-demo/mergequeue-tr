@@ -3802,6 +3802,7 @@ dopatta
 dephlegm
 distruss
 diomedeidae
+debord
 deselects
 depolishes
 disinteresting
@@ -5903,7 +5904,6 @@ decimetres
 doubledamn
 decimation
 deckswabber
-debord
 decuples
 dragons
 diopside
