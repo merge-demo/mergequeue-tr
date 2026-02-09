@@ -6549,7 +6549,6 @@ bejabbers
 bepuffed
 beetleheaded
 bequalm
-bklr
 bequeathed
 bruges
 blooping
@@ -12683,6 +12682,7 @@ bonilass
 barklyite
 benefactresses
 boorga
+bklr
 boogers
 brochures
 bronchoconstrictor
