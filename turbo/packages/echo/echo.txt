@@ -2276,7 +2276,6 @@ equality
 enleagued
 europasian
 enaliornis
-echoingly
 etnas
 espressos
 endocrania
@@ -10787,6 +10786,7 @@ expurgatory
 estivates
 euphemizer
 emanation
+echoingly
 ethicalism
 exequatur
 extremal
