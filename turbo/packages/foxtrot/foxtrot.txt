@@ -4256,6 +4256,7 @@ freehandedly
 fibrosities
 fingerling
 freudism
+filiate
 fatiguability
 fulsomely
 ferdwit
@@ -8360,7 +8361,6 @@ followed
 funaria
 fuchsian
 fimbrial
-filiate
 fiberfill
 futhorcs
 foreking
