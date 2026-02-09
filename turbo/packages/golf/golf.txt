@@ -549,7 +549,6 @@ gritten
 grapiest
 germinates
 gastromelus
-geisotherm
 gilravager
 gudgeoning
 galleryite
@@ -9330,6 +9329,7 @@ gambia
 gustative
 gladiators
 glided
+geisotherm
 garotes
 gumi
 gurly
