@@ -2780,7 +2780,6 @@ elementalize
 ephori
 elementaloid
 essang
-encoronate
 eluded
 embelic
 evasive
@@ -12652,6 +12651,7 @@ ephete
 empyemas
 emissarium
 exogen
+encoronate
 exaggerativeness
 earldom
 esophagostomy
