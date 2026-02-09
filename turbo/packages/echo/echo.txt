@@ -8409,7 +8409,6 @@ epinasties
 exchange
 evisceration
 equip
-enjoyment
 eglogue
 endothecate
 entemple
@@ -10071,6 +10070,7 @@ entitlement
 ethanolamine
 ephemeralness
 equidense
+enjoyment
 excretion
 ensepulcher
 exode
