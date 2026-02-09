@@ -6568,6 +6568,7 @@ focsle
 fineish
 feminism
 flowerpot
+fouling
 fatalistically
 fizzers
 friggle
@@ -10970,7 +10971,6 @@ fedayee
 fructifying
 frey
 finally
-fouling
 fluework
 fallfish
 firmless

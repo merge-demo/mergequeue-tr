@@ -3607,7 +3607,6 @@ carabiniere
 carabinieri
 cotrespasser
 chumped
-choosable
 caraboa
 caaba
 cinques
@@ -4251,6 +4250,7 @@ cir
 caressed
 captainries
 caresser
+choosable
 clobberer
 caressers
 costively
