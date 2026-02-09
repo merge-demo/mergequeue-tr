@@ -10827,6 +10827,7 @@ acrolith
 amitrole
 ancre
 antiagglutinating
+amphibium
 aged
 amiantuses
 ammonitiferous
@@ -11915,7 +11916,6 @@ analogousness
 analogue
 analphabet
 analphabete
-amphibium
 angelus
 acyanopsia
 awink
