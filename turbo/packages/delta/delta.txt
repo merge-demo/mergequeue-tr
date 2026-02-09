@@ -2051,7 +2051,6 @@ defaced
 disproportionally
 decal
 dissightly
-dodecylic
 dilatory
 decalage
 dinghy
@@ -4131,6 +4130,7 @@ dicyclica
 discharger
 deadlatch
 deloo
+dodecylic
 decocted
 deloused
 dribs
