@@ -2293,7 +2293,6 @@ delectations
 denizens
 disavowable
 didna
-disseizin
 dilapidate
 diabrotica
 determinists
@@ -4393,6 +4392,7 @@ declarers
 disentitle
 doctrinalism
 demesnial
+disseizin
 ditheist
 decrypting
 deranger

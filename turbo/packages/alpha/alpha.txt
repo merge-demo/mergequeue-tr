@@ -4022,7 +4022,6 @@ akolouthia
 awkly
 anergy
 adminicular
-accounted
 adminiculation
 attical
 arrant
@@ -9099,6 +9098,7 @@ alkalises
 ammonoid
 allowed
 attorned
+accounted
 assertiveness
 acquiescing
 assagais
