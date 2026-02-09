@@ -3911,7 +3911,6 @@ dissertating
 dominatingly
 dustband
 ditchdigging
-doms
 dominant
 delightedly
 diarize
@@ -11810,6 +11809,7 @@ discerningly
 discolichen
 disculpatory
 deashes
+doms
 deathwatch
 decrement
 dustbin
