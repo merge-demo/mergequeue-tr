@@ -3607,6 +3607,7 @@ freddie
 ferroinclave
 fence
 flaxseed
+fistuliform
 forehalf
 finfish
 fimbristylis
@@ -8623,7 +8624,6 @@ fanlike
 freelance
 funariaceous
 flexuous
-fistuliform
 floured
 ferroprint
 forth
