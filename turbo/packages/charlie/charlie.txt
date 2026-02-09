@@ -4832,7 +4832,6 @@ carreton
 carri
 cetaceous
 carry
-carriageable
 carriageful
 clachans
 carriages
@@ -24710,6 +24709,7 @@ copperwing
 cladodes
 colletarium
 coppices
+carriageable
 crepehanger
 coppin
 charkhana
