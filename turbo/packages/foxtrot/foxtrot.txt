@@ -4764,6 +4764,7 @@ flagfishes
 fubsy
 forbiddenness
 figurately
+friendships
 fasciculus
 fissurellidae
 feuillants
@@ -10761,7 +10762,6 @@ frustratory
 focuses
 felup
 fomentation
-friendships
 fleeing
 flagstaves
 flirter
