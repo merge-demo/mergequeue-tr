@@ -1534,6 +1534,7 @@ filibeg
 flauntiness
 forepiece
 faunish
+finagling
 fleecing
 foamers
 franklinite
@@ -1936,7 +1937,6 @@ fangot
 froze
 forebearing
 floccule
-finagling
 fonly
 flanchard
 forworn
