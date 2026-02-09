@@ -10026,7 +10026,6 @@ genetoid
 geomancies
 gangliac
 gleans
-gothite
 gazebos
 glaistig
 gammation
@@ -10148,6 +10147,7 @@ gasohol
 goodmanship
 grazers
 giddyish
+gothite
 gloried
 glideness
 guardianly
