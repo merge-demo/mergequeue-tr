@@ -1954,7 +1954,6 @@ acetyltropeine
 acetylurea
 atheromata
 analyse
-armorial
 acetins
 acardite
 almeries
@@ -10583,6 +10582,7 @@ assimilator
 apollonia
 auguration
 acast
+armorial
 aniellidae
 aristides
 antihypnotic
