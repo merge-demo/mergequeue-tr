@@ -3821,6 +3821,7 @@ extolled
 engrain
 expletory
 emissory
+ellagitannin
 emended
 ecu
 emending
@@ -12274,7 +12275,6 @@ egypt
 exemplified
 ergasia
 extradites
-ellagitannin
 epibolic
 exsequatur
 exempted
