@@ -5608,7 +5608,6 @@ basilican
 bekissed
 bekisses
 boletes
-bouleuterion
 borons
 beknighted
 ballistite
@@ -15109,6 +15108,7 @@ bearance
 brere
 boobily
 baffles
+bouleuterion
 binocular
 brest
 breastplate
