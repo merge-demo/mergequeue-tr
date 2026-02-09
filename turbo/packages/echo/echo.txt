@@ -4832,6 +4832,7 @@ ecize
 exhalate
 extracurricular
 equitable
+exulding
 encouraged
 estrous
 excellences
@@ -7315,7 +7316,6 @@ escaping
 epanisognathism
 expositively
 entameba
-exulding
 epizoal
 eriophyid
 elongate
