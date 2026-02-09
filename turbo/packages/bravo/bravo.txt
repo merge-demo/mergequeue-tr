@@ -5440,7 +5440,6 @@ barbacoa
 behallow
 bowldering
 betwit
-behammer
 bacula
 beshine
 bordereaux
@@ -7625,6 +7624,7 @@ begiggle
 barnacle
 biplicate
 bleater
+behammer
 burele
 bywalker
 brakeages
