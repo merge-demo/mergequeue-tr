@@ -1037,6 +1037,7 @@ ginnle
 gastroenteralgia
 gloriette
 galvanoscopy
+gurry
 geodist
 grasp
 golp
@@ -6434,7 +6435,6 @@ guanare
 gump
 gangrenate
 gapeworms
-gurry
 glycols
 glabrate
 grit
