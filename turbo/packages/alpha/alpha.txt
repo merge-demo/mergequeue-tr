@@ -3895,6 +3895,7 @@ analcite
 alphorns
 ayes
 atrabiliousness
+anchorman
 adjectional
 antireductive
 anastatica
@@ -12283,7 +12284,6 @@ archinfamy
 arbalests
 acetoveratrone
 alignment
-anchorman
 auriculae
 avars
 altingiaceae
