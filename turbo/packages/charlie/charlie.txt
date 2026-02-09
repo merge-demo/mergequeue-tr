@@ -10175,7 +10175,6 @@ coggie
 chomping
 collectioner
 complaining
-chewing
 chewinks
 chews
 ciceronians
@@ -19852,6 +19851,7 @@ calamopitys
 chamaedaphne
 cohibitive
 comfily
+chewing
 cuspidation
 comfiness
 coulometrically
