@@ -2881,6 +2881,7 @@ canotier
 canreply
 cubi
 cansful
+celite
 coddled
 canso
 coetaneity
@@ -31172,7 +31173,6 @@ cupolar
 celtillyrians
 cotman
 coenflame
-celite
 calonectria
 cupolated
 chewstick
