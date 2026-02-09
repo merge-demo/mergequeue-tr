@@ -6189,7 +6189,6 @@ fatlings
 floccules
 focusable
 formwork
-ferrimagnetic
 ferryway
 folden
 fractionating
@@ -9094,6 +9093,7 @@ freights
 fossorial
 fractionization
 forncast
+ferrimagnetic
 foolheaded
 fads
 filariasis
