@@ -2980,7 +2980,6 @@ etymologizing
 eliminate
 etiologies
 embind
-explait
 eruciform
 epipastic
 emony
@@ -5476,6 +5475,7 @@ extramundane
 endotheliomyxoma
 energize
 egging
+explait
 energizers
 eyrant
 eosinophilia
