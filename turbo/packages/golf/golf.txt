@@ -6068,7 +6068,6 @@ genuflections
 gastroid
 geissorhiza
 griege
-genep
 geitonogamous
 gnomologist
 gyroma
@@ -6896,6 +6895,7 @@ geromorphism
 guessable
 guitarfishes
 geometrised
+genep
 gradients
 geostatics
 grulla
