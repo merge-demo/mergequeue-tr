@@ -8849,7 +8849,6 @@ dicacity
 deodorising
 dwarfed
 decentres
-dinergate
 direr
 dacoits
 dicaryotic
@@ -16788,6 +16787,7 @@ dravite
 draw
 digest
 disreputation
+dinergate
 disorganized
 drawback
 drawbar
