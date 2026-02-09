@@ -2095,7 +2095,6 @@ geobotanist
 galvanizer
 gerontes
 ginglmi
-gnomist
 gelndesprung
 gynostegia
 gawkhammer
@@ -7700,6 +7699,7 @@ guilfat
 gittern
 gadolinic
 grassroots
+gnomist
 gonys
 gandhi
 gloea
