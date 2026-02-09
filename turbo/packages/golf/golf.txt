@@ -449,7 +449,6 @@ glucic
 gemsbucks
 gamosepalous
 gardenable
-gammexane
 grapefruits
 generalship
 grimace
@@ -4930,6 +4929,7 @@ gregarian
 grisliest
 glamoured
 germanic
+gammexane
 greatmouthed
 grolier
 greensward
