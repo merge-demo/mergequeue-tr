@@ -618,7 +618,6 @@ disegno
 deadrize
 disintegrating
 deadhand
-derelinquendi
 disgracefulness
 definientia
 disinhumed
@@ -16320,6 +16319,7 @@ dragonism
 dainteth
 deplored
 dedolency
+derelinquendi
 diarchy
 drubs
 duratives
