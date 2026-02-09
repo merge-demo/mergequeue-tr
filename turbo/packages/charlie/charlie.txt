@@ -2427,7 +2427,6 @@ caneware
 cancerogenic
 circumcentral
 condescent
-claro
 cancerophobe
 cancerophobia
 caddle
@@ -7261,6 +7260,7 @@ chimar
 captious
 centurist
 coroners
+claro
 cherishes
 ceorl
 cep
