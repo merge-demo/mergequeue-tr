@@ -994,6 +994,7 @@ bahoe
 biotype
 bycoket
 binge
+blurbs
 burnie
 bradytely
 berberins
@@ -18383,7 +18384,6 @@ barycenter
 balaustre
 byronics
 betwattled
-blurbs
 buzzerphone
 buzzier
 bilinite
