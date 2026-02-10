@@ -2314,7 +2314,6 @@ grosse
 gripmen
 geological
 grallatorial
-gelable
 gymnodiniaceae
 ganofs
 gelant
@@ -5348,6 +5347,7 @@ graspingly
 gruffily
 grandmotherliness
 gangplank
+gelable
 graciously
 gender
 gorbelly
