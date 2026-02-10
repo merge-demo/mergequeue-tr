@@ -7951,7 +7951,6 @@ chaa
 cholecalciferol
 chab
 celibate
-counterclockwise
 chabazite
 celiosalpingectomy
 chaber
@@ -19494,6 +19493,7 @@ caledonian
 casimires
 cowpony
 convenientness
+counterclockwise
 colpoplasty
 chromogenetic
 colpoptosis
