@@ -5245,7 +5245,6 @@ esphresis
 expenseless
 euphonium
 endopods
-epistolarily
 endoproctous
 enigmatizing
 endopterygota
@@ -7016,6 +7015,7 @@ enterocoela
 exocoetus
 eyeglass
 eggfruit
+epistolarily
 enpia
 elastomer
 electricalize
