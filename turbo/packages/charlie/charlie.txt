@@ -14234,7 +14234,6 @@ circummure
 circummuring
 convolving
 christmases
-circumnavigable
 circumnavigate
 champers
 circumnavigates
@@ -30513,6 +30512,7 @@ codein
 cubbishness
 choiring
 cubbyu
+circumnavigable
 cameoed
 cubdom
 cubelet
