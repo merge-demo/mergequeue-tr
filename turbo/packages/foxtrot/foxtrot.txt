@@ -8569,6 +8569,7 @@ farmyard
 forescript
 floury
 fumarases
+finial
 fluotantalic
 foredid
 flecks
@@ -8859,7 +8860,6 @@ foutra
 freewoman
 frederick
 foundered
-finial
 fantastico
 forethoughtful
 fivefoldness
