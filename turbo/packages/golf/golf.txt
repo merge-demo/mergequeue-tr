@@ -3335,7 +3335,6 @@ gobemouche
 gymnurine
 gneu
 gadbush
-gessamine
 gigantosaurus
 gonfanons
 gluside
@@ -4271,6 +4270,7 @@ geodesist
 galeopsis
 gingered
 gaugeable
+gessamine
 guss
 garrulity
 gingerline
