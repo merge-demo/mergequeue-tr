@@ -19299,6 +19299,7 @@ anlas
 arenicolite
 anagrammed
 arenilitic
+acle
 arenites
 anthraquinonyl
 alberca
@@ -19944,7 +19945,6 @@ armors
 aqueous
 apophyge
 artistically
-acle
 armouchiquois
 ammine
 armour
