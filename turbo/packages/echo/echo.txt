@@ -599,7 +599,6 @@ examinate
 epidictic
 elitisms
 ebonise
-exobiological
 echt
 earliness
 ecchymosed
@@ -6313,6 +6312,7 @@ embowed
 enrut
 explainability
 euclidean
+exobiological
 ens
 emmenagogue
 elenchtic
