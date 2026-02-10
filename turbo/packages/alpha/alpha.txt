@@ -1155,7 +1155,6 @@ academized
 acadialite
 alpenstocker
 acadie
-amorphic
 asramas
 airshed
 acalephoid
@@ -19655,6 +19654,7 @@ arimathaean
 asswaging
 amboinese
 agglutinins
+amorphic
 arioian
 aminic
 assailed
