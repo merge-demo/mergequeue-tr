@@ -1696,6 +1696,7 @@ directory
 dearthfu
 disscussive
 datamation
+dudelsack
 decidendi
 dearworthily
 dromaeognathism
@@ -3162,7 +3163,6 @@ dummkopf
 dictums
 doricize
 dasyures
-dudelsack
 dashpot
 defeit
 de

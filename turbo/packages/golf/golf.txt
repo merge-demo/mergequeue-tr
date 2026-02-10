@@ -7115,7 +7115,6 @@ gingerbready
 giggler
 gastrotaxis
 gabelle
-glistering
 geometrise
 glycuronid
 guans
@@ -10720,6 +10719,7 @@ gassers
 gaddi
 gustard
 guergal
+glistering
 gaplessness
 gustatorial
 groupie
