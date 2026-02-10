@@ -5931,7 +5931,6 @@ dacite
 delimiting
 decohere
 disapprove
-derogated
 depthways
 disoccupy
 deadman
@@ -13124,6 +13123,7 @@ doozer
 directionless
 dispergate
 doraskean
+derogated
 deathy
 dispericraniate
 disenvelop
