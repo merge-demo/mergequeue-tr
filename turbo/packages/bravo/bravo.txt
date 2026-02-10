@@ -4412,7 +4412,6 @@ bilingualism
 becircled
 botfly
 beck
-bowman
 benedictive
 boehmites
 brickier
@@ -15711,6 +15710,7 @@ bosoming
 bauxitite
 bluster
 botulismus
+bowman
 burr
 bedog
 beholder
