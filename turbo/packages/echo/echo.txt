@@ -6724,6 +6724,7 @@ enthral
 eschewers
 enthralldom
 exurb
+eolithic
 enormously
 enveloping
 esterifies
@@ -7583,7 +7584,6 @@ eeyuch
 experiments
 esogastritis
 excurvate
-eolithic
 euglena
 eikonology
 enamelware
