@@ -3585,6 +3585,7 @@ flank
 filers
 fructification
 felinity
+featherback
 floorway
 files
 fiddle
@@ -10519,7 +10520,6 @@ forays
 flyback
 federalizations
 fortuities
-featherback
 flees
 frotton
 fum
