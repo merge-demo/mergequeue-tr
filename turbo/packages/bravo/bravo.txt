@@ -11560,6 +11560,7 @@ buttonbur
 barotaxis
 betaxed
 bullae
+brushability
 bemurmurs
 blunged
 bourrasque
@@ -14183,7 +14184,6 @@ brachyuran
 bollox
 bezant
 bayed
-brushability
 bour
 bracioles
 backs
