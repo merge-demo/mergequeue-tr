@@ -8674,7 +8674,6 @@ guaranteing
 gail
 gnostically
 golosh
-gnathonic
 girosols
 guazuma
 greenrooms
@@ -8990,6 +8989,7 @@ gramashes
 glistered
 granatum
 geomorphogenist
+gnathonic
 gorhens
 gastroenterologic
 gaper
