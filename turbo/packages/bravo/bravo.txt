@@ -6449,7 +6449,6 @@ borize
 blas
 burely
 barfy
-benzonaphthol
 benzonitrile
 behedge
 benzophenothiazine
@@ -7401,6 +7400,7 @@ balusters
 bassness
 bookmaker
 bandit
+benzonaphthol
 basad
 buffcoat
 blanketmaking

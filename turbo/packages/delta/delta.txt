@@ -4259,7 +4259,6 @@ decomposes
 dhoney
 deplores
 demagnetizing
-devilbird
 devoutness
 durning
 delimit
@@ -14393,6 +14392,7 @@ diurnule
 dimensuration
 diuron
 demeaned
+devilbird
 dielec
 doled
 divagated
