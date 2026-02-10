@@ -5665,6 +5665,7 @@ baptistery
 bima
 blarina
 bridelike
+berthed
 bacteroidal
 bronchostomy
 blurredness
@@ -6830,7 +6831,6 @@ berthas
 bulkages
 bibliotaphic
 batten
-berthed
 birdeye
 blushfully
 berther
