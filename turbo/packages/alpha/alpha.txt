@@ -22453,6 +22453,7 @@ aphototropism
 astronomical
 ajenjo
 acylate
+alcantara
 astronomics
 astronomize
 aragallus
@@ -24146,7 +24147,6 @@ anomic
 abscessing
 aborticide
 autoimmunity
-alcantara
 appledrone
 autoimmunize
 artificers
