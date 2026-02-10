@@ -1135,6 +1135,7 @@ enation
 eponymism
 equivalved
 eupatrid
+endpiece
 easefulness
 editorship
 editorships
@@ -1414,7 +1415,6 @@ essenced
 effusive
 ebrious
 enormousness
-endpiece
 entodermal
 epipodialia
 entoretina
