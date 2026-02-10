@@ -11822,7 +11822,6 @@ discriminates
 disponee
 disgorger
 dawing
-deuteroprism
 decentralism
 discurre
 dioestrus
@@ -16220,6 +16219,7 @@ delineating
 dowitchers
 determinedness
 demagogs
+deuteroprism
 decanters
 derange
 darneder
