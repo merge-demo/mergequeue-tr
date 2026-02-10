@@ -4000,6 +4000,7 @@ filmlike
 fadmongery
 festin
 forehorse
+fatling
 fluoaluminic
 felicific
 fecket
@@ -4130,7 +4131,6 @@ frogleaf
 fulk
 felonry
 flexed
-fatling
 fenchyl
 feezed
 fireboy
