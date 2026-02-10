@@ -4371,7 +4371,6 @@ adenoids
 agaristidae
 adstipulator
 aduana
-adularescence
 appointments
 abbes
 assistor
@@ -22368,6 +22367,7 @@ afterbodies
 amphitron
 achromatolysis
 africanist
+adularescence
 anthropolitic
 abigeus
 animableness
