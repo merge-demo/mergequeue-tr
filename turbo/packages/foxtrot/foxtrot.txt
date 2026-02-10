@@ -880,7 +880,6 @@ fluorogenic
 fulicine
 formatively
 freshet
-faltboats
 falconets
 forzando
 fireworks
@@ -5313,6 +5312,7 @@ foregather
 fifteen
 feasts
 filial
+faltboats
 fant
 foulmouthedly
 flimflam
