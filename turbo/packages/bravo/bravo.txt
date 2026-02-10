@@ -7984,7 +7984,6 @@ bibliothecae
 bibliothecarian
 bungalows
 batoka
-butic
 butanone
 bowlders
 buoyed
@@ -17477,6 +17476,7 @@ beaming
 backspins
 berzelianite
 birdikin
+butic
 bena
 buprestis
 belat
