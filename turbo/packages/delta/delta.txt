@@ -2543,6 +2543,7 @@ dipneumones
 dimmed
 distelfink
 dynasty
+denominating
 declinatory
 disentwined
 declining
@@ -18090,7 +18091,6 @@ devolatilise
 duke
 dumbbell
 dimenhydrinate
-denominating
 demonological
 discontinuer
 dumbest
