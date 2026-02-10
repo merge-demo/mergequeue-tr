@@ -1413,7 +1413,6 @@ accessarily
 autarkic
 amoebae
 accessariness
-arcubalist
 amidothiazole
 axilemmata
 accessioner
@@ -5962,6 +5961,7 @@ aggregative
 aggregatively
 aggregator
 alepole
+arcubalist
 ackman
 amatol
 antiroll

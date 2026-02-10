@@ -3154,6 +3154,7 @@ frighty
 frisii
 fenceplay
 fisheries
+footpace
 flowerier
 fatso
 fossate
@@ -6048,7 +6049,6 @@ frecken
 fingerhook
 fleckier
 forgeman
-footpace
 figurial
 foxhounds
 filchery
