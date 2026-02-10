@@ -431,7 +431,6 @@ discoursers
 dairous
 dais
 defog
-disinthrall
 disposal
 dibs
 drenchers
@@ -6090,6 +6089,7 @@ deregulationize
 dicolic
 deregulations
 deputable
+disinthrall
 dichromatism
 drumloid
 ducatoon
