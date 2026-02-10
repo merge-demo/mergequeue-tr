@@ -2529,6 +2529,7 @@ feeler
 frugivorous
 fibromembranous
 filamentule
+freet
 freebee
 freeboot
 fem
@@ -6022,7 +6023,6 @@ flewed
 forehock
 fateful
 floriation
-freet
 fertilize
 frizz
 flunkeyize

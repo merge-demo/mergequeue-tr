@@ -5945,6 +5945,7 @@ elains
 effate
 enhunger
 emissary
+equinate
 epitheliogenetic
 eruc
 exemplupla
@@ -8649,7 +8650,6 @@ elutriating
 emergently
 etherialised
 entoperipheral
-equinate
 enameller
 emerging
 excretions
