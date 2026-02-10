@@ -2301,7 +2301,6 @@ expressionist
 enterohepatitis
 excavated
 epicotyl
-errorful
 escalate
 encrypting
 eyras
@@ -10355,6 +10354,7 @@ edgestone
 exhibitive
 ellagic
 eloign
+errorful
 ethylamime
 ethnopsychology
 enalite
