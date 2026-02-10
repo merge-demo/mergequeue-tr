@@ -2990,7 +2990,6 @@ bolthole
 bisiliquous
 barophobia
 barricoes
-biuniqueness
 barrigudos
 barrikin
 babouche
@@ -8207,6 +8206,7 @@ blossomed
 bivalencies
 bloodbird
 bateaux
+biuniqueness
 brawlier
 bossa
 bielding
