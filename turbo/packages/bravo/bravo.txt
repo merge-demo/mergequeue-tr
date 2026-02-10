@@ -12558,7 +12558,6 @@ brails
 bridehead
 boniface
 bawls
-battle
 bonification
 bolshevik
 bacubert
@@ -13028,6 +13027,7 @@ baptismally
 boraginaceous
 borago
 bedamn
+battle
 boran
 boranes
 bradyteleocinesia
