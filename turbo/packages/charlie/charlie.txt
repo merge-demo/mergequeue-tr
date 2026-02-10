@@ -10081,6 +10081,7 @@ chesser
 cabinda
 chesses
 chessylite
+clericity
 chessist
 chirimen
 chessner
@@ -26909,7 +26910,6 @@ contraflexure
 colliquativeness
 copperleaf
 counterlath
-clericity
 corticospinal
 counterlathed
 comingle
