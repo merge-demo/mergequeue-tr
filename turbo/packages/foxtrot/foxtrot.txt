@@ -380,7 +380,6 @@ franklandite
 from
 fieldfight
 fluorides
-fiercen
 ferrymen
 fearer
 filicauline
@@ -1379,6 +1378,7 @@ fishbones
 fulminuric
 fidate
 fella
+fiercen
 fatima
 fruticeous
 filecard
