@@ -646,6 +646,7 @@ gabionage
 gemmaceous
 gerodontia
 gasometry
+globous
 gestatorial
 gnarled
 grueling
@@ -5503,7 +5504,6 @@ grugrus
 gymnocalycium
 gussies
 granuloblast
-globous
 georgical
 gadus
 goffle
