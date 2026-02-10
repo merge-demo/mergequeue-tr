@@ -7652,7 +7652,6 @@ earworms
 enlive
 eton
 epicrasis
-epopt
 equinal
 eumenid
 enemylike
@@ -9575,6 +9574,7 @@ euglenineae
 ecotypes
 edestan
 expressing
+epopt
 emigrated
 expediente
 excurse
