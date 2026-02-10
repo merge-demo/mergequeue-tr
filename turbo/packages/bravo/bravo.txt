@@ -4946,6 +4946,7 @@ basketweaving
 birefringence
 bilimbis
 beaverize
+bacteriform
 blackheartedly
 brig
 burdenable
@@ -7313,7 +7314,6 @@ bedraggle
 biogeographic
 betacismus
 betag
-bacteriform
 bubbliest
 boxwood
 betailor
