@@ -9331,7 +9331,6 @@ chaussure
 catlap
 coscinodiscaceae
 chautauqua
-craniometrically
 chautauquan
 cloy
 chemicobiology
@@ -19572,6 +19571,7 @@ capanne
 coregence
 columellia
 columelliaceae
+craniometrically
 columna
 columnal
 camphors
