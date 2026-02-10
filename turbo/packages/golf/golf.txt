@@ -254,6 +254,7 @@ gustily
 graffiti
 gabbles
 germanomaniac
+griots
 golpe
 gaspereau
 gaiter
@@ -9356,7 +9357,6 @@ gibelite
 grossed
 graphomaniacal
 grebes
-griots
 genotypic
 garroting
 gesticulating
