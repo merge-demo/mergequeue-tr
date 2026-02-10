@@ -5686,7 +5686,6 @@ flirtatiousness
 fundament
 fitroot
 flurry
-flippancies
 freshness
 ferrary
 fetor
@@ -7618,6 +7617,7 @@ faction
 forst
 filler
 feudatory
+flippancies
 fables
 factualism
 foreworn
