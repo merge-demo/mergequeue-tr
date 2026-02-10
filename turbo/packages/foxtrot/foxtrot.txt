@@ -4406,6 +4406,7 @@ forfeit
 footpick
 fishily
 fatigues
+fling
 farinaceously
 fishiness
 fraxin
@@ -8829,7 +8830,6 @@ flowery
 fervorless
 foulder
 fouled
-fling
 fatiloquent
 feedstuff
 forethough
