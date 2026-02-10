@@ -3298,7 +3298,6 @@ grr
 genoblast
 glottalization
 gyneccia
-gipsyesque
 geepounds
 gauderies
 geostrophically
@@ -7166,6 +7165,7 @@ galvanotactic
 goodnesses
 gony
 grasshopperdom
+gipsyesque
 gaditan
 greenthumbed
 geotectonics
