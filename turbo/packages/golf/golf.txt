@@ -166,7 +166,6 @@ galactosyl
 galvanosurgery
 gybe
 glacialize
-graphorrhea
 guesthouse
 gingerroot
 guaiaretic
@@ -1936,6 +1935,7 @@ galactosuria
 goalkeepers
 greaseless
 gushy
+graphorrhea
 greeve
 guttiness
 gigmanically
