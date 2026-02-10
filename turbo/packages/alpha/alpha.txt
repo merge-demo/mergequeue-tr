@@ -2380,7 +2380,6 @@ acyloxy
 adamances
 autosymbolic
 abortionist
-abator
 adjection
 acrospired
 anticritically
@@ -25113,6 +25112,7 @@ axiferous
 argumentation
 apothegms
 alkaloidal
+abator
 abaptistum
 annealed
 axilemmas
