@@ -9566,7 +9566,6 @@ binomialism
 backachy
 bonder
 birdbanding
-babooism
 birses
 birsit
 bellowsmaking
@@ -14829,6 +14828,7 @@ bobization
 brickmaker
 breached
 breacher
+babooism
 beanfeaster
 breachers
 belonite
