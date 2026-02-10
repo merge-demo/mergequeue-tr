@@ -2804,7 +2804,6 @@ cannons
 coulure
 chedreux
 crispening
-chebeck
 cannulae
 cannulate
 circumscribe
@@ -14408,6 +14407,7 @@ centiare
 carate
 cowled
 crosscrosslet
+chebeck
 charades
 capataces
 cervix
