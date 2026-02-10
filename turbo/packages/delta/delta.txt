@@ -671,6 +671,7 @@ desquamated
 dukely
 decard
 deafen
+diagonals
 dipleuric
 dudgeons
 dihydroxy
@@ -8251,7 +8252,6 @@ diagonalization
 diagnosing
 duel
 denude
-diagonals
 deducting
 diagonalwise
 denudate
