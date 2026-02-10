@@ -1749,6 +1749,7 @@ eyen
 etacism
 eulogisation
 extendedly
+encryption
 epanorthoses
 encysts
 enswathe
@@ -5612,7 +5613,6 @@ elysium
 esophoria
 ectocarpous
 encitadel
-encryption
 enlisters
 enflagellate
 enfigure
