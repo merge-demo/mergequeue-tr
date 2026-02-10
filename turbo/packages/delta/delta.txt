@@ -10688,7 +10688,6 @@ diaculum
 depit
 dormin
 dippier
-dipping
 depersonalizing
 densely
 dentes
@@ -12935,6 +12934,7 @@ daunii
 decreation
 disdiazo
 downswing
+dipping
 dowment
 deniability
 dimensionless
