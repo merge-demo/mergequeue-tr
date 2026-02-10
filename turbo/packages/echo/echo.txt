@@ -9293,7 +9293,6 @@ eugeosynclinal
 epitaphize
 elytrin
 errors
-encephalon
 estramazone
 ecrustaceous
 erse
@@ -10872,6 +10871,7 @@ exion
 empair
 esclandre
 exsolve
+encephalon
 eutectic
 extensor
 embryoplastic
