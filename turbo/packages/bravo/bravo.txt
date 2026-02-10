@@ -3717,7 +3717,6 @@ basiophthalmite
 baste
 bucketful
 bally
-belage
 belfather
 batteaux
 battement
@@ -6860,6 +6859,7 @@ burley
 baroi
 bacchiac
 bes
+belage
 biocide
 bushpig
 boaedon
