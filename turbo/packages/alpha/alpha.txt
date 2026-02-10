@@ -15036,7 +15036,6 @@ anticritic
 agglomerations
 anaglyptics
 anticritical
-astrose
 anasarcas
 attestant
 antipewism
@@ -18831,6 +18830,7 @@ allomerization
 agoniatite
 archers
 acetonurometer
+astrose
 arches
 annalia
 albumosuria
