@@ -663,6 +663,7 @@ barfing
 bellwethers
 butchering
 beebread
+broadswords
 boozed
 bullnecks
 biramous
@@ -16357,7 +16358,6 @@ brownwort
 biovular
 beflower
 bowels
-broadswords
 bicarb
 bleatingly
 bdft
