@@ -1167,7 +1167,6 @@ calculableness
 calculably
 cosing
 confabular
-calculatedly
 contango
 calculatedness
 chromophilic
@@ -3487,6 +3486,7 @@ capsizes
 clanger
 capsizing
 capernaitish
+calculatedly
 capsomere
 capstans
 capstone
