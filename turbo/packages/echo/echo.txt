@@ -8012,6 +8012,7 @@ enigmaticalness
 exscript
 epifocal
 epigonal
+equitemporaneous
 ehtanethial
 enoplion
 ethmosphenoidal
@@ -8727,7 +8728,6 @@ equitative
 electrican
 experimentator
 entone
-equitemporaneous
 eluted
 erythroclasis
 euphemisms
