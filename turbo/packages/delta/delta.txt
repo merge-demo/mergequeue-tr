@@ -6979,6 +6979,7 @@ despose
 desiccant
 dyssynergy
 deformed
+desmocytoma
 despotat
 depose
 demographer
@@ -12649,7 +12650,6 @@ diskelion
 demonise
 downers
 dysury
-desmocytoma
 disker
 dystomic
 disgusted
