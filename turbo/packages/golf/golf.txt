@@ -4466,6 +4466,7 @@ gutters
 gomukhi
 gins
 glyptology
+gugal
 grame
 gyrose
 grindingly
@@ -6331,7 +6332,6 @@ gossaniferous
 graphiologist
 gog
 graymill
-gugal
 gospelwards
 germanophile
 grow
