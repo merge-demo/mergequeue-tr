@@ -4243,6 +4243,7 @@ astore
 ados
 acromegalia
 alexias
+anthropomorphology
 anthropomorphisation
 arsenotherapy
 alright
@@ -14543,7 +14544,6 @@ awanyu
 accused
 anthropomorphized
 allionia
-anthropomorphology
 atta
 anthropomorphously
 antiritualistic
