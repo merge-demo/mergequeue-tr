@@ -5093,6 +5093,7 @@ coagulant
 compsognathus
 cascaras
 coolly
+countersignature
 cascrom
 colonoscope
 caesarship
@@ -8961,7 +8962,6 @@ chaplaincy
 chalchihuitl
 conceivability
 cryptal
-countersignature
 compartment
 charism
 charismata
