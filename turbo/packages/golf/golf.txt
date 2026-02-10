@@ -8278,6 +8278,7 @@ greyness
 guha
 gynaecia
 glod
+greffotome
 gephyrocercy
 glacon
 gazelle
@@ -9022,7 +9023,6 @@ gis
 gunpowdery
 gryllid
 glottogonic
-greffotome
 glassworking
 glasser
 genitive
