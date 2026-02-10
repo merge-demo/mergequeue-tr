@@ -3174,6 +3174,7 @@ coarctation
 cystectomy
 capernoited
 capernutie
+coats
 cohens
 cenesthesia
 carapace
@@ -8009,7 +8010,6 @@ chaetiferous
 cocytean
 chaetochloa
 chaetodon
-coats
 capercally
 chaetodontidae
 chaetognatha
