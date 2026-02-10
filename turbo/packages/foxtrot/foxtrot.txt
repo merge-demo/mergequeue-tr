@@ -1705,7 +1705,6 @@ fellest
 firesafety
 fieldmice
 fragmentation
-folioing
 festa
 fieldward
 finishing
@@ -9855,6 +9854,7 @@ fattily
 funge
 feria
 flavanthrone
+folioing
 fogeys
 forepointer
 flapdragon
