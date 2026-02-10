@@ -4436,7 +4436,6 @@ dysphoric
 deemphasizes
 dulnesses
 deception
-diaspora
 divulse
 demicircular
 divulsor
@@ -9047,6 +9046,7 @@ dictionarian
 dollying
 dropsywort
 dermatophytic
+diaspora
 dictamina
 disembattle
 dyester
