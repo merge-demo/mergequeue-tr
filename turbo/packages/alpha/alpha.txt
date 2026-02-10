@@ -1730,6 +1730,7 @@ advocateship
 adjutage
 aporia
 abases
+aschaffite
 antrotympanic
 arneb
 accoy
@@ -8467,7 +8468,6 @@ arite
 antilog
 avogram
 anticausotic
-aschaffite
 allocators
 adulatory
 apotheosizing
