@@ -4490,7 +4490,6 @@ beribers
 beclothes
 blushwort
 bike
-boomeranged
 benegro
 blumea
 billard
@@ -11376,6 +11375,7 @@ bls
 blub
 blickey
 blubbed
+boomeranged
 bootlicker
 bursting
 breathed
