@@ -5192,6 +5192,7 @@ beroidae
 befoulment
 begall
 biacuminate
+baronne
 befraught
 befreight
 befountained
@@ -8571,7 +8572,6 @@ behale
 backboned
 bacterioscopical
 bafaro
-baronne
 birch
 butyryl
 bisections
