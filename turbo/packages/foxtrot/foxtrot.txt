@@ -3281,7 +3281,6 @@ fivescore
 flounces
 fortier
 fulgency
-finity
 factitious
 framed
 forayers
@@ -8108,6 +8107,7 @@ fanegadas
 fundmonger
 forevers
 fingerberry
+finity
 foregate
 fretless
 ferberite
