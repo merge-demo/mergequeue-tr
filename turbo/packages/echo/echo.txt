@@ -4387,6 +4387,7 @@ euripos
 extradialectal
 enbrave
 eggheadedness
+erelong
 embar
 egotize
 eruptively
@@ -8645,7 +8646,6 @@ erythrogonium
 erineum
 enzymotic
 ethanols
-erelong
 extractor
 enervous
 exceptionable
