@@ -439,7 +439,6 @@ diathermous
 dimercaprol
 daises
 defiance
-dangleberries
 discept
 dogbanes
 debates
@@ -13256,6 +13255,7 @@ diacetate
 digynia
 disportment
 ditali
+dangleberries
 dangerfully
 decohesion
 disposedness
