@@ -10695,6 +10695,7 @@ epithecicia
 embrangled
 eugubine
 entoderm
+emicate
 emeerate
 epitomizer
 euhemerist
@@ -13330,7 +13331,6 @@ eskar
 emilia
 exponention
 elephantopus
-emicate
 enduement
 exponible
 existible
