@@ -2649,6 +2649,7 @@ flashy
 frump
 ferter
 feod
+forwearying
 felliducous
 fittyways
 flamb
@@ -10494,7 +10495,6 @@ feuillet
 fantasticality
 frostily
 fluorate
-forwearying
 fordid
 flegm
 fluitant
