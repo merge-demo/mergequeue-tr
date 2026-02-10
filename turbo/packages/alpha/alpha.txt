@@ -4051,7 +4051,6 @@ ailurophilia
 abiotrophic
 amyotaxia
 allylic
-autorotational
 aloyau
 afric
 application
@@ -19182,6 +19181,7 @@ angiomatous
 anticommunists
 allotropize
 arcose
+autorotational
 angiospermal
 acrobystitis
 antipolo
