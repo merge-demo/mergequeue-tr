@@ -4033,7 +4033,6 @@ footways
 fabrication
 femininely
 foredo
-fondak
 forevision
 faburden
 finishers
@@ -10636,6 +10635,7 @@ fractile
 ferity
 franc
 frontalis
+fondak
 forswearing
 flumped
 forwaste
