@@ -8893,6 +8893,7 @@ ergodic
 evenhead
 euphoria
 expectorators
+esquireship
 entoderms
 ergograph
 embitter
@@ -12820,7 +12821,6 @@ equine
 epipactis
 emajagua
 exoterical
-esquireship
 exotericism
 extenuated
 entotympanic
