@@ -6332,7 +6332,6 @@ beys
 burying
 baltic
 benthamism
-btise
 blurping
 benthic
 barbar
@@ -14449,6 +14448,7 @@ bacchanalian
 blowsed
 bagful
 brainstorming
+btise
 balkanic
 brainteaser
 brainward
