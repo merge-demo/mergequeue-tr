@@ -482,7 +482,6 @@ gleewoman
 goosefishes
 gelatia
 guardedly
-gymnospore
 genyoplasty
 glossoncus
 gospelize
@@ -8411,6 +8410,7 @@ gyring
 glassiest
 grapestone
 gravelroot
+gymnospore
 gallstones
 gentisic
 goldbricks
