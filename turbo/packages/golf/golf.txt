@@ -10300,7 +10300,7 @@ graying
 grather
 gridded
 galliard
-galactosidase
+galactosidase 1
 girasol
 gault
 getsul
