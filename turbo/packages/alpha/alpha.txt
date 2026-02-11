@@ -3916,6 +3916,7 @@ adjoints
 apieces
 akiskemikinik
 adjourn
+acculturative
 austerities
 allurance
 adjournal
@@ -5768,7 +5769,6 @@ agaricoid
 agarics
 apluda
 acephalia
-acculturative
 agaroid
 abstractedly
 ambilian

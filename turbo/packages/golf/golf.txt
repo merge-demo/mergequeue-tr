@@ -4569,6 +4569,7 @@ grister
 gutium
 gyrodactylidae
 glucagons
+greeter
 gobbledegook
 gapa
 girthing
@@ -4848,7 +4849,6 @@ globularity
 guest
 greensand
 grudge
-greeter
 glaizie
 geologies
 glagolic
