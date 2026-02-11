@@ -8913,6 +8913,7 @@ dirigible
 denaturalization
 documenter
 deidesheimer
+deceivableness
 dichotomy
 detruck
 dislodging
@@ -15489,7 +15490,6 @@ diapery
 disbands
 detergence
 discodactyl
-deceivableness
 decaisnea
 dispell
 desist
