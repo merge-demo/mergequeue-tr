@@ -6044,6 +6044,7 @@ catling
 catlings
 cairds
 catlins
+creedalist
 craftsperson
 cryptoporticus
 canephroi
@@ -26933,7 +26934,6 @@ craniological
 contemner
 cushioniness
 certhiidae
-creedalist
 calibres
 countermanding
 countermaneuver
