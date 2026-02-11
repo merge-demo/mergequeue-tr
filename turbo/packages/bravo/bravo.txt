@@ -1909,7 +1909,6 @@ batukite
 bishoplike
 backy
 biostatics
-bougeron
 beshrew
 bretwaldadom
 balant
@@ -13536,6 +13535,7 @@ belime
 baccae
 breakfasting
 blackbrush
+bougeron
 barometrography
 blundered
 brushback
