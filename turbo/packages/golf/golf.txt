@@ -5095,7 +5095,6 @@ genetmoil
 glazers
 geldant
 geniting
-grouch
 gibus
 guaranteers
 gnostology
@@ -5586,6 +5585,7 @@ gloomings
 graveward
 gunyang
 grimoire
+grouch
 guggled
 germanics
 gubernacular
