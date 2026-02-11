@@ -11318,6 +11318,7 @@ backlashes
 blower
 boomiest
 boaters
+boccaro
 braver
 bullshits
 basketries
@@ -11805,7 +11806,6 @@ bocasin
 boccarella
 ballpark
 bodings
-boccaro
 bobsleding
 bizones
 bocce
