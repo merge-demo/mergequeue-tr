@@ -2836,7 +2836,6 @@ genu
 grillers
 gastrosophy
 gynaecic
-gel
 geogenous
 gater
 goutweed
@@ -9209,6 +9208,7 @@ griths
 gritted
 gutturality
 gimpiest
+gel
 grivna
 geosynchronous
 galeres
