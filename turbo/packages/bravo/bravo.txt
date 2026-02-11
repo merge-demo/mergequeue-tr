@@ -260,6 +260,7 @@ baldric
 buried
 blotless
 balancedness
+benchmar
 brontosaur
 beamily
 bacillariaceous
@@ -11012,7 +11013,6 @@ bedabble
 bael
 bellhop
 batement
-benchmar
 blinkingly
 blinter
 blocky
