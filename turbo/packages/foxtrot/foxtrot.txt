@@ -8209,7 +8209,6 @@ faltering
 flatette
 forgat
 flavines
-footwork
 forgather
 fossulet
 falsifications
@@ -8832,6 +8831,7 @@ flowery
 fervorless
 foulder
 fouled
+footwork
 fatiloquent
 feedstuff
 forethough

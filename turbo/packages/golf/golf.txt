@@ -1595,6 +1595,7 @@ gasteromycetous
 geneat
 giraffine
 gasteropoda
+goldbrick
 gillies
 geoff
 gobiesocidae
@@ -9806,7 +9807,6 @@ glebous
 guesstimated
 guayaqui
 gawcie
-goldbrick
 ghebeta
 guaymie
 geoponical
