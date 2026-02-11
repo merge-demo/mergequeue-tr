@@ -1713,6 +1713,7 @@ echolocate
 enterosyphilis
 embolon
 epidosite
+exomorphism
 employ
 epistilbite
 ejective
@@ -5671,7 +5672,6 @@ elephanta
 eng
 esurience
 evangelicals
-exomorphism
 euploid
 extrarenal
 endophasic
