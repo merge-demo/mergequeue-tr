@@ -20508,6 +20508,7 @@ auriculidae
 anaphylactoid
 arterioloscleroses
 anoxybiosis
+avast
 arteriolosclerosis
 afaint
 acrid
@@ -24133,7 +24134,6 @@ amitular
 attendee
 acetylthymol
 alewives
-avast
 arache
 altoist
 antianarchist
