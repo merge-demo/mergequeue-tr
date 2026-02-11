@@ -3821,7 +3821,7 @@ adib
 allanite
 adiel
 aprowl
-apatetic
+apatetic 1
 argufier
 agonied
 acetonyl
