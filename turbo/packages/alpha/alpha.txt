@@ -7261,7 +7261,6 @@ alarmclock
 alexanders
 abamps
 alarmedly
-audivise
 alarmingly
 aftercure
 aurantiaceae
@@ -15508,6 +15507,7 @@ aramidae
 antimonarchally
 ardelia
 auxochromic
+audivise
 armchaired
 anthracnose
 abstracted
