@@ -966,7 +966,6 @@ gnathonically
 gopher
 gammoners
 gentlewomen
-gooseries
 glycyphyllin
 geocentrical
 gamogamy
@@ -6329,6 +6328,7 @@ gunmetals
 glucosone
 granolithic
 grouty
+gooseries
 gossaniferous
 graphiologist
 gog
