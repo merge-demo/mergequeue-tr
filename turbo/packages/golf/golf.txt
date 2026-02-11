@@ -1204,7 +1204,6 @@ globular
 gitter
 guestive
 guttate
-garfishes
 glaux
 gimcrackery
 gimmicking
@@ -2908,6 +2907,7 @@ glycollic
 glints
 gallipots
 glittering
+garfishes
 gledes
 gonocyte
 gallinulelike
