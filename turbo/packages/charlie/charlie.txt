@@ -18715,7 +18715,6 @@ consistorial
 canaliculation
 comprehensibility
 conquistador
-colatitude
 colberter
 colbertine
 colascioni
@@ -28317,6 +28316,7 @@ craunches
 coloring
 conilurus
 craunchingly
+colatitude
 cravat
 capmaker
 cravats
