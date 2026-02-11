@@ -184,7 +184,6 @@ caliculi
 cabre
 chicadee
 catproof
-chutzpas
 choriocapillaris
 cabree
 cabrerite
@@ -13950,6 +13949,7 @@ chiliarch
 coxwaining
 contacted
 counterparadox
+chutzpas
 curneys
 congees
 cyphella
