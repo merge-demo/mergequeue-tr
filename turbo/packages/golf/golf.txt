@@ -8173,7 +8173,6 @@ gravid
 gladlier
 gigabit
 gujar
-glycerolyses
 gelatinise
 geometricize
 grandfatherless
@@ -10522,6 +10521,7 @@ grallic
 galeorchis
 gilly
 gadsbodikins
+glycerolyses
 gonal
 gunfights
 ghillie
