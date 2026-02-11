@@ -1601,7 +1601,6 @@ gobiesocidae
 gasbag
 gingili
 gametogenesis
-gaunted
 giblet
 gastralgia
 gastreas
@@ -5005,6 +5004,7 @@ garland
 ganged
 gret
 glassful
+gaunted
 grapplers
 gloxinia
 gossipmonger
