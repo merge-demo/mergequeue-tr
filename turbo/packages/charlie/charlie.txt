@@ -2255,6 +2255,7 @@ camps
 canaanitish
 condylome
 canabae
+cophouse
 creditableness
 canacuas
 cucullaris
@@ -7564,7 +7565,6 @@ cooked
 citrulline
 chondric
 corydaline
-cophouse
 cerebrifugal
 cartoonists
 cerebrize
