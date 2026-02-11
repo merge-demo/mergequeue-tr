@@ -1122,6 +1122,7 @@ environage
 endere
 editorialization
 elsa
+extricates
 electralize
 ecphory
 expunction
@@ -2789,7 +2790,6 @@ embelic
 evasive
 exclamations
 enjeopard
-extricates
 endomixis
 ecthyma
 ephebeibeia
