@@ -1279,7 +1279,6 @@ disking
 datsuns
 disband
 demigardebras
-dissyllabize
 dentition
 dysodyle
 dardanarius
@@ -1530,6 +1529,7 @@ discoglossid
 distractedly
 dallies
 dicerous
+dissyllabize
 dicacodyl
 dartman
 designer
