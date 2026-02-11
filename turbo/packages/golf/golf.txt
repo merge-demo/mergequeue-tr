@@ -405,6 +405,7 @@ gps
 galant
 galanthus
 guilery
+gradiometer
 ganymedes
 gains
 goalposts
@@ -9880,7 +9881,6 @@ glacification
 genethliacon
 guarand
 gimlety
-gradiometer
 grazes
 girleen
 golding
