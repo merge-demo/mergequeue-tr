@@ -376,7 +376,6 @@ graphed
 glaciologists
 gasogenic
 graphium
-gorefish
 gangrenous
 gunsmith
 goniometrical
@@ -2087,6 +2086,7 @@ gamblers
 gyrocompasses
 glottology
 guilefully
+gorefish
 gawgaw
 graminological
 gozzard
