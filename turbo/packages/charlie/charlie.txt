@@ -12146,7 +12146,6 @@ cont
 cauldron
 chrysazol
 cirsomphalos
-chorioma
 crateral
 chryselectrum
 calumny
@@ -15864,6 +15863,7 @@ cydippian
 clemencies
 confederationism
 clement
+chorioma
 clementina
 clemently
 clementness
