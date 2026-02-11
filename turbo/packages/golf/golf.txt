@@ -3506,7 +3506,6 @@ gents
 glycolysis
 generalships
 ghastily
-gottlieb
 gynecolatry
 grenadin
 goth
@@ -6391,6 +6390,7 @@ gentlemanliness
 gocart
 giddypate
 girnie
+gottlieb
 goburra
 glucidic
 gauntleting
