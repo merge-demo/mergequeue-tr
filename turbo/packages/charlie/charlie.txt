@@ -1863,7 +1863,6 @@ cyrillaceae
 chundari
 cysticle
 camaxtli
-clabularia
 camball
 cambarus
 cambered
@@ -19786,6 +19785,7 @@ catechols
 cricotomy
 cribrose
 convening
+clabularia
 crepitous
 cafenet
 comecrudo
