@@ -5348,6 +5348,7 @@ fraughting
 feedbin
 fettles
 flanken
+flavoring
 feebleness
 fandom
 fullmouth
@@ -6038,7 +6039,6 @@ floridity
 floriscope
 fetterbush
 faba
-flavoring
 filmgoing
 feringhee
 ferrivorous
