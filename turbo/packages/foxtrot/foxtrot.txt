@@ -5757,7 +5757,6 @@ family
 fevertwig
 flambee
 farfugium
-frett
 facemaker
 fv
 forestside
@@ -6824,6 +6823,7 @@ foliot
 forthby
 ferritungstite
 fattiest
+frett
 farewell
 flasks
 friability
