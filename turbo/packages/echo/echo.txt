@@ -361,7 +361,6 @@ eeler
 enthroned
 equimolar
 eightvos
-exosseous
 ebcd
 experts
 electrepeter
@@ -14007,6 +14006,7 @@ exaltate
 extralimital
 extrapolatory
 extraposition
+exosseous
 electrolytic
 extraprofessional
 evocation
