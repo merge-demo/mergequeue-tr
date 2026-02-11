@@ -17512,7 +17512,6 @@ burbot
 bleak
 beata
 bromopicrin
-bidenticulate
 belfast
 bathukolpic
 bhang
@@ -17711,6 +17710,7 @@ beanos
 braconid
 bankeress
 broach
+bidenticulate
 buyer
 burma
 begazed

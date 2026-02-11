@@ -4649,7 +4649,6 @@ contrary
 comptoir
 centerline
 carotinemia
-cronying
 carotinoid
 celibataire
 corespondency
@@ -11575,6 +11574,7 @@ cholecystocolostomy
 cognisability
 colonialization
 cholecystogram
+cronying
 cholecystography
 cholecystokinin
 cholecystolithiasis
