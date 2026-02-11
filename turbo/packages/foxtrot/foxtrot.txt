@@ -2514,7 +2514,6 @@ footsore
 feudal
 faired
 fastballs
-flunky
 foulmouth
 formaldehyde
 foreweigh
@@ -5636,6 +5635,7 @@ fishnets
 finedraw
 fumet
 fermium
+flunky
 friend
 fawe
 fragility
