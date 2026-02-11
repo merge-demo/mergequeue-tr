@@ -1072,7 +1072,6 @@ entailment
 expeditive
 embase
 embeddable
-epistolic
 echinology
 elective
 edification
@@ -4774,6 +4773,7 @@ enterotomy
 epiopticon
 excusatory
 encode
+epistolic
 exitance
 ethnolinguist
 ensnarements
