@@ -4708,7 +4708,6 @@ estre
 emplaced
 exponentiating
 encircle
-embrowned
 emittent
 elocutive
 entryway
@@ -8081,6 +8080,7 @@ enlargedness
 encover
 extrasyphilitic
 extraordinaries
+embrowned
 expressable
 enhedge
 epiplasmic
