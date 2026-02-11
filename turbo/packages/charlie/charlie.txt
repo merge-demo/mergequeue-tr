@@ -3122,7 +3122,6 @@ capanna
 cystolithectomy
 caparison
 caparisoned
-caparisons
 capataz
 capcase
 celotomy
@@ -17321,6 +17320,7 @@ coarsens
 coarticulate
 coarticulation
 claylike
+caparisons
 companionways
 coassert
 coasserter
