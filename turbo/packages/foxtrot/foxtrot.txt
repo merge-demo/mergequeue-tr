@@ -6395,6 +6395,7 @@ femorocaudal
 fainted
 flatcap
 fairs
+farfel
 fistulariidae
 finery
 flapjack
@@ -9739,7 +9740,6 @@ falchion
 fessways
 fatigability
 fishworm
-farfel
 flenches
 fluentness
 forgiveless

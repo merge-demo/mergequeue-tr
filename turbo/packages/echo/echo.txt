@@ -3855,6 +3855,7 @@ estivator
 eggcupful
 emersonianism
 emesa
+exasperate
 emeses
 effigiate
 epalpate
@@ -6770,7 +6771,6 @@ endocrinology
 evading
 entiris
 extinguishing
-exasperate
 entitatively
 entitle
 evangelistarion
