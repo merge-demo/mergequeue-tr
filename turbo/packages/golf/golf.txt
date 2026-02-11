@@ -1973,6 +1973,7 @@ ghostlify
 glairs
 gastricism
 garnishments
+giga
 gnomonical
 gimbal
 geology
@@ -7387,7 +7388,6 @@ gepeoo
 grantsmen
 goosefoot
 galvanometers
-giga
 gnatproof
 geylies
 gotra
