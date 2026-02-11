@@ -1562,7 +1562,7 @@ fuselage
 fauvisms
 foreprepare
 fodderer
-fascistic
+fascistic 1
 filechar
 ferruminate
 faucitis
