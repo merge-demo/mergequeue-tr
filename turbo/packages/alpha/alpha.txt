@@ -11458,6 +11458,7 @@ ampullary
 ampullate
 aqueoigneous
 amphioxus
+abhenries
 ampulliform
 affrightfully
 amputate
@@ -19865,7 +19866,6 @@ armiferous
 agnoetism
 agnoetae
 attributives
-abhenries
 armiger
 aweto
 armigeros
