@@ -9824,6 +9824,7 @@ fissileness
 frib
 fruitage
 faden
+feralin
 fribbler
 friskle
 foreappointment
@@ -10695,7 +10696,6 @@ facetted
 fainting
 foxy
 felsophyre
-feralin
 fivepenny
 fairstead
 fruitstalk
