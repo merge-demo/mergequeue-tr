@@ -3783,7 +3783,6 @@ animation
 azoxybenzoic
 absences
 aglaia
-antecedal
 adiadokokinesia
 adiagnostic
 adeniform
@@ -22818,6 +22817,7 @@ asgd
 aby
 atmolysis
 atmolyzation
+antecedal
 atmolyze
 atonality
 anisotropous
