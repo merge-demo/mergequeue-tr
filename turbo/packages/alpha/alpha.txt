@@ -2564,7 +2564,6 @@ acorus
 acosmism
 assizing
 acosmist
-athecata
 aircoach
 antisensuously
 atrophy
@@ -8523,6 +8522,7 @@ alalia
 alkies
 assessable
 airplane
+athecata
 accelerograph
 alkylarylsulfonate
 anallergic
