@@ -1964,6 +1964,7 @@ escheatable
 eppy
 eastland
 eventration
+enduringness
 ejoo
 enravishing
 exanimation
@@ -5568,7 +5569,6 @@ expediences
 evangel
 extratympanic
 empathetically
-enduringness
 estado
 estimably
 enrichment
