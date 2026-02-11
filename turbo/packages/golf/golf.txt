@@ -961,6 +961,7 @@ gospodar
 garrottes
 gnetum
 gnathonically
+gashful
 gopher
 gammoners
 gentlewomen
@@ -8845,7 +8846,6 @@ greisens
 getas
 gasterotricha
 gartering
-gashful
 gremlins
 grenadierial
 gloriam
