@@ -12938,7 +12938,6 @@ cyanides
 cyanidrosis
 clothes
 cyanids
-cyanimide
 cyanine
 commemorators
 chaldrons
@@ -24221,6 +24220,7 @@ convoked
 centigram
 convolutedly
 crinoidal
+cyanimide
 convoluting
 convolution
 calculator
