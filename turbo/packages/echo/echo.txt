@@ -5769,7 +5769,6 @@ emaciation
 expective
 eddying
 eelpouts
-enfief
 endozoic
 endues
 earthlike
@@ -6162,6 +6161,7 @@ ectoparasitic
 endotoxin
 erns
 embronze
+enfief
 enframing
 evagation
 enthused
