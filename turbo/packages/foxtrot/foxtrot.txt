@@ -7547,6 +7547,7 @@ frankheartedness
 flightworthy
 fatuity
 footslogs
+fabrikoid
 forestaller
 flacherie
 forjudgment
@@ -9252,7 +9253,6 @@ fertil
 flagons
 fordull
 foregoers
-fabrikoid
 fruticeta
 funfairs
 farinaceous
