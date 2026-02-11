@@ -9966,6 +9966,7 @@ englishize
 estuosity
 edibleness
 endophagy
+endamnify
 erythromelalgia
 esugarization
 endowers
@@ -9979,7 +9980,6 @@ epilobe
 easygoingly
 endocrinal
 earsplitting
-endamnify
 etamins
 enamdar
 entepicondylar

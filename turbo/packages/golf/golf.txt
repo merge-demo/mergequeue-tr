@@ -9594,7 +9594,6 @@ geests
 goiter
 grizzlier
 glazement
-geochemical
 guarish
 gummite
 grandma
@@ -10048,6 +10047,7 @@ gueridons
 gasking
 garnering
 gongman
+geochemical
 galette
 gossypols
 guerison
