@@ -1339,7 +1339,6 @@ flyable
 frantically
 fluxible
 fatherly
-feest
 features
 fragmenting
 fendering
@@ -3619,6 +3618,7 @@ foregut
 filiformed
 footmaker
 frisbees
+feest
 flook
 farmable
 fridstool
