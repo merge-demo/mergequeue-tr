@@ -5211,7 +5211,6 @@ blellum
 buoyage
 befriended
 bellbind
-belfast
 beardfish
 befriender
 benignly
@@ -17514,6 +17513,7 @@ bleak
 beata
 bromopicrin
 bidenticulate
+belfast
 bathukolpic
 bhang
 biograph
