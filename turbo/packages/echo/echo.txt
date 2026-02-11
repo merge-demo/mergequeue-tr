@@ -5966,7 +5966,6 @@ ephphatha
 enigmatist
 enigmatographer
 emotionality
-exempts
 enisled
 enisles
 echinoderidae
@@ -12594,6 +12593,7 @@ entrance
 eastling
 excecation
 eunuchry
+exempts
 exocoele
 excusing
 electrophoreses
