@@ -696,7 +696,6 @@ gastronomer
 gallying
 gemaric
 goniotropous
-gratillity
 governors
 gynandromorphous
 greeters
@@ -4748,6 +4747,7 @@ galgal
 gweducks
 gargoylishly
 gangliar
+gratillity
 gobiiform
 glucogenic
 glassware
