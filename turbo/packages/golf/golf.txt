@@ -4004,7 +4004,6 @@ ghastlily
 gumtree
 guanines
 galbulus
-gileno
 gingles
 gaddingly
 groomsman
@@ -7483,6 +7482,7 @@ glossodynia
 generalization
 glassiness
 gamogenesis
+gileno
 gaen
 glycolytic
 glaucophanize
