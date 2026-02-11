@@ -2606,7 +2606,7 @@ acquest
 armenite
 actutate
 arriswise
-acquiesce
+acquiesce 1
 addiction
 acanthopterous
 alginates
