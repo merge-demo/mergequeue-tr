@@ -1353,6 +1353,7 @@ gitalin
 garlion
 gemshorn
 guess
+glabreity
 gesturers
 grafting
 gemmel
@@ -2923,7 +2924,6 @@ geocerite
 glove
 gubernation
 gallons
-glabreity
 gabardines
 gulley
 growlier
