@@ -4247,7 +4247,6 @@ escarping
 escambio
 emulousness
 elegancy
-eaux
 eumeristic
 expolish
 expendible
@@ -11477,6 +11476,7 @@ emictory
 evocator
 endocrinous
 exsecant
+eaux
 exoergic
 exaction
 equipotent
