@@ -3921,6 +3921,7 @@ french
 ferrocyanogen
 furrowed
 fireboxes
+fumattoria
 flemish
 frailejon
 fluoranthene
@@ -5976,7 +5977,6 @@ fusty
 foolscaps
 felspars
 flacon
-fumattoria
 foo
 fidiculae
 ferroelectrically
