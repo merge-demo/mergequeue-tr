@@ -6330,7 +6330,6 @@ embryotegae
 estancias
 esophoric
 extrovertish
-epuloid
 enseated
 exgorgitation
 endostylic
@@ -13423,6 +13422,7 @@ espinos
 enraptured
 exploitable
 expressional
+epuloid
 erupted
 eikones
 ebionitic
