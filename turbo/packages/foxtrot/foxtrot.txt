@@ -1110,7 +1110,6 @@ farsighted
 fiddled
 flatiron
 flots
-foretime
 farsightedness
 fifing
 flooring
@@ -3878,6 +3877,7 @@ fanwe
 foregrounds
 frequencies
 fits
+foretime
 fortuitously
 fecundating
 fluidness
