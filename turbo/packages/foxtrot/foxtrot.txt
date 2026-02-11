@@ -7563,7 +7563,6 @@ forespeak
 fervors
 forgathers
 forril
-festino
 fatalize
 farrier
 ferroglass
@@ -9598,6 +9597,7 @@ finitesimal
 flatfootedness
 freen
 flowerer
+festino
 forwardly
 freers
 farthest
