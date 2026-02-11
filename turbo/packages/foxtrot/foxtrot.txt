@@ -3700,6 +3700,7 @@ fillings
 furfuryl
 fricti
 forepoling
+forelegs
 found
 fierasferid
 fistulas
@@ -6667,7 +6668,6 @@ frescoists
 fighters
 feast
 fellowships
-forelegs
 fogon
 flunks
 fogproof
