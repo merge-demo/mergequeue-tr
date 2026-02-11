@@ -694,6 +694,7 @@ gideon
 granulomatosis
 goneril
 gastronomer
+gamine
 gallying
 gemaric
 goniotropous
@@ -2339,7 +2340,6 @@ gerard
 galvanography
 graviton
 gravamina
-gamine
 gelatinizer
 gradates
 giornatate
