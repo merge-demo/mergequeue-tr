@@ -580,6 +580,7 @@ gladding
 gallicizer
 galliform
 gomphrena
+gridlock
 gorgeousness
 gabfest
 gorilloid
@@ -9136,7 +9137,6 @@ gripment
 grimacers
 grypotherium
 gooral
-gridlock
 gliss
 greenstick
 glavering
