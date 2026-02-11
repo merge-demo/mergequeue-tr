@@ -1033,7 +1033,6 @@ abstrusest
 avulsing
 antiwit
 abstrusity
-adlai
 abstrusities
 angiocarpy
 aphlaston
@@ -9866,6 +9865,7 @@ aloes
 amaranth
 anchylosing
 amaranthaceae
+adlai
 argonon
 acrobatically
 appale
