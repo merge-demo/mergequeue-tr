@@ -10184,7 +10184,7 @@ etherifies
 etherifying
 etherism
 ectoentad
-etherizes
+etherizes 1
 extraditing
 easeful
 encoders
