@@ -5883,7 +5883,7 @@ fencepost
 freeholder
 foetalism
 fluxibility
-furlers
+furlers 1
 frangent
 formlessness
 flockwise
