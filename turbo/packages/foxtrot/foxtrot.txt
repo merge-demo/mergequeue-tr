@@ -309,7 +309,7 @@ fraternation
 fillagree
 feints
 feint
-frenchize
+frenchize 1
 fostell
 finagles
 fibrillated
