@@ -453,7 +453,7 @@ anonychia
 abiotic
 argentometer
 adyton
-authorities
+authorities 1
 angiotomy
 aggrandizing
 ascot
