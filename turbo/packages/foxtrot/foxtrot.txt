@@ -10639,7 +10639,7 @@ ferity
 franc
 frontalis
 fondak
-forswearing
+forswearing 1
 flumped
 forwaste
 fleeting
