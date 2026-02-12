@@ -11889,7 +11889,7 @@ dropsical
 defrosters
 dramm
 danism
-decalescence
+decalescence 1
 discuses
 dentalisation
 defectively
