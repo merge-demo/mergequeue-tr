@@ -3095,7 +3095,7 @@ esemplastic
 enolic
 ethiopian
 ellipticity
-elliptograph
+elliptograph 1
 esprise
 elliptoid
 encrease
