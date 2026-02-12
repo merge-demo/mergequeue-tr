@@ -18196,7 +18196,7 @@ coexpanded
 coexperiencer
 catchment
 clubbiness
-coextends
+coextends 1
 creep
 coextent
 cofactors
