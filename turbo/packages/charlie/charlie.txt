@@ -6260,7 +6260,7 @@ chymists
 crazyweed
 cibola
 conferrer
-capuchins
+capuchins 1
 catalases
 cofermentation
 colourize
