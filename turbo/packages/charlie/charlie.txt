@@ -9038,7 +9038,7 @@ configurate
 charms
 charneco
 charnockite
-covarecan
+covarecan 1
 charnockites
 cathartes
 charnu
