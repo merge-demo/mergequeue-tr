@@ -5322,7 +5322,7 @@ applanate
 attaining
 adenophthalmia
 aluminosity
-authorizations
+authorizations 1
 allmouth
 aspheterism
 avadavats
