@@ -5627,7 +5627,7 @@ grenat
 gaultheria
 guitarlike
 gaudies
-galvanographic
+galvanographic 1
 glandulous
 gallophile
 gristliest
