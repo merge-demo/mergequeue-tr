@@ -2987,7 +2987,7 @@ etiologies
 embind
 eruciform
 epipastic
-emony
+emony 1
 eurypterida
 equiprobabilism
 eliminated
