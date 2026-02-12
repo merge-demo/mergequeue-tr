@@ -7001,7 +7001,7 @@ emetines
 escutellate
 economising
 electrifies
-earphone
+earphone 1
 enactory
 embellished
 epiphenomenon
