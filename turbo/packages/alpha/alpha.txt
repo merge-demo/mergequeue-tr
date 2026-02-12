@@ -1864,7 +1864,7 @@ acervulus
 abiezer
 anadyomene
 athlothete
-acestes
+acestes 1
 adstrict
 anthropomorphological
 advanced
