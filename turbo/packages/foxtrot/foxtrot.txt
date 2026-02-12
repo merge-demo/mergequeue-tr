@@ -9984,7 +9984,7 @@ feloniousness
 foun
 futureless
 fibroid
-feracity
+feracity 1
 firelike
 frigotherapy
 facial
