@@ -12810,7 +12810,7 @@ extensional
 exostosis
 exostra
 ebullition
-elementary
+elementary 1
 exostrae
 exoteric
 exoterica
