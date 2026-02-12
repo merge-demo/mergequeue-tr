@@ -6073,7 +6073,7 @@ blanquillos
 butcherless
 balaenid
 balarama
-bole
+bole 1
 brahmanical
 bort
 bablah
