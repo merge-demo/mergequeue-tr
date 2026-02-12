@@ -3270,7 +3270,7 @@ compenetrate
 corns
 capito
 canulated
-capitol
+capitol 1
 clingier
 crayfishing
 corregimiento
