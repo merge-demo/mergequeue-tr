@@ -5197,7 +5197,7 @@ fidel
 foliaging
 foxiness
 frontierlike
-frivolers
+frivolers 1
 foreclaw
 formalin
 fuchsia
