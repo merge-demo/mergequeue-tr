@@ -12365,7 +12365,7 @@ ebbman
 erodibility
 exhalents
 etude
-entermise
+entermise 1
 exhales
 effluvivia
 elihu
