@@ -15105,7 +15105,7 @@ applied
 archcheater
 analcimes
 alluvions
-abaci
+abaci 1
 adjectivitis
 axofugal
 atrocious
