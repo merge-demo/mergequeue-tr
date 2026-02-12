@@ -3985,7 +3985,7 @@ emparchment
 exaltative
 enruin
 expiations
-embarrassingly
+embarrassingly 1
 edictum
 enfolded
 edgrew
