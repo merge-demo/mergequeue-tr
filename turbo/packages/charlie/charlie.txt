@@ -24330,7 +24330,7 @@ chapeau
 creation
 crull
 creatable
-classist
+classist 1
 corncutting
 coarrange
 cookeite
