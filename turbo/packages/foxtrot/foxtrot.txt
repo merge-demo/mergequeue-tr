@@ -11237,7 +11237,7 @@ febres
 furzed
 funiculars
 funiform
-fount
+fount 1
 fustians
 flashcubes
 fabricative
