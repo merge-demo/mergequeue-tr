@@ -2362,7 +2362,7 @@ celtologist
 canapina
 canards
 canary
-cogs
+cogs 1
 companator
 chinbones
 canaries
