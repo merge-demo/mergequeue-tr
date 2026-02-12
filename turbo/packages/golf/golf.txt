@@ -10561,7 +10561,7 @@ gunmetal
 guacico
 guebre
 grecoue
-giftedly
+giftedly 1
 gurmukhi
 goffering
 grasshouse
