@@ -16825,7 +16825,7 @@ delaines
 dominee
 dey
 demurely
-decurtate
+decurtate 1
 disallowances
 decapitable
 dissuited
