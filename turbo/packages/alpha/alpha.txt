@@ -10770,7 +10770,7 @@ aethalium
 amins
 anacrusis
 agrobacterium
-amyotonia
+amyotonia 1
 appendicious
 averting
 archivists
