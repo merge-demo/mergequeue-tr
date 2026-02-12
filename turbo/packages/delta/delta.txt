@@ -1841,7 +1841,7 @@ darapti
 drugmaker
 decriminalize
 defeudalize
-dorsalward
+dorsalward 1
 debilitates
 dermatoglyphics
 devirginator
