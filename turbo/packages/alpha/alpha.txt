@@ -19118,7 +19118,7 @@ archprimate
 arenation
 acroataxia
 amylan
-archregent
+archregent 1
 archrogue
 archruler
 apparentness
