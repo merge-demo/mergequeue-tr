@@ -3840,7 +3840,7 @@ europa
 emeril
 exarticulate
 einkanter
-encyclopediast
+encyclopediast 1
 emerituti
 emasculate
 eschatologist
