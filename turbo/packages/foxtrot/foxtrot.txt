@@ -1093,7 +1093,7 @@ foolhardily
 finkel
 fellatrixes
 fudgy
-frike
+frike 1
 fishling
 fastback
 farrisite
