@@ -291,7 +291,7 @@ gainsaying
 gypsyish
 groin
 guillochee
-gibing
+gibing 1
 gaslock
 gaddish
 grubstaked
