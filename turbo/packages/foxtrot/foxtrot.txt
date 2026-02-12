@@ -5386,7 +5386,7 @@ fosterite
 furole
 forecounsel
 flyswat
-feridji
+feridji 1
 figuration
 fittest
 fruittime
