@@ -5671,7 +5671,7 @@ glossophytia
 guardeen
 guttule
 ghillies
-guanize
+guanize 1
 glamberry
 gadroons
 glossocele
