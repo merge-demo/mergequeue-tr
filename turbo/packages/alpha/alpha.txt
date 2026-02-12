@@ -16755,7 +16755,7 @@ archipterygium
 astronauts
 albatros
 amphigonia
-adultoid
+adultoid 1
 arrouse
 aphydrotropic
 adepts
