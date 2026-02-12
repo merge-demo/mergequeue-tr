@@ -5013,7 +5013,7 @@ endogastric
 emblazonment
 enders
 estampie
-expelled
+expelled 1
 evangelistics
 endgate
 enneads
