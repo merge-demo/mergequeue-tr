@@ -2390,7 +2390,7 @@ fervidor
 formicivorous
 filtrable
 fingernail
-flanged
+flanged 1
 finnip
 ferigee
 fleer
