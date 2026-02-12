@@ -6337,7 +6337,7 @@ derogating
 derogative
 derogator
 derogatory
-dooja
+dooja 1
 dischurch
 drawer
 disincorporating
