@@ -17030,7 +17030,7 @@ defray
 debullition
 drepaniform
 disarmingly
-destructory
+destructory 1
 dressier
 diva
 dullest
