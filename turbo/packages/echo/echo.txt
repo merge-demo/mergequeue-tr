@@ -10235,7 +10235,7 @@ excavators
 ethyldichloroarsine
 emphraxis
 ethylenimine
-exasperated
+exasperated 1
 epigenous
 enciente
 emanationist
