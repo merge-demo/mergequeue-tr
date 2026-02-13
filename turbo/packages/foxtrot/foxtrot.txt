@@ -1133,7 +1133,7 @@ fdubs
 fibrillary
 filiates
 farthings
-forlornness
+forlornness 1
 fubs
 footprints
 foreguts
