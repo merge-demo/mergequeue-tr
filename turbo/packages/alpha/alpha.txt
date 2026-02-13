@@ -10636,7 +10636,7 @@ amygdalinic
 amygdaloid
 autoerotism
 anamnesis
-aftershine
+aftershine 1
 acidifier
 aminated
 amygdule
