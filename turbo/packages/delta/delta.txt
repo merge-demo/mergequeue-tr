@@ -2366,7 +2366,7 @@ dismantlement
 dayakker
 deciduity
 daver
-discommendable
+discommendable 1
 deciduously
 dessertspoonful
 dimercuric
