@@ -8104,7 +8104,7 @@ epicoelia
 eutocia
 encephalothlipsis
 electrovection
-enbibe
+enbibe 1
 episarkine
 epiural
 extracalicular
