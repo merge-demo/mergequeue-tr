@@ -29418,7 +29418,7 @@ crispier
 cryptophyte
 carcinolytic
 contemporizing
-crispiest
+crispiest 1
 curtelace
 crispin
 crispine
