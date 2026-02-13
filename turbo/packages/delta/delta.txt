@@ -3082,7 +3082,7 @@ defamed
 dilogical
 duxes
 disestablisher
-disbodied
+disbodied 1
 demihuman
 defamy
 desmoneme

@@ -17047,7 +17047,7 @@ alcid
 angulus
 archchemic
 addy
-arthrotropic
+arthrotropic 1
 apocopes
 apocrenic
 agatha
