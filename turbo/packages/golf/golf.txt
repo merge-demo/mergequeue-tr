@@ -3000,7 +3000,7 @@ gibbering
 gentilhomme
 goldenknop
 gorgoniacean
-guitermanite
+guitermanite 1
 goatherdess
 guildsmen
 geomancy
