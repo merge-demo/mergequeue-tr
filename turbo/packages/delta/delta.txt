@@ -18635,7 +18635,7 @@ duty
 disdains
 dutied
 denarii
-dipaschal
+dipaschal 1
 dummyism
 dutymonger
 deactivations
