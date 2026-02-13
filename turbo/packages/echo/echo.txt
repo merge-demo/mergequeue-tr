@@ -11137,7 +11137,7 @@ entropionize
 entocarotid
 expatriation
 embroiderer
-ensiform
+ensiform 1
 extractibility
 ectatic
 evacuator
