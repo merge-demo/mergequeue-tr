@@ -5272,7 +5272,7 @@ dealable
 derider
 dorsimesal
 disblame
-daraf
+daraf 1
 deflect
 diaphoretic
 displaced
