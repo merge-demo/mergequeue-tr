@@ -1854,7 +1854,7 @@ deblateration
 deblock
 disedification
 dijudicate
-distensibilities
+distensibilities 1
 dispunge
 dissimulation
 desmectasia
