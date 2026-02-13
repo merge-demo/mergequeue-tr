@@ -12937,7 +12937,7 @@ extraprostatic
 esmayle
 embryologic
 erasmus
-expatiates
+expatiates 1
 expatiating
 electable
 espials
