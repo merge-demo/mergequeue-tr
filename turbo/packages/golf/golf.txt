@@ -6236,7 +6236,7 @@ graecian
 gyroidal
 grundyist
 galop
-genion
+genion 1
 governessy
 gid
 gradationally
