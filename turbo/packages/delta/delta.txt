@@ -6756,7 +6756,7 @@ dihedrons
 desirous
 desirousness
 drily
-dented
+dented 1
 dropsonde
 dedicates
 diaconate
