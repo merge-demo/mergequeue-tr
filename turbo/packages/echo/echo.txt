@@ -269,7 +269,7 @@ exhumers
 epigoneion
 enqueue
 enantioblastic
-endognath
+endognath 1
 ectocuniform
 esquired
 erik
