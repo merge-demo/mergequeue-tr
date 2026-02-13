@@ -3541,7 +3541,7 @@ gharnao
 gilbertian
 glossa
 gambolled
-glare
+glare 1
 goniaster
 gnomelike
 gregarinaria
