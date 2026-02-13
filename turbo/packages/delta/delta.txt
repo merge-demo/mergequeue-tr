@@ -2051,7 +2051,7 @@ diopsimeter
 diety
 dummy
 defaced
-disproportionally
+disproportionally 1
 decal
 dissightly
 dilatory
