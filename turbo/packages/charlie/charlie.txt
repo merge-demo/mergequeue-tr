@@ -3099,7 +3099,7 @@ capacitate
 carbonyl
 cofounder
 cheesecurd
-cooperators
+cooperators 1
 colewort
 capacitating
 capacitations
