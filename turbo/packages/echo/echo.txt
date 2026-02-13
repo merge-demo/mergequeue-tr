@@ -4201,7 +4201,7 @@ emprison
 euphausiid
 emulgent
 emprosthotonic
-effeteness
+effeteness 1
 emptied
 exhorter
 echolalic
