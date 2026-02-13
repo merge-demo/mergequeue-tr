@@ -11684,7 +11684,7 @@ anacreontically
 athens
 anacrogynae
 amba
-anthropometrical
+anthropometrical 1
 anacrogynous
 accents
 anacrotic
