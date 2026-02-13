@@ -3365,7 +3365,7 @@ arcosoliulia
 adterminal
 antiphlogistic
 asternal
-adamsia
+adamsia 1
 adiathermanous
 absinthismic
 adamsites
