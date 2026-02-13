@@ -1219,7 +1219,7 @@ dialyzers
 diapasonal
 dermatoskeleton
 dreggier
-daystars
+daystars 1
 datebook
 dilacerated
 doucine
