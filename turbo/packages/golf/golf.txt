@@ -9242,7 +9242,7 @@ grapnels
 grockle
 goidel
 gemauve
-granitoid
+granitoid 1
 groenendael
 gecko
 gallstone
