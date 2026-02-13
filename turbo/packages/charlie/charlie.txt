@@ -19451,7 +19451,7 @@ cubage
 colourfulness
 clavicles
 congo
-cavated
+cavated 1
 chlamydeous
 calendering
 churchliest
