@@ -4923,7 +4923,7 @@ gangliest
 gateage
 graunt
 gantry
-gauging
+gauging 1
 gymnospermal
 gallantize
 gyrenes
