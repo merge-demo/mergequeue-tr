@@ -947,7 +947,7 @@ canterburies
 carted
 calaboose
 cycloidei
-canelle
+canelle 1
 calabrian
 calabrians
 calabur
