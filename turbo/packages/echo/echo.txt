@@ -1421,7 +1421,7 @@ entoretina
 erythrocytolytic
 espoused
 expenditure
-ethnicon
+ethnicon 1
 exaggeratory
 enols
 execratory
