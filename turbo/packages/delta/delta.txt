@@ -5992,7 +5992,7 @@ dharnas
 doover
 diopsis
 deputing
-diaconicon
+diaconicon 1
 dolous
 dells
 digitalization
