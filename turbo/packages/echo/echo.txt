@@ -11701,7 +11701,7 @@ endmatcher
 examen
 elementals
 enregistry
-exurban
+exurban 1
 elasticizing
 exobiology
 entreat
