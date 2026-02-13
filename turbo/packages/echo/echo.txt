@@ -12041,7 +12041,7 @@ excoriating
 egestions
 enlivenment
 enwwove
-excoriations
+excoriations 1
 epiclike
 enforcible
 elflike
