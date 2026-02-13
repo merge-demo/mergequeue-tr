@@ -3229,7 +3229,7 @@ gormandizer
 gothics
 gynecologists
 gringos
-gerasene
+gerasene 1
 gesturer
 gigantism
 gametophytic
