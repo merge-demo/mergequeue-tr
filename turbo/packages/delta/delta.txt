@@ -18304,7 +18304,7 @@ dunnish
 dunnite
 dagger
 dubonnets
-dextorsal
+dextorsal 1
 doray
 desmepithelium
 danaan
