@@ -3504,7 +3504,7 @@ drumlin
 defunction
 deul
 disbelieve
-disfrock
+disfrock 1
 disseminate
 diethylamine
 decarchy
