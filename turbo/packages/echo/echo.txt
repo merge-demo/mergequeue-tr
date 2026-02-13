@@ -8697,7 +8697,7 @@ expertness
 entrike
 escopet
 eked
-equisetaceous
+equisetaceous 1
 epicondylar
 endothelia
 edgemaking
