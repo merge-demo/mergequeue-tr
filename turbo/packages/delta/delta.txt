@@ -17083,7 +17083,7 @@ dismally
 diclinies
 diaplexus
 developes
-dipsos
+dipsos 1
 dowily
 datacell
 dimensional

@@ -8056,7 +8056,7 @@ forenews
 foyboat
 friars
 firedogs
-fulminated
+fulminated 1
 foveolae
 funkiest
 flatcar
