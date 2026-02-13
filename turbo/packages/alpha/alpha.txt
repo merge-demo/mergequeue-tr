@@ -15521,7 +15521,7 @@ almondlike
 angiocarp
 alcotate
 apiarists
-allocating
+allocating 1
 annulli
 alectoromorphae
 antimony
