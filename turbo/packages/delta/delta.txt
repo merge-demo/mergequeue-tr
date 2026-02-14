@@ -5794,7 +5794,7 @@ datism
 deprecatory
 deoxidised
 dragonet
-desensitization
+desensitization 1
 diaphanoscopy
 deota
 degradingness
