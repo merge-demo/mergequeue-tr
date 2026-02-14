@@ -9824,7 +9824,7 @@ enanthema
 estats
 eternise
 elenchtical
-englify
+englify 1
 exact
 estrich
 etagre
