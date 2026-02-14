@@ -10654,7 +10654,7 @@ durned
 draws
 derivable
 declinometer
-dirking
+dirking 1
 downstreet
 dogman
 digoxin
