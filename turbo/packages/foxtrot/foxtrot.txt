@@ -1121,7 +1121,7 @@ florins
 fluster
 forbade
 familiarizing
-fervidness
+fervidness 1
 fusileer
 frizzling
 fluor
