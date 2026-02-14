@@ -6059,7 +6059,7 @@ eupepsias
 eyedropperful
 ecumenicalism
 erotization
-exposer
+exposer 1
 evenhandedly
 eluant
 enfever
