@@ -13233,7 +13233,7 @@ communicants
 cataloguer
 chemiatry
 cycloid
-compulsoriness
+compulsoriness 1
 coalternation
 cycloidean
 coalshed
