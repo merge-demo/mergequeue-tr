@@ -725,7 +725,7 @@ dihedrals
 dancers
 disleaving
 decreeing
-denudatory
+denudatory 1
 danewort
 dancing
 dictagraph
