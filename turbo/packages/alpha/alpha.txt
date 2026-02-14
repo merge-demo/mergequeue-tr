@@ -9380,7 +9380,7 @@ anguishful
 acrophonically
 austringer
 andamento
-alphamerically
+alphamerically 1
 archtyrant
 approachers
 areole
