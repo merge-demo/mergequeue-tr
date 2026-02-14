@@ -6748,7 +6748,7 @@ garbleable
 gesticulate
 gradate
 glutathione
-goniunia
+goniunia 1
 groceteria
 goitrogen
 gisement
