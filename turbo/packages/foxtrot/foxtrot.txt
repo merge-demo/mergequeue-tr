@@ -5730,7 +5730,7 @@ frise
 flocking
 flited
 fragmentist 1
-frontate
+frontate 1
 funiculate
 foge
 freckliness
