@@ -1951,7 +1951,7 @@ bandrol
 beatific
 bonniest
 bework
-boreus
+boreus 1
 bandsawn
 bandsman
 bandstand
