@@ -10694,7 +10694,7 @@ famish
 frightable
 facultied
 fibular
-facetted
+facetted 1
 fainting
 foxy
 felsophyre
