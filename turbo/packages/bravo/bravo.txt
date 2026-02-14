@@ -9041,7 +9041,7 @@ biolinguistics
 belted
 biolyses
 bouleverse
-begats
+begats 1
 beneficium
 boroughmongery
 bitting
