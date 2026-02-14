@@ -12727,7 +12727,7 @@ angelico
 acetylize
 azox
 angelize
-alliterated
+alliterated 1
 angelized
 angellike
 auf
