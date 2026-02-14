@@ -3290,7 +3290,7 @@ glosseme
 gula
 gabback
 geneticists
-germanized
+germanized 1
 germanizer
 germule
 germanness
