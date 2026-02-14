@@ -1340,7 +1340,7 @@ eelspear
 effeminising
 effeminize
 effeminizing
-exhibitionize
+exhibitionize 1
 electrogilding
 embusque
 earthiest
