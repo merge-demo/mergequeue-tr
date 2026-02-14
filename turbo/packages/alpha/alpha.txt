@@ -24510,7 +24510,7 @@ acroconidium
 auxanogram
 auxanometer
 ayubite
-auxeses
+auxeses 1
 altercative
 antispreader
 acceleration
