@@ -5486,7 +5486,7 @@ germinally
 gangplanks
 glycidol
 gorsier
-gowning
+gowning 1
 grumbles
 gamecocks
 ginkgoaceae
