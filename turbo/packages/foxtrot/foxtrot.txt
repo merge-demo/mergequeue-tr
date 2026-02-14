@@ -2664,7 +2664,7 @@ fallowed
 fume
 fantoccini
 foremelt
-feasing
+feasing 1
 ferulaceous
 ferular 1
 foreimpression
