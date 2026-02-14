@@ -12523,7 +12523,7 @@ cynegetics
 chromotypography
 chromotropy
 cityish
-chromotropic
+chromotropic 1
 copywriter
 commonplaceness
 cradleboard
