@@ -5791,7 +5791,7 @@ englobed
 enneahedral
 envelopment
 extirp
-englut
+englut 1
 envenom
 encored
 eyot
