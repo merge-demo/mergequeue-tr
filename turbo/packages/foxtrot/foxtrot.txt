@@ -6022,7 +6022,7 @@ farandine
 fremescence
 forethoughted
 flewed
-forehock
+forehock 1
 fateful
 floriation
 fertilize
