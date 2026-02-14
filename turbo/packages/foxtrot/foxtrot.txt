@@ -6386,7 +6386,7 @@ farset
 fluorimetric
 fluorobenzene
 fructifies
-frizing
+frizing 1
 foreship
 frivoled
 frogeye
