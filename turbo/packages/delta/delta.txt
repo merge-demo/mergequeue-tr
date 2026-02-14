@@ -8563,7 +8563,7 @@ dasht
 diaphoreses
 diaphoretical
 disarranging
-devoutlessness
+devoutlessness 1
 diaphoretics
 denaturalise
 doozy
