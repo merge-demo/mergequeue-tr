@@ -9058,7 +9058,7 @@ anapsidan
 aden
 autarkically
 actinoids
-allotriomorphic
+allotriomorphic 1
 acrimony
 aefauld
 anserin
