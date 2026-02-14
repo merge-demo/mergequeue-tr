@@ -10092,7 +10092,7 @@ firster
 foredecree
 featous
 formalise
-fearfulness
+fearfulness 1
 finfishes
 flightshot
 fittyfied
