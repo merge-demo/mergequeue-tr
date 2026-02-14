@@ -27324,7 +27324,7 @@ connexionalism
 couranto
 ceint
 courantoes
-calumniator
+calumniator 1
 courants
 coronaries
 centralizers
