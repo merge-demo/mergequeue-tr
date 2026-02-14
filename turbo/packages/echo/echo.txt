@@ -12988,7 +12988,7 @@ expectingly
 enzym
 erminette
 etheling
-evicke
+evicke 1
 exposals
 emotion
 entice
