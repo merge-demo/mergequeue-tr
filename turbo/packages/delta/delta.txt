@@ -14740,7 +14740,7 @@ dioptrically
 dedolomitize
 docetae
 deferrable
-docetize
+docetize 1
 deerstand
 divorcements
 dochmiacal
