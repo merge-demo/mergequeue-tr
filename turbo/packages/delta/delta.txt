@@ -16113,7 +16113,7 @@ decayedness
 doulce
 dementie
 defectology
-dispurse
+dispurse 1
 designators
 doulocracy
 doum
