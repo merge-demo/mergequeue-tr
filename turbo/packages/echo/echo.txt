@@ -10557,7 +10557,7 @@ ethylenic
 ephectic
 eckehart
 exitial
-ethmose
+ethmose 1
 ethrog
 ergatandromorphic
 evaders
