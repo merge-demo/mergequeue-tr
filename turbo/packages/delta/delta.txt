@@ -8147,7 +8147,7 @@ dicranum
 diacid
 desolateness
 detachment
-duellists
+duellists 1
 duple
 deprecate
 diacipiperazine
