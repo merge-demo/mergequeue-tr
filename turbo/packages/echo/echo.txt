@@ -715,7 +715,7 @@ enterozoa
 epiglottic
 embraciveg
 elonite
-eosinate
+eosinate 1
 enneaspermous
 enabler
 economise
