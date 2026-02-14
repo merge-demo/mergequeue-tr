@@ -1492,7 +1492,7 @@ dingbats
 decollimate
 draughts
 dermatorrhea
-definiendum
+definiendum 1
 deformers
 downlinked
 duststorm
