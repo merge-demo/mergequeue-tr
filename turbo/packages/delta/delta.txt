@@ -7154,7 +7154,7 @@ dicast
 dynamis
 demijohns
 demulsifying
-detain
+detain 1
 decadactylous
 destructionist
 dattos
