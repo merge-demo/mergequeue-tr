@@ -7244,7 +7244,7 @@ gormandism
 gormandize
 gormandizes
 gundeck
-gangsa
+gangsa 1
 gabling
 gleaming
 gwerziou
