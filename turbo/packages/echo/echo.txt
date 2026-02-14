@@ -2748,7 +2748,7 @@ elegy
 elegiacally
 eighthly
 encoil
-essie
+essie 1
 excrescently
 ergastic
 eucatropine
