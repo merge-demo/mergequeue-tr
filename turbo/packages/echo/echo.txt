@@ -12442,7 +12442,7 @@ easting
 exhortations
 entomostracan
 exhortingly
-exhorts
+exhorts 1
 exaltations
 exhumate
 egoisms
