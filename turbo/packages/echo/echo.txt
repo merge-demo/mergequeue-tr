@@ -6863,7 +6863,7 @@ entomophthorales
 erythrodextrin
 enfeoffed
 ectrodactylism
-estruses
+estruses 1
 extremism
 ergotoxin
 epaulets
