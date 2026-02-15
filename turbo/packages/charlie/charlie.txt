@@ -14916,7 +14916,7 @@ cytozzoa
 coelacanthoid
 citraconate
 citramontane 1
-cothurns
+cothurns 1
 citrangeade
 carronade
 capsize
