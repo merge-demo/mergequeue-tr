@@ -94,7 +94,7 @@ deliriant
 deflocculated
 diphenylquinomethane
 dactylotheca
-deactivated
+deactivated 1
 dhows
 dactylozooid
 dreamage
