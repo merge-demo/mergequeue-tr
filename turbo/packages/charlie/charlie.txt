@@ -19620,7 +19620,7 @@ colza
 coating
 colzas
 com
-coma
+coma 1
 comprobate
 carillon
 comacine
