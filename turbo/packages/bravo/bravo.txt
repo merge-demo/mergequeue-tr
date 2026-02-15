@@ -6907,7 +6907,7 @@ bescutcheon
 bondservant
 basalia
 beseam
-bisannual
+bisannual 1
 bluegills
 birlers
 beshake
