@@ -4777,7 +4777,7 @@ encode
 epistolic
 exitance
 ethnolinguist
-ensnarements
+ensnarements 1
 encoding
 effectivity
 embrocate
