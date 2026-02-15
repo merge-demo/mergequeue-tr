@@ -2071,7 +2071,7 @@ empight
 encumberer
 euthyneural
 eulogises
-elapine
+elapine 1
 endysis
 eutectics
 edictal
