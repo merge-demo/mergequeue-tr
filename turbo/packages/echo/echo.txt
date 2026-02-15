@@ -550,7 +550,7 @@ ethiopians
 eavesdropper
 equatorially
 excommunicatory
-encrimson
+encrimson 1
 escalades
 echinomys
 entrained

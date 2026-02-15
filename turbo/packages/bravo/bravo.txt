@@ -1444,7 +1444,7 @@ bioclimatological
 bisters
 blueing
 balibago
-bamming
+bamming 1
 beakier
 benefitting
 baline
