@@ -8972,7 +8972,7 @@ fooder
 fidded
 flaxwort
 fustian
-fractus
+fractus 1
 forwork
 fricassee
 fiendship
