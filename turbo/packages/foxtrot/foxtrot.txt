@@ -8924,7 +8924,7 @@ flavine
 fernless
 fableist
 fabricate
-flabellarium
+flabellarium 1
 fourragere
 fermila
 fiefdoms
