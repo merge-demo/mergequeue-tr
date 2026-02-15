@@ -18484,7 +18484,7 @@ durably
 duologs
 dissentiently
 discussants
-despecialize
+despecialize 1
 dementi
 driftlet
 declamator
