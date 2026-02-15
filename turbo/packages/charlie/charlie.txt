@@ -25937,7 +25937,7 @@ ceintures
 corticotrophin
 chemicalization
 curtsying
-corticous
+corticous 1
 cortile
 civilisational
 coercion
