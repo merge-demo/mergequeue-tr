@@ -1378,7 +1378,7 @@ epiderma
 erythroxylaceae
 eurasiatic
 exhalent
-ennead
+ennead 1
 enneastylos
 epeidia
 epilaryngeal
