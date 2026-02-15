@@ -7200,7 +7200,7 @@ centrobarical
 catechist
 centrodesmus
 centrodorsal
-centroids
+centroids 1
 cyanophilous
 conte
 countervindication
