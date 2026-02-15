@@ -8665,7 +8665,7 @@ grotesquely
 grassily
 greedyguts 1
 gibier
-greedless
+greedless 1
 grecism
 guttled
 germiniparous
