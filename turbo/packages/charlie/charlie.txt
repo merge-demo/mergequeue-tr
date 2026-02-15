@@ -26071,7 +26071,7 @@ cytitis
 complaisantness
 cosigned
 crocked
-cretin
+cretin 1
 cosigners
 cubbies
 chowderheadedness
