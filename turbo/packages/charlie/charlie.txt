@@ -14123,7 +14123,7 @@ coxalgies
 concentricity
 catatonia
 circulators
-circulus
+circulus 1
 circumambiency
 circumambient
 circumambulate
