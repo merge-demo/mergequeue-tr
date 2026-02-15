@@ -224,7 +224,7 @@ faculties
 faunistically
 fringy
 functionaries
-fulimart
+fulimart 1
 frostbound
 friezed
 fritterer
