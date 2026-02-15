@@ -10547,7 +10547,7 @@ endboard
 eclectical
 ensurers
 equational
-encheck
+encheck 1
 excaudate
 elevates
 excursionary
