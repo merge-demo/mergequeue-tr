@@ -9598,7 +9598,7 @@ goiter
 grizzlier
 glazement
 guarish
-gummite
+gummite 1
 grandma
 gatefold
 guisarme
