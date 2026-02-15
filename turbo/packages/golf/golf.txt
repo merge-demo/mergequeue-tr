@@ -6383,7 +6383,7 @@ grasswidowhood
 goitrogenic
 galibi
 garbing
-glossopteris
+glossopteris 1
 glassman
 glossotherium
 gobiesocid
