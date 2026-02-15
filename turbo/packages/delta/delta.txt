@@ -10392,7 +10392,7 @@ dismayingness
 diphasic
 dovetailer
 diphenhydramine
-diacidic
+diacidic 1
 diphenylamine
 diphenylaminechlorarsine
 diervilla
