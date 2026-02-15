@@ -8850,7 +8850,7 @@ diffeomorphism
 debituminize
 deflexure
 domiciliating
-dicacity
+dicacity 1
 deodorising
 dwarfed
 decentres
