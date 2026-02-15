@@ -5293,7 +5293,7 @@ generalisation
 gyrencephalate
 goiters
 gormands
-ganoses
+ganoses 1
 gipsyism
 geotechnics
 gadgetry
