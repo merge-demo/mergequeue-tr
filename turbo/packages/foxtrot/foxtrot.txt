@@ -7221,7 +7221,7 @@ flares
 forecasts
 formiate
 fustet
-fameuse
+fameuse 1
 fancysick
 fortlet
 federalise
