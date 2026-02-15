@@ -5960,7 +5960,7 @@ fulah
 flutebird
 fixures
 flashness
-floorcloths
+floorcloths 1
 fumid
 fledgeling
 folkways
