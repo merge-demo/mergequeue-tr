@@ -7014,7 +7014,7 @@ exchequers
 enterocoela
 exocoetus
 eyeglass
-eggfruit
+eggfruit 1
 epistolarily
 enpia
 elastomer
