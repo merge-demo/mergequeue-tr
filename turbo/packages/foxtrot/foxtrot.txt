@@ -11238,7 +11238,7 @@ furzed
 funiculars
 funiform
 fount 1
-fustians
+fustians 1
 flashcubes
 fabricative
 flexuosities
