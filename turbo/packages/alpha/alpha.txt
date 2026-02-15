@@ -22134,7 +22134,7 @@ asteroids
 andamanese
 arithromania
 assorting
-asterope
+asterope 1
 amnestic
 accordature
 amphibichnite
