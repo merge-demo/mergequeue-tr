@@ -27557,7 +27557,7 @@ cadency
 cupmaker
 coves
 censured
-covet
+covet 1
 cerealin
 covetable
 coveted
