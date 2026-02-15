@@ -9718,7 +9718,7 @@ grummet
 genuflector
 gordiidae
 gemeinde
-gablewise
+gablewise 1
 gambes
 gastrodynia
 glutens
