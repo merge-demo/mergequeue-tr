@@ -1255,7 +1255,7 @@ featherfoil
 futteret
 fama
 favella
-forevouch
+forevouch 1
 femalize
 fatuate
 footles
