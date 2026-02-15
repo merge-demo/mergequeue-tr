@@ -952,7 +952,7 @@ fulminant
 faxing
 fosterer
 fleecers
-flueric
+flueric 1
 findal
 fibroadenoma
 forcat
