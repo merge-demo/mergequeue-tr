@@ -15494,7 +15494,7 @@ decaisnea
 dispell
 desist
 deflagrated
-decolorise
+decolorise 1
 dealers
 demodulates
 dependableness
