@@ -55,7 +55,7 @@ gangue
 glaucolite
 guemal
 geometrine
-gelatinousness
+gelatinousness 1
 glucosidic
 goofball
 gatherum
