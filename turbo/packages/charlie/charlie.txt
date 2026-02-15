@@ -19924,7 +19924,7 @@ coml
 copydesks
 confessionals
 conjugating
-commandable
+commandable 1
 commandatory
 commanded
 confervaceae
