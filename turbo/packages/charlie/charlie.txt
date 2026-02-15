@@ -7204,7 +7204,7 @@ centroids 1
 cyanophilous
 conte
 countervindication
-centromere
+centromere 1
 centromeric
 centronote
 couth
