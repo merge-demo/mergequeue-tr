@@ -2511,7 +2511,7 @@ ensate
 eparcuale
 expostulations
 excerebrate
-efferently
+efferently 1
 emesidae
 enserfs
 eternity
