@@ -7442,7 +7442,7 @@ freakiest
 faultlessness
 faltered
 foresheet
-flatuses
+flatuses 1
 fourbagger
 fluellin
 fillip

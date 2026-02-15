@@ -1832,7 +1832,7 @@ daylilies
 debeige
 douzepers
 downwarp
-declinograph
+declinograph 1
 dewberry
 doorstead
 doughnut
