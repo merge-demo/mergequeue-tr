@@ -14966,7 +14966,7 @@ citropten
 colchian
 crockeryware
 civicism
-civicisms
+civicisms 1
 civics
 civie
 contractively
