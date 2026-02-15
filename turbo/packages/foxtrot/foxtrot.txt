@@ -6218,7 +6218,7 @@ fluoarsenate
 ferromagnet
 fld
 flatfooting
-fustigation
+fustigation 1
 fearing
 febronianism
 fanteague
