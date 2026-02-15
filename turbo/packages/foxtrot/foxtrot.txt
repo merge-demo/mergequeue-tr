@@ -11439,7 +11439,7 @@ fettering
 forebemoaned
 founte
 fortunetell
-fallibleness
+fallibleness 1
 formfeed
 fiducially
 fluviose
