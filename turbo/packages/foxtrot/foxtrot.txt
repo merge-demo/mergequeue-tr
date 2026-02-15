@@ -8319,7 +8319,7 @@ folderol
 frumpish
 fewsome
 forbidden
-fulminates
+fulminates 1
 forkier
 fumewort
 forcy
