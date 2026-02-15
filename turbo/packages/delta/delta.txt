@@ -5981,7 +5981,7 @@ duplicident
 drumlike
 deputed
 demanding
-deselecting
+deselecting 1
 demolitionary
 deputes
 damiana
