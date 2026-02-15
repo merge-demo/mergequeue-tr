@@ -1820,7 +1820,7 @@ atridean
 autostandardization
 adolesced
 acequia
-assignable
+assignable 1
 aethered
 aceraceous
 acerae
