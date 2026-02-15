@@ -2393,7 +2393,7 @@ fingernail
 flanged 1
 finnip
 ferigee
-fleer
+fleer 1
 fad
 fleshlessness
 frizettes
