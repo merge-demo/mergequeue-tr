@@ -8988,7 +8988,7 @@ criterions
 cupelers
 celestiality
 countergauge
-cookings
+cookings 1
 cryptanalyst
 charlatanic
 charlatanistic
