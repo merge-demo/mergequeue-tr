@@ -1869,7 +1869,7 @@ brigading
 banders
 broadlings
 befogging
-barkinji
+barkinji 1
 bandfile
 bandh
 burdon
