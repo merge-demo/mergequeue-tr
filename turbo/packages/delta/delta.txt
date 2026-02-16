@@ -10131,7 +10131,7 @@ dingdonged
 dues
 diverticulate
 diploblastic
-defogging
+defogging 1
 downy
 disinter
 deuteranomal
