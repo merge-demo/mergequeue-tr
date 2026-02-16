@@ -924,7 +924,7 @@ guna
 gnatcatcher
 gelatinate
 gyrocompass
-garnishable
+garnishable 1
 grittiness
 gemeinschaften
 guidership
