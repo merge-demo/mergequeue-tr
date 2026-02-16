@@ -8498,7 +8498,7 @@ futuristically
 foreseeing
 foremisgiving
 fard
-fulgid
+fulgid 1
 farctate
 flacourtia
 fished
