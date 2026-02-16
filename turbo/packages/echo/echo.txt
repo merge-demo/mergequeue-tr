@@ -12991,7 +12991,7 @@ etheling
 evicke 1
 exposals
 emotion
-entice
+entice 1
 expectorant
 espiglerie
 expectorated
