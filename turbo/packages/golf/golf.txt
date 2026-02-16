@@ -2969,7 +2969,7 @@ glutinousness
 gigantomachy
 glueing
 glitterance
-geogeny
+geogeny 1
 gullability
 grogger
 gardenias
