@@ -4571,7 +4571,7 @@ demiscible 1
 dicebox
 demise
 demisecond
-demised
+demised 1
 depas
 didynamia
 diploglossate
