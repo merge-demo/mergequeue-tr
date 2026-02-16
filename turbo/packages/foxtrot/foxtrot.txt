@@ -6669,7 +6669,7 @@ frescoists 1
 fighters
 feast
 fellowships
-fogon
+fogon 1
 flunks
 fogproof
 frugally
