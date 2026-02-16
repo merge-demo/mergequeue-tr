@@ -1724,7 +1724,7 @@ foreshape
 feased
 fumigant
 fingrigo
-forprise
+forprise 1
 fibrinoalbuminous
 forestep
 flourless
