@@ -22728,7 +22728,7 @@ athlothetes
 applauds
 americium
 ascared
-annumerate
+annumerate 1
 abhorson
 allomerous
 acclimatizing
