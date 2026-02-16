@@ -667,7 +667,7 @@ ephemeridae
 efts
 eudaemonistic
 ephraimitic
-epilogate
+epilogate 1
 embowment
 entourage
 eubasidii

@@ -13582,7 +13582,7 @@ daemonic
 diastrophy
 demibob
 dissentience
-duende
+duende 1
 dehydrofrozen
 deerhorn
 decimally
