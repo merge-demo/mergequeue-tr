@@ -2369,7 +2369,7 @@ fluther
 forgoes
 freeloving
 futures 1
-footganger
+footganger 1
 fetial
 fortunetellers
 friendlier
