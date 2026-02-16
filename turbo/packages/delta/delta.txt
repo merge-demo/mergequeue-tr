@@ -11092,7 +11092,7 @@ dismarble
 disarticulation
 detruded
 disarticulator
-disasinize
+disasinize 1
 deliciously
 descriptors
 deaminated
