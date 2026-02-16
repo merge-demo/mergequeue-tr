@@ -9796,7 +9796,7 @@ enchalice
 effeminate
 ervils
 establishable
-eddyroot
+eddyroot 1
 establishes
 elegiacal
 exponentiate
