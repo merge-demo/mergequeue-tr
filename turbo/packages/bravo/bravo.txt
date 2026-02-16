@@ -10070,7 +10070,7 @@ byway
 baining
 basely
 bushranger
-bedeviled
+bedeviled 1
 battuto
 becrusted
 barrad
