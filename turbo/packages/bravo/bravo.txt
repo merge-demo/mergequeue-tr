@@ -6556,7 +6556,7 @@ bartramiaceae
 bactericidin 1
 buckeyes
 bequests
-buster
+buster 1
 bushelful
 blenniiformes
 bolar
