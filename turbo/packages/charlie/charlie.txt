@@ -21917,7 +21917,7 @@ chatelaine
 clubrooms
 confessedly
 confesses
-coiners
+coiners 1
 confessingly
 confessional
 confessionalism
