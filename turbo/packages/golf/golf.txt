@@ -6694,7 +6694,7 @@ goniocraniometry
 grouters
 goniodoridae
 granitized
-glossina
+glossina 1
 gametophore
 gagging
 grannie
