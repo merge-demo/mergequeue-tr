@@ -15882,7 +15882,7 @@ cleoid
 cleomes
 cypria
 copulations
-chimbs
+chimbs 1
 clep
 cakemaker
 comitant
