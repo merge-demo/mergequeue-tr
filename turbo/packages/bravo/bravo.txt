@@ -4474,7 +4474,7 @@ beclog
 bolshevistic
 billeter
 becoiffed 1
-bulkiness
+bulkiness 1
 bludging
 beclogs
 bonspells
