@@ -3020,7 +3020,7 @@ cantoning
 cantonize
 colectomy
 countergager
-cantoral
+cantoral 1
 cantoria
 cardsharps
 calabooses
