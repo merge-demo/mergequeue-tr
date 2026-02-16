@@ -5342,7 +5342,7 @@ flinger
 fructuously
 finiking
 flouncier
-fuzzines
+fuzzines 1
 fleams
 fittier
 flossflower
