@@ -10761,7 +10761,7 @@ anorthography
 aminoquin
 aminosuccinamic
 applicants
-anthropoid
+anthropoid 1
 aushar
 araru
 anglice
