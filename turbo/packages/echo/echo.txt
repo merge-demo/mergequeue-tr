@@ -2015,7 +2015,7 @@ expiatory
 endodontist
 eradiculose
 elixate
-elabrate
+elabrate 1
 endocrinotherapy
 epigaea
 erythrosine
