@@ -4408,7 +4408,7 @@ fishily
 fatigues
 fling
 farinaceously
-fishiness
+fishiness 1
 fraxin
 fluigramme
 frogwort
