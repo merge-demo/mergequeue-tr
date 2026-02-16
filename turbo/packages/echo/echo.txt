@@ -5057,7 +5057,7 @@ entoolitic
 economization
 emerited
 endoauscultation
-effervescently
+effervescently 1
 etchant
 escritoires
 excipula
