@@ -91,7 +91,7 @@ governeress
 goop
 gluey
 guidelines
-gallops
+gallops 1
 grutten
 gadabouts
 gualaca
