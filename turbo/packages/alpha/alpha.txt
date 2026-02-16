@@ -22053,7 +22053,7 @@ asepticism
 astable
 aedeagus
 astay
-anisometropic
+anisometropic 1
 aegithognathism
 anaphylaxis
 astare
