@@ -18394,7 +18394,7 @@ biaxal
 buzzing
 brachials
 brachygrapher
-buzzingly
+buzzingly 1
 bubber
 badian
 buttes
