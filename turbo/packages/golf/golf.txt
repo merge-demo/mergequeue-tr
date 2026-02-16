@@ -9649,7 +9649,7 @@ gamogony
 gibuses
 griotte
 gastroscopy
-gascons
+gascons 1
 gowaned
 gymnosperms
 gorgonaceous
