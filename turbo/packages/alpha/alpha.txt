@@ -16618,7 +16618,7 @@ aperient 1
 aperients
 albronze
 autonomies
-aperiodically
+aperiodically 1
 ambulanced
 average
 aperiodicity
