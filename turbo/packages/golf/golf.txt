@@ -1777,7 +1777,7 @@ guiba
 guaycuruan
 germifuge
 gonorrheic
-galliambic
+galliambic 1
 graecizes
 goutiest
 gibbsite
