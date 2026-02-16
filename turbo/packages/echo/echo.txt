@@ -1887,7 +1887,7 @@ eclat
 earthstar
 epurate
 entrepeneur
-eurythmy
+eurythmy 1
 erasability
 equiseta
 extrovert
