@@ -2983,7 +2983,7 @@ grievers
 galliardness
 gigsman
 geoids
-gloriole
+gloriole 1
 gastrostomy
 gozell
 gendered
