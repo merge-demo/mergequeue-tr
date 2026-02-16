@@ -4349,7 +4349,7 @@ aktiebolag
 antickt
 aterian
 atelectasis
-adsmithing
+adsmithing 1
 adelocerous
 aikuchi
 autotriploid
