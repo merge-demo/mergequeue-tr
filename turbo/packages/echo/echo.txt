@@ -6681,7 +6681,7 @@ earlish
 epee
 expertising
 entosclerite
-eulogiser
+eulogiser 1
 extroverts
 ecrevisse
 epulis
