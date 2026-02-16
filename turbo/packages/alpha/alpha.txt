@@ -12005,7 +12005,7 @@ acron
 abodement
 ampelite
 aleukemic
-anaphroditic
+anaphroditic 1
 anlaces
 ajee
 anaplasty
