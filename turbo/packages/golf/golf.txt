@@ -2006,7 +2006,7 @@ gageite
 gonadotrope
 granville
 galactemia
-glyconian
+glyconian 1
 goosewing
 gaspingly
 galleass
