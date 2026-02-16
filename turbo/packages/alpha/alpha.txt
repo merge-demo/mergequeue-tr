@@ -3436,7 +3436,7 @@ avenine
 antedonin
 avoyership
 addendums
-archaized
+archaized 1
 alveolary
 adder
 abridgment
