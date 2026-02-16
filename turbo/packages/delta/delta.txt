@@ -9765,7 +9765,7 @@ deicer
 digesters
 dillydally
 dejectile
-diapaused
+diapaused 1
 discanonize
 debcle
 disrupture
