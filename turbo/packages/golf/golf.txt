@@ -4120,7 +4120,7 @@ goodly
 guaranin
 gemmule
 grossly
-gainful
+gainful 1
 geographical
 glossophaga
 gaggles
