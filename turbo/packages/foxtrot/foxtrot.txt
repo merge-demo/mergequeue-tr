@@ -11378,7 +11378,7 @@ frothless
 foreprovision
 foister
 factish
-focalizing
+focalizing 1
 fluorindin
 fibropolypus
 faute
