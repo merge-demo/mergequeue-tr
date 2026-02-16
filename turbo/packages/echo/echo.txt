@@ -984,7 +984,7 @@ ecchymotic
 entr
 expositors
 endorsing
-excel
+excel 1
 enquiring
 exorbital
 earthwork
