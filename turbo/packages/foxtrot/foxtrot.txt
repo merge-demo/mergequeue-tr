@@ -1449,7 +1449,7 @@ fathomed
 flavoprotein
 frimitts
 freewheel
-fatuism
+fatuism 1
 felicify
 filasse
 firmness
