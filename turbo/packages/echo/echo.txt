@@ -4853,7 +4853,7 @@ enshrining
 engraven
 eria
 eupepticism
-eulogizes
+eulogizes 1
 encranial
 externalize
 expectorator
