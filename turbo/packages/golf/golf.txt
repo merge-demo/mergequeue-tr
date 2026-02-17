@@ -9301,7 +9301,7 @@ genuflect
 gangtide
 geronomite
 galivanting
-glossas
+glossas 1
 goldurn
 governability
 groper
