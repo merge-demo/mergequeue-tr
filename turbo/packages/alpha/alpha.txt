@@ -4486,7 +4486,7 @@ admiralty
 adventitiousness
 archdemon
 adventive
-adventively
+adventively 1
 apaesthesia
 amounting
 acrography
