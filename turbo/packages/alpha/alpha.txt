@@ -14886,7 +14886,7 @@ angeles
 anticyclically
 anticity
 anticytolysin
-almsgiving
+almsgiving 1
 alphorn
 autohemolysin
 acceptilate
