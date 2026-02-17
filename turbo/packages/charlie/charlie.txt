@@ -26509,7 +26509,7 @@ cottagers
 cottars
 cahuy
 cottas
-cotte
+cotte 1
 cotted
 cotter
 cottered
