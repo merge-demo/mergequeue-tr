@@ -12022,7 +12022,7 @@ aeschynomene
 arithmetizations
 adiaphora
 adosculation
-actualistic
+actualistic 1
 autobahnen
 anapodeictic
 annihilates
