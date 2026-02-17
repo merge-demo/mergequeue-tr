@@ -26700,7 +26700,7 @@ counteragitate
 counteralliance
 chiroptera
 cyanosed
-counterannouncement
+counterannouncement 1
 counterarch
 compulsative
 chende
