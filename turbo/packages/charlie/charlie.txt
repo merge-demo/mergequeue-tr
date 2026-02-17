@@ -5100,7 +5100,7 @@ caseation
 collectivity
 casebox
 cased
-cisatlantic
+cisatlantic 1
 convulsionism
 casefy
 counterenamel
