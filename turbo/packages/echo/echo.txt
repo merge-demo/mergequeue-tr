@@ -11421,7 +11421,7 @@ enlevement
 evese
 entomostraca
 entheate
-expdt
+expdt 1
 elided
 evetide
 extirpating
