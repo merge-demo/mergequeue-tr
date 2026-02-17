@@ -11464,7 +11464,7 @@ affrightfully
 amputate
 anuresis
 amputates
-amputation
+amputation 1
 aboding
 amputational
 antiliberalness
