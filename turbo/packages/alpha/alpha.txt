@@ -10094,7 +10094,7 @@ aiger
 ambiversion
 ambivert
 arrect 1
-amble
+amble 1
 apanteles
 anthropomorphitical
 ambler
