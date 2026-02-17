@@ -14461,7 +14461,7 @@ disraeli
 dijudicating
 defunctionalization
 diadoumenos
-disdeify
+disdeify 1
 daltonian
 diverters
 disillusionized
