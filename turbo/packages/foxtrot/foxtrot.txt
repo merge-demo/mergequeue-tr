@@ -10264,7 +10264,7 @@ flamingoes
 foundationed
 ferronickel
 flavedos
-froideur
+froideur 1
 froise
 frokin
 fleetness
