@@ -8935,7 +8935,7 @@ eastwardly
 exaltedly
 ericetal
 esophagitis
-extrasensuous
+extrasensuous 1
 emotiomotor
 extrovertive
 erigerons
