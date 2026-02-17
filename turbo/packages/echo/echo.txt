@@ -11952,7 +11952,7 @@ elsehow
 epistemophiliac
 excises
 excystment
-encinal
+encinal 1
 emirs
 ensilages
 exothermicity
