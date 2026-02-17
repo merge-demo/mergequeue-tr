@@ -16308,7 +16308,7 @@ brinjaul
 bottlehead
 browzer
 baseball
-bombycid
+bombycid 1
 biennial
 brr
 bullhead
