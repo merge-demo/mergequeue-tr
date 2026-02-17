@@ -9335,7 +9335,7 @@ differentiator
 defalcates 1
 ducking
 decreasing
-deneb
+deneb 1
 dewax
 downhill
 diplopia
