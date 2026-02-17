@@ -2885,7 +2885,7 @@ gyromitra
 gossoons
 gedunk
 gratingly
-geobotanic
+geobotanic 1
 grievants
 gustation
 gradualism
