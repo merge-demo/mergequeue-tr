@@ -16922,7 +16922,7 @@ clunked
 clunkers
 corregidors
 crowner
-clunking
+clunking 1
 clunter
 coutille
 clupanodonic
