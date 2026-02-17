@@ -12492,7 +12492,7 @@ disimprison
 dentinitis
 diageotropism
 diopsidae
-daube
+daube 1
 dysmerogenetic
 discorporate
 delphinoid
