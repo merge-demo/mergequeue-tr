@@ -6394,7 +6394,7 @@ aurung
 ancylostoma
 anteopercle
 acoine
-afro
+afro 1
 automatograph
 adsorbate
 auriculariae
