@@ -12728,7 +12728,7 @@ dishonesty
 disease
 domicilement
 dyslysin
-disoxidate
+disoxidate 1
 diazotizing
 dislive
 defectoscope
