@@ -15115,7 +15115,7 @@ dreamwise
 deromanticize
 dogsbodies
 dentist
-damningness
+damningness 1
 disadvantaged
 delawn
 degustate
