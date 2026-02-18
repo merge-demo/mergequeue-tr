@@ -5983,7 +5983,7 @@ deputed
 demanding
 deselecting 1
 demolitionary
-deputes
+deputes 1
 damiana
 dactylar
 disacknowledgement
