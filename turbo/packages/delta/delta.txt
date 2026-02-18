@@ -2758,7 +2758,7 @@ diamondized
 decreet
 desmogen
 dugal
-dop
+dop 1
 disharmonize
 decremeter
 dicyemida
