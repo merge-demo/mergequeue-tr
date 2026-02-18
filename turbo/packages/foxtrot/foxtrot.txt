@@ -7249,7 +7249,7 @@ forsaking
 fishyard
 fibulocalcaneal
 fishmonger
-facetely
+facetely 1
 fozy
 flavobacteria
 foliobranchiate
