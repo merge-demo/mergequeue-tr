@@ -6651,7 +6651,7 @@ enarthrodial
 ethnocracy 1
 enterorrhagia
 enterorrhaphy
-eutychianism
+eutychianism 1
 enkindler
 electromotiv
 ethered
