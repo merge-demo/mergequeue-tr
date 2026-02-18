@@ -15914,7 +15914,7 @@ cyclos
 chandleries
 clergion
 clergywoman
-clementine
+clementine 1
 culverfoot
 clerical
 cretaceous
