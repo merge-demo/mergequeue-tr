@@ -12901,7 +12901,7 @@ editions
 envenoms
 echafaudage
 escortment
-expandingly
+expandingly 1
 expansibility
 emusifies
 expansile
