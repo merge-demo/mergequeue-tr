@@ -10092,7 +10092,7 @@ denmark
 dagoba
 defervesce
 derrickmen
-disassimilating
+disassimilating 1
 dodecahedra
 dindon
 doodled
