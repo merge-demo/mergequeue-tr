@@ -14241,7 +14241,7 @@ blowup
 bloodstroke
 byegaein
 bromohydrate
-bisectional
+bisectional 1
 bradydactylia
 bisulfide
 bepowder
