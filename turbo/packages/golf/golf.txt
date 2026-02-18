@@ -2346,7 +2346,7 @@ giornatate
 gadbee
 gavials
 guaiacols
-galopin
+galopin 1
 geldings
 garlandage
 gelated
