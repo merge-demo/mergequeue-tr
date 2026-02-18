@@ -8433,7 +8433,7 @@ exsuction
 eurytropic
 electroanalytic
 electroencephalography
-elephantry
+elephantry 1
 eponym
 etiolate
 eponymus
