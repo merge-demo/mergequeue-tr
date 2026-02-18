@@ -2206,7 +2206,7 @@ gombo
 graphanalysis
 grammatication
 graptolitoidea
-granitiferous
+granitiferous 1
 granes
 guarantying
 guberniya
