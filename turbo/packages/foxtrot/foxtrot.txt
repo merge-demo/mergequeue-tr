@@ -10538,7 +10538,7 @@ frouziest
 flite
 foldstool
 floristry
-fusiliers
+fusiliers 1
 fetichmonger
 firemen
 frowl

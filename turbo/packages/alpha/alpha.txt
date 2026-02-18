@@ -19328,7 +19328,7 @@ anniversariness
 areopagitica
 allyic
 autoreinfusion
-adjutor
+adjutor 1
 alaite
 astacus
 amplexation
