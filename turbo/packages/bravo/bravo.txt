@@ -3552,7 +3552,7 @@ bouchal
 bulldoggishly
 bubos
 botchiest
-batete
+batete 1
 brabbling
 balotade
 blue
