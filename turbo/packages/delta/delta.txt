@@ -2717,7 +2717,7 @@ defeaters
 decorticated
 disparages
 dacryelcosis
-daemonurgy
+daemonurgy 1
 darbies
 decortication
 dematerialization
