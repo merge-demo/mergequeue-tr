@@ -6437,7 +6437,7 @@ dime
 daubingly
 dorsifixed
 disencumberment
-dispossesses
+dispossesses 1
 desmarestiaceae
 descendable
 dipeptid
