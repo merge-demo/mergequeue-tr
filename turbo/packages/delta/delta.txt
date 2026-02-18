@@ -12969,7 +12969,7 @@ deacetylate
 disacceptance
 dactylitis
 disordering
-diesinking
+diesinking 1
 downwith
 decasyllables
 distinctio
