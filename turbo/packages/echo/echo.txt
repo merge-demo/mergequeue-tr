@@ -8397,7 +8397,7 @@ eardrum
 erodible
 endodermic
 enchains
-enstamp
+enstamp 1
 extents
 emancipatress
 epizoic
