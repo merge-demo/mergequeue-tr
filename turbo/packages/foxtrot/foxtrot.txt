@@ -11406,7 +11406,7 @@ flams
 functionlessness
 floors
 frosk
-feater
+feater 1
 forksmith
 forestership
 forcemeat
