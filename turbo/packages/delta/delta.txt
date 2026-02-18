@@ -12947,7 +12947,7 @@ docilities
 discolor
 disaffectedness
 differed
-disoperculate
+disoperculate 1
 desmosome
 dicephalous
 demons
