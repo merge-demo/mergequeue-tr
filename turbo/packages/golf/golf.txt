@@ -116,7 +116,7 @@ greengill
 gofferer
 geezer
 glossata
-gluers
+gluers 1
 gujerat
 guises
 ganguela
