@@ -4975,7 +4975,7 @@ cartulary
 cartularies
 carapache
 chapped
-cabbagelike
+cabbagelike 1
 collaring
 cartware
 cabossed
