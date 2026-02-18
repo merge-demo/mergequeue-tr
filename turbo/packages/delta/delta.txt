@@ -16548,7 +16548,7 @@ drupaceous
 diadokokinesis
 dynastidan
 duplicature
-dyspnoic
+dyspnoic 1
 draftwoman
 detergent
 denar
