@@ -2347,7 +2347,7 @@ canallers
 canals
 cylindrocellular
 cumin
-calinda
+calinda 1
 ccw
 canamo
 cameriera
