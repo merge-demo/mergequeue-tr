@@ -1885,7 +1885,7 @@ cordwains
 chickling
 conjugative
 candour
-civvies
+civvies 1
 cuttoe
 cambium
 croupier
