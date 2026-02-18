@@ -9945,7 +9945,7 @@ guarrau
 gogglers
 glegness
 grandsir
-glyptic
+glyptic 1
 googols
 gipsyfy
 galvayned
