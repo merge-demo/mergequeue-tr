@@ -1585,7 +1585,7 @@ exobiologist
 equinity
 eglomerate
 eaglets
-eglomise
+eglomise 1
 episkeletal
 errite
 extraoral
