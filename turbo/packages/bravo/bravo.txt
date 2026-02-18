@@ -9823,7 +9823,7 @@ beetlehead
 bearhide
 bistred
 beknights
-bradylexia
+bradylexia 1
 beglitter
 basiating
 blemish
