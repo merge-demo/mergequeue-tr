@@ -8900,7 +8900,7 @@ gaffe
 gigi
 gnocchetti
 gladelike
-grandiloquous
+grandiloquous 1
 gasteropod
 gnaw
 grisset
