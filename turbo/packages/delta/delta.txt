@@ -2112,7 +2112,7 @@ diabolify
 decangular
 dunite
 daedalus
-decently
+decently 1
 decanonize
 dynamitish
 decanting
