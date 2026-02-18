@@ -10522,7 +10522,7 @@ dimeric 1
 dipleurulas
 delime
 disbowels
-dialyzate
+dialyzate 1
 disserviceableness 1
 ddname
 derate
