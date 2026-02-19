@@ -20618,7 +20618,7 @@ competitiveness
 competitor
 competitory
 conjugal
-cascol
+cascol 1
 coelosperm
 competitors
 challengee
