@@ -20375,7 +20375,7 @@ animadverts
 asahel
 antesignani
 arsenopyrite
-aeolotropy
+aeolotropy 1
 arsenostyracol
 aldermanlike
 amyous
