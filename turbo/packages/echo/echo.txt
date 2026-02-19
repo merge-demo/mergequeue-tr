@@ -6028,7 +6028,7 @@ ekatantalum
 enterospasm
 empaler
 eyrie
-estoque
+estoque 1
 expromissor
 endosarcs
 expire
