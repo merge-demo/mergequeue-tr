@@ -6712,7 +6712,7 @@ feedwater
 franciscan
 fleece
 feering
-foresworn
+foresworn 1
 foiter
 frayed
 fried
