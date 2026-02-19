@@ -19488,7 +19488,7 @@ caledonian
 casimires
 cowpony
 convenientness
-counterclockwise
+counterclockwise 1
 colpoplasty
 chromogenetic
 colpoptosis
