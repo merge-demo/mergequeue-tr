@@ -12608,7 +12608,7 @@ depilator
 daud
 dysyntribite
 driftfish 1
-deadhearted
+deadhearted 1
 deodorise
 definitise
 dephase

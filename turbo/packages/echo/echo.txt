@@ -7082,7 +7082,7 @@ enchainments
 epiplankton
 evadible
 extemporizing
-envaye
+envaye 1
 episcenia
 excerpting
 erpetology
