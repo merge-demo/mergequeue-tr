@@ -5795,7 +5795,7 @@ deprecatory
 deoxidised
 dragonet
 desensitization 1
-diaphanoscopy
+diaphanoscopy 1
 deota
 degradingness
 dregless
