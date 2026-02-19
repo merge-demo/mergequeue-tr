@@ -3926,7 +3926,7 @@ fumattoria
 flemish
 frailejon
 fluoranthene
-foresummon
+foresummon 1
 fendered 1
 fullest
 foeniculum
