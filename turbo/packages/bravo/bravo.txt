@@ -8762,7 +8762,7 @@ brachiolaria
 balladlike
 barrett
 beseeching
-beaverite
+beaverite 1
 bulldoggish
 blackly
 birky
