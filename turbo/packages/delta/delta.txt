@@ -3022,7 +3022,7 @@ dollyway
 detest
 deescalate
 dyehouse
-deeses
+deeses 1
 deepfrozen
 deemphasize
 diester
