@@ -2738,7 +2738,7 @@ gunboats
 grooms
 gentiopicrin
 girths
-gurgoyle
+gurgoyle 1
 gorgers
 gunfire
 greenflies
