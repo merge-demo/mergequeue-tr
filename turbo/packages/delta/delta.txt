@@ -15810,7 +15810,7 @@ disciplined
 diaphragming
 dicyemid
 dentosurgical
-disprobabilize
+disprobabilize 1
 dorsicornu
 dorsiflex
 does
