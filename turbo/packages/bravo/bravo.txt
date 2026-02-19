@@ -16838,7 +16838,7 @@ brumbee
 bacterioid
 buffable
 bahamas
-buffalo
+buffalo 1
 burglarised
 bonnyvis
 buffaloing
