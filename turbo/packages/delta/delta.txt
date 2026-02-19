@@ -18424,7 +18424,7 @@ duping
 diabolic
 dipsticks
 dupion
-disendowing
+disendowing 1
 downrush
 duplexers
 duplication
