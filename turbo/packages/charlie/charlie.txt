@@ -2106,7 +2106,7 @@ corrober
 cytophysics
 counterassertion
 ceilingward
-chieftaincies
+chieftaincies 1
 circumnuclear
 captivator
 campanular
