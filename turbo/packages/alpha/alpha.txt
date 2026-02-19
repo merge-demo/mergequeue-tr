@@ -9952,7 +9952,7 @@ anacoenosis
 amating
 atrophous
 alumstone
-amornings
+amornings 1
 albuminogenous
 assacu
 awaste
