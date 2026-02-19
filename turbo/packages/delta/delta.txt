@@ -16906,7 +16906,7 @@ discriminations
 decilitre
 distortable
 desilvered
-dichromate
+dichromate 1
 damewort
 displacing
 deemphasis
