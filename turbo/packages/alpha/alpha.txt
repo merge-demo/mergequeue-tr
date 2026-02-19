@@ -7171,7 +7171,7 @@ alabaster
 atellan
 aphizog
 alabastrian
-alabastrine
+alabastrine 1
 aortographic
 acutish
 ascenders
