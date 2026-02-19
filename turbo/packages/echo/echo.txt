@@ -4076,7 +4076,7 @@ elve
 eucrasy
 eutherian
 ecthymata
-euthymy
+euthymy 1
 esthetophore
 equitant
 enjambement
