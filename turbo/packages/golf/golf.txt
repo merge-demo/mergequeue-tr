@@ -10764,7 +10764,7 @@ graminin
 gimbals
 gallium
 glamourie
-geranyl
+geranyl 1
 glycyl
 gutt
 gerenuk
