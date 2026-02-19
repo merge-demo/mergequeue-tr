@@ -8735,7 +8735,7 @@ chapiter
 chloranaemia
 chapitral
 collyridian
-chaplain
+chaplain 1
 chaplaincies
 chaplains
 curiboca
