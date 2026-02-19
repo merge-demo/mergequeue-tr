@@ -8711,7 +8711,7 @@ allelotropic
 attendantly
 allelotropism
 alleluia
-applesauce
+applesauce 1
 alleluiah
 agers
 amnesiacs
