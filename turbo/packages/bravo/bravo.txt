@@ -12332,7 +12332,7 @@ bullwhacker
 betrayer
 bombardments
 bombline
-bowdrill
+bowdrill 1
 bonehead
 bombast
 buglers
