@@ -2797,7 +2797,7 @@ gathers
 gymnasiast
 gazettal
 grigris
-gormless
+gormless 1
 glottalite
 gloiopeltis
 gentiobiose
