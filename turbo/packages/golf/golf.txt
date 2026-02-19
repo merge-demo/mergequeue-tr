@@ -8458,7 +8458,7 @@ glands
 golfing
 gelatinising
 graveclod
-gonfalon
+gonfalon 1
 genl
 gynaecocrat
 gauby
