@@ -5675,7 +5675,7 @@ esurience
 evangelicals
 euploid
 extrarenal
-endophasic
+endophasic 1
 erotism
 entrough
 expectorants
