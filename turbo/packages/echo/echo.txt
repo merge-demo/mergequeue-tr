@@ -2420,7 +2420,7 @@ enfoul
 erythematous
 euphausid
 epitaxial
-enapt
+enapt 1
 etherate
 earthnut
 extinguished
