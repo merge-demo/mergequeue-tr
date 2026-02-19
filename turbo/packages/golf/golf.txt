@@ -4570,7 +4570,7 @@ gutium
 gyrodactylidae
 glucagons
 greeter
-gobbledegook
+gobbledegook 1
 gapa
 girthing
 gaudeamus
