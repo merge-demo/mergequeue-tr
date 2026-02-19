@@ -6539,7 +6539,7 @@ flatteners
 frocks
 floriculturally
 fultz
-fullness
+fullness 1
 fidgetation
 fertilized
 freemanship
