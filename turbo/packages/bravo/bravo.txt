@@ -3503,7 +3503,7 @@ bander
 barkpeeler
 boobook
 bolloxed
-batable
+batable 1
 bespatter
 bernicia
 bombous

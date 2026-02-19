@@ -18084,7 +18084,7 @@ arcanist
 abstricts
 apteryla
 adjure
-alternance
+alternance 1
 agentship
 aptest
 anticonvulsive
