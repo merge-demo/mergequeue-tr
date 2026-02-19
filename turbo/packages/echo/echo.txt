@@ -9431,7 +9431,7 @@ enfeoff
 encephalos
 eschatological
 enaliosauria
-epistemonical
+epistemonical 1
 eyeshades
 emceeing
 eggshell
