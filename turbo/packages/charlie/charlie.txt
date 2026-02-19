@@ -23950,7 +23950,7 @@ convalescently
 convalescents
 convalescing
 convallaria
-chalazion
+chalazion 1
 consummately
 chammied
 convect

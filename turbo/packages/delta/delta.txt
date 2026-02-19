@@ -3142,7 +3142,7 @@ deipnodiplomatic
 declaratives
 defectlessness
 delegatory
-dislevelment
+dislevelment 1
 descendible
 despiteous
 dulcineas
