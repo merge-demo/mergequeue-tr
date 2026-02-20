@@ -1025,7 +1025,7 @@ egesting
 epinicion
 ethyls
 edeodynia
-edeomania
+edeomania 1
 enhamper
 emberizinae
 enslavedness
