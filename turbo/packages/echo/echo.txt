@@ -931,7 +931,7 @@ effatum
 ectrosyndactyly
 earring
 ectrotic
-excoction
+excoction 1
 electrological
 efform
 endocardium
