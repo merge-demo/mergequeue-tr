@@ -1384,7 +1384,7 @@ antiprotozoal
 azygospore
 armonica
 anophthalmos
-allotriodontia
+allotriodontia 1
 afterking
 avestruz
 actinomycotic
