@@ -11902,7 +11902,7 @@ dandiacal
 disarming
 desulphurate
 defeasive
-debonaire
+debonaire 1
 diseasedness
 diseases
 diastemata
