@@ -9974,7 +9974,7 @@ cherimoyer
 cump
 cherish
 carbolxylol
-chordeiles
+chordeiles 1
 crawfishes
 counteractant
 chymic
