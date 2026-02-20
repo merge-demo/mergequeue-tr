@@ -457,7 +457,7 @@ faithlessness
 fringeless
 folkmoter
 favaginous
-foliosity
+foliosity 1
 facticity
 faithworthiness
 faitours
