@@ -11263,7 +11263,7 @@ discarding
 discardment
 deflectometer
 discards
-dentals
+dentals 1
 discarnate
 duskier
 directories
