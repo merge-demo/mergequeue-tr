@@ -11405,7 +11405,7 @@ chlorpicrin
 chlorpromazine
 cheerfulsome
 ciboule
-chlorsalol
+chlorsalol 1
 confetto
 cabrioles
 cloakless
