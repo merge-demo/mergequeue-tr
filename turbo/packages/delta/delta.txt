@@ -11264,7 +11264,7 @@ discardment
 deflectometer
 discards
 dentals 1
-discarnate
+discarnate 1
 duskier
 directories
 dodginess
