@@ -5957,7 +5957,7 @@ greige 1
 gainstrive
 garmenture
 gaols
-garoter
+garoter 1
 gillot
 groutiest
 gestating
