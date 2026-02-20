@@ -21492,7 +21492,7 @@ colons
 curliewurly
 cardiophobia
 concordances
-cantalas
+cantalas 1
 concordancy
 concordant
 caulicole
