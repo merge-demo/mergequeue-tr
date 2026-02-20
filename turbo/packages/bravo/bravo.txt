@@ -5692,7 +5692,7 @@ bloodstones
 besped
 beldams
 bacchar
-bilify
+bilify 1
 belderroot
 bodgie
 beleaguering
