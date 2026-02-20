@@ -6273,7 +6273,7 @@ ferriprussiate
 fringed
 facadal
 floreted
-flunkey
+flunkey 1
 frilal
 filamentose
 fumatories
