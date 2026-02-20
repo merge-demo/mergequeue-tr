@@ -2696,7 +2696,7 @@ cubitopalmar
 catostomus 1
 cankerfret
 compiles
-calcemia
+calcemia 1
 cannabinol
 cankery
 cannoneering
