@@ -6721,7 +6721,7 @@ bedull
 bayesian
 browsability
 bismuthine 1
-broomstaff
+broomstaff 1
 blitter
 balaamitical
 beeishness
