@@ -3141,7 +3141,7 @@ endoscopy
 earthsmoke
 eloigning
 euryte
-eloigns
+eloigns 1
 eloin
 escheat
 eloine
