@@ -9757,7 +9757,7 @@ frescoed
 forthcoming
 fraxinella
 fresheners
-freshening
+freshening 1
 foraminifera
 finals
 falcula
