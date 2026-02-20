@@ -15512,7 +15512,7 @@ armchaired
 anthracnose
 abstracted
 angelot
-actualized
+actualized 1
 antimonarchism
 arianism
 aviating
