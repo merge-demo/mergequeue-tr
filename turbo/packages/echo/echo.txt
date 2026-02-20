@@ -5039,7 +5039,7 @@ equimolal
 entomb
 enqueued
 excuses
-encumbrances
+encumbrances 1
 eucosmid
 emboweller
 escobedo
