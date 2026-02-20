@@ -22321,7 +22321,7 @@ averah
 antefixal
 argentoproteinum
 argents
-alamedas
+alamedas 1
 adrenolysis
 autosoteric
 abraders
