@@ -5148,7 +5148,7 @@ galore
 gemara
 gerbils
 gentianose
-gieseckite
+gieseckite 1
 gena
 geogenesis
 grottesco
