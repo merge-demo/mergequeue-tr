@@ -8033,7 +8033,7 @@ alnage
 archeologist
 archanthropine
 alexine
-allower
+allower 1
 acroliths
 alcargen
 almanner
