@@ -265,7 +265,7 @@ fusains
 favi
 fatidic
 filander
-felsic
+felsic 1
 fairly
 folk
 fotive
