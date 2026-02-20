@@ -1492,7 +1492,7 @@ glengarry
 gasterolichenes
 grainier
 guittonian
-gonopores
+gonopores 1
 garners
 garotted
 goutish
