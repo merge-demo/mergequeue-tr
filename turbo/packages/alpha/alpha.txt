@@ -17300,7 +17300,7 @@ americanize
 acutorsion
 arbalest
 acataposis
-anglicization
+anglicization 1
 ayins
 apositia
 antisensuality
