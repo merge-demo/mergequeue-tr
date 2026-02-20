@@ -7408,7 +7408,7 @@ ceramics
 cledge
 ceramium
 ceramographic
-cinnamic
+cinnamic 1
 canvass
 citified
 chloroformed
