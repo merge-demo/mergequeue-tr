@@ -10312,7 +10312,7 @@ dioptric
 disslander
 dioptrical
 diorama
-daroo
+daroo 1
 denticulate
 douziemes
 diophantine
