@@ -14808,7 +14808,7 @@ docks
 demonologist
 depleting
 disulphoxid
-detests
+detests 1
 docoglossate
 dewata
 diswarren
