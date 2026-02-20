@@ -1267,7 +1267,7 @@ filariform
 familistic 1
 foreordinated
 fermentative
-flutteringly
+flutteringly 1
 farseeing
 finalized
 faecula
