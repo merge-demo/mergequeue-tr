@@ -15197,7 +15197,7 @@ coniroster
 clam
 cabriolet
 circumnavigatory
-clamantly
+clamantly 1
 clamaroo
 ceraunophone
 cywydd
