@@ -22720,7 +22720,7 @@ conoscopic
 conplane
 centuriation
 counterevidence
-cryosphere
+cryosphere 1
 conquerer
 conquerers
 conqueress
