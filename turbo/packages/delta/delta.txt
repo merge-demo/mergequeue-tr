@@ -11379,7 +11379,7 @@ disyllabism
 diphosphothiamine
 desktop
 discontentedly
-deadbeats
+deadbeats 1
 doctrinize
 dowagers
 disclass
