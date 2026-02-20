@@ -944,7 +944,7 @@ exeresis
 ecuadorian
 ecumenacy
 engraffing
-electroforming
+electroforming 1
 equilibristic
 effluvium
 ecumenicism
