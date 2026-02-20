@@ -9263,7 +9263,7 @@ faulting
 flappers
 forty
 frowstily
-figured
+figured 1
 fresher
 fruticulture
 furfurole
