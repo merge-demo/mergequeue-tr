@@ -9885,7 +9885,7 @@ chemoserotherapy
 chemosynthesis
 chemosmoses
 chemosmotic
-consumptible
+consumptible 1
 choora
 calpacks
 caleches
