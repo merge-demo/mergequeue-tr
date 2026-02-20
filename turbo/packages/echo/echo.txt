@@ -4641,7 +4641,7 @@ exuberantness
 elasticizes 1
 epimerase
 epimerising
-eusuchian
+eusuchian 1
 eddies
 excretionary
 enrapting
