@@ -14441,7 +14441,7 @@ acetochloral
 angiogram
 abandonable
 amyloid
-aequiculi
+aequiculi 1
 anthrahydroquinone
 aarrgh
 anthramine
