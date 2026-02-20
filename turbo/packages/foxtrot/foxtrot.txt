@@ -4823,7 +4823,7 @@ freedwomen
 formidolous
 fructiparous
 feasting
-furnishing
+furnishing 1
 forfars
 fodder
 foliums
