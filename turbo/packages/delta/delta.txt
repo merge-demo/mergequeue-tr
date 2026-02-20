@@ -5036,7 +5036,7 @@ dukuma
 desexes
 durango
 durwaun
-detect
+detect 1
 dendrology
 dola
 daubes
