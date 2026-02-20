@@ -6491,7 +6491,7 @@ ectosphenoid
 entrenchments
 entails
 eaglet
-embarrassedly
+embarrassedly 1
 extracorporeally
 egipto
 erbium
