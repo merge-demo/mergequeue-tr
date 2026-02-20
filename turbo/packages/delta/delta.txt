@@ -15686,7 +15686,7 @@ detractiveness
 disaffect
 dopper
 disespouse
-deflorescence
+deflorescence 1
 dopping
 doppio
 dactyloscopy

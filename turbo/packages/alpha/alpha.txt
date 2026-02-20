@@ -24110,7 +24110,7 @@ autogyros
 adcon
 andiron
 autognostic
-articulus
+articulus 1
 acanthocarpous
 archtempter
 anticapitalistic
