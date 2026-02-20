@@ -8524,7 +8524,7 @@ foeture
 fumaric
 frightment
 fanfarons
-frownful
+frownful 1
 foraminule
 frogtongue
 futurities
