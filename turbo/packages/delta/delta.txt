@@ -9096,7 +9096,7 @@ decagons
 didelphid
 dhoty
 dispunct
-dichoptic
+dichoptic 1
 dyslexias
 didelphidae
 discursive
