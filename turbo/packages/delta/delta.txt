@@ -5270,7 +5270,7 @@ dentelure
 duftry
 dealable
 derider
-dorsimesal
+dorsimesal 1
 disblame
 daraf 1
 deflect
