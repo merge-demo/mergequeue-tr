@@ -27474,7 +27474,7 @@ covalency
 carpoptosis
 coriander
 campephilus
-covalently
+covalently 1
 conquedle
 columbella
 carnaubic
