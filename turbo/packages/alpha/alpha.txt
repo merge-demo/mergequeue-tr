@@ -11415,7 +11415,7 @@ ampyxes
 abies
 alborak
 amphigaean
-amigas
+amigas 1
 asperite
 answerably
 argyrocephalous
