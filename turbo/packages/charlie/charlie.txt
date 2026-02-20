@@ -14125,7 +14125,7 @@ catatonia
 circulators
 circulus 1
 circumambiency
-circumambient
+circumambient 1
 circumambulate
 circumambulated
 compose
