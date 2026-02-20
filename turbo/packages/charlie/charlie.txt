@@ -6617,7 +6617,7 @@ cedillas
 ceding
 cosheath
 chromule
-cdr
+cdr 1
 cedrat
 conglution
 cedrate
