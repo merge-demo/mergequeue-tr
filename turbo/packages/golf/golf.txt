@@ -8874,7 +8874,7 @@ gambas
 gutweed
 glauconitic
 ghostified
-griquaite
+griquaite 1
 grouchiness
 glomerella
 governail
