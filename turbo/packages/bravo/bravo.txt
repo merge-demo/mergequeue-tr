@@ -5303,7 +5303,7 @@ beggary
 beeriest
 bicrescentic
 bringsel
-boshas
+boshas 1
 bullom
 brimless 1
 bubbies
