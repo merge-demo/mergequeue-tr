@@ -19939,7 +19939,7 @@ antileukemic
 autohemorrhage
 armors
 aqueous
-apophyge
+apophyge 1
 artistically
 armouchiquois
 ammine
