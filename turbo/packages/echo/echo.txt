@@ -9579,7 +9579,7 @@ excurse
 equinia
 esculent
 egocentristic
-encephaloma
+encephaloma 1
 enchasers
 esoethmoiditis
 exornation
