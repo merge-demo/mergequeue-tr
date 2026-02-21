@@ -2449,7 +2449,7 @@ gainsayer
 ghoulish
 gastraeum
 galravage
-ghettoed
+ghettoed 1
 glycocoll 1
 gigmanism
 geographers
