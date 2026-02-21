@@ -16962,7 +16962,7 @@ drearily
 dogeless
 dreariness
 deamidate
-doz
+doz 1
 dunkard
 dazedness
 domus
