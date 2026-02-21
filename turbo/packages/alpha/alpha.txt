@@ -23543,7 +23543,7 @@ archpresbyterate
 akamnik
 amminochloride
 antarala
-aumakua
+aumakua 1
 awardees
 arnotto
 anapnometer
