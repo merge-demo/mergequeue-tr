@@ -2927,7 +2927,7 @@ geocerite
 glove
 gubernation
 gallons
-gabardines
+gabardines 1
 gulley 1
 growlier
 glumpish
