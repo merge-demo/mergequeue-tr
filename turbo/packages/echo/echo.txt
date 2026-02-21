@@ -3473,7 +3473,7 @@ enginemen
 excusative
 epistemologist
 evinces
-eductive
+eductive 1
 ethnol
 exceptionableness
 enamels
