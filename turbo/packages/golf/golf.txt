@@ -10857,7 +10857,7 @@ gweed
 gravidation
 gweeon
 growlers
-girds
+girds 1
 glowering
 geomagnetician
 gush
