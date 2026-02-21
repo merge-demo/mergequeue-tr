@@ -13664,7 +13664,7 @@ extenuations
 enskying
 exorcisation
 earners
-evirate
+evirate 1
 elevon
 elizabethanism
 exteriorised

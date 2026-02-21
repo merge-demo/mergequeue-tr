@@ -4967,7 +4967,7 @@ forehinting
 flyway 1
 feebleheartedly
 flanch
-farcemeat
+farcemeat 1
 formalize
 ferrugination
 fluffily 1
