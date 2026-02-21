@@ -18557,7 +18557,7 @@ abaca
 antinion
 aphrodisian
 animists
-apostrophise
+apostrophise 1
 androseme
 arborous
 arborvitaes
