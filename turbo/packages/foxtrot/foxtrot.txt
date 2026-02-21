@@ -7561,7 +7561,7 @@ fanciers
 flintworker
 frizzes
 foreshadow
-forespeak
+forespeak 1
 fervors
 forgathers 1
 forril
