@@ -3412,7 +3412,7 @@ brythonic
 baculum
 benzilic
 bassanite
-bassetta
+bassetta 1
 blockbuster
 bays
 bandstands
