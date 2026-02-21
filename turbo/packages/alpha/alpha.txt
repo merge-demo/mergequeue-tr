@@ -13440,7 +13440,7 @@ annaly
 annaline
 antigrammaticalness
 apathetic
-adiposeness
+adiposeness 1
 annalists
 authotype
 ajatasatru
