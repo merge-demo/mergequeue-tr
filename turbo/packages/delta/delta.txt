@@ -4923,7 +4923,7 @@ derk
 demultiplexer
 devocalised
 deurbanize
-dacoited
+dacoited 1
 demultiplexers
 disroot
 desexing
