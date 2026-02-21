@@ -26828,7 +26828,7 @@ correctingly
 conspiring
 counterexcitement
 counterexercise
-cyclometry
+cyclometry 1
 counterextension
 cartoons
 circumduce
