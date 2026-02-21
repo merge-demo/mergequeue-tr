@@ -8750,7 +8750,7 @@ exuberated
 exteriorized
 expatiator
 equivocal
-exuperable
+exuperable 1
 extermination
 erk
 encystment
