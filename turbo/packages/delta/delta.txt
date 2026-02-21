@@ -18302,7 +18302,7 @@ desultorily
 draftproof
 dunnish
 dunnite
-dagger
+dagger 1
 dubonnets
 dextorsal 1
 doray
