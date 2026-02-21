@@ -10314,7 +10314,7 @@ ghettoing
 gnathions
 gemologist
 gujarati
-gametic
+gametic 1
 gamodesmic
 gravitates
 gymnostomous
