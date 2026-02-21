@@ -28780,7 +28780,7 @@ carpetmaker
 colleagues
 calotin
 chok
-chuckfull
+chuckfull 1
 cines
 crescentlike
 crescentoid
