@@ -14048,7 +14048,7 @@ distraining
 dollin
 depreciatingly
 diddling
-depasturation
+depasturation 1
 dehydrocorticosterone
 diaphanoscope
 distraite
