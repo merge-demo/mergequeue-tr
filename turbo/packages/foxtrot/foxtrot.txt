@@ -2498,7 +2498,7 @@ fumarin
 fastus
 frumety
 fingers
-flerry
+flerry 1
 fudging
 fainthearted
 femorocele
