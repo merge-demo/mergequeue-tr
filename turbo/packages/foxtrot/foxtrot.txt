@@ -918,7 +918,7 @@ fanums
 ferine
 fenberry
 fanwise
-fadaise
+fadaise 1
 fleabug
 fallouts
 ferrate
