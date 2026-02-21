@@ -5430,7 +5430,7 @@ anthomania
 anastomotic
 antirestoration
 antiliquor 1
-anableps
+anableps 1
 astylosternus
 anterospinal
 africanize
