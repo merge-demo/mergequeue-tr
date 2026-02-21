@@ -4342,7 +4342,7 @@ forgetter
 forewomen
 foresleeve
 finagle
-feebler
+feebler 1
 filthless
 foraramina
 fylfots
