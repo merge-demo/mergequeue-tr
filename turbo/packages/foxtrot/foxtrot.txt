@@ -11175,7 +11175,7 @@ frowy
 fungia
 fades
 fungicide
-fremdness
+fremdness 1
 folly
 fungian
 felspar
