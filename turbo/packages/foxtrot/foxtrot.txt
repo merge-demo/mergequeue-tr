@@ -1110,7 +1110,7 @@ farsighted
 fiddled
 flatiron
 flots
-farsightedness
+farsightedness 1
 fifing
 flooring
 forkedly
@@ -3050,7 +3050,7 @@ flowerfly
 finances
 festology 1
 fooler
-feroce
+feroce 1
 fishtails
 flitter
 flakeboard 1
@@ -11270,7 +11270,7 @@ fondon
 funny
 fundamentality
 flagellants
-frumaryl
+frumaryl 1
 filibusterer
 fenks
 forrit
