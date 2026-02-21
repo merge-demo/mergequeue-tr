@@ -3551,7 +3551,7 @@ guidon
 glutinose
 gothic
 gaedown
-galvanic
+galvanic 1
 gyrocar
 greg
 gustus
