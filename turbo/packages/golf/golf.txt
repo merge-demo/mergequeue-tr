@@ -4467,7 +4467,7 @@ gypsophily
 gutters
 gomukhi
 gins 1
-glyptology
+glyptology 1
 gugal
 grame
 gyrose
