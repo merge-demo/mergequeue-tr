@@ -10128,7 +10128,7 @@ anythings
 acanthin
 architective
 ablatives
-antiphrasis
+antiphrasis 1
 anisette
 autolaryngoscope
 antinationally
@@ -13798,7 +13798,7 @@ anoplura
 amnic
 assbaa
 agrah
-anopubic
+anopubic 1
 arless
 anorchi
 anorchia
