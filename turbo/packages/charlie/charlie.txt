@@ -15828,7 +15828,7 @@ clef
 cassinese
 chesterfields
 chronomancy
-cleft
+cleft 1
 confer
 cleidagra
 calms
