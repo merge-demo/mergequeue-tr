@@ -20464,7 +20464,7 @@ arteriac
 allomorphic
 archchaplain
 apotropaic
-arbela
+arbela 1
 antimilitaristically
 aerogenous
 atechnic

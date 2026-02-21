@@ -23833,7 +23833,7 @@ charpoy
 chewink
 cannonades
 contrib
-chair
+chair 1
 clavel
 contributable
 comparer
