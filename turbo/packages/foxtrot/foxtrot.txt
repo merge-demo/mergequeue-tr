@@ -2352,7 +2352,7 @@ favel
 femineity
 frightener
 futchell
-fanhouse
+fanhouse 1
 feres
 floatstone
 flytings
