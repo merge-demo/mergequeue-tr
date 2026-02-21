@@ -6580,7 +6580,7 @@ brustled
 becolor
 berated
 bushful
-berates
+berates 1
 blastospheric
 berattle
 bakehead
