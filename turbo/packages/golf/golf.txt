@@ -10579,7 +10579,7 @@ geologic
 gelds
 gens
 gaged
-greaser
+greaser 1
 glassine
 gowany
 gushed 1
