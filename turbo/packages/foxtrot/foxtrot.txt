@@ -6339,7 +6339,7 @@ flameless
 factionism
 fragrantness
 floreal
-funiliform
+funiliform 1
 firing
 finick
 fetichic
