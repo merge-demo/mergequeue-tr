@@ -10645,7 +10645,7 @@ amigos
 appertaining
 amiidae
 amyl
-ainu
+ainu 1
 alcyoniform
 aphorismatic
 attomy
