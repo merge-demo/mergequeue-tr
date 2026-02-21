@@ -6500,7 +6500,7 @@ ganglioneural
 grannom
 glaucic
 graceless
-galls
+galls 1
 glossoplegia
 granduncles
 gelseminic
