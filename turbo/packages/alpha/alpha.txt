@@ -20689,7 +20689,7 @@ afghani
 aspirates
 acanthial
 aulostomid
-anywise
+anywise 1
 arefy
 acetometer
 ayurvedas
