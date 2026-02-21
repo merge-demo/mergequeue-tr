@@ -2495,7 +2495,7 @@ discomorula
 deconsecration
 druith
 desertism
-destinations
+destinations 1
 diazohydroxide
 dorothea
 decemdentate
@@ -12139,7 +12139,7 @@ depthometer
 diacetine
 deadlily
 disfavoured
-discursion
+discursion 1
 disfeaturement
 dialogised
 dumbwaiter
@@ -14726,7 +14726,7 @@ distender
 disposableness
 doblon
 dissymmettric
-dobos
+dobos 1
 drumlier
 deplumed
 dactyloscopic
