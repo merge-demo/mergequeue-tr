@@ -21901,7 +21901,7 @@ corpusculated
 chamberwoman
 confervae
 conferval
-combe
+combe 1
 clof
 coenobioid
 chinamania
