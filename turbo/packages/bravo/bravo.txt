@@ -9715,7 +9715,7 @@ bullish
 bisymmetry
 brandyman
 breadth
-basipterygium
+basipterygium 1
 bisymmetrical
 borate
 bisync
