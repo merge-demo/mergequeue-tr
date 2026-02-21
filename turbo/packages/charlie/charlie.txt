@@ -10332,7 +10332,7 @@ canariote
 chicly
 chicness
 chantries
-chico
+chico 1
 chugalugged
 caryocaraceous
 coryneum
