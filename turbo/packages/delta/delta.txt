@@ -5646,7 +5646,7 @@ decasyllabic
 demit
 deplorability
 duals
-deplorableness
+deplorableness 1
 disrepair
 deplore
 deplumated
