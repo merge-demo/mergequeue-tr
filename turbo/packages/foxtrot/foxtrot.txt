@@ -11289,7 +11289,7 @@ faveolate
 fantasticism
 familiarizer
 felonsetting
-furlane
+furlane 1
 friskets
 fluellen
 furbish
