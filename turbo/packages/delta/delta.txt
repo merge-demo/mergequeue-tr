@@ -671,7 +671,7 @@ decard
 deafen
 diagonals
 dipleuric
-dudgeons
+dudgeons 1
 dihydroxy
 devoting
 dodecastylar
