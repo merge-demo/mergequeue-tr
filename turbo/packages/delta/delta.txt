@@ -5527,7 +5527,7 @@ disaffections
 diabolizing
 desmognathae
 deperdite
-deperditely
+deperditely 1
 domain
 distinctest
 deperms
