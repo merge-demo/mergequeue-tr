@@ -670,7 +670,7 @@ dukely
 decard
 deafen
 diagonals
-dipleuric
+dipleuric 1
 dudgeons 1
 dihydroxy
 devoting
