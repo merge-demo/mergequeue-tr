@@ -3213,7 +3213,7 @@ evacuee
 electioneers
 epaule
 elseways
-extuberance
+extuberance 1
 ecliptical
 elaiosome 1
 essayistical
