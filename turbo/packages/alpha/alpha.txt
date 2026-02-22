@@ -1015,7 +1015,7 @@ arthrochondritis
 acroaesthesia
 aquitanian
 affluxes
-abstractive
+abstractive 1
 abridgers
 athenianly
 antimethodic
