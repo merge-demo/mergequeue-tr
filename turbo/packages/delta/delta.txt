@@ -1883,7 +1883,7 @@ dugout
 deborah
 daktylos
 deicate
-debateable
+debateable 1
 disinfection 1
 deboss
 debouche
