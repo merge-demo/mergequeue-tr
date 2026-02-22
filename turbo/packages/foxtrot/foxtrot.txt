@@ -6350,7 +6350,7 @@ fluoroform
 fricasseing
 fluoboric
 forefoot
-fronture
+fronture 1
 furry 1
 formalization
 frogspawn
