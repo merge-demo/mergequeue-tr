@@ -8647,7 +8647,7 @@ absentment
 allegoriser
 anotto
 aeolomelodicon
-applauded
+applauded 1
 ampelosicyos
 adjudicatory
 avizandum
