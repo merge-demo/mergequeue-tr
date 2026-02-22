@@ -2500,7 +2500,7 @@ antireduction
 authorizing
 acocotl
 aluminic 1
-acoela
+acoela 1
 arrendation
 anadicrotism 1
 apogean
