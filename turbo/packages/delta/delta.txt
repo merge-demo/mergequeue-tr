@@ -6467,7 +6467,7 @@ descensionist
 descensive
 donor
 drest
-descent
+descent 1
 despert
 dekameter
 diffracting
