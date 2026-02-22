@@ -7552,7 +7552,7 @@ aswoon
 abolitionise
 acetal
 artificiality
-amphipodal
+amphipodal 1
 amercer
 alcahests
 apertion
