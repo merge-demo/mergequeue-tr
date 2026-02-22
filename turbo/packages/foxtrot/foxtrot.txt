@@ -1732,7 +1732,7 @@ foodservices
 finestiller
 faviform
 fashionmonger
-flighted
+flighted 1
 fascio
 floats
 filicin
