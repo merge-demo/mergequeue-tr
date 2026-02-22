@@ -8902,7 +8902,7 @@ gnocchetti
 gladelike
 grandiloquous 1
 gasteropod
-gnaw
+gnaw 1
 grisset
 glycosidic
 geranomorphic
