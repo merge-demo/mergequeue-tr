@@ -10876,7 +10876,7 @@ fulgidity
 fantasizing
 footholds 1
 fallings
-fossors
+fossors 1
 flavor
 frowardly
 fruitful
