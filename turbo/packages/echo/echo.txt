@@ -8425,7 +8425,7 @@ enwrought
 epocha
 epollicate
 ethoses
-eponge
+eponge 1
 exhibitioner 2
 ethopoetic
 extensure
