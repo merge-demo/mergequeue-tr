@@ -1844,7 +1844,7 @@ defeudalize
 dorsalward 1
 debilitates
 dermatoglyphics
-devirginator
+devirginator 1
 debitum
 douvecot
 dorsale
