@@ -7898,7 +7898,7 @@ aleyrodes
 auricular
 advisers
 aleknight
-apractic
+apractic 1
 archpastor
 agreat
 arithmocracy
