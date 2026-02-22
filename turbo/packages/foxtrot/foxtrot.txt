@@ -8505,7 +8505,7 @@ fished 1
 flapped
 foreanswer
 forehatchway
-flusterate
+flusterate 1
 figs
 fumaroles
 flatwashes
