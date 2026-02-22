@@ -12464,7 +12464,7 @@ epifaunal
 enthronization
 enclosure
 exchequer
-elaphurine
+elaphurine 1
 entreaty
 emotionalism
 explanatory
