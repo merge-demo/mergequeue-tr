@@ -1117,7 +1117,7 @@ gearshifts
 gravitate
 graptolitic
 gallants
-gwyniad
+gwyniad 1
 granet
 giddier
 grotesco

@@ -15785,7 +15785,7 @@ dipsacus
 dermahemia
 daftly
 deponed
-diseasy
+diseasy 1
 draconically
 desiderate
 demolishment
