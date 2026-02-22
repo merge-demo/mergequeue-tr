@@ -5855,7 +5855,7 @@ gunneries
 gyroceras
 glucosidically
 gleave
-gynecide
+gynecide 1
 ging
 glamorizations
 ginkgoales
