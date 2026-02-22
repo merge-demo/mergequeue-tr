@@ -2502,7 +2502,7 @@ acocotl
 aluminic 1
 acoela
 arrendation
-anadicrotism
+anadicrotism 1
 apogean
 accuser
 attemperance
