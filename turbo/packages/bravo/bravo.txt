@@ -4664,7 +4664,7 @@ broomwood
 bedeafening
 baghouse
 bilberry
-bedecked
+bedecked 1
 bedrid
 bedecking
 beholdingness
