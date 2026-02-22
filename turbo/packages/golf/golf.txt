@@ -9595,7 +9595,7 @@ grumium
 glaucodote
 geests
 goiter
-grizzlier
+grizzlier 1
 glazement
 guarish
 gummite 1
