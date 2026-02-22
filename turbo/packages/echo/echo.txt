@@ -11831,7 +11831,7 @@ excandescent
 explemental
 erythrochroic
 endocrinopathy
-effuse
+effuse 1
 engrossingness
 eulogized
 enacts
