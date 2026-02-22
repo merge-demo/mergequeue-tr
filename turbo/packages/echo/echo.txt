@@ -7396,7 +7396,7 @@ epentheses
 exotic
 eleotrid
 experiencing
-elvan
+elvan 1
 encolumn
 etruria
 etalon
