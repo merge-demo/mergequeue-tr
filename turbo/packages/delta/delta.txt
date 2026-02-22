@@ -18031,7 +18031,7 @@ dislocations
 diffusiometer
 duler
 dissimilating
-dull
+dull 1
 discoplacentalia
 dillydallier
 dullard
