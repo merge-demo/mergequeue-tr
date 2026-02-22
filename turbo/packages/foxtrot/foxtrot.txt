@@ -6977,7 +6977,7 @@ flexions
 fichtean
 filla
 functor
-fungite
+fungite 1
 frison
 frittered
 fondues

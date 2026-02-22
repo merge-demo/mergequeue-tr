@@ -228,7 +228,7 @@ glagolitsa
 greys
 gooks
 gravelstone
-gags
+gags 1
 gonoecium
 greatens
 gradefinder
