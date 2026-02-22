@@ -21762,7 +21762,7 @@ antithet
 antiberiberin
 antiphonic
 assents
-asseour
+asseour 1
 assert
 asserta
 albanenses
