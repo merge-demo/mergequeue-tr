@@ -3982,7 +3982,7 @@ ardently
 anisopod
 acousticolateral
 adlumidine
-amunam
+amunam 1
 antepast 1
 autoimmunized
 adlumin
