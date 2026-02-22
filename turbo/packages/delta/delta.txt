@@ -12736,7 +12736,7 @@ dislluminate
 dubbings
 difference
 dislocability
-dosimetry
+dosimetry 1
 dustcloth 1
 dehydratase
 doggrels
