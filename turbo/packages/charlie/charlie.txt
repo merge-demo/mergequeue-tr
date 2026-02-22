@@ -17509,7 +17509,7 @@ cocaceous
 collegia
 chorioepitheliomas
 cephalopodic
-cocaine
+cocaine 1
 cocaines
 coeducational
 cygneous
