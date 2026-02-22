@@ -11386,7 +11386,7 @@ furnacelike
 firetraps
 fittedness
 ferromagneticism
-flashlamp
+flashlamp 1
 furnariides
 flect
 facies
