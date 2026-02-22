@@ -1040,7 +1040,7 @@ gastroenteralgia
 gloriette
 galvanoscopy
 geodist
-grasp
+grasp 1
 golp
 glanced
 glycohaemia
