@@ -13678,7 +13678,7 @@ doucin
 dissymmetric 1
 degender
 disturbances
-delectability
+delectability 1
 dissymmetrically
 danseurs
 discoursive
