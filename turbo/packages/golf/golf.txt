@@ -6106,7 +6106,7 @@ gallification
 gowiddie
 goblinry
 generalizing
-gyre
+gyre 1
 groucho
 grommet
 garters 1
