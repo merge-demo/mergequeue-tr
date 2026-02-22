@@ -1866,7 +1866,7 @@ fielden
 fiveling
 fiances
 flabellation
-frutify
+frutify 1
 fatuously
 fec
 fight
