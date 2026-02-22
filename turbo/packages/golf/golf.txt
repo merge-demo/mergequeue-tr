@@ -3725,7 +3725,7 @@ goggle
 grumpishness
 greycoat 1
 giants
-ghoulishness
+ghoulishness 1
 glossology
 gouges
 giantship
