@@ -6967,7 +6967,7 @@ gallerian
 gapes
 guaconize
 glad
-guld
+guld 1
 gossipry
 garrat
 girding
