@@ -29402,7 +29402,7 @@ cris
 cinemese
 cornbinks
 chairperson
-crisic
+crisic 1
 crispated
 crispbread
 circassian
