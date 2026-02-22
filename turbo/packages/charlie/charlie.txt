@@ -12599,7 +12599,7 @@ cheesier
 catechisation
 columnize
 cyperaceous
-chronothermal
+chronothermal 1
 countable
 collocution
 cheney
