@@ -114,7 +114,7 @@ exodermal
 euphonised
 echinoderma
 exanthemata
-enantiomorphous
+enantiomorphous 1
 endometritis
 expreme
 earthed
