@@ -1074,7 +1074,7 @@ embeddable
 echinology
 elective
 edification
-exfigure
+exfigure 1
 equipoised
 evaluates
 envined
