@@ -15200,7 +15200,7 @@ dotate
 drunkly
 disimitate
 deraignment
-dolerophanite
+dolerophanite 1
 disproperty
 durr
 decants
