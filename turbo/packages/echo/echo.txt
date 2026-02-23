@@ -152,7 +152,7 @@ envoys
 exorcise
 ethicophysical
 expired
-effervescent
+effervescent 1
 erotopath
 enunciations
 earthly
