@@ -10445,7 +10445,7 @@ dewiest
 deda
 dotty
 detax
-diphtheric
+diphtheric 1
 denticeti
 diphtheritically
 disarraying
