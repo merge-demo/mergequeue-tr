@@ -11568,7 +11568,7 @@ ectromelic
 encephalosepsis
 elegize
 enchiridion
-explicating
+explicating 1
 entablatured
 electroretinogram
 engregge
