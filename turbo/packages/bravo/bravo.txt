@@ -7550,7 +7550,7 @@ blubbered
 beurre
 beveil
 bevelled
-bardism
+bardism 1
 belayer
 beveller
 byte

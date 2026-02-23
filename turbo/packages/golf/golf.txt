@@ -9914,7 +9914,7 @@ gradgrindism
 gymnite
 giddea
 gulleting
-gambir
+gambir 1
 guardable
 gastroparalysis
 greening
