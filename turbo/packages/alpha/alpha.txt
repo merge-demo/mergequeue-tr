@@ -12906,7 +12906,7 @@ avenger
 academies
 asteraceous
 anglian
-apportionment
+apportionment 1
 anglicanisms
 antispiritual
 abscise
