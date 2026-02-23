@@ -11355,7 +11355,7 @@ fibroma
 footsores
 fluoroid
 fustinella
-forewind
+forewind 1
 fraxinus
 firepans
 feuds
