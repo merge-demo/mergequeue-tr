@@ -6336,7 +6336,7 @@ dillseed
 derogating
 derogative
 derogator
-derogatory
+derogatory 1
 dooja
 dischurch
 drawer
