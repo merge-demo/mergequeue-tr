@@ -10633,7 +10633,7 @@ flaxwoman
 forerunner
 farceurs
 flative
-forseen
+forseen 1
 fractile
 ferity
 franc
