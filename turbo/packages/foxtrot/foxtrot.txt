@@ -6217,7 +6217,7 @@ fluidified 1
 fluoarsenate
 ferromagnet
 fld
-flatfooting
+flatfooting 1
 fustigation 1
 fearing
 febronianism 1
