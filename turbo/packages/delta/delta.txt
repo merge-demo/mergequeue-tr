@@ -14915,7 +14915,7 @@ dehumidifiers
 destructive
 dodecarch
 decadi
-dodecasyllable
+dodecasyllable 1
 discretionarily
 dix
 disparagements
