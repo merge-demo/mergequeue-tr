@@ -5454,7 +5454,7 @@ gastroparietal
 glucosemia
 gazingly
 gentian
-gloams
+gloams 1
 granadillo
 gunarchy
 grudgeons
