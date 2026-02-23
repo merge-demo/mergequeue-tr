@@ -8498,7 +8498,7 @@ alkapton
 anorganology
 alkaptone
 ascent
-alkaptonuric
+alkaptonuric 1
 ancipital
 annuisance
 alkatively
