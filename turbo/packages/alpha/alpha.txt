@@ -5850,7 +5850,7 @@ ancestorial
 anthropomorphise
 agenesis
 agenetic
-agenize
+agenize 1
 agenized
 akamatsu
 agenizing
