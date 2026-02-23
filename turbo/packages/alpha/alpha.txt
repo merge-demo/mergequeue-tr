@@ -16069,7 +16069,7 @@ antipool
 atomises
 autoparasitism
 antiscientific
-ande
+ande 1
 armorica
 auto
 antiscolic
