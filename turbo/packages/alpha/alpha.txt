@@ -14719,7 +14719,7 @@ attractableness
 antisex
 antiblastic
 adumbral
-abjudication
+abjudication 1
 acclimation
 antiboxing
 advertizer
