@@ -3797,7 +3797,7 @@ ferrier
 furnitureless
 foreflap
 filterableness
-fractable
+fractable 1
 facette
 fairyism
 fluoridisation 1
