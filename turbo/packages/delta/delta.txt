@@ -18176,7 +18176,7 @@ devices
 discreetest
 depositaries
 dynamicity
-dumpoke
+dumpoke 1
 deltohedra
 dumps
 dissective 1
