@@ -6025,7 +6025,7 @@ flewed
 forehock 1
 fateful
 floriation
-fertilize
+fertilize 1
 frizz 1
 flunkeyize
 farting
