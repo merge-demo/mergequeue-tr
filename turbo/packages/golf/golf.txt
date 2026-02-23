@@ -2957,7 +2957,7 @@ guardingly
 gusts
 gaddang
 guilt
-gurkha
+gurkha 1
 guapilla
 gibes
 gastroenterostomy
