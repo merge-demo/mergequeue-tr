@@ -3894,7 +3894,7 @@ geminates
 gemmily
 gleeting
 gipsy
-gynaecocratic
+gynaecocratic 1
 gnomonologically
 geums
 geneal
