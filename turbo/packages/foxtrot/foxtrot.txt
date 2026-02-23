@@ -8232,7 +8232,7 @@ frateries
 freud
 forgetfulness
 forgett 1
-faits
+faits 1
 feldspars
 fistulated
 fulltime
