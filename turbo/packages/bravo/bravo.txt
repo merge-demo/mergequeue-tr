@@ -11455,7 +11455,7 @@ blaseness
 belonosphaerite
 barmkin
 bluegrass
-bluffy
+bluffy 1
 bekko
 bestrut
 boxthorn
