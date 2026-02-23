@@ -15840,7 +15840,7 @@ bargeer
 brainlessness
 brokenheartedly
 binder
-buddha
+buddha 1
 beggarwise
 bibacious
 bullied
