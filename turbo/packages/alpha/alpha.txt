@@ -11344,7 +11344,7 @@ aerodontic
 asyndetically
 antral
 amphispermous
-averroism
+averroism 1
 actinocarpous
 amphisporangiate
 amphistoma
