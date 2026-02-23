@@ -14247,7 +14247,7 @@ diswere
 decurions
 disemploys
 dacryon
-dartingness
+dartingness 1
 dinocerata
 delubrubra
 drinkless
