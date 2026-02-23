@@ -16324,7 +16324,7 @@ clyssus
 cisele
 clyster
 candors
-connectives
+connectives 1
 catakinetomer
 clysters
 centuried
