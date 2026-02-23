@@ -8930,7 +8930,7 @@ alloerotism
 adenoidectomy
 analgia
 allogene
-allogeneic
+allogeneic 1
 adream
 antisceptical
 achromatizable
