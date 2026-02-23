@@ -2124,7 +2124,7 @@ foreprize
 fulsome
 faculous
 funnel
-favours
+favours 1
 forloin
 foddered
 fellatrice
