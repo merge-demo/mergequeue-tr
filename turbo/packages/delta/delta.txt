@@ -193,7 +193,7 @@ disentwine
 discussing
 defection
 daffiness
-daffing
+daffing 1
 daffodilly
 drifted
 daringly
