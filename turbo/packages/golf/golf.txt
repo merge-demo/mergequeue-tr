@@ -8312,7 +8312,7 @@ glenoid
 graded
 gasket
 geophytic
-gnarling 1
+gnarling 2
 gnar
 glunimie
 glomeration

@@ -2962,7 +2962,7 @@ artiness
 antijam
 acting
 appalment
-amplexifoliate
+amplexifoliate 1
 automatize
 appendages
 ashless
