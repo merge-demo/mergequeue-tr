@@ -6320,7 +6320,7 @@ ensanguine
 eloquent
 enlargingly
 emporium
-ergotin
+ergotin 1
 eschar
 euchred
 ensphered
