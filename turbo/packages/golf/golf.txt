@@ -2035,7 +2035,7 @@ gases
 gaveled
 gibbosities
 gaultherin
-gangrenes
+gangrenes 1
 gnomologic
 greiges
 guazuti
