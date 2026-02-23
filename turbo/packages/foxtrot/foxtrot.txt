@@ -9860,7 +9860,7 @@ feria
 flavanthrone
 folioing
 fogeys
-forepointer
+forepointer 1
 flapdragon
 feridgi
 forefelt
