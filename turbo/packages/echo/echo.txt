@@ -12670,7 +12670,7 @@ elixed
 exogenetic
 enkolpion
 exometritis
-excogitate
+excogitate 1
 endeavors
 emotionless
 extusion
