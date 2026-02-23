@@ -3072,7 +3072,7 @@ deterrers
 demiseason
 diocoel
 disadvantaging
-defamations
+defamations 1
 dipygus
 diseaseful
 daubing
