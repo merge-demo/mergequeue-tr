@@ -11096,7 +11096,7 @@ disasinize 1
 deliciously
 descriptors
 deaminated
-discographic
+discographic 1
 disassent
 darin
 disassimilative
