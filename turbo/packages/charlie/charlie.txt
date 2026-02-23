@@ -29769,7 +29769,7 @@ crooking
 circule
 crooknecked
 concessionaires
-coset
+coset 1
 causticize
 criminatory
 chatelainry
