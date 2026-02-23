@@ -5128,7 +5128,7 @@ deathtraps
 dryopes
 distortedness
 decursion
-denominate
+denominate 1
 decadent
 desmosis
 declination
