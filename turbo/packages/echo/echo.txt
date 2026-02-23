@@ -11062,7 +11062,7 @@ electors
 expunging
 endosome
 edo
-egoity
+egoity 1
 exulceratory
 empower
 ekacaesium
