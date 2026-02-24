@@ -3599,7 +3599,7 @@ grouching
 gedder 1
 gossipy
 gastroenterological
-gluconeogenic
+gluconeogenic 1
 goldest
 gauntleted
 gillnetting
