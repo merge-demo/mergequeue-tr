@@ -13736,7 +13736,7 @@ dejecta
 demulsion
 delit
 directoire
-defluous
+defluous 1
 deadlihead
 decoct
 diaclinal
