@@ -9603,7 +9603,7 @@ forwardly
 freers
 farthest
 foresign
-fecklessly
+fecklessly 1
 fulcrumage
 flabrum
 firmarius
