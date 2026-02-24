@@ -1965,7 +1965,7 @@ gobans
 gauleiter
 grated
 grasser
-gulonic
+gulonic 1
 gaunch
 gangers
 gruelly
