@@ -2424,7 +2424,7 @@ doctrinarily
 distomatous
 deucing
 disintegrative
-decipherably
+decipherably 1
 damgalnunna
 drepane
 diffidently
