@@ -10976,7 +10976,7 @@ epibaterium
 eurybenthic
 endeared
 etacist
-endears
+endears 1
 eusynchite
 eurycephalic
 epiglot
