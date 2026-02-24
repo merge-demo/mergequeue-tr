@@ -15326,7 +15326,7 @@ agomphosis
 antihypophora
 acetopiperone
 autodecrements
-antispermotoxin
+antispermotoxin 1
 amphicyon
 antihistaminic
 antidogmatism
