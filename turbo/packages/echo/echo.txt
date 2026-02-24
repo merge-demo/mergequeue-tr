@@ -11921,7 +11921,7 @@ epikeia
 epithelia
 equestrienne
 ericineous
-excessively
+excessively 1
 ecole
 exocolitis
 espousals
