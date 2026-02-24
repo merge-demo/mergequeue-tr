@@ -4233,7 +4233,7 @@ deporting
 dichotomous
 digallate
 doc
-designatory
+designatory 1
 delustering
 delved
 dermatopathology
