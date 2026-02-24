@@ -6896,7 +6896,7 @@ disimmure
 decarbonylated
 deiphobus
 debussyanize
-dribble
+dribble 1
 diacetic
 distomian
 dioptases
