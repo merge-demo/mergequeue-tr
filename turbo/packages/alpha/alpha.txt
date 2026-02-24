@@ -2024,7 +2024,7 @@ apsychical
 apocope
 achalasia
 anolis
-apperceptively
+apperceptively 1
 adstringe
 achape
 acharya
