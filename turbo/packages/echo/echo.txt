@@ -789,7 +789,7 @@ exadverso
 endosulfan
 earthmaking
 exodus
-epeira
+epeira 1
 egyptians
 eurytopic
 encephalography
