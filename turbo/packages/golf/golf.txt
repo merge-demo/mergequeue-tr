@@ -6152,7 +6152,7 @@ geopony
 gagster
 geadephaga
 guinde
-gliriform
+gliriform 1
 goaltender
 grandmontine
 glaziers
