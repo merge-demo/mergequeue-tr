@@ -13226,7 +13226,7 @@ blazonry
 blushless
 boustrophedonic
 boskier
-boasters
+boasters 1
 bosn
 balneologist 1
 brinkless
