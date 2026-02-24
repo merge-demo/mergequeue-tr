@@ -19768,7 +19768,7 @@ captained
 combwise
 catapulting
 centurion
-clandestine
+clandestine 1
 castlewards
 ceraunics
 composure
