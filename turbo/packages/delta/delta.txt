@@ -8106,7 +8106,7 @@ dept
 diabolise
 diabolising
 diabolist
-detrusive
+detrusive 1
 du
 diabolization
 depilates
