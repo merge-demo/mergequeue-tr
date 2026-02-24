@@ -3846,7 +3846,7 @@ guaycuru
 gyroplane
 gatherings
 glali
-geomorphogenic
+geomorphogenic 1
 globeholder
 garnetiferous
 gulosities
