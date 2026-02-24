@@ -15260,7 +15260,7 @@ demipriest
 depressanth
 dogsleep
 dagos
-derotremate
+derotremate 1
 disoccupying
 domicile
 dal
