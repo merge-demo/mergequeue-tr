@@ -16672,7 +16672,7 @@ clotheslines
 clothesman
 crypts
 cheerful
-carbamoyl
+carbamoyl 1
 cosuitor
 culla
 chocolaty
