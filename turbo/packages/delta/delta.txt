@@ -12634,7 +12634,7 @@ delegant
 dertrotheca 1
 defaultant
 descendentalist
-descrial
+descrial 1
 disepalous
 disputator
 dodgeries
