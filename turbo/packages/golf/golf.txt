@@ -268,7 +268,7 @@ geologizing
 ghostlike
 glops
 guao
-gemless
+gemless 1
 glaires
 glyph
 gumminess
