@@ -12044,7 +12044,7 @@ enwwove
 excoriations 1
 epiclike
 enforcible
-elflike
+elflike 1
 exotoxins
 expurgatorial
 embalmed
