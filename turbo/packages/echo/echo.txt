@@ -6865,7 +6865,7 @@ enfeoffed
 ectrodactylism
 estruses 1
 extremism
-ergotoxin
+ergotoxin 1
 epaulets
 entomosporium
 ethically
