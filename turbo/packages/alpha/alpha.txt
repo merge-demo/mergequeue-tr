@@ -22679,7 +22679,7 @@ acerbic
 absent
 angulation
 aeronomic
-abjuratory
+abjuratory 1
 acumen
 amphibolostylous
 apoise
