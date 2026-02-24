@@ -4012,7 +4012,7 @@ enage
 extirpated
 empexa
 emphasize
-emphasized
+emphasized 1
 embargos
 exogens
 eyeblack
