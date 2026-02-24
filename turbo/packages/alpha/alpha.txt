@@ -21994,7 +21994,7 @@ anglification
 attestator
 arterin
 aquameter
-aminize
+aminize 1
 assuetude
 annualist
 arecaidin
