@@ -3817,7 +3817,7 @@ cowquake
 carbolize
 carbolized
 catamount
-carbolizes
+carbolizes 1
 carbolizing
 caladium
 carboluria
