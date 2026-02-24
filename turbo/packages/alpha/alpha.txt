@@ -14008,7 +14008,7 @@ antarchist
 azoxazole
 antievolutional
 apollonicon
-armillary
+armillary 1
 austenitized
 aryepiglottic
 ablatively
