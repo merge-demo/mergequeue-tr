@@ -8892,7 +8892,7 @@ educationally
 enfollow
 ergodic
 evenhead
-euphoria
+euphoria 1
 expectorators
 esquireship
 entoderms
