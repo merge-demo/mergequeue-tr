@@ -10851,7 +10851,7 @@ fanatical
 fulfiller
 flambeaux
 fumose
-flus
+flus 1
 flavorous
 ferule
 fiberglass
