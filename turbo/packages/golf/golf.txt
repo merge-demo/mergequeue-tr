@@ -4092,7 +4092,7 @@ gibbi
 grahamism 1
 gigback
 glottal
-ginkgoaceous
+ginkgoaceous 1
 gasan
 goetic
 gannetry
