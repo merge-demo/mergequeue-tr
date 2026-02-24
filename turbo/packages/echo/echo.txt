@@ -11171,7 +11171,7 @@ etuis
 elver
 extatic
 evanescible
-evanescing
+evanescing 1
 eonism
 exorbitancy
 expilation
