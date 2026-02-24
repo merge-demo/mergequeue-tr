@@ -10491,7 +10491,7 @@ gregal
 glamourousness
 genizero
 gimballed
-geyserite
+geyserite 1
 gaggers
 garbardine
 germigene
