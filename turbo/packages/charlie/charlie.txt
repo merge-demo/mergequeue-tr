@@ -12924,7 +12924,7 @@ cyaneous
 contrail
 cubs
 cyanformate
-chockful
+chockful 1
 chloropal
 cyanhydric
 cyanhydrin
