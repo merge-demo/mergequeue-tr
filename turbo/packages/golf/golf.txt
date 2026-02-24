@@ -1722,7 +1722,7 @@ garotting
 gastronosus
 gnarrs
 guanabano
-goofier
+goofier 1
 gammon
 granduncle
 glibber
