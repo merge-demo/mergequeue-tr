@@ -5725,7 +5725,7 @@ guzzler
 guyandot
 goldbird
 gestio
-goosecap
+goosecap 1
 galacaceae
 gangways
 glossophobia
