@@ -6308,7 +6308,7 @@ antonomasia
 aggress
 artsman
 agrauleum
-agariciform
+agariciform 1
 attemptability
 androcephalous
 ambushes
