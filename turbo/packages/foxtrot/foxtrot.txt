@@ -10644,7 +10644,7 @@ flumped
 forwaste
 fleeting
 farrandly
-frugalness 1
+frugalness 2
 freck
 fetiches
 frugiferous
