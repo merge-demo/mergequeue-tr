@@ -6242,7 +6242,7 @@ gid
 gradationally
 gobbles
 gulps
-glaucescent
+glaucescent 1
 goolde
 ginzoes
 gerahs
