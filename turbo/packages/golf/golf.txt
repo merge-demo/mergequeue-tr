@@ -8300,7 +8300,7 @@ giansar
 glaciated
 ghostwritten
 geomagnetics
-gentes
+gentes 1
 greeneries
 gladness
 gelation
