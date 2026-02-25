@@ -7734,7 +7734,7 @@ goasila
 gabeller
 grete
 gabbais
-gemmiferous
+gemmiferous 1
 grandaunts
 geogony
 graithly
