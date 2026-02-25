@@ -2462,7 +2462,7 @@ baniwa
 bowk
 barehead
 bridebed 1
-bisexuality
+bisexuality 1
 bogles
 bactericidal
 birchbark
