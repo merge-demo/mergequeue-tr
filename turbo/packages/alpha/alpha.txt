@@ -5036,7 +5036,7 @@ alexinic
 aerostatic
 aerostatical
 anthracin
-appertain
+appertain 1
 advancements
 androgyneity
 aerosteam
