@@ -770,7 +770,7 @@ echinal
 euomphalid
 egger 1
 ecrase
-escort
+escort 1
 extense
 eremophilous
 experimental
