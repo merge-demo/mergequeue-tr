@@ -1487,7 +1487,7 @@ dracma
 dcb
 depressure
 deaccessioning
-drawbolt
+drawbolt 1
 dingbats
 decollimate
 draughts
