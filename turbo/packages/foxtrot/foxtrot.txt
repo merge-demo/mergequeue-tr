@@ -4564,7 +4564,7 @@ frutices
 flisk
 flaunted
 fossilized
-fool
+fool 1
 feigned
 fingery
 flippance
