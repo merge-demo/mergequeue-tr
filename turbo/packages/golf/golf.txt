@@ -794,7 +794,7 @@ gutturize
 galvanothermometer
 greenhorns
 galliformes
-ginneries
+ginneries 1
 goose
 genuclast
 gracefullest
