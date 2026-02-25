@@ -10812,7 +10812,7 @@ fanned
 frayproof
 factualistic
 flue
-fubbery
+fubbery 1
 filamentoid
 fullering
 footpads 1
