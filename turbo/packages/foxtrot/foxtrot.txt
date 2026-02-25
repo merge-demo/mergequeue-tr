@@ -8153,7 +8153,7 @@ frouze
 formicinae
 faddle
 fraught
-flourishable
+flourishable 1
 fob
 furores
 flockbed
