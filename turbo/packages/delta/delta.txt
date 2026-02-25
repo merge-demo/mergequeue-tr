@@ -12908,7 +12908,7 @@ disnew
 drachmae
 drawspan
 delving
-deorientalize
+deorientalize 1
 disobeying
 delineative
 desulphuration
