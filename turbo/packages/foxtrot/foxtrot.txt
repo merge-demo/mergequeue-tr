@@ -9220,7 +9220,7 @@ fresnel 1
 flavoury
 foresentence
 fetishist
-fleuret
+fleuret 1
 fourchet
 friesic
 fruiter
