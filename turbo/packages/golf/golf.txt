@@ -6466,7 +6466,7 @@ genetic
 glaikitness
 gariba
 galvanocautery
-golly
+golly 1
 gleanings
 glucolipine
 gag
