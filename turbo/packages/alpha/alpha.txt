@@ -20825,7 +20825,7 @@ archheresy
 artotype
 annotation
 acolhua
-applicate
+applicate 1
 aligners
 artworks
 adeodatus
