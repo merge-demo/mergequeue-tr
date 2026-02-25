@@ -23597,7 +23597,7 @@ auntly
 adjust
 auntliest
 auntlike
-auntre
+auntre 1
 acidemia
 antistrophal
 auntrous
