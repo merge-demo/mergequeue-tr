@@ -1767,7 +1767,7 @@ gallic
 gapless
 grx
 guanine
-gentisein
+gentisein 1
 gossypine
 gastropulmonic
 granitic
