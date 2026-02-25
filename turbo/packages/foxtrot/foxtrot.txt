@@ -2075,7 +2075,7 @@ fanes
 floes
 fideistic
 fogle
-federalist
+federalist 1
 floriculture
 fudger
 frightened
