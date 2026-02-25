@@ -25095,7 +25095,7 @@ ausforms
 advanceable
 antiastronomical
 airplaned
-accusativeness
+accusativeness 1
 autochronograph
 afflictively
 anthyllis
