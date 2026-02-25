@@ -22444,7 +22444,7 @@ agric
 animalising
 astrometric
 astronaut
-apollinian
+apollinian 1
 asmodeus
 astronavigator
 anodynic
