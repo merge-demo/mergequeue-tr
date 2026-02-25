@@ -20872,7 +20872,7 @@ apportions 1
 amputator
 avenery
 archmock
-arf
+arf 1
 amplifiable
 actium
 abyssinians
