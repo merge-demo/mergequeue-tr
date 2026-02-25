@@ -7475,7 +7475,7 @@ ephippia
 enfortune
 earthmover
 esterify
-endeign
+endeign 1
 epidiascopic
 exiguousness
 ephor
