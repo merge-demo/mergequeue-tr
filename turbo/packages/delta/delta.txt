@@ -13663,7 +13663,7 @@ distractedness
 dolce
 def
 dissimilars
-dentaries
+dentaries 1
 dequantitate
 diedral
 dissimilate
