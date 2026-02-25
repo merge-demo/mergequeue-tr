@@ -7529,7 +7529,7 @@ demotics
 discriminational
 dividant
 disenthroned
-doyly
+doyly 1
 debits
 deuteroproteose 1
 drawout
