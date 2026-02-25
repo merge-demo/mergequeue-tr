@@ -14960,7 +14960,7 @@ dialoger
 defrauders
 doesn
 desiccatory
-doffing
+doffing 1
 demiracle
 diaphanometry
 dhikr
