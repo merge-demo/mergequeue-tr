@@ -11623,7 +11623,7 @@ discoplasm
 dostoevsky
 drachms
 damsite
-denser
+denser 1
 discursative
 discommune
 denominates
