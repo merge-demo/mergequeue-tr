@@ -12566,7 +12566,7 @@ demyship
 disinhume
 djagatay
 dorsoventral
-dvandva
+dvandva 1
 disinsure
 dotonidae
 diamonding
