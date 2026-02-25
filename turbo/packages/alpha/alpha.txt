@@ -19410,7 +19410,7 @@ androgenous
 anagogically
 apothegmatically
 argenteous
-amphorophony
+amphorophony 1
 allicins
 allowance
 auspicating
