@@ -10730,7 +10730,7 @@ gnomonological
 graille
 grittie
 gavage
-galloot
+galloot 1
 garnish
 gournard
 gagers
