@@ -14735,7 +14735,7 @@ decahedral 1
 doctorbird
 dekametre
 declinedness
-darnation
+darnation 1
 dioptrically
 dedolomitize
 docetae
