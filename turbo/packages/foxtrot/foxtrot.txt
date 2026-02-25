@@ -10913,7 +10913,7 @@ frowsty
 flivver
 fletched
 fullmouthed
-firesafeness
+firesafeness 1
 fullom
 flirtations 1
 finagler
