@@ -7961,7 +7961,7 @@ gasifiable
 golgotha
 gainer
 guttee
-globosity
+globosity 1
 glouts
 goodhap
 galleyman

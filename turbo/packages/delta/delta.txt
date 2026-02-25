@@ -2325,7 +2325,7 @@ dielike
 databases
 dissociant 1
 dehydroffrozen
-daphnid
+daphnid 1
 decadally
 devocalising
 decessit
