@@ -6588,7 +6588,7 @@ egyptianism
 expulsatory
 eructed
 execrate
-easterliness
+easterliness 1
 enteroepiplocele
 ectoloph
 eudemonistical
