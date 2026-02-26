@@ -6943,7 +6943,7 @@ demob
 dript
 despoil
 despoiled
-destroyers
+destroyers 1
 despoiler
 docketing
 disabilities
