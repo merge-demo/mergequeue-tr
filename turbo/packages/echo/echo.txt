@@ -12244,7 +12244,7 @@ enchases
 expertized
 encommon
 executrixes
-evolutionarily
+evolutionarily 1
 expounding
 extracondensed
 exegesis
