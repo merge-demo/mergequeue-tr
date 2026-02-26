@@ -562,7 +562,7 @@ fertilely
 figless
 foxwood
 faculty 1
-federative
+federative 1
 fallectomy
 forebays
 fussbudgets
