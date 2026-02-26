@@ -7140,7 +7140,7 @@ enshadow
 exoner
 episterna
 echeneidid
-effectuation
+effectuation 1
 embarment
 epistemonic
 eucaryote
