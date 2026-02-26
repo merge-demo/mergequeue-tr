@@ -8744,7 +8744,7 @@ dungannonite 1
 diatreme
 diatribe
 diaulic
-decorably
+decorably 1
 doge
 diazeutic
 dittogram
