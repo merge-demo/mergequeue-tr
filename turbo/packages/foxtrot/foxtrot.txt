@@ -3453,7 +3453,7 @@ fortunation
 forebowline
 frag
 franklinist
-forswearer
+forswearer 1
 fromwards
 flaccidly
 firmisternial
