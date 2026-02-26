@@ -8440,7 +8440,7 @@ factorized
 formatter
 father
 flong
-flunkeyite
+flunkeyite 1
 fuzztail
 formularizing
 frontierman
