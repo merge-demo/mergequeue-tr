@@ -10121,7 +10121,7 @@ emprosthotonos
 etherealness
 escherichia
 equisetum
-excused
+excused 1
 electrification
 extranean
 etabelli
