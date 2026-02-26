@@ -4694,7 +4694,7 @@ denouements
 decarbonization
 demodectic
 disarticulate
-detachably
+detachably 1
 deaved
 dromophobia
 dejected
