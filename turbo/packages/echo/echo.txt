@@ -261,7 +261,7 @@ eucalyptole
 eightsmen
 electrostatic
 enring
-encashed
+encashed 1
 electroplated
 expiries
 easterling
