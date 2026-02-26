@@ -10150,7 +10150,7 @@ finalize
 fricatives
 fluid
 frivolousness
-foray
+foray 1
 faunula
 felspathic
 felled
