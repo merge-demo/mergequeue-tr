@@ -18472,7 +18472,7 @@ diose
 dislocation
 dwt
 dupped
-dyschronous
+dyschronous 1
 detractively
 dacryoma
 dupper
