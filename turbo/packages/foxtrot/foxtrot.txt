@@ -35,7 +35,7 @@ formularize
 flintless
 furies
 fervently
-finically
+finically 1
 fellfare
 fabricators
 fabricature
