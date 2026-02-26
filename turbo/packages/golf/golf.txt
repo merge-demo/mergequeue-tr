@@ -4425,7 +4425,7 @@ gepoun
 gugu
 galtonian
 gypsyfy 1
-greedsome
+greedsome 1
 gunshot
 generically
 gristles
