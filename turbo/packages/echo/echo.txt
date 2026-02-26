@@ -13611,7 +13611,7 @@ edriophthalmian
 encyclopaedically
 electropyrometer
 expulsory
-ectad
+ectad 1
 exiledom
 extemporary
 extemporisation
