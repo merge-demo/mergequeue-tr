@@ -8673,7 +8673,7 @@ cartwheels
 coto
 chaparejos
 ciseleur
-chaparral
+chaparral 1
 chaparrals
 chaparraz
 chromatoscope
