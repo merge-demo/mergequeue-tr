@@ -11625,7 +11625,7 @@ drachms
 damsite
 denser 1
 discursative
-discommune
+discommune 1
 denominates
 disburgeon
 disappointer
