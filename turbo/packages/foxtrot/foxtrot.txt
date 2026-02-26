@@ -8704,7 +8704,7 @@ featheriest
 fortunes
 faintise
 frankfort
-forbiddable
+forbiddable 1
 flogged
 followership
 forester
