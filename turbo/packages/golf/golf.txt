@@ -5281,7 +5281,7 @@ glyconic
 grandiloquently
 glenlike
 glycopeptide
-galivant
+galivant 1
 gynecomastism
 grandevity
 globuliferous
