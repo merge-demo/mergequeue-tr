@@ -7886,7 +7886,7 @@ detractive
 distantly
 doxographer
 doh
-dewing
+dewing 1
 degrease
 discommon
 disrump
