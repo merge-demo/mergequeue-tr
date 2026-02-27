@@ -6221,7 +6221,7 @@ gladdened
 gentle
 gulpin
 gynandrarchic
-glycogenic
+glycogenic 1
 glucolipin
 galoch
 gospelly
