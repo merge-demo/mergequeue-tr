@@ -2025,7 +2025,7 @@ frogger
 fantasticly
 faineant
 feigners
-flosses
+flosses 1
 feigns
 fidleys
 flitch
