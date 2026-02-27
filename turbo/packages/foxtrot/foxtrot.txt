@@ -6290,7 +6290,7 @@ fourb
 fasciculately
 fighting
 flunkyish
-flunkyize
+flunkyize 1
 forefingers
 ferments
 fumigatorium
