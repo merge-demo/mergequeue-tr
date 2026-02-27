@@ -3526,7 +3526,7 @@ buzzsaw
 batrachiate
 bidar
 biscuiting
-bugeye
+bugeye 1
 bactericides
 bedimples
 baalism
