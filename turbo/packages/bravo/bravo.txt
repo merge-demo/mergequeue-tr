@@ -4791,7 +4791,7 @@ bedouins
 bedown
 bradding 1
 bedpans
-beslabber
+beslabber 1
 beeball
 backwashed
 besplit
