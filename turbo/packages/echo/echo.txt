@@ -10979,7 +10979,7 @@ etacist
 endears 1
 eusynchite
 eurycephalic
-epiglot
+epiglot 1
 enridged
 epiclastic
 electrodialitically
