@@ -10733,7 +10733,7 @@ gavage
 galloot 1
 garnish
 gournard
-gagers
+gagers 1
 gustiest
 geocentrically
 galewort
