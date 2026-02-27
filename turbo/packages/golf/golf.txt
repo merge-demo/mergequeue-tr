@@ -1977,7 +1977,7 @@ glairs
 gastricism
 garnishments
 giga
-gnomonical
+gnomonical 1
 gimbal
 geology
 geranic
