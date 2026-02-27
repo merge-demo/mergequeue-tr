@@ -11141,7 +11141,7 @@ fedellini 1
 fruitiness
 feverbush
 fetometry
-fishtail
+fishtail 1
 fosters
 footmarks
 furuncular
