@@ -235,7 +235,7 @@ espresso
 exhumer
 elate
 elaborative
-easer
+easer 1
 episodic
 electroluminescence
 easy
