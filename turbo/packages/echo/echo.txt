@@ -4457,7 +4457,7 @@ eumenidae
 electrotechnologist
 enhydris
 exaggerator
-extemporaneousness
+extemporaneousness 1
 eczematous
 encash
 enlightenments
