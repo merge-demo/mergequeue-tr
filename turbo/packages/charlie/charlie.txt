@@ -21673,7 +21673,7 @@ clerically
 condylure
 compriest
 chondria
-counterpressure
+counterpressure 1
 cimolite
 cobalamine
 cervicoaxillary
