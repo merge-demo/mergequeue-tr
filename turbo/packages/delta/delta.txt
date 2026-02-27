@@ -1029,7 +1029,7 @@ despumated
 dizain
 darkliest
 draffsack
-distains
+distains 1
 drabbed
 daggly
 darkskin
