@@ -18596,7 +18596,7 @@ assalto
 aulos
 adlegation
 arcading
-atomical
+atomical 1
 arctogaean
 allurer
 antitragi
