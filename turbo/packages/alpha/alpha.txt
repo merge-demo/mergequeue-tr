@@ -3671,7 +3671,7 @@ advisorily
 armeriaceae
 autodigestion
 allyls
-abnegation
+abnegation 1
 adenophorous
 abyssinian
 acephalite
