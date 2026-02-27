@@ -8888,7 +8888,7 @@ faultfinder
 funambulist
 fuddling
 footsoreness
-fourre
+fourre 1
 friedelite
 fraternizing
 fourble
