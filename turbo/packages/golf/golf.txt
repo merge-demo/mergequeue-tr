@@ -5720,7 +5720,7 @@ garbel
 grittier
 gade
 glycogenolysis
-goorals
+goorals 1
 guzzler
 guyandot
 goldbird
