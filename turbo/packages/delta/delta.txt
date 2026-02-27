@@ -1830,7 +1830,7 @@ disharmonious
 debarbarize
 daylilies 1
 debeige
-douzepers
+douzepers 1
 downwarp
 declinograph 1
 dewberry
