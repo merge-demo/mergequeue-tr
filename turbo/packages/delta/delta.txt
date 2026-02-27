@@ -799,7 +799,7 @@ dialytic
 debouching
 discussment
 debile
-daubers
+daubers 1
 delusters
 dovecote
 danegelds
