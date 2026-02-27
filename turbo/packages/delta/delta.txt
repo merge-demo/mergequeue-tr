@@ -12749,7 +12749,7 @@ dantesque
 droughtier
 dislocatory
 drivecap
-detroit
+detroit 1
 dodrans
 dupondii
 dakoits
