@@ -9956,7 +9956,7 @@ dasyatidae
 dimness
 diagonalizable
 decisiveness
-dermatographism
+dermatographism 1
 dysacousma
 disopinion
 dimoric
