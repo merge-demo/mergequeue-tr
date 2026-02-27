@@ -4109,7 +4109,7 @@ dentirostrate
 dunkers
 damner
 desipience
-durneder
+durneder 1
 dunstable
 discolorization
 dicyanogen
