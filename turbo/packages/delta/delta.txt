@@ -5900,7 +5900,7 @@ downbeats
 disconsolate
 darcy
 doctorlike
-decimetres
+decimetres 1
 doubledamn
 decimation
 deckswabber
