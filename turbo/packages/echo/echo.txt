@@ -7369,7 +7369,7 @@ epeirogenically
 erythrina
 exuviate
 exonship
-epithetical
+epithetical 1
 extollment
 everywhither
 earthmoving
