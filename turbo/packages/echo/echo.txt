@@ -12096,7 +12096,7 @@ embroche
 effervescing
 elpasolite
 empales
-excruciable
+excruciable 1
 excruciated
 eudesmol
 enframement
