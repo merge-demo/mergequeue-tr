@@ -29895,7 +29895,7 @@ crossfish
 crossflower
 crossfoot
 crosshair
-crosshand
+crosshand 1
 capillation
 cogwheel
 coadjutator
