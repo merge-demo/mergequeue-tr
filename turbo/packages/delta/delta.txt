@@ -15688,7 +15688,7 @@ dopper
 disespouse
 deflorescence 1
 dopping
-doppio
+doppio 1
 dactyloscopy
 dissipators
 daiquiris
