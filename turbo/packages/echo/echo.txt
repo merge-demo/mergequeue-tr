@@ -14195,7 +14195,7 @@ ectosome
 esthetics
 epulation
 equidistance
-exuscitate
+exuscitate 1
 estrif
 enlists
 effecters
