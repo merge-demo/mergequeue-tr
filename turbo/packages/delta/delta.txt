@@ -1973,7 +1973,7 @@ debuting
 desirable
 diarrhoeic
 diced
-dermatoma
+dermatoma 1
 drover 1
 demyelinate
 deflection
