@@ -13586,7 +13586,7 @@ extumescence
 ectadenia
 egeria
 emulation
-esoteric
+esoteric 1
 exsufflate
 exsufflation
 epithymetical
