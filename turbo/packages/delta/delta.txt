@@ -14035,7 +14035,7 @@ dumpling
 disappropriation
 disproportion
 disorb
-deterge
+deterge 1
 distractively
 dibromide
 druxiness
