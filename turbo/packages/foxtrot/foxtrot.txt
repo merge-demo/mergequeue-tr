@@ -779,7 +779,7 @@ fibroangioma
 frier
 ferv 1
 frequently
-forelouper
+forelouper 1
 fibreboard
 footbridge
 fanciless
