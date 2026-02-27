@@ -13569,7 +13569,7 @@ empanoply
 embroidery
 exsibilation
 evadable
-exsiccant
+exsiccant 1
 exsiccatae
 elucidate
 exsiccating
