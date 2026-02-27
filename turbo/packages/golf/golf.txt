@@ -8183,7 +8183,7 @@ geometricize
 grandfatherless
 gestative
 gooseneck
-govern
+govern 1
 graphemically
 gris
 gasconading
