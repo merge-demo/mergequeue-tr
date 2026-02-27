@@ -9292,7 +9292,7 @@ flane
 fewmets
 fromward
 ferromagnesian
-feasten
+feasten 1
 frangulic
 flichter
 flashlights
