@@ -538,7 +538,7 @@ grandmammy
 grandsirs
 germanium
 galvanotonic
-gurian
+gurian 1
 gallera
 glossodynamometer
 gesneriaceae
