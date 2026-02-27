@@ -17872,7 +17872,7 @@ debutante
 destituteness
 dysmenorrhagia
 desentimentalize
-doctrine
+doctrine 1
 durationless
 dishmaking
 dueled
