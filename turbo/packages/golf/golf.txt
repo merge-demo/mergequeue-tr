@@ -10150,7 +10150,7 @@ giddyish
 gothite
 gloried
 glideness
-guardianly
+guardianly 1
 git 1
 gingely
 grandstands
