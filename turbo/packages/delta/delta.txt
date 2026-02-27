@@ -15717,7 +15717,7 @@ diadermic
 doria
 demiturned
 disour
-disgig
+disgig 1
 dacryocystocele
 doricism
 dorylinae
