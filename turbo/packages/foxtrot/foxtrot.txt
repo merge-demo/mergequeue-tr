@@ -706,7 +706,7 @@ fanatico
 forzandos
 fobs
 familism
-firebolted
+firebolted 1
 farmstead
 forenotion
 ferromagnetic
