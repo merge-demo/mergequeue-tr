@@ -10580,7 +10580,7 @@ auguration
 acast
 armorial
 aniellidae
-aristides
+aristides 1
 antihypnotic
 ameliorativ
 amidoplast
