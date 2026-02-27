@@ -8038,7 +8038,7 @@ entertaining
 embezzlements
 enteroscope
 enray
-ealdormen
+ealdormen 1
 epiphanous 1
 expiator
 epigrammatizer
