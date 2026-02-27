@@ -1112,7 +1112,7 @@ exsanguinated
 encatarrhaphy
 ejectee
 estragon
-enarm
+enarm 1
 elemental
 endopterygotic
 epacts
