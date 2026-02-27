@@ -1160,7 +1160,7 @@ gery
 goninidia
 gastrogastrotomy
 genin
-gassier
+gassier 1
 genio
 groundwood
 ghanaians
