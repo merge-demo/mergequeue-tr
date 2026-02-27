@@ -2706,7 +2706,7 @@ fusain
 frigged
 fleuronne 1
 filmish
-fetation
+fetation 1
 fraternization
 forelimbs 1
 fyce
