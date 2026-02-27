@@ -1915,7 +1915,7 @@ diandrian 1
 disapprobations
 dinophilus
 deferments
-desire 1
+desire 2
 durocs
 dawsonite
 deaccession
