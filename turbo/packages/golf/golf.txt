@@ -713,7 +713,7 @@ gals
 galtrap
 gurgly
 gianthood
-gastroenterologically
+gastroenterologically 1
 guebucu
 glossographical
 gimbawawed
