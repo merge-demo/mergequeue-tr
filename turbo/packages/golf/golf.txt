@@ -10069,7 +10069,7 @@ gratia
 gigabits
 guillotiner
 gibblegable
-gossampine
+gossampine 1
 guerrillas
 griseofulvin
 guesdism
