@@ -7699,7 +7699,7 @@ averroistic
 actualise
 arthrolith
 administrants
-albumenize
+albumenize 1
 aquilino
 alcoholometric
 antitaxation
