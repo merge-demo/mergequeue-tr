@@ -18320,7 +18320,7 @@ autotomised
 augen
 archsaint
 arraigner
-adenasthenia
+adenasthenia 1
 aripple
 arachnean
 aurocyanide
