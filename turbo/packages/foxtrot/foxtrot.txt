@@ -1156,7 +1156,7 @@ fidelis
 figworm
 flax
 fatally
-feebleminded
+feebleminded 1
 feller
 figeaters
 flyblows
