@@ -4302,7 +4302,7 @@ flamethrower
 fluxive
 fruticous
 funditor
-fructiferousness
+fructiferousness 1
 fretworked
 foddering
 fauces
