@@ -6075,7 +6075,7 @@ catoptric
 canaan
 calvatia
 clippable
-catoptrically
+catoptrically 1
 curtise
 catoptrite
 catoptromantic
