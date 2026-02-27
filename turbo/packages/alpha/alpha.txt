@@ -7174,7 +7174,7 @@ alabastrian
 alabastrine 1
 aortographic
 acutish
-ascenders
+ascenders 1
 awane
 apogees
 acidness
