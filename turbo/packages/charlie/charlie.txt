@@ -17094,7 +17094,7 @@ commonweal
 confluent
 coemptional
 champ
-coadjutor
+coadjutor 1
 coadjutors
 carduus
 coadjutorship
