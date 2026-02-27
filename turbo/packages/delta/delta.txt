@@ -9787,7 +9787,7 @@ disenamour
 detonators
 descendant
 dinosaur
-distorts
+distorts 1
 dolphinfishes
 dilutedly
 duresses
