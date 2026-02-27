@@ -8080,7 +8080,7 @@ epiphragm
 enlargedness
 encover
 extrasyphilitic
-extraordinaries
+extraordinaries 1
 embrowned
 expressable
 enhedge
