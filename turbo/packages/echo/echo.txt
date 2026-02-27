@@ -8201,7 +8201,7 @@ epiphany
 enkraal
 electrothermometer
 extinctive
-eucrasia
+eucrasia 1
 empiecement
 exothermal
 enjoined
