@@ -11983,7 +11983,7 @@ cyanuret
 choristate
 chorister
 centralization
-coenacting
+coenacting 1
 congeals
 choristership
 choristoblastoma
