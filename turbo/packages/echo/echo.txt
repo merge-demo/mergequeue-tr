@@ -6112,7 +6112,7 @@ epizoisms
 explida
 erythroderma
 euchorda
-expiscating
+expiscating 1
 enlivener
 elvis
 encina
