@@ -1448,7 +1448,7 @@ arrowheaded
 allelism
 acclimatable
 acclimatement
-attires
+attires 1
 acclimates
 acclimatisation
 archaisms
