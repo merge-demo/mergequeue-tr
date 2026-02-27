@@ -2100,7 +2100,7 @@ greatening
 guerillaism
 geobotanist
 galvanizer
-gerontes
+gerontes 1
 ginglmi
 gelndesprung
 gynostegia
