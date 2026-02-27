@@ -9069,7 +9069,7 @@ floridly
 floozies
 fr
 falling
-flintlike
+flintlike 1
 furdle
 funambulated
 faulkner

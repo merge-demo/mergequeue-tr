@@ -1833,7 +1833,7 @@ debeige
 douzepers 1
 downwarp
 declinograph 1
-dewberry
+dewberry 1
 doorstead
 doughnut
 debellator
