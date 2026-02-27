@@ -3930,7 +3930,7 @@ agglutinin
 adjudicative
 aerostats
 alphean
-antistrophically
+antistrophically 1
 adjudicators
 aversely
 aphidian
