@@ -11482,7 +11482,7 @@ conoidally
 choristoma
 coheads
 circularizer
-choirman
+choirman 1
 conspirers
 counterflux
 colonizations
