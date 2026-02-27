@@ -3266,7 +3266,7 @@ algebraize
 acutance
 anankes
 amyloids
-acutances
+acutances 1
 anisoptera
 adornos
 acute
