@@ -20363,7 +20363,7 @@ acidproof
 antilogistically 1
 arsenofuran
 antipsoric
-apologizing
+apologizing 1
 afterdamp
 arsenolite
 aphidious
