@@ -10552,7 +10552,7 @@ dislikes
 disequilibrium
 duteously
 discoblastula
-deafens
+deafens 1
 dafla
 diploe
 disbalancement
