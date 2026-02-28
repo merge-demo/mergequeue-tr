@@ -19484,7 +19484,7 @@ appestat
 argive
 anoperineal
 arlene
-argle
+argle 1
 astir
 abjure
 arglebargle
