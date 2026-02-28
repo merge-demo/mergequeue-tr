@@ -721,7 +721,7 @@ demoniacs
 danced
 diddled
 degasification
-dihedrals
+dihedrals 1
 dancers
 disleaving
 decreeing
