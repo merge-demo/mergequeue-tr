@@ -13742,7 +13742,7 @@ decoct
 diaclinal
 disannex
 dissogeny
-doomful
+doomful 1
 departmentalize
 dissogony
 downrushing
