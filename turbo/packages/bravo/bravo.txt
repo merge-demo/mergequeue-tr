@@ -9268,7 +9268,7 @@ belitter
 bumbee
 brookie
 bipaschal
-biped
+biped 1
 bipedal
 beggared
 bogo
