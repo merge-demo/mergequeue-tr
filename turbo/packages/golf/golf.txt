@@ -2532,7 +2532,7 @@ gigmania
 goloe
 gained
 guessive
-generalise
+generalise 1
 gynandrous
 glorifying
 gallfly
