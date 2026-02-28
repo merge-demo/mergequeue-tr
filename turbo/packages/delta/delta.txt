@@ -11922,7 +11922,7 @@ disembarked
 demephitize
 duskish
 dietetical
-draftee
+draftee 1
 dephosphorization
 disembarking
 dishware
