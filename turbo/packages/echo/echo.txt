@@ -10627,7 +10627,7 @@ enmoss
 excavate
 endozoa
 eques
-enharmonical
+enharmonical 1
 enchilada
 eudemonistic
 enfacement
