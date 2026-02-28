@@ -9496,7 +9496,7 @@ forested
 forfear 1
 founts
 flask
-foveate
+foveate 1
 fishmeals
 fermenter
 freckle
