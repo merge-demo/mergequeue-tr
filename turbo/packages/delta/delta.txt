@@ -4711,7 +4711,7 @@ demodulating
 designless
 dwaibly
 deaconing
-dodecatylic
+dodecatylic 1
 deair
 disseizor
 diagonalize
@@ -16962,7 +16962,7 @@ drearily
 dogeless
 dreariness
 deamidate
-doz
+doz 1
 dunkard
 dazedness
 domus
