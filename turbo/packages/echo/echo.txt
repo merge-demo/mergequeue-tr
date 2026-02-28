@@ -7973,7 +7973,7 @@ enterocholecystostomy
 evolutionary
 epineurium
 enclaving
-ergotinine
+ergotinine 1
 endostea
 eczematization
 eupraxia
