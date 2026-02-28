@@ -7052,7 +7052,7 @@ friary
 foolish
 frontad
 ferryboats
-fascinating
+fascinating 1
 fleapit
 fusional
 fingerstall
