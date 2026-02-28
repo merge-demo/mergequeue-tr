@@ -1263,7 +1263,7 @@ bequeaths
 barrowful
 bulleting
 berascals
-bendy
+bendy 1
 barleys
 bottomer
 brimmed
