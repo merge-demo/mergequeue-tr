@@ -6771,7 +6771,7 @@ granogabbro
 gregarinida
 gonococcocci
 gonopore
-gonocoele
+gonocoele 1
 gerontologist
 gt
 gonof
