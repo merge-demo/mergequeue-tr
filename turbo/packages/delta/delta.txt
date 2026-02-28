@@ -3344,7 +3344,7 @@ darer
 deflecting
 deflectionize
 dampnesses
-deforesting
+deforesting 1
 daphnaceae
 diamante
 diacetyl
