@@ -5409,7 +5409,7 @@ emigrants
 empathetic
 eightsman
 example
-elsewhither
+elsewhither 1
 electronvolt
 ergotization
 endowment
