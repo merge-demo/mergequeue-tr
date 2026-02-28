@@ -21794,7 +21794,7 @@ akey
 audiologist
 alchemist 1
 aglow
-assertor
+assertor 1
 abelmusk
 adiantiform
 antipatheticalness
