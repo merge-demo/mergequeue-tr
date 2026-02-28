@@ -7801,7 +7801,7 @@ flittered
 fruitwood
 fidgetiness
 feedstuffs 1
-figulated
+figulated 1
 forepaws
 flingdust
 foveolets
