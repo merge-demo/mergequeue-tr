@@ -1056,7 +1056,7 @@ flopper
 felspathose
 floricomous
 fringillidae
-foraging
+foraging 1
 fastigiately
 faro
 fluoridization
