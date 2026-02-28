@@ -3789,7 +3789,7 @@ dubitative
 dolose
 discreate
 dimwit
-defoams
+defoams 1
 diviningly
 deciduous
 dicellate
