@@ -25119,7 +25119,7 @@ chatillon
 connotes
 chirotherium
 coinstantaneous
-corequisite
+corequisite 1
 corer
 collinsonia
 coughers
