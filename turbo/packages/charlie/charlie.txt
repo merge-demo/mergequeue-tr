@@ -11486,7 +11486,7 @@ choirman 1
 conspirers
 counterflux
 colonizations
-choirmasters
+choirmasters 1
 cornaceous
 charthouse
 classmen
