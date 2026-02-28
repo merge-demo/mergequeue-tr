@@ -1175,7 +1175,7 @@ acanonical
 acanthaceous
 aeacus
 applauses
-adjustor
+adjustor 1
 afrete
 acanthia
 apocryphally
