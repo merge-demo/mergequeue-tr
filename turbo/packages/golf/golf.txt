@@ -4300,7 +4300,7 @@ golfdom
 gravitated
 garterless
 glittersome
-ganancial
+ganancial 1
 glycogeny
 gashy
 gutlike 1
