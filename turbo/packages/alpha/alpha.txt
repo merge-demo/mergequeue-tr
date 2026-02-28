@@ -14912,7 +14912,7 @@ abassi
 anticlimax
 attroupement
 abret
-anticlines
+anticlines 1
 anticlinoria
 amphigouri
 anticlinorium
