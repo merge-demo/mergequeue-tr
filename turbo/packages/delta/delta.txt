@@ -6112,7 +6112,7 @@ derfly
 deric
 disbosomed
 deady
-doppler
+doppler 1
 deriders
 distribute
 detractress
