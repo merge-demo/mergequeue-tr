@@ -12966,7 +12966,7 @@ entotic
 empurple
 enchafe
 enhardy
-examines
+examines 1
 enfeeble
 erythrol
 expectation
