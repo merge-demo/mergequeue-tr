@@ -5562,7 +5562,7 @@ afterreckoning
 audiotypist
 auxofluor
 andiroba
-absolute
+absolute 1
 amphibrach
 allomerism
 attentat
