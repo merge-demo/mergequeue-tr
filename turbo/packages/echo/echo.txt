@@ -3771,7 +3771,7 @@ edulcorate
 enamellist
 earlyish 1
 elegiacs
-embruting
+embruting 1
 embubble
 eschatology
 embulk
