@@ -21817,7 +21817,7 @@ apparencies
 alloeotic
 asses
 appetibility
-auguries
+auguries 1
 aenigma
 anionics
 antimethod
