@@ -707,7 +707,7 @@ eromania
 encephalolith
 employing
 enspell
-equidistant
+equidistant 1
 eidently
 enode
 eyefuls
