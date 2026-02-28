@@ -3957,7 +3957,7 @@ gamari
 germanish 1
 galvanograph
 gteau
-geared
+geared 1
 girlishness
 guttula
 gildable
