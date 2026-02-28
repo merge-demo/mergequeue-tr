@@ -16988,7 +16988,7 @@ adorned
 americanizer
 abanet
 apneumona
-apneumonous
+apneumonous 1
 agrammatical
 apneusis
 apnoea
