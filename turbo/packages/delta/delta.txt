@@ -11025,7 +11025,7 @@ disincarcerate
 disannuls
 disembay
 diagnosticating
-diplopterous
+diplopterous 1
 disapparel
 docility
 descriptive
