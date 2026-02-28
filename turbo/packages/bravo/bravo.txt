@@ -4300,7 +4300,7 @@ bifocals
 burgonet
 bioclimatologist
 beaverism
-bistoury
+bistoury 1
 bitypic
 bellipotent
 beriming
