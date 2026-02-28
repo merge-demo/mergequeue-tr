@@ -10100,7 +10100,7 @@ gatehouse
 gekkonoid
 gonfaloniership
 gasoscope
-goalage
+goalage 1
 glottid
 gazetteer
 gonystylus
