@@ -9028,7 +9028,7 @@ erythroblast
 echinulation 1
 evertor
 electromyographic
-eurychoric
+eurychoric 1
 erythroblastic
 expertism
 extrafoliaceous
