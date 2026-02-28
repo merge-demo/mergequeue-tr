@@ -10136,7 +10136,7 @@ embaying
 epinastic
 enunciating
 exacerbations
-exheredation
+exheredation 1
 emballonurid
 eupion
 exemplifier
