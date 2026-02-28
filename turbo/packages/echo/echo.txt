@@ -4834,7 +4834,7 @@ erysimum
 ecize
 exhalate
 extracurricular
-equitable
+equitable 1
 exulding
 encouraged
 estrous
