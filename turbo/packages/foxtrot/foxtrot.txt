@@ -1257,7 +1257,7 @@ fama
 favella
 forevouch 1
 femalize
-fatuate
+fatuate 1
 footles
 fearful
 flatten
