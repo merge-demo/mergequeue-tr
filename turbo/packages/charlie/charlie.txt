@@ -19074,7 +19074,7 @@ carbin
 collins
 collinses
 circumterraneous
-cristate
+cristate 1
 chaptrel
 collinsite
 colliquable
