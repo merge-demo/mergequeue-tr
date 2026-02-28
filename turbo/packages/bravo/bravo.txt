@@ -12110,7 +12110,7 @@ biddy
 bokom
 bolag
 bosey
-bolas
+bolas 1
 bedell
 bartsia
 balmacaan
