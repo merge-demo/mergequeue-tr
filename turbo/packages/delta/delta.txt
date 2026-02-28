@@ -16034,7 +16034,7 @@ dinophyceae
 dezincification
 devilmonger
 dodgeful
-diminishable
+diminishable 1
 dropsied
 doubloon
 doublures 1
