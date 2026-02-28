@@ -3050,7 +3050,7 @@ flowerfly
 finances 1
 festology 1
 fooler
-feroce
+feroce 1
 fishtails
 flitter
 flakeboard 1
@@ -11270,7 +11270,7 @@ fondon
 funny
 fundamentality
 flagellants
-frumaryl
+frumaryl 1
 filibusterer
 fenks
 forrit
