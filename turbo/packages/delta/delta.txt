@@ -9099,7 +9099,7 @@ dispunct
 dichoptic 1
 dyslexias
 didelphidae
-discursive
+discursive 1
 dingdong
 disweapon
 dredging
