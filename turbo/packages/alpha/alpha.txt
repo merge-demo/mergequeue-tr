@@ -12495,7 +12495,7 @@ annihilability
 autodermic
 asphyxy
 animalia
-admensuration
+admensuration 1
 algesis
 armchairs
 abarambo
