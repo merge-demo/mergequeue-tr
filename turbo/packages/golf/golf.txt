@@ -6326,7 +6326,7 @@ gastrotrich
 gimmer
 given
 getspace
-goldspink
+goldspink 1
 glimmered
 gunmetals
 glucosone
