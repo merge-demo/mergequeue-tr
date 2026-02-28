@@ -4266,7 +4266,7 @@ filiate
 fatiguability
 fulsomely
 ferdwit
-foreshortens
+foreshortens 1
 fendable
 flunkyism
 fastuous

@@ -6156,7 +6156,7 @@ gliriform 1
 goaltender
 grandmontine
 glaziers
-gushiness
+gushiness 1
 graddan
 guides
 genecologist
