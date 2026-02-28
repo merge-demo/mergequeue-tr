@@ -2471,7 +2471,7 @@ greasy
 gnomonology
 gimble
 gonopodial
-gemmology
+gemmology 1
 globality
 gnathidium
 girt
