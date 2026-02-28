@@ -14935,7 +14935,7 @@ blastemal
 beknotting
 butterflylike
 breastbeam
-bungerly
+bungerly 1
 bitthead
 burgh
 breaster
