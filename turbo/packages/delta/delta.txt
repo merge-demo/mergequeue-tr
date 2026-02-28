@@ -493,7 +493,7 @@ dispermy
 defoliant
 disrupter
 dozily
-daleths
+daleths 1
 dislustering
 doodle
 dalf
