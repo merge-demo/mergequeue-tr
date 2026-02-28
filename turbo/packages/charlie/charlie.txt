@@ -460,7 +460,7 @@ cadaster
 cadasters
 cadastral 1
 cadastration
-cadastres
+cadastres 1
 cadaver
 capronic
 cadaverin
