@@ -2888,7 +2888,7 @@ gratingly
 geobotanic 1
 grievants
 gustation
-gradualism
+gradualism 1
 gumpheon
 gomlah
 globulite
