@@ -10786,7 +10786,7 @@ alevins
 acool
 anthophorous
 amire
-anthracometric
+anthracometric 1
 amyris
 amyrol
 amyroot
