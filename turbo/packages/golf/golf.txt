@@ -6277,7 +6277,7 @@ gigartinaceous
 globigerinae
 gunmen
 gargantua
-gauster
+gauster 1
 globetrotters
 geochemists
 geophysics
