@@ -11104,7 +11104,7 @@ disinherits
 derv
 disassociate
 disassociates
-dimerize
+dimerize 1
 dorlach
 doupioni
 disastrous
