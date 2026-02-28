@@ -5468,7 +5468,7 @@ glucinum
 goetia
 grumblers
 grummest
-gasher
+gasher 1
 gastropoda
 glossophora
 gustier
