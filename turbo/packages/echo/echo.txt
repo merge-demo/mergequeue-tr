@@ -4491,7 +4491,7 @@ embryophyta
 encephalographic
 ekphorize
 episematic
-earlock
+earlock 1
 enamelling
 earthpeas
 epicure
