@@ -5049,7 +5049,7 @@ gilten
 guernseyed
 glareproof
 griskin
-gantlines
+gantlines 1
 grainsmen
 grenadine
 goldeneye
