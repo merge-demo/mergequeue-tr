@@ -17399,7 +17399,7 @@ anthraconecrosis
 assemblee
 antifideism
 astrean
-allay
+allay 1
 aestivated
 antalkali
 alhambresque
