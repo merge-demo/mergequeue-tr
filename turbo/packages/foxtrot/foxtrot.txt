@@ -5806,7 +5806,7 @@ foredone
 filariid
 faunlike
 floatage
-farmeries
+farmeries 1
 fayal
 feverously
 fluochloride
