@@ -1961,7 +1961,7 @@ falcata
 femaleness
 flowerlike
 festshrifts
-forbite
+forbite 1
 formalistically
 forecaster
 fothergilla
