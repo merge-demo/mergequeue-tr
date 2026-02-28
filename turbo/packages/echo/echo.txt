@@ -12187,7 +12187,7 @@ exacervation
 excogitation
 enflame
 entrechats
-emanated
+emanated 1
 embrighten
 emerized
 excelse
