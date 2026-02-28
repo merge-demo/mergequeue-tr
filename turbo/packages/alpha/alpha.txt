@@ -18047,7 +18047,7 @@ antipodean
 archimandrites
 aprioristically
 atrazines
-acrologies
+acrologies 1
 aggressors
 appraisement
 aproctous
