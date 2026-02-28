@@ -6584,7 +6584,7 @@ echinorhynchus
 esperantidist
 embank
 enseam
-egyptianism
+egyptianism 1
 expulsatory
 eructed
 execrate
