@@ -2445,7 +2445,7 @@ atrochal
 arbitry
 archaizing
 alone
-arisings
+arisings 1
 acknowledged
 adoxography
 aconic
