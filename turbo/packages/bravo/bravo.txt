@@ -8347,7 +8347,7 @@ bewrayer
 besnuff
 bigeminies
 betelnuts
-boers
+boers 1
 bourtrees
 bureaucratically
 bigeminum
