@@ -11041,7 +11041,7 @@ decarbonylate
 disappearer
 diamagnetically
 deedy
-denumerability
+denumerability 1
 decernment
 demulsification
 disappendant
