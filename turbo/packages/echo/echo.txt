@@ -459,7 +459,7 @@ extended
 endoconidium
 extorsion
 extrasensorial
-ecclesiastics
+ecclesiastics 1
 encup
 expositionary
 explants
