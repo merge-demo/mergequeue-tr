@@ -9937,7 +9937,7 @@ deener
 diminutive
 dimiss
 deindustrialization
-dimissaries
+dimissaries 1
 dimitry
 decamped
 demoiselle
