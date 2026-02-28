@@ -7909,7 +7909,7 @@ gnomically
 gentilization
 gey
 gladded
-gallantly
+gallantly 1
 goodwillie
 grandads
 goracco
