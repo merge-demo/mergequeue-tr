@@ -4385,7 +4385,7 @@ foretop
 froward
 formulaic
 frumpily
-factually 1
+factually 2
 fearers
 fraus 1
 fealties
