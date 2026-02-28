@@ -17088,7 +17088,7 @@ atomic
 apodemas
 autogamy
 asportation
-apodematal
+apodematal 1
 alcibiadean
 abstinence
 apodiabolosis
