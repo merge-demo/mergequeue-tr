@@ -4363,7 +4363,7 @@ adsorbed
 adsorbent
 austrogaean
 apparels
-anachronistically
+anachronistically 1
 alcae
 adenoids
 agaristidae
