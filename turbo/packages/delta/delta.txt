@@ -4132,7 +4132,7 @@ discabinet
 denigrators
 dicyclica
 discharger
-deadlatch
+deadlatch 1
 deloo
 dodecylic
 decocted
