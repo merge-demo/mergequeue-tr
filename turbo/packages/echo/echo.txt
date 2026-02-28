@@ -5620,7 +5620,7 @@ enfigure
 excitable
 egalitarianism
 ensconcing
-extispicy
+extispicy 1
 echinoderes
 elevational
 epitritic
