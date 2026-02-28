@@ -1324,7 +1324,7 @@ caliburn
 choledochitis
 crewless
 cravatted
-crab
+crab 1
 costliest
 contrist
 cesarolite
