@@ -10198,7 +10198,7 @@ biopsychologies
 battue
 boltheads
 bigamous
-beatitudes
+beatitudes 1
 browsers
 blackcaps
 biscayan
