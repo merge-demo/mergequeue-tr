@@ -4039,7 +4039,7 @@ grasshop
 grasped
 glucolipid
 gimel
-gobernadora
+gobernadora 1
 glossier
 gol
 gegenschein

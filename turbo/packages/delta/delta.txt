@@ -14751,7 +14751,7 @@ diauli
 demiwivern
 downcasts
 decrepitating
-dispending
+dispending 1
 deceptional
 delimitative
 diazide
