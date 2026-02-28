@@ -11654,7 +11654,7 @@ criniger
 chollas
 choller
 chameleonize
-claries
+claries 1
 corruptness
 cholo
 chaver
