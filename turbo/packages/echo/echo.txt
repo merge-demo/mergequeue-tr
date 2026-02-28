@@ -9907,7 +9907,7 @@ eprosy
 exhaustively
 envelopers
 emmensite
-earthnuts
+earthnuts 1
 enterritoriality
 ephedrin
 eduskunta
