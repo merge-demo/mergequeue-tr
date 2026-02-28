@@ -10436,7 +10436,7 @@ dismiss
 drowsy
 duumvirs
 deglutitive
-distortion
+distortion 1
 droits
 denaturate
 diphtherian
