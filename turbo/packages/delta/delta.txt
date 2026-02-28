@@ -7745,7 +7745,7 @@ devisees
 deoxygenate
 disastimeter
 dogmatization
-deadweight
+deadweight 1
 deviser
 devising
 direption
