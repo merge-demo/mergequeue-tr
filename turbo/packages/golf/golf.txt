@@ -7763,7 +7763,7 @@ galivanted
 guessers
 girnal
 glacial
-gunung
+gunung 1
 grainiest
 gifted
 guardee
