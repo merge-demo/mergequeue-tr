@@ -10792,7 +10792,7 @@ deckles
 dhan
 demoralizingly
 directly
-deceptivity
+deceptivity 1
 deviscerate
 dispartment
 dixies
