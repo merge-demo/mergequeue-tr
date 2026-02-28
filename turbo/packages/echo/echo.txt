@@ -11115,7 +11115,7 @@ embanked
 eutrophication
 externalised
 expiating
-eutropous
+eutropous 1
 entanglingly
 entry
 enjambments
