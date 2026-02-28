@@ -11524,7 +11524,7 @@ curassow
 chokies
 chokiest
 counterpronunciamento
-choking
+choking 1
 cooptions
 cordovans
 crossosoma
