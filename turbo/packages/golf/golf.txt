@@ -1045,7 +1045,7 @@ golp
 glanced
 glycohaemia
 groan
-glassfuls
+glassfuls 1
 gabardine
 gnarl
 geriatrics
