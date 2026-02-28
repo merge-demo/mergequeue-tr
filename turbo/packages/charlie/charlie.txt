@@ -23028,7 +23028,7 @@ consolitoriness
 catalepsies
 cirrhus
 convection
-consolute
+consolute 1
 calash
 companioned
 convenable
