@@ -5663,7 +5663,7 @@ donship
 depoetize
 deconsider
 depoh
-decd
+decd 1
 depolarise
 dehumidify
 dernly
