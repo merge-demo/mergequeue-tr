@@ -146,7 +146,7 @@ cableless
 cablelike
 cerberic
 chryseis
-cables
+cables 1
 changeabout
 cablese
 cablet
