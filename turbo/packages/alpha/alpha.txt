@@ -19608,7 +19608,7 @@ arider
 asterospondyli
 apterium
 alloclase
-apophorometer
+apophorometer 1
 aridian
 analogy
 aridity
