@@ -2372,7 +2372,7 @@ futures 1
 footganger 1
 fetial
 fortunetellers
-friendlier
+friendlier 1
 frondage
 feriation
 falsedad
