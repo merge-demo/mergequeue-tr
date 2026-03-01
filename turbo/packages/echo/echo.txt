@@ -9781,7 +9781,7 @@ entrepot
 exfoliated
 equalisation
 ejectamenta
-extenuator
+extenuator 1
 envermeil
 emplanement
 extracellular
