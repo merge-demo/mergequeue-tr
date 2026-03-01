@@ -2088,7 +2088,7 @@ campanile
 colloquiquiums
 cyclist
 campaniliform
-cornuate
+cornuate 1
 chicayote
 campanini
 casseroled
