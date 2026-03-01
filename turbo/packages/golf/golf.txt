@@ -6673,7 +6673,7 @@ guaiol
 geotactic
 girderage
 glycolyl
-geer
+geer 1
 gride
 graphitic
 gigs
