@@ -3839,7 +3839,7 @@ fungistat
 flavanthrene
 forjudging
 favous
-fimbriating
+fimbriating 1
 farcer
 frizette
 forewarm
