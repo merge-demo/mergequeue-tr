@@ -2832,7 +2832,7 @@ formalizable
 fisty
 finable
 foresails
-fungid
+fungid 1
 familistery
 fortuned
 fettered
