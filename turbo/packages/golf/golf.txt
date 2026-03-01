@@ -1190,7 +1190,7 @@ geonic
 gig
 glabrescent
 grinned
-gezerah
+gezerah 1
 guejarite
 gutturalize
 galipine
