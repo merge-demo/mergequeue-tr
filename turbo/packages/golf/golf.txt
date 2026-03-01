@@ -6206,7 +6206,7 @@ gelfomino
 goave
 greats
 gormandizing
-gregorianizer
+gregorianizer 1
 gob
 ghole
 gadslid
