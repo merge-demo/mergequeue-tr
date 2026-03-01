@@ -6651,7 +6651,7 @@ diascopy
 deadhead
 desiderata
 digamists
-declivitously
+declivitously 1
 disagreement
 dreyfusist
 dissentiously
