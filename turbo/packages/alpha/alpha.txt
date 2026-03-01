@@ -15932,7 +15932,7 @@ ascensor
 andantes
 antiquarianize
 anachronism
-antiquaries
+antiquaries 1
 americas
 amylase
 aromatise
