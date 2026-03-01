@@ -6448,7 +6448,7 @@ burely
 barfy
 benzonitrile
 behedge
-benzophenothiazine
+benzophenothiazine 1
 bestayed
 betting
 bewake
