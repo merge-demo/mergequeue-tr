@@ -1195,7 +1195,7 @@ esthiomenus
 espathate
 enlute
 educationist
-eurypyga
+eurypyga 1
 embolum
 excommune
 endogamic
