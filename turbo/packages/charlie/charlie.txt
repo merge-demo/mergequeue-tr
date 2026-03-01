@@ -30388,7 +30388,7 @@ claughting
 charted
 cresotinic
 crustalogy
-crustalogical
+crustalogical 1
 crustalogist
 cyrenaic
 crustated
