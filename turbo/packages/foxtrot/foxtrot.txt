@@ -11036,7 +11036,7 @@ fumiest
 fluoroscope
 foreknow
 frivolist
-fossilizes
+fossilizes 1
 fillets
 fumigated
 fuseboard

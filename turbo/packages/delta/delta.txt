@@ -1078,7 +1078,7 @@ dysoxidizable
 depolarization
 defluxion
 datiscaceae
-dhyal
+dhyal 1
 declivitous
 divisibleness
 dads
