@@ -3164,7 +3164,7 @@ dictums
 doricize
 dasyures
 dashpot
-defeit
+defeit 1
 de
 dogdom
 deciding
