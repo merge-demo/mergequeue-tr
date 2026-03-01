@@ -9273,7 +9273,7 @@ electropism
 esdras
 erred
 errhines
-encyclopedize
+encyclopedize 1
 extraclassroom
 erron 1
 empathies
