@@ -9065,7 +9065,7 @@ fantasias
 fortifies
 fielded
 fleeceflower
-floridly
+floridly 1
 floozies
 fr
 falling
