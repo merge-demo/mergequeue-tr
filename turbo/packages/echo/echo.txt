@@ -1328,7 +1328,7 @@ extenuating
 exuberate
 euphuistical
 effectuous
-endostracum
+endostracum 1
 epigastrical
 effeir
 eriocomi
