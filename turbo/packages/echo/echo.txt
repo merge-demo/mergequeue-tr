@@ -7429,7 +7429,7 @@ ebulliate
 endogenously
 extraperiodic
 exercise
-elohimic
+elohimic 1
 enfile
 erratical
 ecchondrotome
