@@ -22760,7 +22760,7 @@ consecrative
 columnarized
 cloison
 caligraphy
-conscience
+conscience 1
 canalete
 canoeiro
 condivision
