@@ -6119,7 +6119,7 @@ gauche
 goadsman
 grihastha
 genovino
-gazetteers
+gazetteers 1
 goal
 griffithite
 galactophore
