@@ -15042,7 +15042,7 @@ deposals 1
 dioptrics
 disbutton
 decnet
-drysalteries
+drysalteries 1
 doggers
 dilogarithm
 dentonasal
