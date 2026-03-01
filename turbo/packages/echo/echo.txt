@@ -5097,7 +5097,7 @@ endopathic
 exited
 endoclinal
 eternals
-endocoelar
+endocoelar 1
 emerse
 eupanorthidae
 ectozoan
