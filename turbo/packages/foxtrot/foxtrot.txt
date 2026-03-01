@@ -249,7 +249,7 @@ febrifuge
 florigenic
 founder
 feoffeeship
-forebitten
+forebitten 1
 foetors
 faders
 firedamp
