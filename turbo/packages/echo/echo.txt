@@ -2186,7 +2186,7 @@ emissitious
 elderliness
 exponentiated
 expect
-enamor
+enamor 1
 enchurch
 eliminating
 epimyocardial
