@@ -15856,7 +15856,7 @@ diplohedron
 dorsothoracic
 diablotin
 ddt
-discoursed
+discoursed 1
 dialdehyde
 dismalize
 devilship
