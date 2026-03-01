@@ -15743,7 +15743,7 @@ antiperistalsis
 antiperistatic
 acridines
 antiperspirant
-agileness
+agileness 1
 antiperspirants
 acronycal
 anterolaterally
