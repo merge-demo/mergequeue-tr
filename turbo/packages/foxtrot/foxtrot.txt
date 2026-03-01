@@ -130,7 +130,7 @@ facsimiled
 footfeed
 falser
 fracturable
-frigidaria
+frigidaria 1
 fifthly
 fellaheen
 fulgurate
