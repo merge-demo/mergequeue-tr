@@ -1450,7 +1450,7 @@ geophagous
 glossagra
 ghenting
 grossart
-generical
+generical 1
 grillages
 griffinish
 glamouring
