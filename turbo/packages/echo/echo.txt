@@ -492,7 +492,7 @@ endocrinologists
 explorer
 exceptionally
 epigrammatarian
-ethnographies
+ethnographies 1
 efoliose
 effeminated
 ecesic

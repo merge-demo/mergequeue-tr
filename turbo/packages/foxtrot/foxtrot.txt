@@ -1018,7 +1018,7 @@ falisci
 factorability
 forweend
 flashes
-fluorapatite
+fluorapatite 1
 feeblest
 forehook
 foglietto
