@@ -8050,7 +8050,7 @@ gaslightness
 geomagnetism
 ghain
 genealogic
-genteelish
+genteelish 1
 gesning
 granivore
 gasconader
