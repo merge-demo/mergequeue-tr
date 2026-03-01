@@ -3199,7 +3199,7 @@ elops
 elicit
 emission
 empanelment
-epiphanized
+epiphanized 1
 everything
 extruding
 embioptera
