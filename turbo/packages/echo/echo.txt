@@ -5360,7 +5360,7 @@ epidermatoid
 ensnow
 emarginate
 enuresises
-erogeny
+erogeny 1
 extradotal
 earldoms
 eryhtrism
