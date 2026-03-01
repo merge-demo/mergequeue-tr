@@ -5830,7 +5830,7 @@ electrovalency
 exfoliation
 erlkings
 epicele
-extrinsic
+extrinsic 1
 eluants
 engrafter
 exibilate
