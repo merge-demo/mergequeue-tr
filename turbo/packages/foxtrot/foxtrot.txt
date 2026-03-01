@@ -8376,7 +8376,7 @@ futhark
 frivol
 fluoroscopes
 fullerboard
-felloe
+felloe 1
 folksy
 formalesque
 foistiness
