@@ -1579,7 +1579,7 @@ favelidium
 fourteenth
 funning
 froufrous
-frugalities
+frugalities 1
 fortyfold
 flights
 farcelike
