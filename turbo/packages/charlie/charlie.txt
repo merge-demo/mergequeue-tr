@@ -24429,7 +24429,7 @@ coop
 crozer
 cooped
 cooperage
-cooperate
+cooperate 1
 cooperated
 cooperates
 carapaxes
