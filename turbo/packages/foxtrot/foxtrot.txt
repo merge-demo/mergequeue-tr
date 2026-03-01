@@ -5812,7 +5812,7 @@ feverously
 fluochloride
 fattening
 faulds
-fervidly
+fervidly 1
 firepower
 fermate
 fierasfer
