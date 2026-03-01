@@ -5140,7 +5140,7 @@ foretooth
 floccular
 fellifluous
 freezable
-froom
+froom 1
 furoid
 flatlands
 fiberized
