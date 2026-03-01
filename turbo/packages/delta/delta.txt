@@ -17442,7 +17442,7 @@ deskill
 dermatographic
 declare
 dendrochronologically
-damascener
+damascener 1
 diagrammatician
 dentiroster
 devitrified
