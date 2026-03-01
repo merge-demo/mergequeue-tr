@@ -3813,7 +3813,7 @@ degeneration
 deipnophobia
 disembarkations
 dilutes
-disprized
+disprized 1
 dannemorite
 deathfully
 doer
