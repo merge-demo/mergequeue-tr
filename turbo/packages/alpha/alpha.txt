@@ -24701,7 +24701,7 @@ avers
 aversant
 adults
 avertable
-antivenefic
+antivenefic 1
 arabs
 avertiment
 averts
