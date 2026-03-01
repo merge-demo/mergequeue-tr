@@ -14121,7 +14121,7 @@ consciencelessness
 crisscrossing
 coxalgies
 concentricity
-catatonia
+catatonia 1
 circulators
 circulus 1
 circumambiency
