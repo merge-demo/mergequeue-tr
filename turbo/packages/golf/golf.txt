@@ -9061,7 +9061,7 @@ gherkin
 gentlehood
 gasiform
 grinch
-grovellings
+grovellings 1
 goldwork
 geoid
 garotte
