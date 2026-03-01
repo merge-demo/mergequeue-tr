@@ -9997,7 +9997,7 @@ frijole
 freyja
 frightening
 footprint 1
-forewarner
+forewarner 1
 foreshroud
 framableness
 fenceless
