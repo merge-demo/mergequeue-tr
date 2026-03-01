@@ -10072,7 +10072,7 @@ gibblegable
 gossampine 1
 guerrillas
 griseofulvin
-guesdism
+guesdism 1
 groomish
 gigman
 glore
