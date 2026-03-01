@@ -1923,7 +1923,7 @@ fixure
 feminities
 foamless
 furtherance 1
-feteritas
+feteritas 1
 federalistic
 forksful
 freight
