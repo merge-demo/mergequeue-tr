@@ -952,7 +952,7 @@ expulser
 embalming
 evader
 entailments
-euchrone
+euchrone 1
 effronteries
 erythroblastotic
 enhearse
