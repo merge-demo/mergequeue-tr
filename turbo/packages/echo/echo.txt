@@ -11851,7 +11851,7 @@ extancy
 elutes
 exceeded
 excelente
-evanescent
+evanescent 1
 eland
 excellencies
 eucre
