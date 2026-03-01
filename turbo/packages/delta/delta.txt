@@ -4002,7 +4002,7 @@ domicil
 dismissible
 delicatessen
 dustoor
-dominance
+dominance 1
 delice
 dualistic
 dogcarts
