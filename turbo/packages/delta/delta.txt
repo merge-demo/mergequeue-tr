@@ -12186,7 +12186,7 @@ disfranchises
 drosophilae
 depel
 deride
-discoursiveness
+discoursiveness 1
 deliquesce
 dwarfish
 dovecots
