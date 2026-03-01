@@ -4808,7 +4808,7 @@ frostbiter
 foggy
 fibrinuria
 fumish
-fracticipita
+fracticipita 1
 faunus
 flinthead
 franchisers
