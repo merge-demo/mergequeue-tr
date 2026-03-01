@@ -9339,7 +9339,7 @@ cartograph
 chauvin
 close
 catery
-coelacanth
+coelacanth 1
 countertree
 chauvinism
 chauvinist
