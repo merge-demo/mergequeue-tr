@@ -11437,7 +11437,7 @@ ferrated
 frowstiest
 fettering
 forebemoaned
-founte
+founte 1
 fortunetell
 fallibleness 1
 formfeed
