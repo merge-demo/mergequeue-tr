@@ -13228,7 +13228,7 @@ exheredate
 excluders
 exoarteritis
 exanthalose
-explanted
+explanted 1
 explanting
 eaglehawk
 explat
