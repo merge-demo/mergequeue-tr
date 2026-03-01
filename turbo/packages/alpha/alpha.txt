@@ -15713,7 +15713,7 @@ antipathize
 antiinsurrectionally
 amorino
 aggravatingly
-antipatriarch
+antipatriarch 1
 antipatriarchy
 apimania
 aurinasal
