@@ -8590,7 +8590,7 @@ destroying
 doormaking
 driftland
 dewan
-decimator
+decimator 1
 driller
 dispunitive
 donatio
