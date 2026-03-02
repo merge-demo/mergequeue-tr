@@ -5937,7 +5937,7 @@ frailly
 fivepins 1
 futileness
 fallibility
-fortunite
+fortunite 1
 floodlit
 fibromembrane
 floods
