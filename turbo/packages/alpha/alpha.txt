@@ -2909,7 +2909,7 @@ alvus
 advenient
 aplacentalia
 allege
-ameristic
+ameristic 1
 alice
 assaultive
 autotuberculin 1
