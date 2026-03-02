@@ -2536,7 +2536,7 @@ blueblack
 beslash 1
 buenos
 bassetite
-bottonhook
+bottonhook 1
 buckler
 barguest
 barguests
