@@ -3592,7 +3592,7 @@ guanylic 1
 granilla
 goglets
 glottalize
-gigantal
+gigantal 1
 gld
 gasworks
 grouching
