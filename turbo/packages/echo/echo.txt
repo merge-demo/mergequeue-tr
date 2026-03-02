@@ -9137,7 +9137,7 @@ ethnoses
 epitela
 expirable
 enlargements
-entwining
+entwining 1
 endosiphuncle
 eggbeaters
 elegise
