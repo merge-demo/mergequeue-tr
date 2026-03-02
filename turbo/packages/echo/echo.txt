@@ -9002,7 +9002,7 @@ elenchical
 enterokinesia
 enormious
 erythemas
-earing
+earing 1
 eunuchized
 etiolize
 equiponderous
