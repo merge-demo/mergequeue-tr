@@ -2014,7 +2014,7 @@ equisonant
 expiatory
 endodontist
 eradiculose
-elixate
+elixate 1
 elabrate 1
 endocrinotherapy
 epigaea
