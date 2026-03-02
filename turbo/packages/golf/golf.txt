@@ -8479,7 +8479,7 @@ geomorphological
 geotectonically
 guardian
 geognostical
-gulpers
+gulpers 1
 ginglymus
 gluttoness
 grouchingly
