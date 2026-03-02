@@ -14965,7 +14965,7 @@ demiracle
 diaphanometry
 dhikr
 disconsonancy
-drearisomely
+drearisomely 1
 dragonkind
 dogal
 deflocculator
