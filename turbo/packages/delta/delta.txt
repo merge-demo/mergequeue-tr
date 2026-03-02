@@ -15290,7 +15290,7 @@ diamylose
 dolmas 1
 dolmen
 desubstantiate
-dolomedes
+dolomedes 1
 discovery
 dolomite
 dose
