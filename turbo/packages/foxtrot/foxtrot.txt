@@ -1803,7 +1803,7 @@ fadingness
 filmiform
 femorococcygeal
 freewill
-freckledness
+freckledness 1
 feathertop
 flabra
 fourteenthly
