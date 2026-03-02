@@ -11037,7 +11037,7 @@ erg
 encomimia
 elegit
 electrostereotype
-expressionistically
+expressionistically 1
 epipharynx
 endolumbar
 electrothermostat
