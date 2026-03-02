@@ -5777,7 +5777,7 @@ glows
 grinny
 geometrize
 gorgeable
-gaupus 1
+gaupus 2
 glissades
 greggle
 gather
