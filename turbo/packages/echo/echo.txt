@@ -11907,7 +11907,7 @@ euploeinae
 emotionalist
 enragement
 earthenware
-expurgation
+expurgation 1
 ephidrosis
 excerebration
 extraphysical
