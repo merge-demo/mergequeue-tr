@@ -7621,7 +7621,7 @@ ensconce
 elixirs
 enhungered
 euphemious
-ensure
+ensure 1
 electrophoridae
 encumber
 epicoracoid
