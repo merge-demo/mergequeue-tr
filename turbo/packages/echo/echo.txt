@@ -11619,7 +11619,7 @@ exacerbatingly
 expulses
 enjoinment
 enddamaged
-eavesdropping
+eavesdropping 1
 eutechnic
 exactable
 exactas
