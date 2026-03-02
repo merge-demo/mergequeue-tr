@@ -3338,7 +3338,7 @@ damnum
 ditremidae
 defleas
 downlinks
-dichotomic
+dichotomic 1
 disinhuming
 darer
 deflecting
