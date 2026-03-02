@@ -3309,7 +3309,7 @@ gauderies
 geostrophically
 goldenmouth
 gobio
-gimbaled
+gimbaled 1
 gullion
 genethliacism
 gl
