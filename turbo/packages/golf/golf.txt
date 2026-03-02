@@ -1043,7 +1043,7 @@ geodist
 grasp
 golp
 glanced
-glycohaemia
+glycohaemia 1
 groan
 glassfuls 1
 gabardine
