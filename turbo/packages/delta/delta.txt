@@ -3833,7 +3833,7 @@ dictature
 dissect
 disp
 dyscrasite
-deerdog
+deerdog 1
 demihogshead
 damone
 deityship
