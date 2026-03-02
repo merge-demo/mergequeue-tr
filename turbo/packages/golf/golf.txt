@@ -9477,7 +9477,7 @@ gynophoric
 grandrelle
 gravitations
 grouper
-garnisheing
+garnisheing 1
 guzerat
 grisbet
 gecking
