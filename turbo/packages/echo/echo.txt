@@ -2460,7 +2460,7 @@ ethanol
 electrogalvanization
 equivalence
 electrogenic
-epiphysitis
+epiphysitis 1
 electrogild
 eudemonia
 embracers
