@@ -10639,7 +10639,7 @@ anamnesis
 aftershine 1
 acidifier
 aminated
-amygdule
+amygdule 1
 affirmative
 amigos
 appertaining
