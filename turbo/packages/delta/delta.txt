@@ -6780,7 +6780,7 @@ desmanthus
 disleafing
 decayed
 discoidal
-desmidiology
+desmidiology 1
 dandyishy
 dethroner
 diorthotic
