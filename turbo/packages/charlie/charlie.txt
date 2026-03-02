@@ -26268,7 +26268,7 @@ condylopod
 cokeney
 coxopodite
 clutters
-costellate
+costellate 1
 costermonger
 costicartilage
 costicartilaginous
