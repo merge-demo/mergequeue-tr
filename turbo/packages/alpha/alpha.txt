@@ -14771,7 +14771,7 @@ anticensorial
 atomically
 amusee
 ammonitish
-achor
+achor 1
 antidromal
 anticensorious
 aerodynamical
