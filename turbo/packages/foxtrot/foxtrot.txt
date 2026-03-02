@@ -5643,7 +5643,7 @@ friend
 fawe
 fragility
 fibrine
-freckles
+freckles 1
 funeration
 forbearant
 finite
