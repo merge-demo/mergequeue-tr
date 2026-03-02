@@ -13738,7 +13738,7 @@ delit
 directoire
 defluous 1
 deadlihead
-decoct
+decoct 1
 diaclinal
 disannex
 dissogeny
