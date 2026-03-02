@@ -10626,7 +10626,7 @@ ganga
 glendale
 geronto
 girns
-glimmerous
+glimmerous 1
 grillades
 gambette
 gossipries
