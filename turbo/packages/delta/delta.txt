@@ -12103,7 +12103,7 @@ deescalates
 dorbie 1
 disparager
 delusion
-dognaps
+dognaps 1
 dysesthesia
 deferential
 dorine
