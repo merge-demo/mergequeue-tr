@@ -6170,7 +6170,7 @@ gardener
 glacialism
 geomyidae
 guahibo
-glyptodontidae
+glyptodontidae 1
 grimacier
 goatfishes
 gigmanic
