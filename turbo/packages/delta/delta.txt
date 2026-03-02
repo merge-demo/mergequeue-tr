@@ -948,7 +948,7 @@ dorsoabdominal
 deserters
 darby
 diapnoic
-dependantly
+dependantly 1
 decerp
 dumpers
 deaned
