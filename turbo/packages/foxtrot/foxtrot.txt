@@ -5216,7 +5216,7 @@ fuse
 flav
 flavanilin
 fiscals
-flavescence
+flavescence 1
 folkcraft
 fingall
 flytrap
