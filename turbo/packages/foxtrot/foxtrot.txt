@@ -36,7 +36,7 @@ flintless
 furies
 fervently
 finically 1
-fellfare
+fellfare 1
 fabricators
 fabricature
 figurette
