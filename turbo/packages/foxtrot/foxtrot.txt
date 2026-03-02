@@ -11325,7 +11325,7 @@ fleabite
 faultfinding
 fluoroscopic
 fossilogist
-favorability
+favorability 1
 freebees
 frontozygomatic 1
 flathat
