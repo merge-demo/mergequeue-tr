@@ -508,7 +508,7 @@ emphyteusis
 echelle
 exhibitant
 electrosurgeries 1
-extraphenomenal
+extraphenomenal 1
 evocated
 estate
 entosphenal
