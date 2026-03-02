@@ -6416,7 +6416,7 @@ edgeweed
 ecotypic
 exceptioner
 exarchy
-exhalants
+exhalants 1
 eastering
 exsanguinate
 egbert
