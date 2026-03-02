@@ -917,7 +917,7 @@ extravagated
 exarillate
 efreet
 ensisternal
-ericales
+ericales 1
 equipping
 endowments
 empalers
