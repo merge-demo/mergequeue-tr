@@ -7466,7 +7466,7 @@ eclectist
 extricated
 eryx
 ephialtes
-encipherments
+encipherments 1
 excusal
 ebenaceae
 enif
