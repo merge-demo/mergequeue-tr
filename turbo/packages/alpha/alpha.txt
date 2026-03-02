@@ -24571,7 +24571,7 @@ auxotox
 auxotroph
 aul
 auxotrophy
-absinthiate
+absinthiate 1
 anchietine
 agedly
 aimable
