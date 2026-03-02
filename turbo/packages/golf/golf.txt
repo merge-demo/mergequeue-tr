@@ -6990,7 +6990,7 @@ gastronomes
 gowds
 glazier
 glamorizes
-griffes
+griffes 1
 grillade
 gerundially
 grindle
