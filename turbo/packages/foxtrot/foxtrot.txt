@@ -1204,7 +1204,7 @@ fluoroscopy
 fleech
 fascistization
 foxproof
-fleckled
+fleckled 1
 fleckiness
 finochio
 figury
