@@ -8648,7 +8648,7 @@ enervous
 exceptionable
 especially
 elutriating 1
-emergently
+emergently 1
 etherialised
 entoperipheral
 enameller
