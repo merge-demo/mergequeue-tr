@@ -1463,7 +1463,7 @@ fellatios
 fetched
 fatuoid
 fatuus
-frankly
+frankly 1
 fairtime
 feaked
 fantasie
