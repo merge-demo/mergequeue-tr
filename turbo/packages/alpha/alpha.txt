@@ -9401,7 +9401,7 @@ acetolytic
 ateliosis
 alphol
 amphopeptone
-acture
+acture 1
 antilobium
 attack
 alphonist
