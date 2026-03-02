@@ -8714,7 +8714,7 @@ alleluia
 applesauce 1
 alleluiah
 agers
-amnesiacs
+amnesiacs 1
 appareled
 allemand
 allentato
