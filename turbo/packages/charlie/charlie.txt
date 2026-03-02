@@ -5584,7 +5584,7 @@ cladocerans
 catalo
 cataloes
 cataloged
-character
+character 1
 cariousness
 centi
 crochet
