@@ -5346,7 +5346,7 @@ fuzzines 1
 fleams
 fittier
 flossflower
-futuristic
+futuristic 1
 fraughting
 feedbin
 fettles
