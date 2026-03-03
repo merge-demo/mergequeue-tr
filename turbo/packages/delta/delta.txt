@@ -3544,7 +3544,7 @@ diatonous
 degener
 depredations
 dripping
-dextrogyre
+dextrogyre 1
 dinosauric
 degenerate
 desulphurizer
