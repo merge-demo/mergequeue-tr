@@ -7900,7 +7900,7 @@ graphitoidal
 granary
 greases
 glecoma
-gunating
+gunating 1
 gesith
 gaberloonie
 gooseberries
