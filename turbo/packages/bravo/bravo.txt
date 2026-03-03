@@ -5922,7 +5922,7 @@ babylonish
 bluer
 blackman
 basified
-beggardom
+beggardom 1
 bretons
 butterbur
 bastide
