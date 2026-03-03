@@ -11131,7 +11131,7 @@ frizzed
 frostbit
 fearlessness
 fisticuffs
-franca
+franca 1
 fetidly
 farads
 forecarriage
