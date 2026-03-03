@@ -2854,7 +2854,7 @@ expatiative
 evanid
 eleusinia
 explicantia
-envenomization
+envenomization 1
 emasculator
 effortfully
 eventognath
