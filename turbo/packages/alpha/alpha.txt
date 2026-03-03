@@ -13971,7 +13971,7 @@ arblast
 algist
 apronlike 1
 aclidian
-antagonists
+antagonists 1
 antagonization
 aclu
 antiempiricism
