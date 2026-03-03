@@ -5319,7 +5319,7 @@ eringoes
 epipodia
 epicycles
 endoskeletons
-endosmic
+endosmic 1
 embaphium
 emendicate
 epencephalic
