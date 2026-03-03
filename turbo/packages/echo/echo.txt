@@ -9744,7 +9744,7 @@ eastlings
 entotrophi
 entitles
 epitomisation
-equisonance
+equisonance 1
 everyplace
 eddo
 enneahedron
