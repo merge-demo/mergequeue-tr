@@ -17754,7 +17754,7 @@ cytoderm
 condog
 cocuyo
 cocullo
-cocurator
+cocurator 1
 coviello
 cocurricular
 cocuswood
