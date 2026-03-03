@@ -3693,7 +3693,7 @@ facebread
 fillies 1
 families 1
 feetless
-foalfoot
+foalfoot 1
 forwake
 flaccidities
 fillings
