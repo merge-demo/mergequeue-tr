@@ -2085,7 +2085,7 @@ comdg 1
 condoles
 crunchier
 campanile
-colloquiquiums
+colloquiquiums 1
 cyclist
 campaniliform
 cornuate 1
