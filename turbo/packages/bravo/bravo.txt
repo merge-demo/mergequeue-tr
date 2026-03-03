@@ -14109,7 +14109,7 @@ bitts
 bald
 bombycidae
 boffin
-brachydont
+brachydont 1
 brachydontism
 brachyfacial
 brachyglossal
