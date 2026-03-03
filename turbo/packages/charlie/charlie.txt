@@ -2928,7 +2928,7 @@ chorioids
 condylos
 crappy
 cantdog
-compensatively
+compensatively 1
 cantefable
 childlier
 currawong
