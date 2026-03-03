@@ -8270,7 +8270,7 @@ fraps
 foxglove
 fosterage
 faultiness
-freestyler
+freestyler 1
 fusspots
 forepole
 fountaining
