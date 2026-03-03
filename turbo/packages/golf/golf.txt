@@ -5654,7 +5654,7 @@ gibbously
 glaciometer
 glossies
 glossiest
-gybed
+gybed 1
 garrison
 glossinas 1
 glowflies
