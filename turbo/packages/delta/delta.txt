@@ -15932,7 +15932,7 @@ dotation
 dictate
 digammic 1
 discoid
-dotchin
+dotchin 1
 dau
 dote
 distasting

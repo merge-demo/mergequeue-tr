@@ -8033,7 +8033,7 @@ forepost
 fessing
 falbala
 forestral
-foolfishes
+foolfishes 1
 forestries
 frigidoreceptor
 firebrats
