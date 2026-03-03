@@ -3157,7 +3157,7 @@ aloelike
 auchenia
 actipylea
 activate 1
-apologete
+apologete 1
 autocatalytically
 aromatophore
 amphogenic
