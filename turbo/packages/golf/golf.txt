@@ -3411,7 +3411,7 @@ goldenrod
 gers
 gliffs
 gershonite
-grandiosely
+grandiosely 1
 gertie
 geggery
 glamourize
