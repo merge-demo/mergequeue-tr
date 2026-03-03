@@ -1492,7 +1492,7 @@ ethicalness
 endosiphonate
 enervative
 equippers
-estivate
+estivate 1
 elytrigerous
 ebbs
 eclegme
