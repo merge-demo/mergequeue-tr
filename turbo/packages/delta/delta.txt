@@ -17986,7 +17986,7 @@ dhal
 diverticulum
 dispersedly
 dulce
-disquietedly
+disquietedly 1
 desulphurising 1
 dulcetly
 debtful
