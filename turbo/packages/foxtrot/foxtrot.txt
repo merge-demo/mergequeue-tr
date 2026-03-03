@@ -10523,7 +10523,7 @@ forays
 flyback
 federalizations
 fortuities
-flees
+flees 1
 frotton
 fum
 fumelike
