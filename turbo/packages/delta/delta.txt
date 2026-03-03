@@ -10071,7 +10071,7 @@ defraudation
 debruised
 disquiets
 dieties
-dentistries
+dentistries 1
 deodar
 dynast
 deaminating
