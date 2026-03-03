@@ -4658,7 +4658,7 @@ deprivals
 devi
 disremember
 demobilising
-democracy
+democracy 1
 diploneural
 diethylaminoethanol
 democracies
