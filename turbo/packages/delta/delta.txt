@@ -3842,7 +3842,7 @@ deixis
 decreases
 diduce
 desilicated
-deja
+deja 1
 dejection
 devested
 derivation 1
