@@ -4128,7 +4128,7 @@ foisted
 ferrosilicon
 freeheartedly
 fireback
-fumeuses
+fumeuses 1
 frogleaf
 fulk
 felonry
