@@ -18540,7 +18540,7 @@ duridine
 durity
 dekalitre
 durmast 1
-dirging
+dirging 1
 durndest
 duny
 disharmonizing
