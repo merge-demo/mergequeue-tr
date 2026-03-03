@@ -5589,7 +5589,7 @@ forfar
 fucuses
 federal
 frontonasal
-forensal
+forensal 1
 flageolet
 fascicled
 formerness
