@@ -10496,7 +10496,7 @@ frosty
 frictionable
 feuillet
 fantasticality
-frostily
+frostily 1
 fluorate
 fordid
 flegm
