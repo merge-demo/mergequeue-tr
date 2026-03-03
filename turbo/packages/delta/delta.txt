@@ -2506,7 +2506,7 @@ declaratorily
 deaminate
 drain
 dotted
-diabantite
+diabantite 1
 disregarder
 dimers
 dudgen
