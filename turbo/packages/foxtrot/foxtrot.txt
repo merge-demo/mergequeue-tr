@@ -5670,7 +5670,7 @@ factional
 facilitator
 flyovers
 flype
-funiculi
+funiculi 1
 forkmen 1
 federalizing
 foreknowable
