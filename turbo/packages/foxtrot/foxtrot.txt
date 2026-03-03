@@ -10147,7 +10147,7 @@ frivolling
 feasibility
 falchions
 finalize
-fricatives
+fricatives 1
 fluid
 frivolousness
 foray 1
