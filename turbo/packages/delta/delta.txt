@@ -10261,7 +10261,7 @@ demonograph
 dioicousness
 diolefins
 diomate
-discoglossoid
+discoglossoid 1
 dibucaine 1
 delightingly
 dearly
