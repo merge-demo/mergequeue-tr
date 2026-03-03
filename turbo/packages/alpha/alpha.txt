@@ -5038,7 +5038,7 @@ aerostatical
 anthracin
 appertain 1
 advancements
-androgyneity
+androgyneity 1
 aerosteam
 arised
 aerotaxis
