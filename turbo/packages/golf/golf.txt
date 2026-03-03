@@ -10330,7 +10330,7 @@ gabari
 gravemaster
 geogonical
 grammaticism
-greenwax
+greenwax 1
 gelatinigerous
 grapestalk
 gnattiest
