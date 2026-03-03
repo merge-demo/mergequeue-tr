@@ -22172,7 +22172,7 @@ apetalousness
 astriferous
 archeology
 asthenolith
-acopic
+acopic 1
 asthenology
 anabaptistry
 asthenophobia
