@@ -12928,7 +12928,7 @@ chockful 1
 chloropal
 cyanhydric
 cyanhydrin
-citron
+citron 1
 citrean
 cyanid
 collects
