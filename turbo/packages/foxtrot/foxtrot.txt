@@ -2613,7 +2613,7 @@ folkfree 1
 ferruginating
 fearfuller
 fulful
-flashly
+flashly 1
 factionally
 framesmith
 fibrinogenic
