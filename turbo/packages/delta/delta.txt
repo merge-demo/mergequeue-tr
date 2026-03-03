@@ -16156,7 +16156,7 @@ doo
 desecrate
 deoxygenize
 drewite
-devisal
+devisal 1
 dovening
 dayworker
 disasinate
