@@ -13799,7 +13799,7 @@ collery
 cinerin
 cinerous
 correllation
-cingalese
+cingalese 1
 corrupted
 cynghanedd
 catalysis
