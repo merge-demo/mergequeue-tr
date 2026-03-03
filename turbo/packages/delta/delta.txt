@@ -9538,7 +9538,7 @@ diglottist
 duumvir
 diallists
 demasculinised
-disgruntled
+disgruntled 1
 degamis
 dischargers
 dignifiedly
