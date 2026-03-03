@@ -3429,7 +3429,7 @@ caprifole
 caprifoliaceae
 caprifolium
 capriform
-caprylic
+caprylic 1
 cymene
 caprylyl
 coat
