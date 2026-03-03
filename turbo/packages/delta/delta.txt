@@ -7459,7 +7459,7 @@ detur
 deturpate
 demurity
 dopster
-downtowner
+downtowner 1
 deuced
 dizenment
 deuces
