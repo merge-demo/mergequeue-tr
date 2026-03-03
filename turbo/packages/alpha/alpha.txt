@@ -9777,7 +9777,7 @@ androkinin
 ahluwalia
 alethiological
 antipyresis
-amoving
+amoving 1
 amah
 amahuaca
 assoil
