@@ -13897,7 +13897,7 @@ acromyotonia
 asiatize
 anorexia
 abranchialism
-abreact
+abreact 1
 aerobium
 anseis
 anselm
