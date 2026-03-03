@@ -3507,7 +3507,7 @@ falcones
 fastigiate
 futtock
 fusicladium
-foehns
+foehns 1
 filamentar
 fleetingly
 figures
