@@ -2895,7 +2895,7 @@ cacaos
 cantabile
 chloralum
 clothesmonger
-chalcis
+chalcis 1
 cantabrian
 cantabrigian
 cuprites
