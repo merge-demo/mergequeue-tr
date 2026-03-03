@@ -9386,7 +9386,7 @@ erythrolitmin
 eventail
 embosoms
 embolies
-eucleid
+eucleid 1
 ebdomade
 extensionalism
 enantiobiosis
