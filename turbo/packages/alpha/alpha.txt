@@ -19251,7 +19251,7 @@ aerosiderolite
 aliners
 awabi
 adventurish
-arduousness
+arduousness 1
 apathia
 astrocaryum
 ardurous
