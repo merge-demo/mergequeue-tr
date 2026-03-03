@@ -6442,7 +6442,7 @@ elvira
 ensorceled
 encephalometer
 epicondylitis
-earfuls
+earfuls 1
 exercisable
 ensorcellment
 encumberment
