@@ -17747,7 +17747,7 @@ anecdotalist
 appositely
 applicative
 ammunition
-applicatively
+applicatively 1
 applicatory
 appliedly
 allegorized
