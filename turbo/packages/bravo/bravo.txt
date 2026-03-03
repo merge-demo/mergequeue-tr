@@ -10505,7 +10505,7 @@ barrelhead
 brimborium
 bedeafens
 boatlike
-blarneys
+blarneys 1
 bullbird
 bridgetree
 blarny
