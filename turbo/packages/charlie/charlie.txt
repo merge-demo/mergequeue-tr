@@ -6366,7 +6366,7 @@ cribbers
 cilantro
 cautery
 catherine
-cauteries
+cauteries 1
 cauterisation
 cauterise
 collision
