@@ -8240,7 +8240,7 @@ expectancies
 entoloma
 emperil
 ecclesiologic
-enjoying
+enjoying 1
 entozoa
 epigenist
 exulcerate
