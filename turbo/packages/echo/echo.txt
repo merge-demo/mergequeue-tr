@@ -12076,7 +12076,7 @@ escheator
 endued
 engulfs
 edentates
-enantiomorphism
+enantiomorphism 1
 expressor
 easels
 emblazonry
