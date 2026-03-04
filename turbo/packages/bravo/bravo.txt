@@ -8473,7 +8473,7 @@ bilalo
 beaverette
 bocage
 bonspell
-balolo
+balolo 1
 bleareye
 bittium
 bilaminar
