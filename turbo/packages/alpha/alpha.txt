@@ -20466,7 +20466,7 @@ archchaplain
 apotropaic
 arbela 1
 antimilitaristically
-aerogenous
+aerogenous 1
 atechnic
 altisonous
 arterialize
