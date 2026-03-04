@@ -3515,7 +3515,7 @@ gangues
 garmentworker
 ganglions
 gymnorhina
-geomagnetist 1
+geomagnetist 2
 grugru
 grinded
 geo
