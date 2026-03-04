@@ -12340,7 +12340,7 @@ elric
 exertions
 enurny
 eseptate
-equilobate
+equilobate 1
 eupepsies
 endotracheal
 edgeling
