@@ -1572,7 +1572,7 @@ factable
 flautino
 fleuronee
 foochow
-freaking
+freaking 1
 favelas
 ferr
 favelidium
