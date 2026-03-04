@@ -8549,7 +8549,7 @@ forninst
 fricative
 flexor
 fornix
-fanegada
+fanegada 1
 flocculus
 freehold
 fainters 1
