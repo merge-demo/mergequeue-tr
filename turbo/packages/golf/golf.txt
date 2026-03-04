@@ -939,7 +939,7 @@ glycaemia
 grumousness
 gawkishness
 gatewise
-gymnophobia
+gymnophobia 1
 guelphism
 greedy
 germal
