@@ -10762,7 +10762,7 @@ feminized
 fanciness
 furfuramid
 frustratory
-focuses
+focuses 1
 felup
 fomentation
 fleeing
