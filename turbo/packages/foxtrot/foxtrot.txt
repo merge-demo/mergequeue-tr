@@ -5028,7 +5028,7 @@ ferries
 fumatory
 forekeel
 fragrance
-faconne
+faconne 1
 fulmarus
 flapdock
 familiarized
