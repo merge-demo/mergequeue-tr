@@ -24292,7 +24292,7 @@ achafe
 autophon
 aftertaste
 althaein
-ablepsy
+ablepsy 1
 anciennete
 apolysin
 anthrasilicosis
