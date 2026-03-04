@@ -335,7 +335,7 @@ epirogenic
 eagerer
 expatiater
 exoduses
-exigible
+exigible 1
 eaten
 eighty
 enchantment
