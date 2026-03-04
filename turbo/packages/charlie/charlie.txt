@@ -3538,7 +3538,7 @@ colation
 captation
 caption
 captioned
-convenably
+convenably 1
 captioning
 captiousness
 captivance
