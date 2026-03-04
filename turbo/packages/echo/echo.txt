@@ -6405,7 +6405,7 @@ enlargers
 ensiling
 ensilist
 exceptions
-ensilver
+ensilver 1
 ensisternum
 eye
 earthling
