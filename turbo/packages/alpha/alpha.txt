@@ -16000,7 +16000,7 @@ astor
 antireducer
 amygdaloncus
 acetones
-authoritative
+authoritative 1
 autotrophically
 antireflexive 1
 antireligion
