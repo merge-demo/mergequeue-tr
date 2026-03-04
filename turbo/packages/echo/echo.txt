@@ -7848,7 +7848,7 @@ enlaces
 eosines
 endopsychic
 electrion
-emancipating
+emancipating 1
 epigrammatic
 electrifiable
 epigrammatically
