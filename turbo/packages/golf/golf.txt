@@ -7175,7 +7175,7 @@ gipsyesque
 gaditan 1
 greenthumbed
 geotectonics
-guidingly
+guidingly 1
 gynecol
 gape 1
 gorgosaurus
