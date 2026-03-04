@@ -9339,7 +9339,7 @@ escapage
 eruptible
 eruption
 eruptional
-ellen 1
+ellen 2
 eruptive 1
 extortioner
 essoinee
