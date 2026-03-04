@@ -18307,7 +18307,7 @@ cogging
 coggledy
 cogitate
 combed
-cogglety
+cogglety 1
 culdee
 coggly
 coghle
