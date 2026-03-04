@@ -14330,7 +14330,7 @@ anthesterin
 anthicidae 1
 arthroplastic
 amercements
-anthills
+anthills 1
 anthine
 amnesic
 anthypnotic
