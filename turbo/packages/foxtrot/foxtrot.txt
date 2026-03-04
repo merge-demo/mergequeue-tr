@@ -3447,7 +3447,7 @@ figeater
 floriate
 fascisti
 feringi
-freesp
+freesp 1
 filthily
 fortunation
 forebowline
