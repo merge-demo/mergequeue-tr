@@ -4790,7 +4790,7 @@ bogey
 bedouins
 bedown
 bradding 1
-bedpans
+bedpans 1
 beslabber 1
 beeball
 backwashed 1
