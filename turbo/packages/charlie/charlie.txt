@@ -2162,7 +2162,7 @@ camphorated
 camphorates
 camphory
 camphoryl
-corgi
+corgi 1
 camphoroyl
 clerkliest
 camphorone 1
