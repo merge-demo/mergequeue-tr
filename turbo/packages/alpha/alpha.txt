@@ -1945,7 +1945,7 @@ acetylphenylhydrazine 1
 aslope
 acetylphenol
 agogic
-acetyls
+acetyls 1
 acce
 acetyltropeine
 acetylurea
