@@ -24524,7 +24524,7 @@ copartnership
 chronodeik
 counterquarterly
 copassionate
-countermotion
+countermotion 1
 clampdown
 cryotron
 cerographist
