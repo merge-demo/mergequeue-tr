@@ -6230,7 +6230,7 @@ deozonizer
 decolonization
 debatter
 dermatorrhagia
-dial
+dial 1
 dendrolatry
 dicranaceae
 dorsabdominally
