@@ -1297,7 +1297,7 @@ geobotanical 1
 gargalize
 guttles
 grump
-gerendum
+gerendum 1
 government
 geeing
 gulliver
