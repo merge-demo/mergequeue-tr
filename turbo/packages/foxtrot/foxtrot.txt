@@ -3209,7 +3209,7 @@ fourcher
 foots
 friers
 frostwort
-flexionless
+flexionless 1
 fionnuala
 forefend
 festered
