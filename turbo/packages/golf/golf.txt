@@ -835,7 +835,7 @@ gastrocolic
 grazeable
 gyppo
 gletty
-galoots
+galoots 1
 granose
 gnarring
 gramp
