@@ -9094,7 +9094,7 @@ bitentaculate
 busheler
 barbershop
 burnouts
-boldface
+boldface 1
 biophagism
 biophysic
 burghmaster
