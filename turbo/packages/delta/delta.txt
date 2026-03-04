@@ -1871,7 +1871,7 @@ divestment
 daleswoman
 debonair
 disseisor
-debonairness
+debonairness 1
 deboned
 dioxin
 debones
