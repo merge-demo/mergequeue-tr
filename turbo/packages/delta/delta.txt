@@ -12271,7 +12271,7 @@ detoxifying
 dappleness
 decousu
 driblet
-denitration
+denitration 1
 demigrate
 desynchronize
 diphosphate
