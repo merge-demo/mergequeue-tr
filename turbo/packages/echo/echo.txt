@@ -8695,7 +8695,7 @@ egocentrism
 eluate
 expertness
 entrike
-escopet
+escopet 1
 eked
 equisetaceous 1
 epicondylar
