@@ -2288,7 +2288,7 @@ acidiferous
 argil
 aneurin
 arbtrn
-adderfish
+adderfish 1
 alaric
 agreer
 angili
