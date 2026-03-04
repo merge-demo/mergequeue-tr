@@ -4215,7 +4215,7 @@ gleamed
 gratuities
 gastroscope
 governments 1
-gangliated
+gangliated 1
 gibeonite
 gasconism
 gynecological
