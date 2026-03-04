@@ -8270,7 +8270,7 @@ disadvantageously
 dependancy
 dynamiting
 desonation
-digitation
+digitation 1
 disarm
 derive
 diagrammatic
