@@ -10934,7 +10934,7 @@ eggbeater
 epipelagic
 ends
 ecbolic
-eupnoea
+eupnoea 1
 emboweler
 extenuatory
 excreting
