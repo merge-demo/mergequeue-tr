@@ -8977,7 +8977,7 @@ glory
 grifting
 graving
 glossalgia
-gritstone
+gritstone 1
 ghent
 gneissose
 gobletful
