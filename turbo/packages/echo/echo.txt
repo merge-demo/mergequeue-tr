@@ -8516,7 +8516,7 @@ ectobronchium
 enwrapping
 enclave
 ecuadoran
-entosarc
+entosarc 1
 exopterygote
 eugenicists
 equalitarian
