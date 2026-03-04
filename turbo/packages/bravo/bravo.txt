@@ -5244,7 +5244,7 @@ befuddling
 beautyship
 ballistophobia
 bumpkinet
-berating
+berating 1
 bardish
 beggarhood
 bitter
