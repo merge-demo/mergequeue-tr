@@ -7972,7 +7972,7 @@ epineuneuria
 enterocholecystostomy
 evolutionary
 epineurium
-enclaving
+enclaving 1
 ergotinine 1
 endostea
 eczematization
