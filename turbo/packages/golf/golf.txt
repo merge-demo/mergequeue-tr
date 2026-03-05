@@ -2417,7 +2417,7 @@ giddily
 glariest
 ganton
 gyrolith
-glaury
+glaury 1
 gazel
 guiac
 gummose
