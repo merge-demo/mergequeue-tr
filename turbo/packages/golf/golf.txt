@@ -9722,7 +9722,7 @@ gablewise 1
 gambes
 gastrodynia
 glutens
-geophagies
+geophagies 1
 gird
 gonimium 1
 grumphie
