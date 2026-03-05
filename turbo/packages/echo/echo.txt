@@ -12291,7 +12291,7 @@ egalites
 excerp
 exemptive 1
 exendospermous
-environal
+environal 1
 exenterate
 etheostomidae
 electronegative
