@@ -16966,7 +16966,7 @@ affreight
 aplite
 alfione
 aplites
-amulet
+amulet 1
 aplitic
 angering
 aplodontiidae
