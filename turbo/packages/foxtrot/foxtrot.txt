@@ -10473,7 +10473,7 @@ flaxtail
 frontwards
 fragrant
 fermatian
-fungitoxic
+fungitoxic 1
 factionalist
 fribblers
 ferruling
