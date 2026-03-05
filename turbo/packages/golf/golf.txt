@@ -7109,7 +7109,7 @@ grasscut
 guayaba
 greenfly
 gile
-gore
+gore 1
 gordioid
 gearboxes
 gloggs
