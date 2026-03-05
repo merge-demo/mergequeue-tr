@@ -5409,7 +5409,7 @@ dissolubility
 deadest
 devoiced
 dorsiventrality
-deoxidize
+deoxidize 1
 doryphoros
 dews
 deoxygenated
