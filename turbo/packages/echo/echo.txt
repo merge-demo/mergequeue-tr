@@ -8686,7 +8686,7 @@ equipotential
 exconjugant
 endostyle
 epulotic
-equiprobably
+equiprobably 1
 eldfather
 equiproportional
 ebulliently
