@@ -20966,7 +20966,7 @@ comprize
 conventical
 corroboreed
 comprized
-cellulicidal
+cellulicidal 1
 cosin
 comprizes
 cultuses
