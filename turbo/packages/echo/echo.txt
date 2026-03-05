@@ -7942,7 +7942,7 @@ epimerism
 enterolithiasis
 essoined
 evangels
-epitomate
+epitomate 1
 encephalonarcosis
 equisetic
 explainingly
