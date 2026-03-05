@@ -10098,7 +10098,7 @@ amble 1
 apanteles
 anthropomorphitical
 ambler
-awakes
+awakes 1
 appulsive
 axmen
 antiformant
