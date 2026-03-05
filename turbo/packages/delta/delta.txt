@@ -1579,7 +1579,7 @@ deadness
 dairyman
 doubtingness
 deadpanned
-deadpans
+deadpans 1
 depayse
 daikering
 doryanthes

@@ -3559,7 +3559,7 @@ captor
 capturable
 compendiously
 catechized
-capture
+capture 1
 captured
 casebearer
 captures
