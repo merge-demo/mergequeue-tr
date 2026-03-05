@@ -18093,7 +18093,7 @@ butadiyne 1
 beshout
 berthierite
 butane
-behatted
+behatted 1
 butanoic
 busy
 bismuthite
