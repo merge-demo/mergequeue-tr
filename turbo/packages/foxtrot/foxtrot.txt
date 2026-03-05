@@ -6552,7 +6552,7 @@ floristically
 fingerstone
 fascioliasis
 feelies
-frawn
+frawn 1
 flagrante
 frogfish
 flapperism
