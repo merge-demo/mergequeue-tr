@@ -4952,7 +4952,7 @@ carton
 cartoner
 cannonball
 cartonful
-covinously
+covinously 1
 crimmers
 criminalistics
 carpitis
