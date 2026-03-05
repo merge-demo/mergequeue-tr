@@ -10692,7 +10692,7 @@ fist
 footler
 famish
 frightable
-facultied
+facultied 1
 fibular
 facetted 1
 fainting
