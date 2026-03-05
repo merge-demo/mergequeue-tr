@@ -29963,7 +29963,7 @@ coccygotomy
 cambricleaf
 catapan
 crisle
-crosswiseness
+crosswiseness 1
 cajoler
 crotal
 crotalic
