@@ -1768,7 +1768,7 @@ gapless
 grx
 guanine
 gentisein 1
-gossypine
+gossypine 1
 gastropulmonic
 granitic
 globously
