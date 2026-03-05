@@ -9955,7 +9955,7 @@ facileness
 feelingness
 flairs
 fumette
-floatingly
+floatingly 1
 fishworks
 frumentum
 flatlanders

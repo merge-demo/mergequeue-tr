@@ -10304,7 +10304,7 @@ establismentarian 2
 enlink
 epiloguing
 endotrophi
-enrobes
+enrobes 1
 eulophid
 ela
 ebullitions
