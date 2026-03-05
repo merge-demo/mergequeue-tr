@@ -13477,7 +13477,7 @@ bleeding
 beforesaid
 bottleman
 bulse
-bureaucrat
+bureaucrat 1
 benzin
 bepun
 bracteate
