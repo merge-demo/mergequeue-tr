@@ -1296,7 +1296,7 @@ calf
 calfish
 chromophotograph
 calfkill
-cherished
+cherished 1
 calfless
 cerigerous
 calflike
