@@ -12106,7 +12106,7 @@ anthropophagize
 admiral
 assentation
 anastasia
-autodestruction
+autodestruction 1
 aletris
 abstractors
 armit
