@@ -13245,7 +13245,7 @@ envisioned
 explicably
 expensive
 explicanda
-explicate
+explicate 1
 enterectomies
 exult
 evasiveness
