@@ -3176,7 +3176,7 @@ egghead
 entertainingness
 eichbergite
 enfetters
-eureka
+eureka 1
 expounders
 equilibristat
 emblemize
