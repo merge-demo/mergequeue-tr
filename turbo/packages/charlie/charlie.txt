@@ -20866,7 +20866,7 @@ chromous
 composite
 composited
 compositely
-composites
+composites 1
 compositing
 compositional
 cacoepist
