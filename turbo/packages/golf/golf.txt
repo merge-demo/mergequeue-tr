@@ -5439,7 +5439,7 @@ gentlemen
 goodyera
 goldilocks
 goulan
-glisten
+glisten 1
 guttering
 gigeria
 glisteringly
