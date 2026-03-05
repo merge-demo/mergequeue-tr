@@ -3868,7 +3868,7 @@ entrapment
 easiness
 exemplarily
 effeminacy
-exallotriote
+exallotriote 1
 euryclea
 emyde
 eysoge
