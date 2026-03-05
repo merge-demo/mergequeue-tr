@@ -10447,7 +10447,7 @@ dotty
 detax
 diphtheric 1
 denticeti
-diphtheritically
+diphtheritically 1
 disarraying
 dourly
 dishonesties
