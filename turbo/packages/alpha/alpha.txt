@@ -14476,7 +14476,7 @@ auramin
 ackey
 antiuating
 anthrophore
-anthropical
+anthropical 1
 acquisition
 anthropobiology
 apneumatosis
