@@ -1107,7 +1107,7 @@ groat
 grooviness
 grannies
 gonangium
-gregorianize
+gregorianize 1
 ganja 1
 germs
 genically
