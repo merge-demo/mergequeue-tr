@@ -4261,7 +4261,7 @@ gluttonous
 garganeys
 gustativeness
 guiltsick
-gyrostabilizer
+gyrostabilizer 1
 girse
 grubless
 gravidity
