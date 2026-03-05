@@ -12422,7 +12422,7 @@ discontentful
 divinizing
 debilitative
 dishonors
-decerned
+decerned 1
 deficient
 desulfurate
 discontinue
