@@ -4228,7 +4228,7 @@ garrafa
 gusto
 gnabble
 guncotton
-gantang
+gantang 1
 gruelled
 gomorrhean
 grumpiness
