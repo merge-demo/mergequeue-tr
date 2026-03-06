@@ -3950,7 +3950,7 @@ gorgedly 1
 gastrology
 gnomological
 guatuso
-gearksutite
+gearksutite 1
 gonepoietic
 galliasses
 gamari
