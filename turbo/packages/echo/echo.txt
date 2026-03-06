@@ -4855,7 +4855,7 @@ eria
 eupepticism
 eulogizes 1
 encranial
-externalize
+externalize 1
 expectorator
 eudemony
 electroed
