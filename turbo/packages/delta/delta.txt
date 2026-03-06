@@ -12620,7 +12620,7 @@ directs
 dargsman
 daynet
 decupled
-devel
+devel 1
 degradational
 disjasked 1
 drubbings
