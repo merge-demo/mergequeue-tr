@@ -9783,7 +9783,7 @@ fatals
 featness
 formyls
 fluozirconic
-farrows
+farrows 1
 feldspathic
 floweret
 fuds
