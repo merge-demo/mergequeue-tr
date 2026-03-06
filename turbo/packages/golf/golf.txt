@@ -10772,7 +10772,7 @@ genialness
 gonadectomy
 gandered
 gignitive
-gamesomely
+gamesomely 1
 gaincall 1
 gemellus
 guttated
