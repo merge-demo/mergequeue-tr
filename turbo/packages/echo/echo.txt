@@ -13982,7 +13982,7 @@ embosked 1
 electrotypy
 enwreathed
 exundance
-exsuperance
+exsuperance 1
 extraperiosteal
 engem
 eurodollars
