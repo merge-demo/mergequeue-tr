@@ -20961,7 +20961,7 @@ assuefaction
 anticlassicalness
 alimentally
 ascarid
-ampollosity
+ampollosity 1
 ascaridae
 ascarides
 authoresses
