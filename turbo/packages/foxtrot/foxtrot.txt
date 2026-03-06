@@ -1754,7 +1754,7 @@ forfare
 foreshore 1
 floriferous
 fumosity
-freedman
+freedman 1
 foveal
 feeded
 forecastlemen
