@@ -4265,7 +4265,7 @@ beaupere
 beausire
 batetela
 bilharziasis
-brid
+brid 1
 beauteous
 beachmen
 beauti
