@@ -5803,7 +5803,7 @@ englutted
 edeoscopy
 enceintes
 euchre
-enterons
+enterons 1
 encrinal
 episode 1
 ephoi
