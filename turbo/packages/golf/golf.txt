@@ -4459,7 +4459,7 @@ gorry
 graveless
 grippers
 gypsology
-gymnotokous
+gymnotokous 1
 glib
 gulp
 groping
