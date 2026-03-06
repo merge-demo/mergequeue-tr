@@ -7273,7 +7273,7 @@ gubernator
 grough
 glitches
 goldsinny
-gynics
+gynics 1
 grahams
 gaelicism
 gnocchi
