@@ -8188,7 +8188,7 @@ frijolito
 faze
 forage 1
 funicles
-fauvists
+fauvists 1
 filioque
 fruticulose
 florence
