@@ -6736,7 +6736,7 @@ celestite
 celestitude
 celiadelphus
 celibacy
-costard
+costard 1
 celibatic
 conducent
 colonopexy
