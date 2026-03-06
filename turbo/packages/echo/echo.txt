@@ -4055,7 +4055,7 @@ ex
 enringing
 evangelised
 encyclopaedism
-embroils
+embroils 1
 enantiomeride
 epitheca
 elses
