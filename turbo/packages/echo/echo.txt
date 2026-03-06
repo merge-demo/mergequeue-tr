@@ -804,7 +804,7 @@ ectasis
 endothia
 enoil
 expulsed
-eloigner
+eloigner 1
 ecthesis
 erythrozincite
 emmers
