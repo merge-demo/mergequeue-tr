@@ -2178,7 +2178,7 @@ gaycat
 gastrotomy
 grainer
 gaze
-genteelly
+genteelly 1
 gunslinging
 glout
 gastrotrichan
