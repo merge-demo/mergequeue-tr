@@ -3678,7 +3678,7 @@ eruptiveness
 exscinded
 endocrinopathic
 entangling
-eunomy
+eunomy 1
 extravert
 encolpion
 exomion
