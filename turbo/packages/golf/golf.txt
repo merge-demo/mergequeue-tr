@@ -140,7 +140,7 @@ gadrooning
 gersum
 golkakra
 glacises
-granulize
+granulize 1
 gageable
 glycolipide
 guerdonable
