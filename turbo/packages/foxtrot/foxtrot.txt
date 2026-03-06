@@ -1578,7 +1578,7 @@ ferr
 favelidium
 fourteenth
 funning
-froufrous
+froufrous 1
 frugalities 1
 fortyfold
 flights
