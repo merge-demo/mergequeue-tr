@@ -662,7 +662,7 @@ galloon
 glower
 gantryman
 genecologically
-galeated
+galeated 1
 gunkhole
 gayest
 gallantries
