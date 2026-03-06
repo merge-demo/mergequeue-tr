@@ -10003,7 +10003,7 @@ electrotest
 eteostic
 elemicin
 eterminable
-eyeballs
+eyeballs 1
 extoled
 eroticism
 epinician
