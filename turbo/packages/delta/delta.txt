@@ -8046,7 +8046,7 @@ dhobee 1
 dhoby
 decimole
 dhobie
-dervishhood
+dervishhood 1
 densher
 diaclase
 dhobis
