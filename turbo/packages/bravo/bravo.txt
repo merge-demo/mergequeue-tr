@@ -8243,7 +8243,7 @@ biethnic
 binds
 baryes
 baccar
-beswarming
+beswarming 1
 burls
 besqueeze
 bifaces
