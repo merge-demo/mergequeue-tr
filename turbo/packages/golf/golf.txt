@@ -4192,7 +4192,7 @@ gynantherous
 gonadectomized
 goliath
 gomavel
-gynarchic
+gynarchic 1
 gazella
 geumatophobia 1
 gradometer
