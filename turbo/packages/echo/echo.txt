@@ -4766,7 +4766,7 @@ emboite
 erosiveness
 enscrolling
 elucubration
-elator
+elator 1
 enclosures
 erethic
 eguttulate
