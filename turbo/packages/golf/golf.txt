@@ -8793,7 +8793,7 @@ griddler
 galleys
 gentianaceous
 gallus
-globate 1
+globate 2
 gourmandism
 gm
 gunne
