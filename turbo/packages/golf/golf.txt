@@ -5659,7 +5659,7 @@ garrison
 glossinas 1
 glowflies
 gertrude
-glowbard
+glowbard 1
 glimmeringly
 gloveress
 gimmaled
