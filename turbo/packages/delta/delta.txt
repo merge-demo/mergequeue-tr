@@ -3439,7 +3439,7 @@ debilitant
 dichroscope 1
 decelerating
 decompressed
-delible
+delible 1
 deflator
 deforced
 deforces
