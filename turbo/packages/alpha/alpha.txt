@@ -1937,7 +1937,7 @@ aviso
 acetylizer
 anterofrontal
 acetylizing
-assmannshauser
+assmannshauser 1
 acetylmethylcarbinol
 aporetic
 acetylperoxide
