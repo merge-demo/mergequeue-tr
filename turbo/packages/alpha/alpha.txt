@@ -2194,7 +2194,7 @@ aphotaxis
 alleviation
 achrodextrinase
 anticentralism
-achroglobin
+achroglobin 1
 auspex
 achroiocythaemia
 anabasse
