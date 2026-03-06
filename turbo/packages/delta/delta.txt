@@ -5061,7 +5061,7 @@ dasyurid
 decennal
 densation
 dadoed
-doggiest
+doggiest 1
 denebola
 diplonts
 dulbert
