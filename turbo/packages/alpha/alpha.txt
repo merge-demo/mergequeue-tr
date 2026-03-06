@@ -18734,7 +18734,7 @@ amblyopia
 argonautic
 appmt
 archcrown
-arointed
+arointed 1
 arthrosterigma
 archd
 archdeaconries
