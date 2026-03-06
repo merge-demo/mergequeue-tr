@@ -13752,7 +13752,7 @@ abhorrer
 anonaceous
 animalised
 auxiliar
-assertrix
+assertrix 1
 acanthaceae
 antiadiaphorist
 albuquerque
