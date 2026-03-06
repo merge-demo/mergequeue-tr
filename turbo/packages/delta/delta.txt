@@ -5766,7 +5766,7 @@ desistance
 depots
 dasyure
 dictating
-deprave
+deprave 1
 disanagrammatize
 doxologizing
 dreidel
