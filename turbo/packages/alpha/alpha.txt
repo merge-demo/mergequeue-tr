@@ -6729,7 +6729,7 @@ amplifies
 accepters
 alliage
 abucco
-autostethoscope
+autostethoscope 1
 arpeggio
 allomerize
 agglutination
