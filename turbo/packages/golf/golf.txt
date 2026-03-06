@@ -4299,7 +4299,7 @@ gallacetophenone
 golfdom
 gravitated
 garterless
-glittersome
+glittersome 1
 ganancial 1
 glycogeny
 gashy
