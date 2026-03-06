@@ -866,7 +866,7 @@ endophyte
 entailed
 ectomorph
 exemptionist
-euxanthic
+euxanthic 1
 ectoparasitica
 exhumating
 expediencies
