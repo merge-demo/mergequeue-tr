@@ -6767,7 +6767,7 @@ fruitiest
 flaccidity
 footbeat
 fundatorial
-forfalt
+forfalt 1
 faithfuls
 finmark
 forams
