@@ -9648,7 +9648,7 @@ emissaries
 espy
 espial
 episyllogism 1
-ensiferi 1
+ensiferi 2
 electrocoagulation
 escrows
 espinal
