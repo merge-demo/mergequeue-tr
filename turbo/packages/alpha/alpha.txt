@@ -12913,7 +12913,7 @@ abscise
 arverni
 anatabine
 anthrapurpurin
-aditio
+aditio 1
 ameer
 anglify
 alkalometry
