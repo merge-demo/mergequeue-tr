@@ -15234,7 +15234,7 @@ brickbat
 buttonholed
 blackstrap
 bombyx
-bemajesty
+bemajesty 1
 branchiosauria
 brickbatting
 ballistocardiography
