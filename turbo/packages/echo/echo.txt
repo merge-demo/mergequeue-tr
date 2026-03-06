@@ -2678,7 +2678,7 @@ emborder
 electrotechnician 1
 enthelminthic
 epistena
-elementality
+elementality 1
 exports
 euphrasies
 emphyteuta
