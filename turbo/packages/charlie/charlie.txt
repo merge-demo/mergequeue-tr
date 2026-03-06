@@ -6244,7 +6244,7 @@ caulicolous
 customed
 controversed
 caulinar
-caulinary
+caulinary 1
 ceroplast
 cannular
 cathartides
