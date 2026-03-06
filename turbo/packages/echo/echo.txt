@@ -9280,7 +9280,7 @@ empathies
 erythrochaete
 electrotellurograph
 externalist
-exogamous
+exogamous 1
 expositional
 ebricty
 eumorphous
