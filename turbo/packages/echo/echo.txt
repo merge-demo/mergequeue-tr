@@ -12328,7 +12328,7 @@ eulogizers
 erythroglucin
 effusiometer
 emanators
-entangled
+entangled 1
 eaning
 eviscerations
 evectant
