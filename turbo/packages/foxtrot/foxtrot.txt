@@ -1347,7 +1347,7 @@ famousness
 fellani
 fervour
 fathomlessness
-funniment
+funniment 1
 flichtered
 forkable 1
 financiering 1
