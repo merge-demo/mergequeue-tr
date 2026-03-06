@@ -447,7 +447,7 @@ erf
 eunuchal
 enanthesis
 expediteness
-evector
+evector 1
 ecclesia
 enumerable
 enlacing
