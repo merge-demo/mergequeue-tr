@@ -12816,7 +12816,7 @@ exoteric
 exoterica
 elementalistically
 excitomotor
-exdie
+exdie 1
 embryology
 epicystotomy
 equine
