@@ -415,7 +415,7 @@ gorgon
 gunl
 geostrategy
 germinogony
-galatea
+galatea 1
 galateas
 glucogenesis
 gelding
