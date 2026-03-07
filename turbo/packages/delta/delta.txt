@@ -1483,7 +1483,7 @@ dbms
 degenerationist
 dbridement
 decidual
-dracma
+dracma 1
 dcb
 depressure
 deaccessioning
