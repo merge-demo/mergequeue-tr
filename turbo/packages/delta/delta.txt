@@ -542,7 +542,7 @@ damalic 1
 dextrorotation
 dynam
 demobilized
-dialyzing
+dialyzing 1
 diplosis
 deliverers
 damar
