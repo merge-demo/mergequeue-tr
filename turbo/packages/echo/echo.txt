@@ -3038,7 +3038,7 @@ elixir
 enwall
 ecblastesis
 exhortatory
-exacerbated
+exacerbated 1
 elixiviate
 excerptor
 ensheathes
