@@ -5206,7 +5206,7 @@ ejidos
 eparchy
 eretrian
 ethologies
-equipluve
+equipluve 1
 equilibrate
 endomitosis
 endomorphy
