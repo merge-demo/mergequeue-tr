@@ -15647,7 +15647,7 @@ departmentalise
 detacher
 disomaty
 dictionary
-describer
+describer 1
 doorweed
 diem
 doozers
