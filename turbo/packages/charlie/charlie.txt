@@ -6842,7 +6842,7 @@ clonks
 cloze
 celsian
 cashbox
-celt
+celt 1
 cofaster
 celtiberian
 celticize
