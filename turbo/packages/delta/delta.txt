@@ -14712,7 +14712,7 @@ diphylleia
 dotlike
 discarnation
 difflation
-diaristic
+diaristic 1
 discommission
 deanery
 dibrach
