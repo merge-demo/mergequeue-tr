@@ -4833,7 +4833,7 @@ grandstanding
 gladiola
 granatite
 ghassanid
-goldurns
+goldurns 1
 goatly
 gastroenteric
 gladship 1
