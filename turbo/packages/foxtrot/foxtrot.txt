@@ -1208,7 +1208,7 @@ fleckled 1
 fleckiness
 finochio
 figury
-fash 1
+fash 2
 friborgh
 fasherie
 fusilier
