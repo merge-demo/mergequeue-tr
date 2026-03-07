@@ -4528,7 +4528,7 @@ filemarks
 frocklike 1
 fiscalify
 frontier
-firlot
+firlot 1
 fetishic
 fanatically
 foreglance
