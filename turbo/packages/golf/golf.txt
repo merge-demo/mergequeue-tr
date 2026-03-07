@@ -43,7 +43,7 @@ grammes
 gabions
 gynecologies
 geomyid
-gunfires
+gunfires 1
 genotypically
 groundswell
 gableboard
