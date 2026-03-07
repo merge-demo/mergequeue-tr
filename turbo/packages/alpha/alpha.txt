@@ -15745,7 +15745,7 @@ acridines
 antiperspirant
 agileness 1
 antiperspirants
-acronycal
+acronycal 1
 anterolaterally
 atremble
 angiolipoma

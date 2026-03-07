@@ -1553,7 +1553,7 @@ fussy
 foreteach
 farrow
 forepayment 1
-flowcontrol
+flowcontrol 1
 fishbowl
 fauvism
 funk
