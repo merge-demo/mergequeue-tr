@@ -882,7 +882,7 @@ berceaunette
 badhan
 bounciness
 bruxisms
-beflags
+beflags 1
 boohoos
 bravura
 baroclinity
