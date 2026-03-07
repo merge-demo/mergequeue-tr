@@ -2819,7 +2819,7 @@ bowlers
 beflowering
 breastpiece
 behaviourally
-baronries
+baronries 1
 briggs
 baroque
 baconer
