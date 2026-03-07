@@ -10893,7 +10893,7 @@ electromuscular
 eanlings
 eudemian 1
 epirotulian
-easternize
+easternize 1
 enterokinase
 enfin
 encephalocoele
