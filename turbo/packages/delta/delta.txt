@@ -1633,7 +1633,7 @@ daundered
 disassembler
 decurved
 deobstruct
-devotional
+devotional 1
 daunter
 dicephalus
 darkhaired
