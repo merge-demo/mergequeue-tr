@@ -2502,7 +2502,7 @@ flerry 1
 fudging
 fainthearted
 femorocele
-farted
+farted 1
 facinorousness
 feoffers
 fluxgraph
