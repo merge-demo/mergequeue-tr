@@ -13239,7 +13239,7 @@ endemical
 ethize 1
 explement
 envine
-edacity
+edacity 1
 ephebeum
 envisioned
 explicably
