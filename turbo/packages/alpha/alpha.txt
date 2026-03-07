@@ -9998,7 +9998,7 @@ authenticities
 assayer
 ambas
 ambassade
-appreciatively
+appreciatively 1
 alkynes
 adactylia
 alerion
