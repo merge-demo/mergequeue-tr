@@ -5803,7 +5803,7 @@ grundel
 gadger
 gate
 globulous
-gymnosporangium
+gymnosporangium 1
 gynoecium
 glucate
 gorevan
