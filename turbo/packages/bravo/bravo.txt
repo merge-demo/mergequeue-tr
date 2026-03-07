@@ -8307,7 +8307,7 @@ bedsteads
 bovarysm
 broilers
 bigamies
-bigamist
+bigamist 1
 boyars
 betafite
 burstiness
