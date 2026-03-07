@@ -10075,7 +10075,7 @@ dentistries 1
 deodar
 dynast
 deaminating
-deliciae
+deliciae 1
 dieticians
 dextrane
 disamis
