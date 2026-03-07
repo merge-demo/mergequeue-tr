@@ -2074,7 +2074,7 @@ disencumbering
 dinoflagellida
 decurvation
 dixiecrat
-dauphiness
+dauphiness 1
 diddle
 decalogue
 decalvant
