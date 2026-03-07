@@ -6752,7 +6752,7 @@ furcation
 foldcourse
 fiberless
 folkmoots
-freety
+freety 1
 fleshhook
 farinulent
 fervescent
