@@ -815,7 +815,7 @@ addedly
 arachnoiditis 1
 arthropomata
 abruptness
-apptd
+apptd 1
 ambilogy
 algarot
 authoritatively
