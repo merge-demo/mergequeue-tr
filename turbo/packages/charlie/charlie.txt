@@ -9190,7 +9190,7 @@ clapperboard
 cheering
 corf
 chastity
-caract
+caract 1
 chastities
 chockstone
 chasubled
