@@ -1564,7 +1564,7 @@ enweaving
 eupeptically
 ensconces
 enervates
-erosible
+erosible 1
 extraversion
 encampment
 epinasty 1
