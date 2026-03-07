@@ -9237,7 +9237,7 @@ fungologist
 febris
 fumarine
 foldwards
-fasinite
+fasinite 1
 fogrum
 fillingly
 foggily
