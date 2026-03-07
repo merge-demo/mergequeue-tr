@@ -5819,7 +5819,7 @@ gardon
 griddled
 gasfiring
 grandesque
-glycogenous
+glycogenous 1
 gravimetric
 glutamates
 goliards
