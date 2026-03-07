@@ -5608,7 +5608,7 @@ bekissed
 bekisses
 boletes
 borons
-beknighted
+beknighted 1
 ballistite
 beknotted
 burrio
