@@ -2122,7 +2122,7 @@ detectors
 diabolology
 downtime
 disturbs
-diosmosis
+diosmosis 1
 decantist
 decaffeinated
 decapitation
