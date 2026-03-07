@@ -16528,7 +16528,7 @@ apaesthetize
 articulatory
 anophthalmus
 apagogic
-avenses
+avenses 1
 arumlike
 apagogically
 androsporangium
