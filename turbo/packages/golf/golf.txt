@@ -9526,7 +9526,7 @@ gabblers
 grouze
 glycans
 glume
-gerbe
+gerbe 1
 gastornithidae
 groved
 greenskeeper
