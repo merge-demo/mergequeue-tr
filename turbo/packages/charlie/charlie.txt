@@ -22104,7 +22104,7 @@ crouke
 cotraitor
 conformingly
 conformist
-confusably
+confusably 1
 conformists 1
 circinus
 cerule
