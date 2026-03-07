@@ -4330,7 +4330,7 @@ epigrammatize
 entoproct
 eloquence
 exclaustration
-enamelist
+enamelist 1
 enamelless
 eluder
 edibles
