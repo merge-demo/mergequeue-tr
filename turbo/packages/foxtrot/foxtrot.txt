@@ -4336,7 +4336,7 @@ frustrates
 frankable
 fandango
 fourflusher
-funereally
+funereally 1
 fellows
 forgetter
 forewomen
