@@ -12968,7 +12968,7 @@ enchafe
 enhardy
 examines 1
 enfeeble
-erythrol
+erythrol 1
 expectation
 exodoi
 exclusion
