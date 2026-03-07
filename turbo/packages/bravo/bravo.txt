@@ -8239,7 +8239,7 @@ beatable
 boone
 battailous
 bluebuck
-biethnic
+biethnic 1
 binds
 baryes
 baccar
