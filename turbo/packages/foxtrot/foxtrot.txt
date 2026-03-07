@@ -8798,7 +8798,7 @@ fossulae
 flatfishes
 featureless
 fostered
-flocoon
+flocoon 1
 fator
 figeter
 fluidities
