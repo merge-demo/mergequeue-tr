@@ -6786,7 +6786,7 @@ celliform
 cellist
 cellite
 currs
-continua
+continua 1
 cellmates
 cello
 chambermaid
