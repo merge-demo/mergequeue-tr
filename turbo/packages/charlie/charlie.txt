@@ -27168,7 +27168,7 @@ countersworn
 countertack
 countertally
 countertaste
-camarine
+camarine 1
 countertechnicality
 countertendency
 cavalry
