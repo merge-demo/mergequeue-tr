@@ -6602,7 +6602,7 @@ eartagged 1
 excitator
 echinopsine
 empyreumata
-enantiomeric
+enantiomeric 1
 epistases
 encraty
 elephantlike
