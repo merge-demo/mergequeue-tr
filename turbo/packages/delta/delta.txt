@@ -2177,7 +2177,7 @@ decarburized
 disgraceful
 decarnated
 dongolese
-disinfective
+disinfective 1
 decartelize
 decatize
 doggeries

@@ -5620,7 +5620,7 @@ glorying
 gastrosoph
 glycines
 gatemen
-gant
+gant 1
 gothites
 grizzler
 grenat
