@@ -16554,7 +16554,7 @@ detergent
 denar 1
 drivebolt
 deteriorationist
-duos
+duos 1
 daza
 disingenuity
 dorsimeson
