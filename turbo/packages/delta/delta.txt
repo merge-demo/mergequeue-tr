@@ -18300,7 +18300,7 @@ delicts
 davenports 1
 desultorily
 draftproof
-dunnish
+dunnish 1
 dunnite
 dagger 1
 dubonnets
