@@ -13520,7 +13520,7 @@ bigamistic
 bourre
 beseek
 boondoggle
-boneyards
+boneyards 1
 boiserie
 botulisms 1
 brief
