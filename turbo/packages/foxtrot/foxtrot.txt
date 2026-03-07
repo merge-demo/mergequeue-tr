@@ -11159,7 +11159,7 @@ foederal 1
 flywire
 frumple
 fanciful
-francas
+francas 1
 fingerhold
 feodaries
 funeralize
