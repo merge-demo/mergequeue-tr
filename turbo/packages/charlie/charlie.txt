@@ -10552,7 +10552,7 @@ chilli
 costumey
 chilly
 compartmentalize
-cherie
+cherie 1
 calculi
 carvings
 chilidium
