@@ -2537,7 +2537,7 @@ fairyhood
 funduck
 ferryboat
 fatties
-fratery
+fratery 1
 fitchews
 fibrocytic
 faithbreach
