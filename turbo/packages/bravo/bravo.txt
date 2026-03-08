@@ -5640,7 +5640,7 @@ belaboring
 blisters
 brough
 blepharal
-bewigs
+bewigs 1
 barbitone
 businessmen
 bardes
