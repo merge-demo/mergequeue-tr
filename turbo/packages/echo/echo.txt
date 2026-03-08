@@ -12591,7 +12591,7 @@ epsomite
 euphon
 ethion
 entrance
-eastling
+eastling 1
 excecation
 eunuchry
 exempts
