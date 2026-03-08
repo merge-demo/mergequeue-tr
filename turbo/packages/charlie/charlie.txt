@@ -18597,7 +18597,7 @@ coiner 1
 comparograph
 comme
 concoction
-coyness
+coyness 1
 cerebration
 castanian
 chiropterous
