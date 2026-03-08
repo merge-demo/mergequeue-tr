@@ -22439,7 +22439,7 @@ calends
 cariacus
 conines 1
 coning
-cantando
+cantando 1
 cosiest
 circumduction
 conchoid 1
