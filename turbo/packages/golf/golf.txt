@@ -5384,7 +5384,7 @@ glyptodontoid
 glebae
 ghostwrites 1
 galactophlebitis
-griphosaurus
+griphosaurus 1
 gephyrean
 golaseccan
 gingivitis
