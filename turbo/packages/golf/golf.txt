@@ -18,7 +18,7 @@ gastroadynamic
 gashouse
 graphitization
 geotropic
-gabbro
+gabbro 1
 gabelleman
 geonyctinastic
 globosphaerite
