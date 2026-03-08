@@ -16558,7 +16558,7 @@ basic
 bargeese 1
 barbarianize
 brownish
-biflorate
+biflorate 1
 backbiters
 bushmen
 botrydium
