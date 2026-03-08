@@ -9621,7 +9621,7 @@ fubbed
 fromage 1
 foredivine
 flugelmen
-frocked
+frocked 1
 fletcher 1
 furfures
 fregata
