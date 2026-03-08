@@ -4659,7 +4659,7 @@ fumariaceae
 flagelliform 1
 fragrantly
 foreby
-fructescence
+fructescence 1
 fibroreticulate
 fortitudes
 fixer
