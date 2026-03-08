@@ -11659,7 +11659,7 @@ forded
 foreknowing
 fusus
 feedlot
-fanion
+fanion 1
 frisette
 filoselle
 foretalking
