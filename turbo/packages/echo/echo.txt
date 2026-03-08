@@ -3857,7 +3857,7 @@ estivator
 eggcupful
 emersonianism
 emesa
-exasperate
+exasperate 1
 emeses
 effigiate
 epalpate
