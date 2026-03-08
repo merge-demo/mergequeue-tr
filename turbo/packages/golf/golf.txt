@@ -2982,7 +2982,7 @@ gemmologists
 grievers
 galliardness
 gigsman
-geoids
+geoids 1
 gloriole 1
 gastrostomy
 gozell
