@@ -1760,7 +1760,7 @@ everard
 extg
 embattle
 exhbn
-epigraphic
+epigraphic 1
 eutony
 eyes
 encasing
