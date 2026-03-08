@@ -1346,7 +1346,7 @@ embusque
 earthiest
 effendis
 empty
-efferents
+efferents 1
 effervescency
 eights 1
 epode 1
