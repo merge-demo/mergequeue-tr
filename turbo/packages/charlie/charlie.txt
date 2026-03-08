@@ -6861,7 +6861,7 @@ caffein
 celtization
 cardiorrhexis
 consol
-camis
+camis 1
 ceratomandibular
 clocklike
 celtuce
