@@ -22442,7 +22442,7 @@ coning
 cantando
 cosiest
 circumduction
-conchoid
+conchoid 1
 conins
 coniogramme
 contradiscriminate
