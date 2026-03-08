@@ -2393,7 +2393,7 @@ acinary
 autolyze
 anisopodal
 abridgedly
-authorizes
+authorizes 1
 aeroplankton
 autocondensation
 acinetic
