@@ -11175,7 +11175,7 @@ assures
 ampersands
 amphanthia
 amphanthium
-ampherotokous
+ampherotokous 1
 arms
 adjutancies
 antirationality
