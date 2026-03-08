@@ -6687,7 +6687,7 @@ ecrevisse
 epulis
 espundia
 epitaphic
-endamebiasis
+endamebiasis 1
 entertainingly
 electrophysics
 endarteritis
