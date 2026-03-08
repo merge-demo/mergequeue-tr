@@ -17142,7 +17142,7 @@ diffusibility
 divagations
 dipodies
 dryly
-defacements
+defacements 1
 dematerialise
 divvers
 drunkenness
