@@ -9010,7 +9010,7 @@ fribbleism
 fractionation
 familiariser
 forenent 1
-folding
+folding 1
 friesish
 funnellike
 fenter
