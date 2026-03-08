@@ -3554,7 +3554,7 @@ estriols
 enfoeffment
 eiders
 exothermic
-exanthematous
+exanthematous 1
 ergographic
 entozoon
 epithecial
