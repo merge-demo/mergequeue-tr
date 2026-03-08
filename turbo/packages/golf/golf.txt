@@ -5292,7 +5292,7 @@ gonopod
 generalisation
 gyrencephalate
 goiters
-gormands
+gormands 1
 ganoses 1
 gipsyism
 geotechnics
