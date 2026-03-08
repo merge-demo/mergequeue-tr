@@ -7308,7 +7308,7 @@ eternises 1
 enolize
 exemplariness
 ephah
-enact
+enact 1
 each
 enwood
 exp
