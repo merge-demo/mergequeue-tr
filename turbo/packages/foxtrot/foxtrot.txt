@@ -1870,7 +1870,7 @@ frutify 1
 fatuously
 fec
 fight
-feelingly
+feelingly 1
 fecundate
 fianchetti
 fanback
