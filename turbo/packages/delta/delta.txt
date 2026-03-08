@@ -9939,7 +9939,7 @@ dimiss
 deindustrialization
 dimissaries 1
 dimitry
-decamped
+decamped 1
 demoiselle
 dauded
 demonstratability
