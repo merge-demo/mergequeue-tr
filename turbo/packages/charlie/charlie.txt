@@ -10068,7 +10068,7 @@ chesoun
 counterfugue
 collab
 coalbox
-chipchap
+chipchap 1
 chessdom
 chesser
 cabinda
