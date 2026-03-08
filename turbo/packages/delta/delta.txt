@@ -3614,7 +3614,7 @@ degradement
 dozing
 depsid
 disrupt
-deuterostomatous
+deuterostomatous 1
 discalced
 denigrate
 dropworts
