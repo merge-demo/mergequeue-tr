@@ -1426,7 +1426,7 @@ galidictis
 grapenuts
 golfs
 galactocele
-gemologists
+gemologists 1
 gutsily
 gn
 gargle
