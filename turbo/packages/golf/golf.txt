@@ -4960,7 +4960,7 @@ goofed
 ganders
 gallingness
 grovels
-gigantical
+gigantical 1
 gonocheme
 granulose
 grivoise
