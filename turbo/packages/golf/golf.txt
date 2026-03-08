@@ -6027,7 +6027,7 @@ grane
 gro
 gnathopodite
 gasolenes
-gneissic
+gneissic 1
 gasifying
 gruffiness
 gemuetlich
