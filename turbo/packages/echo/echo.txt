@@ -8493,7 +8493,7 @@ empties
 enneatical
 ecphoriae
 eurindic
-erases
+erases 1
 elongates
 epuration
 exculpable
