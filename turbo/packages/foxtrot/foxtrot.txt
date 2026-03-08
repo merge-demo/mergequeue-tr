@@ -10739,7 +10739,7 @@ forbare
 forecount
 forbore
 frumpishly
-foreyear
+foreyear 1
 fructified
 fascistize
 freelancing
