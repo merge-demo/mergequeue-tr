@@ -1657,7 +1657,7 @@ emendandum
 exsecting
 enshielding 1
 exanthine
-epilemmal
+epilemmal 1
 eidograph
 eclogues
 eases
