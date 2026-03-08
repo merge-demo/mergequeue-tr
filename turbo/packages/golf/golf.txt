@@ -5940,7 +5940,7 @@ glutinative
 granuloadipose
 gingelies
 giftedness
-guaba
+guaba 1
 gamori
 gaur
 glutose
