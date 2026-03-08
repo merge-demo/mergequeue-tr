@@ -9624,7 +9624,7 @@ esurine
 espadon
 engraves
 effervescible
-ewer
+ewer 1
 endoblast
 encense
 entangleable
