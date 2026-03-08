@@ -22211,7 +22211,7 @@ cleuch
 congeeing
 convict
 cosettler
-condign
+condign 1
 coppered
 charlatan
 capricorn
