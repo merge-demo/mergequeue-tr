@@ -10810,7 +10810,7 @@ globulicide
 gargety
 ghazis
 greenhide
-guttus
+guttus 1
 gibbus
 gaggle
 galactophthysis
