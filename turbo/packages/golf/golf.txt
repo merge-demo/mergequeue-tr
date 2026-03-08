@@ -10000,7 +10000,7 @@ geomys
 gouaches
 gamba
 garlandwise
-gorgonacean
+gorgonacean 1
 gudewife
 grilse
 girgashite
