@@ -5256,7 +5256,7 @@ bowla
 begad
 bedders
 bastions
-boskopoid
+boskopoid 1
 boarcite
 basification
 breadboards 1
