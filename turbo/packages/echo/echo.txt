@@ -547,7 +547,7 @@ est
 endotheliotoxin
 echinoid
 ethiopians 1
-eavesdropper
+eavesdropper 1
 equatorially
 excommunicatory
 encrimson 1
