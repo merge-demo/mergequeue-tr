@@ -23198,7 +23198,7 @@ alkermes 1
 androphonomania
 amphinesian
 atrabilarious
-auriphrygiate
+auriphrygiate 1
 anapaganize
 atticisms
 atticist
