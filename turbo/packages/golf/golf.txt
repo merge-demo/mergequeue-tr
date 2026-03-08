@@ -17,7 +17,7 @@ goter
 gastroadynamic
 gashouse
 graphitization
-geotropic
+geotropic 1
 gabbro 1
 gabelleman
 geonyctinastic
