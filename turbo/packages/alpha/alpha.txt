@@ -18625,7 +18625,7 @@ automats
 alethiology
 antisepsis
 acarophilous
-acini
+acini 1
 archaeographical
 awakings
 asterisking
