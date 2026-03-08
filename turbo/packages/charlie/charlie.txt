@@ -8738,7 +8738,7 @@ collyridian
 chaplain 1
 chaplaincies
 chaplains
-curiboca
+curiboca 1
 crackup
 congruist
 carpocapsa
