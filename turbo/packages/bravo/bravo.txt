@@ -1537,7 +1537,7 @@ brassish
 bichromated
 bezel
 basted
-batterdock
+batterdock 1
 brandishes
 balete
 baralipton
