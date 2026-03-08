@@ -6398,7 +6398,7 @@ goburra
 glucidic
 gauntleting
 grouselike
-gregorian
+gregorian 1
 grandeeship
 geneses
 gallivanted
