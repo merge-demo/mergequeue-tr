@@ -9265,7 +9265,7 @@ gallowglass
 gaure
 guttera
 grudgingness 1
-ghosted
+ghosted 1
 glaringly
 grogshop
 gigmaness
