@@ -5184,7 +5184,7 @@ amores
 affectations
 affected
 adorners
-affectibility
+affectibility 1
 affecting
 aerophore
 archinformer
