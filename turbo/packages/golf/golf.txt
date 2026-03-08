@@ -3724,7 +3724,7 @@ gieaway
 goggle
 grumpishness
 greycoat 1
-giants
+giants 1
 ghoulishness 1
 glossology
 gouges
