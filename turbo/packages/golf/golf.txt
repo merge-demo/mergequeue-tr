@@ -2485,7 +2485,7 @@ grots
 guttersnipes
 gibbetwise
 gangrened
-genitalic
+genitalic 1
 girdlelike
 gaucher
 geb
