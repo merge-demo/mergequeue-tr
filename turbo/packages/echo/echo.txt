@@ -6994,7 +6994,7 @@ extractors
 embladder
 electrotitration
 enamourment
-explorable
+explorable 1
 effigiating
 estated
 emetines
