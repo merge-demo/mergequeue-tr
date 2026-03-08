@@ -7830,7 +7830,7 @@ epigoni
 espressivo
 entomotaxy
 exegetes
-epigonic
+epigonic 1
 expletive
 excardination
 encrinoid
