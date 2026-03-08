@@ -2371,7 +2371,7 @@ ectromelia
 exanguin
 exasperating
 epidotization
-exognathion
+exognathion 1
 etherealisation
 excentricity
 electroscopes
