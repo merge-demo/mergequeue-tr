@@ -9996,7 +9996,7 @@ flypaper 1
 frijole
 freyja
 frightening
-footprint 1
+footprint 2
 forewarner 1
 foreshroud
 framableness
