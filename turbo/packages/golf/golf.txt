@@ -2283,7 +2283,7 @@ gammoning
 garrisoned
 giust
 glazily
-gonofs
+gonofs 1
 greengage
 gadoid
 geyserish
