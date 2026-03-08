@@ -2104,7 +2104,7 @@ excretory
 elastica
 emboweled
 extrapolator
-elastically
+elastically 1
 extensionally
 eurycephalous
 edenite
