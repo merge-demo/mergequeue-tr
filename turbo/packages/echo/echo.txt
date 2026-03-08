@@ -2053,7 +2053,7 @@ enteroplegia 1
 elaioplast
 elamite
 elamitish
-episcope
+episcope 1
 electrophorese
 evilly
 eudialyte
