@@ -5447,7 +5447,7 @@ electuary
 exculpations
 eurithermophile
 emplastrum
-er
+er 1
 extraequilibrium
 etatist
 epidia
