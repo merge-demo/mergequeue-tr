@@ -7303,7 +7303,7 @@ gildship
 gossard
 greyflies
 gonfalonier
-glumpiness
+glumpiness 1
 guildhall
 gosports
 grainless
