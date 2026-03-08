@@ -4858,7 +4858,7 @@ encranial
 externalize 1
 expectorator
 eudemony
-electroed
+electroed 1
 exportable
 episcopolatry
 encrinic
