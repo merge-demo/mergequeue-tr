@@ -3269,7 +3269,7 @@ gunrack 1
 geriatrician
 geriatrist
 goxes
-german
+german 1
 geckos
 gunstocks
 germanify
