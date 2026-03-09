@@ -8154,7 +8154,7 @@ formicinae
 faddle
 fraught
 flourishable 1
-fob
+fob 1
 furores
 flockbed
 foghorn
