@@ -13623,7 +13623,7 @@ consignatory
 cymraeg
 cymry
 consuetude
-cynanche
+cynanche 1
 corroboreeing
 cutlases
 concentus
