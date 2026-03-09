@@ -24979,7 +24979,7 @@ autogamic
 acyl
 arthrophyma
 aphidiinae
-aerosolize
+aerosolize 1
 awelessness
 areolet
 aymoro
