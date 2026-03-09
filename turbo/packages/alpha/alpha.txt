@@ -776,7 +776,7 @@ abreed
 asyle
 acetate 1
 autostrada
-abridgable
+abridgable 1
 anticlassicalist
 anisotropical
 arborary
