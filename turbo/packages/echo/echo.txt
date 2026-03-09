@@ -1838,7 +1838,7 @@ enigmatical
 eared
 eighties
 eightieth
-edematose
+edematose 1
 elychnious
 epidiorite
 encystments
