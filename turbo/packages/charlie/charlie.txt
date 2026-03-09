@@ -9157,7 +9157,7 @@ chasmophyte
 commandeering
 constipating
 chass
-chasse
+chasse 1
 chassed
 chasseing
 chassepots
