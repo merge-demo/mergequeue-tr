@@ -5892,7 +5892,7 @@ fusibility
 flocs
 facilely
 folliculosis
-frostbites
+frostbites 1
 flogs
 fermis
 foeticidal
