@@ -4812,7 +4812,7 @@ gummiferous
 gumly
 gladiatorial
 gagelike
-gatherer
+gatherer 1
 growlingly
 gunnysack
 gunnen
