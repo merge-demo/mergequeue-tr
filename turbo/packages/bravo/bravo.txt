@@ -9824,7 +9824,7 @@ bearhide
 bistred
 beknights
 bradylexia 1
-beglitter
+beglitter 1
 basiating 1
 blemish
 biophysicochemical
