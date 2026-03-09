@@ -6121,7 +6121,7 @@ dittograph
 deriding
 divertor
 dwells
-deringa
+deringa 1
 diffuseness
 demonstrability
 did
