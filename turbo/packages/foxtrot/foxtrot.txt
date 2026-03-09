@@ -10199,7 +10199,7 @@ fetologies
 finites
 famines
 fending
-foggages
+foggages 1
 faros
 flaskful
 frog
