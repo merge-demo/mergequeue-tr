@@ -5486,7 +5486,7 @@ australasian
 acrostichic
 aftercooler
 autocollimate
-ack
+ack 1
 apological
 almoning
 aftercrop
