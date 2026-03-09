@@ -11390,7 +11390,7 @@ flashlamp 1
 furnariides
 flect
 facies
-furnish
+furnish 1
 fluorindine
 furnishable
 feckulence 1
