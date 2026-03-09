@@ -9721,7 +9721,7 @@ frenetically
 forlorner
 ferring
 frenula
-frenular
+frenular 1
 forehill
 fornicate
 friends
