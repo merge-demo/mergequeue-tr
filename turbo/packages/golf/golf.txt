@@ -4220,7 +4220,7 @@ gibeonite
 gasconism
 gynecological
 gramineousness
-gaunty
+gaunty 1
 goon 1
 gantleting
 gramophones
