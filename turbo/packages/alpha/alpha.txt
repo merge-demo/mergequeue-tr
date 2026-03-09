@@ -366,7 +366,7 @@ arrival
 aberration
 aberrational
 audioemission
-aberrative
+aberrative 1
 acinose
 abetments
 ambulant
