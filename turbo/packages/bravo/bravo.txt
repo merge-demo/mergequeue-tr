@@ -10580,7 +10580,7 @@ blueprinter
 bradyuria
 bashlik
 blastoporal
-beggarlike
+beggarlike 1
 balanus
 bromal
 brattled
