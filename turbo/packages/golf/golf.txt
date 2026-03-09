@@ -10605,7 +10605,7 @@ greenockite
 gallow
 glumose
 gallinules
-graveolence
+graveolence 1
 gemmiform
 geld
 goy
