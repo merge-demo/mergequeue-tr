@@ -2541,7 +2541,7 @@ declinational
 dipneumones
 dimmed
 distelfink
-dynasty
+dynasty 1
 denominating
 declinatory
 disentwined
