@@ -6622,7 +6622,7 @@ foeti
 foraged
 fica
 ferbams
-finewed
+finewed 1
 faence
 fofarraw
 fortifier
