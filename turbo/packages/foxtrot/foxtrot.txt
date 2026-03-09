@@ -6394,7 +6394,7 @@ fluoaluminate
 femorocaudal
 fainted
 flatcap
-fairs
+fairs 1
 farfel
 fistulariidae
 finery
