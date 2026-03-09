@@ -10299,7 +10299,7 @@ folkmot
 faultless
 fromenty
 fusilladed 1
-fromenties
+fromenties 1
 fogyishness
 fastening
 fluorated
