@@ -4751,7 +4751,7 @@ daneworts
 dermatome
 demon
 dyspepsia
-delightsomely
+delightsomely 1
 demonetise
 defenestrates
 demonetize
