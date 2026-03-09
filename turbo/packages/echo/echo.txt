@@ -12732,7 +12732,7 @@ exopterygotism
 epha
 extol
 englishman
-epilepsies
+epilepsies 1
 exorable
 exactingness
 etiolin
