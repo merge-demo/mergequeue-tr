@@ -3274,7 +3274,7 @@ fiddlestick
 frambesia 1
 fulldo
 farsight
-fivescore
+fivescore 1
 flounces
 fortier
 fulgency
