@@ -3602,7 +3602,7 @@ byronish
 brushy
 berkeleyite
 bien
-bathysophical
+bathysophical 1
 bathysphere
 bigmouths 1
 boliviano
