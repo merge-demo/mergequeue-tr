@@ -8117,7 +8117,7 @@ fructuosity
 fossilology
 foretrace
 forecastleman
-faddists
+faddists 1
 finish
 fountful
 frequentable
