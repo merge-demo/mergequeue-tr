@@ -5018,7 +5018,7 @@ beermaking
 battleship
 beermonger
 bumpoff
-beestings 1
+beestings 2
 beefers
 bouchon
 bombycilla
