@@ -11925,7 +11925,7 @@ dietetical
 draftee 1
 dephosphorization
 disembarking
-dishware
+dishware 1
 denominationally
 disbloom
 dumbfounderment
