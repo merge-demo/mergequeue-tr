@@ -5805,7 +5805,7 @@ ambulative
 atterminal
 agatiferous
 ahoy
-auxetics
+auxetics 1
 atlatl
 achromobacter
 aligner
