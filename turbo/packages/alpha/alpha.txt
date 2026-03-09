@@ -10594,7 +10594,7 @@ aphids
 ascaris
 anotia
 amidulin
-abnegating
+abnegating 1
 absinthiating
 amyelencephalous
 actionizing
