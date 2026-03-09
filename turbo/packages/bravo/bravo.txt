@@ -12912,7 +12912,7 @@ bungmaker 1
 babka
 bump
 bluenesses
-bursectomy
+bursectomy 1
 brachigerous
 bureaucratese
 boot
