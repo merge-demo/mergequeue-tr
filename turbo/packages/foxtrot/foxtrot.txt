@@ -740,7 +740,7 @@ famp 1
 famuli
 frustrater
 fana
-feoffment
+feoffment 1
 foretokening
 fluxion
 feministics
