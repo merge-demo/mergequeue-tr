@@ -1887,7 +1887,7 @@ gatherers
 gemlike
 galumph
 gooma
-gamenesses
+gamenesses 1
 graveside
 grecale
 grubstake
