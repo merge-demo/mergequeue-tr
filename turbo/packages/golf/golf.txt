@@ -7494,7 +7494,7 @@ glabellous
 gryllus
 grigri
 germanical
-graypate
+graypate 1
 gloomfully
 glitch
 glottalized
