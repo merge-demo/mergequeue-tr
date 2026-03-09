@@ -4521,7 +4521,7 @@ carnaria
 carnassial
 carnate 1
 ctimo
-corupay
+corupay 1
 cordialize
 counterassurance
 carnationist
