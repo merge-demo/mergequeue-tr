@@ -11454,7 +11454,7 @@ fusible
 fluorbenzene
 fideles
 flic
-frizzante
+frizzante 1
 frayedly
 furcule
 flaffer
