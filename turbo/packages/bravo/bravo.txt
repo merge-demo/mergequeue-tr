@@ -15003,7 +15003,7 @@ breathiness
 bookishly 1
 breathingly
 barbastel
-beaufet
+beaufet 1
 breathseller
 breba
 brewmaster
