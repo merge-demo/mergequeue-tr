@@ -10364,7 +10364,7 @@ excepter
 entropion
 ethnogeographer
 electrocataphoretic
-excantation
+excantation 1
 explains
 eternize
 epiphenomenalist
