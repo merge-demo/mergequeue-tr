@@ -4427,7 +4427,7 @@ espacement
 exoculate
 ejaculation 1
 encaptive
-entomion
+entomion 1
 exhilarative
 encarnalised
 encarnalize
