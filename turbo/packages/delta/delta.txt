@@ -15379,7 +15379,7 @@ dikaryotic
 disencumbrance
 domett
 demicivilized
-deipara
+deipara 1
 dorical
 demoralisation
 domiciled
