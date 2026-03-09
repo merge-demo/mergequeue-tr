@@ -9344,7 +9344,7 @@ garnishry
 gloved
 galenobismutite
 gobelin
-glaymore
+glaymore 1
 gorgonize
 gelatinized
 gheraoed
