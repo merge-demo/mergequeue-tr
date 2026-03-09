@@ -12512,7 +12512,7 @@ errantia
 electicism
 everyway
 exinguinal
-effare
+effare 1
 erythrean
 existimation
 eof
