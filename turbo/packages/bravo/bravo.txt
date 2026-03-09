@@ -1057,7 +1057,7 @@ burnweed
 bail
 buxeous
 barfs
-bailable
+bailable 1
 baile
 bezazz
 betanaphthol
