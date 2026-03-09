@@ -6734,7 +6734,7 @@ gaffsail
 gavyuti
 ganglioside
 geront
-gymnogyps
+gymnogyps 1
 gaboons
 geologically
 gazania
