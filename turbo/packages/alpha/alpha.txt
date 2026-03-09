@@ -5321,7 +5321,7 @@ acceder
 applanate
 attaining
 adenophthalmia
-aluminosity
+aluminosity 1
 authorizations 1
 allmouth
 aspheterism
