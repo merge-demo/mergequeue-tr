@@ -4390,7 +4390,7 @@ enbrave
 eggheadedness
 erelong
 embar
-egotize
+egotize 1
 eruptively
 electromechanical
 experiential
