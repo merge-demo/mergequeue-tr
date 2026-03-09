@@ -10796,7 +10796,7 @@ gewgawy
 granolite
 gibberella
 gabbroitic
-guttlers
+guttlers 1
 gainly
 goblinism
 gonenesses
