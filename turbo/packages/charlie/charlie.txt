@@ -2922,7 +2922,7 @@ chrysoidine
 cantatas
 cantation
 cantatrice
-coverts
+coverts 1
 chestily
 chorioids
 condylos
