@@ -9988,7 +9988,7 @@ allovers
 alongside 1
 amazulu
 aphthongal
-abayah
+abayah 1
 antaranga
 abele
 abluents
