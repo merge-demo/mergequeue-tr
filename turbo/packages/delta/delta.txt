@@ -1875,7 +1875,7 @@ debonairness 1
 deboned
 dioxin
 debones
-daemonies
+daemonies 1
 deafening
 dobies
 disablement
