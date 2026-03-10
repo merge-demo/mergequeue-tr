@@ -17346,7 +17346,7 @@ doggerels
 dichotomies
 drawcard
 druggier
-droopier
+droopier 1
 despicableness
 droopiest
 doney
