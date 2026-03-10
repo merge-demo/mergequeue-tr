@@ -10727,7 +10727,7 @@ eulamellibranchiata
 exanthemas
 ethylenically
 etrier
-excelled
+excelled 1
 entremess
 eulimidae 1
 epicoela
