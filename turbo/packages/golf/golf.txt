@@ -9943,7 +9943,7 @@ gritless
 geocratic
 guarrau
 gogglers
-glegness
+glegness 1
 grandsir
 glyptic 1
 googols
