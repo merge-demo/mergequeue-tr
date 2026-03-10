@@ -19930,7 +19930,7 @@ adenofibrosis
 anagnorisis
 apperceived
 animalculism
-apozymase
+apozymase 1
 astrocytomata
 arterialized
 anemochoric
