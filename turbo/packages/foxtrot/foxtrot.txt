@@ -10921,7 +10921,7 @@ foremastmen
 fulgoroidea
 fruitist
 forgeful 1
-footgrip
+footgrip 1
 fi
 frighten
 foilable
