@@ -21506,7 +21506,7 @@ cluster
 concorporate
 culverts
 concorporated
-compartimento
+compartimento 1
 concourse
 cliqueless
 confessions
