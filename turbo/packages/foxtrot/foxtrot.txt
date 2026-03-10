@@ -10471,7 +10471,7 @@ ferocity
 februarius
 flaxtail
 frontwards
-fragrant
+fragrant 1
 fermatian
 fungitoxic 1
 factionalist
