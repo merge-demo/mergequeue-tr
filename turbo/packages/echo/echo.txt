@@ -4295,7 +4295,7 @@ excerpts
 effectible
 edifyingly
 en
-extirpation
+extirpation 1
 epicarides 1
 ejectment
 exaltedness
