@@ -18336,7 +18336,7 @@ duodecastyle
 duodecennial
 duodecillions
 doxy
-dreng
+dreng 1
 dryas
 didachist
 duodecimfid
