@@ -11158,7 +11158,7 @@ ethereal
 encroach
 evolvement
 enterers
-evalue
+evalue 1
 epigraphist 1
 evanesced
 eternalism
