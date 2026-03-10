@@ -24997,7 +24997,7 @@ awhape
 antheriferous
 amphitheatric
 anthroic
-alliterating
+alliterating 1
 antipatriarchally
 awhile
 atlatls 1
