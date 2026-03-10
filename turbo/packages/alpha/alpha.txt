@@ -48,7 +48,7 @@ absorbancy
 aristodemocracy
 aquativeness
 astrakhan
-alcyone
+alcyone 1
 achira
 allusively
 arcella
