@@ -5887,7 +5887,7 @@ aggiornamenti
 antidicomarianite
 agglomerate
 anychia
-amblyoscope
+amblyoscope 1
 agglomerates
 agglomeration 1
 agglomerative
