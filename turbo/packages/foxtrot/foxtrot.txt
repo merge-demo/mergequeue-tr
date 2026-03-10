@@ -1038,7 +1038,7 @@ farinose
 flannelly
 flourishing
 farinosel
-foussa
+foussa 1
 fulfill
 farmeress
 fireling
