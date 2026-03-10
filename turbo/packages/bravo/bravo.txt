@@ -1493,7 +1493,7 @@ backbiter
 boyarisms
 blighter
 balkish
-brigous
+brigous 1
 bodaciously
 bahadurs
 beggar
