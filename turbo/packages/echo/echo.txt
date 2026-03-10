@@ -3406,7 +3406,7 @@ embark
 epichorial
 embarkations
 epitomize
-eucharistized
+eucharistized 1
 extrajudicial
 embarkment 1
 embarks

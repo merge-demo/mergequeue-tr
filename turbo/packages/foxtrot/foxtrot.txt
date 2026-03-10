@@ -1263,7 +1263,7 @@ fearful
 flatten
 filmdom 1
 frostier
-filariform
+filariform 1
 familistic 1
 foreordinated
 fermentative
