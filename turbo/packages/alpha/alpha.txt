@@ -6908,7 +6908,7 @@ airspaces
 ancience
 anterin
 alec
-airspeeds
+airspeeds 1
 az
 adrent
 airt
