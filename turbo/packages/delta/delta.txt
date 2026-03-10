@@ -11001,7 +11001,7 @@ degusts
 disclosable
 dozen
 dhoti
-dumfound
+dumfound 1
 dobbers
 divides
 deanthropomorphic
