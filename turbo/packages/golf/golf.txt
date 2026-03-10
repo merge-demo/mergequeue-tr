@@ -44,7 +44,7 @@ gabions
 gynecologies
 geomyid
 gunfires 1
-genotypically
+genotypically 1
 groundswell
 gableboard
 gypping
