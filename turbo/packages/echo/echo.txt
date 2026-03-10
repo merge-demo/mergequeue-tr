@@ -14137,7 +14137,7 @@ embusqu
 exopterygotic
 exegetical
 endosiphonal 1
-extensory
+extensory 1
 episcopates
 ebonizing
 ephemerality
