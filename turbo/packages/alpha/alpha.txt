@@ -11952,7 +11952,7 @@ ananism
 ananite
 anelace
 aplanospore
-anankastic
+anankastic 1
 aqueomercurial
 allergen
 ananta
