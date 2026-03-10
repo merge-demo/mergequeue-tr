@@ -1884,7 +1884,7 @@ calicoed
 cordwains
 chickling
 conjugative
-candour
+candour 1
 civvies 1
 cuttoe
 cambium
