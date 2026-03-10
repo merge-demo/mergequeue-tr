@@ -1830,7 +1830,7 @@ gibbles
 gabbier
 gatekeepers
 grandeurs
-glos
+glos 1
 gentile
 groupage
 gasparillo
