@@ -12582,7 +12582,7 @@ enlure
 echuca 1
 eating
 epitheliomas
-eatableness
+eatableness 1
 embezzlement
 exochorion
 enterocolitis
