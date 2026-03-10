@@ -4267,7 +4267,7 @@ fatiguability
 fulsomely
 ferdwit
 foreshortens 1
-fendable
+fendable 1
 flunkyism
 fastuous
 firk
