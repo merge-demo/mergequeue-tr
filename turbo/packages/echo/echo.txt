@@ -10788,7 +10788,7 @@ eleanor
 expurgatory
 estivates
 euphemizer
-emanation
+emanation 1
 echoingly
 ethicalism
 exequatur
