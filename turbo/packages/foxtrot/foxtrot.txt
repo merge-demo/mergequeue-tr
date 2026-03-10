@@ -10669,7 +10669,7 @@ facecloth
 filtrability 1
 filberts
 facultate
-fegatella
+fegatella 1
 fickly
 fitzroy
 feltlike
