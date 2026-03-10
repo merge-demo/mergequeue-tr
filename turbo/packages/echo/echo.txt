@@ -8396,7 +8396,7 @@ equerries
 eardrum
 erodible
 endodermic 1
-enchains
+enchains 1
 enstamp 1
 extents
 emancipatress
