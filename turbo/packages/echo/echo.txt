@@ -237,7 +237,7 @@ elate
 elaborative
 easer 1
 episodic
-electroluminescence
+electroluminescence 1
 easy
 epionychium
 extratubal
