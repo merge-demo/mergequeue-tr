@@ -5421,7 +5421,7 @@ furor
 flurt
 fittingness
 fault
-fleecy
+fleecy 1
 flyblown
 forager
 fashion
