@@ -10657,7 +10657,7 @@ cavies
 coagment
 caribou
 chimes
-chymes
+chymes 1
 caseoses
 covering
 ctenophorous
