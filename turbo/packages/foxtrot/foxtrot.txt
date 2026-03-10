@@ -9091,7 +9091,7 @@ fuzee
 fruitarian
 ferriprussic
 fodient
-flamineous
+flamineous 1
 feignedness
 fabrications
 fungosity
