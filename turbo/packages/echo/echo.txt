@@ -7084,7 +7084,7 @@ evadible 2
 extemporizing
 envaye
 episcenia
-excerpting
+excerpting 1
 erpetology 1
 empanelled
 envelope
