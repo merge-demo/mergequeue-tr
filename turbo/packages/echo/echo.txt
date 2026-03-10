@@ -9833,7 +9833,7 @@ egocentricity
 enthronising 1
 endoceras
 engin
-eligibleness
+eligibleness 1
 enslumber
 esterified
 eclipsation

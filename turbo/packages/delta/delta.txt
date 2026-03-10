@@ -17593,7 +17593,7 @@ dubitant
 dexterical
 decastylar
 dichoree
-dimerous
+dimerous 1
 dacus
 duant
 dentigerous
