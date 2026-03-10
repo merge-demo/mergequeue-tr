@@ -8229,7 +8229,7 @@ benefice
 bienvenue
 bayaderes
 bespurred
-bier
+bier 1
 broid
 briolet
 baleens
