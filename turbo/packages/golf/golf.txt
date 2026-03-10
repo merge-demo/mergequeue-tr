@@ -5112,7 +5112,7 @@ grisoutine
 gastratrophia
 geckotian
 gossipred
-gesticulator
+gesticulator 1
 grumbled
 glossocomon
 guavas
