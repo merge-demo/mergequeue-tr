@@ -7754,7 +7754,7 @@ eremitical
 extractiform
 encephalogram
 equispatial
-exotisms
+exotisms 1
 easternmost 1
 embolite
 expedientially
