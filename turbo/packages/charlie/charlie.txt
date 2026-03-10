@@ -11418,7 +11418,7 @@ choana
 consultations
 choanephora
 cystopyelography
-choanocyte
+choanocyte 1
 cotta
 choanophorous
 cataplasm
