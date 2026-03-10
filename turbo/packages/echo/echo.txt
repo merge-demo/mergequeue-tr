@@ -3081,7 +3081,7 @@ excreters
 exor
 esthetes
 endarterium
-entellus
+entellus 1
 escar
 et
 emp
