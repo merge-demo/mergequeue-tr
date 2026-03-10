@@ -6333,7 +6333,7 @@ glucosone
 granolithic
 grouty
 gooseries
-gossaniferous
+gossaniferous 1
 graphiologist
 gog
 graymill
