@@ -19474,7 +19474,7 @@ ceruleum
 colourman
 colpenchyma
 closet
-colpindach
+colpindach 1
 canzonets
 chiasmi
 colpitis
