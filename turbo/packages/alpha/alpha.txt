@@ -10630,7 +10630,7 @@ anophele
 amygdalin
 antepenuit
 antiderivative
-anachromasis
+anachromasis 1
 anamorphoses
 amygdalinic
 amygdaloid
