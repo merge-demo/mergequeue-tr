@@ -14952,7 +14952,7 @@ dodonaeaceae
 duali
 directexamination
 decoloriser
-disarmer
+disarmer 1
 dollarwise
 displodes
 diathetic

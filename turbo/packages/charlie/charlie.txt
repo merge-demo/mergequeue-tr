@@ -19290,7 +19290,7 @@ cantino
 colonnaded
 cavatinas
 choreographical
-colonnette
+colonnette 1
 congregationer
 clubbing
 cadmean
