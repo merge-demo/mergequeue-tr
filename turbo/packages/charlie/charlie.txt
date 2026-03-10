@@ -15793,7 +15793,7 @@ cleats
 cyclonologist
 cheilitis
 copetitioner
-cleavable
+cleavable 1
 cleavage
 cleavages
 cleaveful
