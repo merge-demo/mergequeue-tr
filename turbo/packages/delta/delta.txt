@@ -5837,7 +5837,7 @@ depressibilities
 deozonization
 dewy
 denuders
-desecrator
+desecrator 1
 decompression
 dollmaking
 demagnetizer
