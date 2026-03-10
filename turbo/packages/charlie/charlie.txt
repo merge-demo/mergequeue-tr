@@ -6818,7 +6818,7 @@ cellulin
 contangoes
 cuddly 1
 cryptesthesia
-conscientiousness
+conscientiousness 1
 curares
 cytologist
 cellulofibrous
