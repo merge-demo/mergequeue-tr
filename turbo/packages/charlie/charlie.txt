@@ -20492,7 +20492,7 @@ celliferous
 croakiness
 chappaul
 chrysenic
-compartmented
+compartmented 1
 cracinae
 centenionalis
 corundum
