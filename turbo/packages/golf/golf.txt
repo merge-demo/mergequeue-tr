@@ -5088,7 +5088,7 @@ gyps
 glaucophanite
 gundogs
 guerdon
-gammick
+gammick 1
 ganoidei
 gratins
 greek
