@@ -12852,7 +12852,7 @@ constitutionless 1
 churchwardens
 churchwardenship
 churchwoman
-churchwomen
+churchwomen 1
 churel
 churidars
 cyclized
