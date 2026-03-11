@@ -579,7 +579,7 @@ folklorism
 forjudger
 flutey 1
 falloff
-flamier
+flamier 1
 frequentative
 frappe
 funerate
