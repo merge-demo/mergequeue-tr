@@ -8430,7 +8430,7 @@ exhibitioner 2
 ethopoetic
 extensure
 exsuction
-eurytropic
+eurytropic 1
 electroanalytic
 electroencephalography
 elephantry 1
