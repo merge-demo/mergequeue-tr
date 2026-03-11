@@ -1233,7 +1233,7 @@ guetre
 gramy
 gruffly
 gambler
-gladys
+gladys 1
 gonakie
 gad
 gloominess 1
