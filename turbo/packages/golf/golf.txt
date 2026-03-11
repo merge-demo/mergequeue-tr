@@ -9530,7 +9530,7 @@ gerbe 1
 gastornithidae
 groved
 greenskeeper
-gur
+gur 1
 gridiron
 giustina
 ghostism
