@@ -19717,7 +19717,7 @@ combinatorially
 combinators
 copaiva
 combined
-ctene
+ctene 1
 cornucopias
 concertinas
 condominium
