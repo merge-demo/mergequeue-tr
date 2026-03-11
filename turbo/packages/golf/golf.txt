@@ -7546,7 +7546,7 @@ gambet
 gnus
 ghastfulness
 glucolysis
-gruntle
+gruntle 1
 geophyte
 gamash
 gowdnie
