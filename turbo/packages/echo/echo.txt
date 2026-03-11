@@ -13064,7 +13064,7 @@ evaluations
 expermentized
 eucaine 1
 exosculation
-embankment
+embankment 1
 ergates 1
 embassador
 eutaxite
