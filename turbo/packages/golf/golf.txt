@@ -9120,7 +9120,7 @@ gripey
 gusain
 glaceed
 garapata
-geogonic
+geogonic 1
 gouldian
 glauconitization
 gripgrass
