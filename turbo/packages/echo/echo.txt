@@ -10314,7 +10314,7 @@ expendable
 equipostile
 electuaries
 enneacontahedral
-exosmic
+exosmic 1
 extemporise
 exaggerative
 eupomatiaceae
