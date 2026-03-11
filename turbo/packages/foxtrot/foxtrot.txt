@@ -11085,7 +11085,7 @@ flicflac
 fumariaceous
 flaunter
 foreordains
-freightment
+freightment 1
 flense
 footrace
 flew
