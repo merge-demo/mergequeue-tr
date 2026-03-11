@@ -8333,7 +8333,7 @@ galvanoglyphy
 glucofrangulin
 gedecktwork
 gheraoes
-geast
+geast 1
 gulfing
 geoblast
 gaize
