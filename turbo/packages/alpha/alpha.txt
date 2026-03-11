@@ -3353,7 +3353,7 @@ andean
 argestes
 antihierarchic
 arborescence
-adamite
+adamite 1
 acanthocereus
 acetonation
 adamitism
