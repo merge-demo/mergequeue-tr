@@ -9415,7 +9415,7 @@ destructors
 diether
 disenroll
 disheathing
-dehematize
+dehematize 1
 disobeyal
 digamies
 divekeeper
