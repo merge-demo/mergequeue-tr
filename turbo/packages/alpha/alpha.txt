@@ -5159,7 +5159,7 @@ anelastic
 amourist
 accend
 avouching
-anarya
+anarya 1
 afterbirth
 amnioallantoic
 afd
