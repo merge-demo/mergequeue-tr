@@ -14679,7 +14679,7 @@ djin
 disrespondency
 dissected
 describe
-dowers
+dowers 1
 doxies
 dieselize
 decurrency
