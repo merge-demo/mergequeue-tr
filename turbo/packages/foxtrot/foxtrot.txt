@@ -8156,7 +8156,7 @@ fraught
 flourishable 1
 fob 1
 furores
-flockbed
+flockbed 1
 foghorn
 forewings
 fichus
