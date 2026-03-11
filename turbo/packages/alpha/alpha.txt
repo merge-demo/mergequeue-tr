@@ -12558,7 +12558,7 @@ avidities
 anemony
 anaspida
 anemopathy
-astroscope
+astroscope 1
 antisudorific
 anemoscope
 albifying
