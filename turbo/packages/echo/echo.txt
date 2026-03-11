@@ -13491,7 +13491,7 @@ ethnomusicology
 enterparlance
 epidural
 episiorrhagia
-exsect
+exsect 1
 exsanguinating
 exposing
 ephererist
