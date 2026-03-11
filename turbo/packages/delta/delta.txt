@@ -16519,7 +16519,7 @@ dervishlike
 despatcher
 darii
 dilucidate
-disdainable
+disdainable 1
 diomedes
 dictated
 dehydrofreezing
