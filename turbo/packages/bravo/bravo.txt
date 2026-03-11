@@ -3671,7 +3671,7 @@ bedighting
 bipinnately
 batlon
 blackball
-budded
+budded 1
 bumbleberry
 betacism
 beastliest
