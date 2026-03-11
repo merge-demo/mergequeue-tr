@@ -11352,7 +11352,7 @@ bleachability
 barograms
 boneyard
 biologism
-bipunctate
+bipunctate 1
 blowse 1
 bargeman
 barse
