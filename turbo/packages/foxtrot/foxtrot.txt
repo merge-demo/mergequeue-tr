@@ -3204,7 +3204,7 @@ flimsier
 ficklety
 fosterable
 fictionalize
-fungation
+fungation 1
 fourcher
 foots
 friers
