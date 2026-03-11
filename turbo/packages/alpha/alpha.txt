@@ -3471,7 +3471,7 @@ amarillos
 additionary
 associationalism 1
 additionist
-abogado
+abogado 1
 aequipalpia 1
 accusable
 antimissile
