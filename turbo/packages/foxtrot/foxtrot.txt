@@ -9207,7 +9207,7 @@ furiosa
 fibrinopurulent
 fettling 1
 fraised
-frug
+frug 1
 fertilities
 fraises
 fretwise
