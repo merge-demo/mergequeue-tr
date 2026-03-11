@@ -9460,7 +9460,7 @@ fondlesome
 florets 1
 fibdom
 functionalism
-faveoluli
+faveoluli 1
 flambeaus
 frazzling
 folkishness 1
