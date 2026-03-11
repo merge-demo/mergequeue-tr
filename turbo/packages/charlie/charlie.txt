@@ -2348,7 +2348,7 @@ canals
 cylindrocellular
 cumin
 calinda 1
-ccw
+ccw 1
 canamo
 cameriera
 cranesbill
