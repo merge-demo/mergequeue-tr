@@ -13096,7 +13096,7 @@ abreacted
 antipoles
 authenticity
 affronty
-allmouths
+allmouths 1
 arsonous
 acidimetry
 aniconic
