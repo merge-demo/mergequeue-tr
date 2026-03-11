@@ -7658,7 +7658,7 @@ ectocrine
 envying
 espece
 encircling
-extroversion
+extroversion 1
 epicuticular
 entomotomist
 ectodactylism

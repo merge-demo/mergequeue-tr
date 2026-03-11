@@ -2176,7 +2176,7 @@ campier
 campiest
 campylite
 campylometer
-cynicist
+cynicist 1
 coffeecup
 campyloneuron
 cowhide
