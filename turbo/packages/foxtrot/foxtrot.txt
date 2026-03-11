@@ -623,7 +623,7 @@ fleshes
 forehand
 farrantly
 forelimb
-funnies
+funnies 1
 frame
 facesaving
 falconelle
