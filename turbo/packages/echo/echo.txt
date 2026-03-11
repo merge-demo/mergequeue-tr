@@ -2548,7 +2548,7 @@ euros
 exorcist
 endocritic
 eminency
-eatable
+eatable 1
 embracery
 ezra
 emptiable
