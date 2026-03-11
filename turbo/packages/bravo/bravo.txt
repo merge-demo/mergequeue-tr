@@ -17018,7 +17018,7 @@ brownistic
 barkan
 bulbule
 bespoken
-bovate
+bovate 1
 bure
 blazoner
 baaing
