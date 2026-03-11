@@ -2177,7 +2177,7 @@ grawls
 gaycat
 gastrotomy
 grainer
-gaze
+gaze 1
 genteelly 1
 gunslinging
 glout
