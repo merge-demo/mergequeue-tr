@@ -11629,7 +11629,7 @@ fylgja
 fosite
 funestal
 forehew
-fustigatory
+fustigatory 1
 fumy
 friendship
 foliaceous
