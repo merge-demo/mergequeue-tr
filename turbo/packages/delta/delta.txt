@@ -1556,7 +1556,7 @@ deadfalls
 deviler
 dim
 denominant
-deadheartedly
+deadheartedly 1
 deadheartedness
 dominancy
 defilades
