@@ -14077,7 +14077,7 @@ draughtman
 distributary
 distributaries
 designative
-doocot
+doocot 1
 dolichocephalic
 doggrel
 distributer 1
