@@ -6444,7 +6444,7 @@ benzoylation
 benzoinated 2
 borize
 blas
-burely
+burely 1
 barfy
 benzonitrile
 behedge
