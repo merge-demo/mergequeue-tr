@@ -23600,7 +23600,7 @@ auntlike
 auntre 1
 acidemia
 antistrophal
-auntrous
+auntrous 1
 antiethnic
 auntsary
 austrophil

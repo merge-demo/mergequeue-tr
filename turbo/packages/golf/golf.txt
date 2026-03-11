@@ -5939,7 +5939,7 @@ gluemaker
 glutinative
 granuloadipose
 gingelies
-giftedness
+giftedness 1
 guaba 1
 gamori
 gaur
