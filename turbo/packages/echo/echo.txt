@@ -8326,7 +8326,7 @@ effierce
 evangelise
 enscrolls
 eternizing
-enslaved
+enslaved 1
 ethylbenzene
 ecclesiarchy
 endocyemate
