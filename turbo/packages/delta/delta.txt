@@ -11624,7 +11624,7 @@ dostoevsky
 drachms
 damsite
 denser 2
-discursative
+discursative 1
 discommune 1
 denominates
 disburgeon
