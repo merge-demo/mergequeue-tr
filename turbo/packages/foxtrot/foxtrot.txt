@@ -6659,7 +6659,7 @@ frequent
 forecontrive
 fenner
 flingers
-faintheartedly
+faintheartedly 1
 frustrations
 folksily 1
 flame
