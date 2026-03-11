@@ -4699,7 +4699,7 @@ flet
 frettage
 fictation
 frumentarious
-flabbergast
+flabbergast 1
 forkfuls
 fougue
 feathermonger
