@@ -12201,7 +12201,7 @@ detector
 dampers
 despoticly
 didest
-deviators
+deviators 1
 dysfunctions 1
 disfurnish
 deport
