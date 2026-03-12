@@ -10059,7 +10059,7 @@ gemot
 gravedigger
 gelofer
 gaelicization
-gimmal
+gimmal 1
 gyneconitis
 grabens
 gumshoed
