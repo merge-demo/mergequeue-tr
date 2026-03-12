@@ -4679,7 +4679,7 @@ endemics
 encyclopedic
 ebauche
 etherialisation
-exacerbating
+exacerbating 1
 egence
 envire
 esrogs
