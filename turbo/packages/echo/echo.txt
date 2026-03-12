@@ -7116,7 +7116,7 @@ epithesis
 energic
 envious
 expressivity
-expelling
+expelling 1
 esophagismus
 epitaxially
 embryomata
