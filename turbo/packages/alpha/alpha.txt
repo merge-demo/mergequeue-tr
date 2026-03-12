@@ -20524,7 +20524,7 @@ aesculus
 antiasthmatic
 arteriorenal
 accentless
-amnesty
+amnesty 1
 airfreight
 arteriospasm
 arteriostenosis
