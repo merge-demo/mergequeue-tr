@@ -2245,7 +2245,7 @@ fencelessness
 fengite
 fanout
 feudalisation
-frolics
+frolics 1
 fayalite
 funnymen
 fathering
