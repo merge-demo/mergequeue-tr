@@ -827,7 +827,7 @@ gauk
 grassing
 gonadotrophic
 greenlandite
-gastrostenosis
+gastrostenosis 1
 genets
 glucosane
 ghurry
