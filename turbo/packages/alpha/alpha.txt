@@ -15509,7 +15509,7 @@ ardelia
 auxochromic
 audivise
 armchaired
-anthracnose
+anthracnose 1
 abstracted
 angelot
 actualized 1
