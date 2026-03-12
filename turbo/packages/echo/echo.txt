@@ -13217,7 +13217,7 @@ embosser
 ephydra
 expiscation
 ekphorias
-explainable 1
+explainable 2
 expropriated
 explainableness
 eductor
