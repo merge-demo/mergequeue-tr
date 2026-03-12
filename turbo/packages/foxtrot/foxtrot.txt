@@ -3032,7 +3032,7 @@ flatcar
 foregone
 fractionalization
 fibril
-fuzing
+fuzing 1
 firker
 filtratable
 fairily
