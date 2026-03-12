@@ -2560,7 +2560,7 @@ durable
 decartelized
 declutch
 dieretic
-divise
+divise 1
 duad
 discouragements
 docetist
