@@ -6992,7 +6992,7 @@ glazier
 glamorizes
 griffes 1
 grillade
-gerundially
+gerundially 1
 grindle
 gomart
 gigameter
