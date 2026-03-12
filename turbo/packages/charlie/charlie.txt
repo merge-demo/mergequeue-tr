@@ -2849,7 +2849,7 @@ coambassador
 canonising
 canonist
 canonistical
-canonized
+canonized 1
 commutability
 carboxyhemoglobin
 cetorhinoid
