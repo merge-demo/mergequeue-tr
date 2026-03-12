@@ -13560,7 +13560,7 @@ assonant
 anacardiaceae
 atwain
 allo
-announce
+announce 1
 anglicizes
 announced
 agronomial
