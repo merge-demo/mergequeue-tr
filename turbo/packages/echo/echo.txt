@@ -10715,7 +10715,7 @@ eaver
 enwraps
 exedra
 elicitory
-etherializing
+etherializing 1
 equiformal 1
 egriot
 eulachan

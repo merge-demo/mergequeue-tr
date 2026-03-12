@@ -9472,7 +9472,7 @@ dinornithidae
 digesting
 dodecadrachm
 digestively
-dural
+dural 1
 digestiveness
 dipteroi
 diamonded
