@@ -14517,7 +14517,7 @@ anuloma
 anthropometric
 acrocarpi
 allan
-anthropometrist
+anthropometrist 1
 affiliated
 anthropomophitism
 antiphrastic
