@@ -8976,7 +8976,7 @@ diarchies
 disconcerting
 dicyemidae
 dissolvent
-deprivement
+deprivement 1
 dicing
 dhow
 dicynodontia
