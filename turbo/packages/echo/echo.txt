@@ -1353,7 +1353,7 @@ epode 1
 encloser
 endoskeletal
 essentialness
-exomis
+exomis 1
 evasional
 ebcdic
 excludability
