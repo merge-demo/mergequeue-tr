@@ -4009,7 +4009,7 @@ galbulus
 gingles
 gaddingly
 groomsman
-gigaton
+gigaton 1
 glossator
 gimberjawed
 globigerina

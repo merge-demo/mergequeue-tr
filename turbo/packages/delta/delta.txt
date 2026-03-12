@@ -7913,7 +7913,7 @@ dexiotropous
 dewrot
 durban 1
 dramaticule
-devilries
+devilries 1
 distilery
 dowitch
 didapper
