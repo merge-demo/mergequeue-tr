@@ -2426,7 +2426,7 @@ fractur
 frizzle
 fingered
 frisco
-farandola
+farandola 1
 frazer
 fulgourous
 feasters
