@@ -5130,7 +5130,7 @@ fellas 1
 frivolous
 fawns
 fructure
-flasker
+flasker 1
 fibrochondritis
 furless
 flaite
