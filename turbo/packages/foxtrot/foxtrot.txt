@@ -6715,7 +6715,7 @@ feering
 foresworn 1
 foiter
 frayed
-fried
+fried 1
 fronded
 fissate
 folacin
