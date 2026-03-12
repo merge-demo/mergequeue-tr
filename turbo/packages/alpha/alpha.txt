@@ -4298,7 +4298,7 @@ afterstain
 albuminosis
 adrenocorticotropic
 anthracolithic
-astructive
+astructive 1
 adstipulate
 antrophore
 adrenotropic
