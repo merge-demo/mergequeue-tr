@@ -337,7 +337,7 @@ fayumic
 fricandelle 1
 francisc
 fearsomely
-forkful
+forkful 1
 fixers
 failingness
 facultative
