@@ -5284,7 +5284,7 @@ cassinos
 cassioberry
 carmela
 catamenia
-cassiope
+cassiope 1
 curvette
 cassiopeia
 cuculus
