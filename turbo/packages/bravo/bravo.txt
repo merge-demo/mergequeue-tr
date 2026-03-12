@@ -1626,7 +1626,7 @@ ballone
 ballones
 brasier
 boxfuls
-boiguacu
+boiguacu 1
 ballonne
 bewrays
 ballooners
