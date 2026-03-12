@@ -15033,7 +15033,7 @@ doggerelizing
 diphthongising
 dendritical
 disrout
-durnedest
+durnedest 1
 decided
 deformer
 doggerelling
