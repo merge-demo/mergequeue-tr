@@ -6530,7 +6530,7 @@ flyboats
 falconiform
 franseria
 flunkeyism
-feltness
+feltness 1
 frounce
 flammulation
 flexile
