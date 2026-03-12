@@ -846,7 +846,7 @@ frown
 felinely
 ferrets 1
 flummox
-fannia
+fannia 1
 forbecause
 fanon
 fronted
