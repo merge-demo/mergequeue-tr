@@ -2826,7 +2826,7 @@ autocamping
 acromicria
 antimeres
 aspersers
-autodiagnosis
+autodiagnosis 1
 acromiocoracoid
 amateurishly
 alite
