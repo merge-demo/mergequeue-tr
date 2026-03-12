@@ -10003,7 +10003,7 @@ coffles
 cheries
 cosmotron
 coronavirus
-condescension
+condescension 1
 cherry
 cherryblossom
 cherried
