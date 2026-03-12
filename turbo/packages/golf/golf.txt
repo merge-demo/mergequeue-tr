@@ -527,7 +527,7 @@ gluten
 germproof
 geeldikkop
 groutier 1
-gavialis
+gavialis 1
 guzzles
 galleins
 gomphocarpus
