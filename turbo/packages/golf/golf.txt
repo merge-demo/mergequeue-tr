@@ -136,7 +136,7 @@ girdled
 guerdoned
 gyros
 gangrening 1
-gadrooning
+gadrooning 1
 gersum
 golkakra
 glacises
