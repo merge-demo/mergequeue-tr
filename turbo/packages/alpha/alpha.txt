@@ -24462,7 +24462,7 @@ autotoxic
 autotransformer
 archeologically
 argenol
-attemperately
+attemperately 1
 aetheric
 archsynagogue
 anglo
