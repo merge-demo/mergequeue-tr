@@ -7897,7 +7897,7 @@ actinology
 aleyrodes
 auricular
 advisers
-aleknight
+aleknight 1
 apractic 1
 archpastor
 agreat
