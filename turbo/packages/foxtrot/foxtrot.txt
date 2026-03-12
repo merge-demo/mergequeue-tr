@@ -1154,7 +1154,7 @@ facials
 fiberization
 fidelis
 figworm 1
-flax
+flax 1
 fatally
 feebleminded 1
 feller
