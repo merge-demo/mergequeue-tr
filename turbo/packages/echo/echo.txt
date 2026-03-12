@@ -10747,7 +10747,7 @@ extort
 evangelically
 ephemeran
 extramoralist
-emer
+emer 1
 encomiastical
 endogalvanism
 eucnemidae
