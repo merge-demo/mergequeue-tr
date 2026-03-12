@@ -3152,7 +3152,7 @@ gelasian
 germanophobe
 ghostship
 gnomon
-gutturalizing
+gutturalizing 1
 gramoches
 gypsywort
 geoscopic
