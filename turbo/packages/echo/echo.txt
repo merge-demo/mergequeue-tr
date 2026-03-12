@@ -14198,7 +14198,7 @@ equidistance
 exuscitate 1
 estrif
 enlists
-effecters
+effecters 1
 enjoyments
 enow
 equiradiate
