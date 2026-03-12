@@ -8257,7 +8257,7 @@ enatant
 eure
 epigeic
 escapado
-epitoke
+epitoke 1
 epigones
 erratums
 emulate
