@@ -519,7 +519,7 @@ drybrush
 disobliged 1
 dalmanites
 discocarpous
-dalmatic
+dalmatic 1
 dalt
 dawen
 dalton
