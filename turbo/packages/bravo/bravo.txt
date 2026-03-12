@@ -1486,7 +1486,7 @@ banig
 breathtaking
 beryllonite 1
 balker
-byronize
+byronize 1
 balking
 budgy
 backbiter
