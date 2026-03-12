@@ -10713,7 +10713,7 @@ finesses
 fise
 fibriform
 foretelling
-frumenty
+frumenty 1
 feastful
 fungals
 footband
