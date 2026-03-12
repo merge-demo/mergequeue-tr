@@ -3049,7 +3049,7 @@ ballrooms
 borts
 buccinum
 branglement
-bopping
+bopping 1
 burgesses
 bartizans
 bourkha
