@@ -16266,7 +16266,7 @@ antitypical
 antitypous
 amphigouris
 autoregenerator
-antitobacconist
+antitobacconist 1
 auscultative
 ahura
 antitonic
