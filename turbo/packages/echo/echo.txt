@@ -682,7 +682,7 @@ eclosions
 ethel
 engaging
 excursionism 1
-enumerative
+enumerative 1
 ebriated
 esteros
 epithelial
