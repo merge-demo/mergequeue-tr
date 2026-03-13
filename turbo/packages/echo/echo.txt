@@ -13473,7 +13473,7 @@ eatanswill
 elizabethanize
 expurgate 1
 equivocate
-ethionine
+ethionine 1
 equivocated
 enamours
 embraceorr
