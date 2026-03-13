@@ -6666,7 +6666,7 @@ enterotoxication
 earthshattering
 evenmindedness
 enlight
-equestrianize
+equestrianize 1
 eclipser
 enspirit
 esteriferous
