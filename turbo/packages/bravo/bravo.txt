@@ -2916,7 +2916,7 @@ bilocation
 bottleful 1
 broadcasts
 broadthroat
-biverbal 1
+biverbal 2
 beclatter
 bestride
 boxlike
