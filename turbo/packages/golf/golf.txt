@@ -7029,7 +7029,7 @@ gutturopalatal
 gelidity
 genetous
 ganglioneure
-ganisters
+ganisters 1
 goosegog
 glycerizin
 guignardia
