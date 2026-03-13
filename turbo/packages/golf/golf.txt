@@ -847,7 +847,7 @@ gambogian
 gombroons
 grangerise
 gonagia 1
-goban
+goban 1
 genistin
 granulater
 geonegative
