@@ -6845,7 +6845,7 @@ gatling
 guyed
 gitterns
 guttiferae
-gehenna
+gehenna 1
 guglio
 gangliomata
 graftonite
