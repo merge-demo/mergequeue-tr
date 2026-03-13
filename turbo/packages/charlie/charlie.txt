@@ -4248,7 +4248,7 @@ caressed
 captainries
 caresser
 choosable
-clobberer
+clobberer 1
 caressers
 costively
 caressingly
