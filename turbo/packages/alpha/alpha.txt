@@ -24879,7 +24879,7 @@ ampyx
 autocoherer
 acknown
 antinoness
-aponeurotome
+aponeurotome 1
 anarchosocialist
 agrees
 avuncular
