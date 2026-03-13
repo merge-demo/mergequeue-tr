@@ -10680,7 +10680,7 @@ extrasyllabic
 ensigning
 embraced
 endopleural
-elliptic
+elliptic 1
 euripus
 exprobate
 erebus
