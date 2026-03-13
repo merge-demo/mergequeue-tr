@@ -9788,7 +9788,7 @@ grantor
 gue
 goury
 globulinuria
-gypsyism
+gypsyism 1
 glycerolate
 glossemes
 glares
