@@ -22674,7 +22674,7 @@ connumerate
 childing 1
 chyloid
 correlative
-calorized
+calorized 1
 continualness 1
 chebule
 crossgrainedness
