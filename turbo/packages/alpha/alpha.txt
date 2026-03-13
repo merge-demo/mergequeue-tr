@@ -14186,7 +14186,7 @@ appellant
 anteporticos
 anteprohibition
 acetarsone
-antequalm
+antequalm 1
 argumentator
 admonitive
 abmho
