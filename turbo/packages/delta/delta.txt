@@ -11580,7 +11580,7 @@ dispeopling
 demophobe
 digester
 dunkle 1
-diploid
+diploid 1
 divulgator
 disposable
 discontentedness
