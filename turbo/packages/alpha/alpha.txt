@@ -21930,7 +21930,7 @@ ananaplas 1
 acrocephaly
 autovaccination
 associatedness
-andesine
+andesine 1
 autolyse
 autocarist
 ambagious
