@@ -17400,7 +17400,7 @@ didascaly
 direction
 disjoinable
 decream
-dropsies
+dropsies 1
 distomatidae
 dropwise
 despairer
