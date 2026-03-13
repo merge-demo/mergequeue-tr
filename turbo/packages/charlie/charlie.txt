@@ -14920,7 +14920,7 @@ cothurns 1
 citrangeade
 carronade
 capsize
-clouring
+clouring 1
 contorsion
 chlorpropamide
 counterparallel
