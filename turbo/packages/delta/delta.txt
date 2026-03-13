@@ -16647,7 +16647,7 @@ dipteraceous
 dialectologic 1
 drails
 driech
-derangements
+derangements 1
 distich
 drainage
 drained
