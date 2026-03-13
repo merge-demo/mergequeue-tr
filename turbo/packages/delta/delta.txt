@@ -9712,7 +9712,7 @@ disrespectful 1
 demultiplexes
 dab
 dodonaean
-deodaras
+deodaras 1
 delouse
 dilater
 deforcement
