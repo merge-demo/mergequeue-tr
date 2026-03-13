@@ -9335,7 +9335,7 @@ gladiators
 glided
 geisotherm
 garotes
-gumi
+gumi 1
 gurly
 germanhood
 germigenous
