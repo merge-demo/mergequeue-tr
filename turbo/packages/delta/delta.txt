@@ -8179,7 +8179,7 @@ dactylic
 dart
 drabbets
 diacranterian
-diffractions
+diffractions 1
 dicyema
 diacromyodi
 diactinic
