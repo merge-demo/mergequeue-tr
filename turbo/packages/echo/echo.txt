@@ -4974,7 +4974,7 @@ emigates
 electrocorticogram
 envy
 engraphic
-excreation
+excreation 1
 earthgall
 exencephalia
 ebonises
