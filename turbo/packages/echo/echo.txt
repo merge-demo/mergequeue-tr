@@ -8376,7 +8376,7 @@ exterminates
 errands
 epistolography
 epitrachelia
-estrum
+estrum 1
 exceedable
 englory
 earplug
