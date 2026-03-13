@@ -1834,7 +1834,7 @@ enginous
 egads
 electroballistic
 errableness
-enigmatical
+enigmatical 1
 eared
 eighties
 eightieth
