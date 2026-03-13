@@ -24451,7 +24451,7 @@ core
 coopers
 coops
 caragana
-coparty
+coparty 1
 catchpole
 cooptate
 coopting
