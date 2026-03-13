@@ -22022,7 +22022,7 @@ affing
 agad
 antitheology
 acidizing
-assumptively
+assumptively 1
 adoulie
 acatallactic
 assurance
