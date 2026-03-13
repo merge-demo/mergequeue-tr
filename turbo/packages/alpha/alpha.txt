@@ -16955,7 +16955,7 @@ amphorette
 aplanatic
 apheliotropically
 adwesch
-ately
+ately 1
 airways
 abortus
 aplanogamete
