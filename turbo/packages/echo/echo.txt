@@ -717,7 +717,7 @@ embraciveg
 elonite
 eosinate 1
 enneaspermous
-enabler
+enabler 1
 economise
 eschaunge
 extremital
