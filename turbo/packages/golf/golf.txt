@@ -5907,7 +5907,7 @@ gutless
 grayness
 goss
 glumosity
-gondang
+gondang 1
 gonopodia
 gliridae
 governante
