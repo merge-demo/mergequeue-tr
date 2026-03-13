@@ -4973,7 +4973,7 @@ ferrugination
 fluffily 1
 fictionalized
 foraminate
-fascet
+fascet 1
 fact
 forestcraft
 fringiest
