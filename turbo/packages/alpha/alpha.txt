@@ -12559,7 +12559,7 @@ anemony
 anaspida
 anemopathy
 astroscope 1
-antisudorific
+antisudorific 1
 anemoscope
 albifying
 aurorian
