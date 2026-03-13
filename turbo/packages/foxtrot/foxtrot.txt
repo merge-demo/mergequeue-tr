@@ -3317,7 +3317,7 @@ fenester
 fulcra
 fleshlike
 flon
-feverous
+feverous 1
 forsung
 flench
 furuncle
