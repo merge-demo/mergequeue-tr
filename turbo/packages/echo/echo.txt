@@ -6022,7 +6022,7 @@ evites
 exhaustlessly
 eurhythmics
 ectodermoidal
-enumerates
+enumerates 1
 enkidu
 ekatantalum
 enterospasm
