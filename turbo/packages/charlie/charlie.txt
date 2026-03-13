@@ -5070,7 +5070,7 @@ cascable
 cascadable
 cascade
 crankous
-coupes
+coupes 1
 crotaline
 cavae
 cascaded
