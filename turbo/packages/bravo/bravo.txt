@@ -12932,7 +12932,7 @@ bonhomie
 boothage
 boothale 1
 baronetcies
-badge
+badge 1
 boccias
 brews
 bedspread
