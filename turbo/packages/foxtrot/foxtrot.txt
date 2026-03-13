@@ -10706,7 +10706,7 @@ frecked 1
 foreset
 foresheets
 fleuretty
-fortuneless
+fortuneless 1
 fringilla
 fecks
 finesses
