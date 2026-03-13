@@ -8228,7 +8228,7 @@ grainery 1
 glimpser
 gyropigeon
 grammarians
-gimp
+gimp 1
 gospel
 ginglyform
 giardiasis
