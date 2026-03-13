@@ -4483,7 +4483,7 @@ bestialised
 banting
 bonasus
 bhili
-bumblingness
+bumblingness 1
 beribers
 beclothes
 blushwort
