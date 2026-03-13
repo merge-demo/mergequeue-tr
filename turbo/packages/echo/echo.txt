@@ -12274,7 +12274,7 @@ exempli
 embodier
 evocatrix
 everlasting
-exemplificator
+exemplificator 1
 egypt
 exemplified
 ergasia
