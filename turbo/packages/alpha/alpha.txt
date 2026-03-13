@@ -16526,7 +16526,7 @@ attained
 astronautic
 apaesthetize
 articulatory
-anophthalmus
+anophthalmus 1
 apagogic
 avenses 1
 arumlike
