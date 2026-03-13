@@ -8569,7 +8569,7 @@ gonidioid
 gravure
 gossameriness
 gametically
-genealogical
+genealogical 1
 guerdonless
 gregarinian
 gibbeting
