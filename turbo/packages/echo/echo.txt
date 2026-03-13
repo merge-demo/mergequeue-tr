@@ -3092,7 +3092,7 @@ expropriates 1
 ellipsograph
 executiveness
 esemplastic
-enolic
+enolic 1
 ethiopian
 ellipticity
 elliptograph 1

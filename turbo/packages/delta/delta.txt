@@ -8851,7 +8851,7 @@ debituminize
 deflexure 1
 domiciliating
 dicacity
-deodorising
+deodorising 1
 dwarfed
 decentres
 direr
