@@ -27064,7 +27064,7 @@ clerking
 counterprotection
 counterpull
 counterpuncture
-counterpush
+counterpush 1
 counterquartered
 caneva
 celibatarian
