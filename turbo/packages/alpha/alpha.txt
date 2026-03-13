@@ -4366,7 +4366,7 @@ apparels
 anachronistically 1
 alcae
 adenoids
-agaristidae
+agaristidae 1
 adstipulator
 aduana
 appointments
