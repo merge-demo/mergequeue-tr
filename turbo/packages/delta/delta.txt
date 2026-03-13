@@ -7540,7 +7540,7 @@ desilverization
 deuterosy
 drubber
 ducktail
-discs
+discs 1
 deuterotype
 deuterozooid
 dental
