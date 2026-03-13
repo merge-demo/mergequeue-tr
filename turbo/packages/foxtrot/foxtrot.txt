@@ -813,7 +813,7 @@ flipe
 floosy
 fustanelle
 familiarizes 1
-fantasticalness
+fantasticalness 1
 forcible
 flautists
 frisk
