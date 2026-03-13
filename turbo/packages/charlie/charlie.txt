@@ -27143,7 +27143,7 @@ coverage
 counterstand
 corabeca
 crocheting
-coprostasis
+coprostasis 1
 chittered 1
 counterstimulate
 counterfeitness
