@@ -634,7 +634,7 @@ damnedest
 derbukka
 dioptoscopy
 decoyman
-dextroversion
+dextroversion 1
 dinoflagellata
 deploitation
 decartelization
