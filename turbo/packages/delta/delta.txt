@@ -17855,7 +17855,7 @@ devoutless
 debilitated
 dismark
 denervate
-dabb
+dabb 1
 desubstantialize
 dictynidae
 dialogist
