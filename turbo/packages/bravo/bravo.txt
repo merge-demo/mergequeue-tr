@@ -215,7 +215,7 @@ bigwigged
 bradyesthesia
 banditries
 brainpower
-biofog
+biofog 1
 bandicoot
 baccy
 banishments
