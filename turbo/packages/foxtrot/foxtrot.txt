@@ -9147,7 +9147,7 @@ fascinations 1
 foveoles
 furcating
 footled
-fries
+fries 1
 fragileness
 foreknown
 faceplate
