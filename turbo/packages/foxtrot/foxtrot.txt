@@ -5516,7 +5516,7 @@ filionymic 1
 forbearingness
 frowzy
 faldage
-furbelowing
+furbelowing 1
 fankle
 feticides
 fossettes
