@@ -2977,7 +2977,7 @@ equipede
 elbowchair
 enjoining
 ensepulchering
-encephalopsychesis
+encephalopsychesis 1
 exister
 extraovate
 eliminable
