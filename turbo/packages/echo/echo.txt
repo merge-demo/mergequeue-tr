@@ -1466,7 +1466,7 @@ effraction
 eighths
 etymologised
 electrometric
-exquisitely
+exquisitely 1
 euphonia
 equisetums
 enplaning
