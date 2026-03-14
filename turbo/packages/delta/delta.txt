@@ -16094,7 +16094,7 @@ doughty
 diphthonged
 ditherer
 dropline
-doughtier
+doughtier 1
 dockside
 designfulness
 deipnosophistic
