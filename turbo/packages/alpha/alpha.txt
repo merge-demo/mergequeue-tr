@@ -20592,7 +20592,7 @@ arthrocleisis
 abear
 atomizer
 arthrodymic
-analytic
+analytic 1
 aristotelian
 alkoxy
 assimilations
