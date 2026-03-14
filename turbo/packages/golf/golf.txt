@@ -3658,7 +3658,7 @@ goalmouth
 geophagia
 gherkins
 gyrencephalic
-ghostier
+ghostier 1
 galah
 geodetically
 glumelike
