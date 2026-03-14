@@ -10578,7 +10578,7 @@ fliping
 foughty
 foreloper
 favose
-feudalist 1
+feudalist 2
 funambulation
 fructescent
 fruitlessly
