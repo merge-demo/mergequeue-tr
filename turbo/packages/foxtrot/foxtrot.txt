@@ -91,7 +91,7 @@ frangi
 fusibleness
 fibrinous
 frilling
-friendly
+friendly 1
 futharc
 finbacks
 finnickier
