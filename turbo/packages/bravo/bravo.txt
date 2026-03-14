@@ -15737,7 +15737,7 @@ burnished
 borrovian
 begroaned
 botanophile
-breakfront
+breakfront 1
 broadsiding
 broadspread
 broadsword
