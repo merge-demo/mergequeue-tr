@@ -18159,7 +18159,7 @@ coesites
 coessential 1
 churada
 convivialist
-coglorious
+coglorious 1
 commencements
 compital
 coptis
