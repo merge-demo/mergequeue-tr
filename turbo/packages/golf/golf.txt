@@ -10768,7 +10768,7 @@ geranyl 1
 glycyl
 gutt
 gerenuk
-genialness
+genialness 1
 gonadectomy
 gandered
 gignitive
