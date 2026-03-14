@@ -811,7 +811,7 @@ gimlet
 garrotting
 gelates
 glucosidase
-gastroenteritic
+gastroenteritic 1
 galluptious
 gastrular 1
 grazer
