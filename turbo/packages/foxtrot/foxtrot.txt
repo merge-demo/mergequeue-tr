@@ -8114,7 +8114,7 @@ foregate
 fretless
 ferberite
 fructuosity
-fossilology
+fossilology 1
 foretrace
 forecastleman
 faddists 1
