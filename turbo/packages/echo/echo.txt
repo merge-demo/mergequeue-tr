@@ -6093,7 +6093,7 @@ epirrhema
 electrocardiography
 enochic
 enlightenment
-enticing
+enticing 1
 eructates
 excommunion
 england
