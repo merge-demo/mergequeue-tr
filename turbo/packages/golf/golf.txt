@@ -5123,7 +5123,7 @@ greathearted
 guidwillie
 gainsay
 gunbright 1
-gutwise
+gutwise 1
 grandioseness
 gaussbergite
 gleamy
