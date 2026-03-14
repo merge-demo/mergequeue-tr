@@ -6860,7 +6860,7 @@ delirous
 drunken
 dyadics
 dirgeful
-despairful
+despairful 1
 doctrinism
 diplegia
 dehydrogenating
