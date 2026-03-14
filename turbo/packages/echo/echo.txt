@@ -10824,7 +10824,7 @@ eloigners
 ethicosocial
 entosternum
 earache
-educes
+educes 1
 embassiate
 eligibilities
 endostomata
