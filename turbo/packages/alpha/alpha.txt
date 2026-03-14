@@ -8960,7 +8960,7 @@ allonym
 alongst
 allonymous
 allonyms
-allonomous
+allonomous 1
 abortion
 apodan
 admiralships
