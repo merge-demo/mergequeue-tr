@@ -2840,7 +2840,7 @@ eliza
 extrarhythmical
 eosins
 europhium
-elephantoid
+elephantoid 1
 elephantoidal
 enantiopathy
 equilocation
