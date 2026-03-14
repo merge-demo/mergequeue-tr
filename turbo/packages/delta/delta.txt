@@ -2484,7 +2484,7 @@ dodders
 deactivating
 diminutions
 declarations
-decisions
+decisions 1
 declarative
 detectaphone
 duckwife
