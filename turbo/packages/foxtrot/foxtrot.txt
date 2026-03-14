@@ -9627,7 +9627,7 @@ furfures
 fregata
 faunist
 freyalite
-frondent
+frondent 1
 fitchered
 freibergite
 fulgorous
