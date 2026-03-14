@@ -10464,7 +10464,7 @@ glossarially
 garau
 goatbrush
 gleds
-gagor
+gagor 1
 gonium
 glutei 1
 graylings
