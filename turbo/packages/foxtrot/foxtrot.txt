@@ -4952,7 +4952,7 @@ foxing
 flamy
 fan
 facepiece
-floorages
+floorages 1
 flamingant
 fannel
 fibronucleated
