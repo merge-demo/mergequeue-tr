@@ -11837,7 +11837,7 @@ allargando 1
 apportion
 aslake
 anticephalalgic
-analgias
+analgias 1
 analgic
 anisopetalous
 antimalarial
