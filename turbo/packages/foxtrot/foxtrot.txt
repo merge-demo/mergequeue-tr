@@ -6748,7 +6748,7 @@ flaxlike
 fourpenny
 flaunts
 forethink
-furcation
+furcation 1
 foldcourse
 fiberless
 folkmoots
