@@ -1222,7 +1222,7 @@ forediscern
 fascinate
 fixator
 fissure
-footlock
+footlock 1
 foredoing
 firmitude
 frigidity
