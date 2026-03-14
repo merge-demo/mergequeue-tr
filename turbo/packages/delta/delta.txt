@@ -16449,7 +16449,7 @@ drabbler
 datum
 difflugia 1
 doodskop
-downtimes
+downtimes 1
 dunnesses
 dacoities
 drabbling
