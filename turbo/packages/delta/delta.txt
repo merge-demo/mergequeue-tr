@@ -6113,7 +6113,7 @@ deric
 disbosomed
 deady
 doppler 1
-deriders
+deriders 1
 distribute
 detractress
 danelaw
