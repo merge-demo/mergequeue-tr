@@ -10426,7 +10426,7 @@ edentalous
 eurypteroid
 eviscerated
 eloinment
-embryoniferous
+embryoniferous 1
 etymon 1
 economiser 1
 ectocondyle
