@@ -4955,7 +4955,7 @@ gauls
 garridge
 girasoles
 glyptological
-gleetiest
+gleetiest 1
 goofed
 ganders
 gallingness
