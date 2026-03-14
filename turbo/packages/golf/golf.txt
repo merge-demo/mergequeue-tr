@@ -6810,7 +6810,7 @@ granulomas
 gaffsman
 gorbal
 guaranty
-globosities
+globosities 1
 gluconokinase
 gymsia
 gentilitial
