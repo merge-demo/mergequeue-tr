@@ -15592,7 +15592,7 @@ bilbos
 bination
 barometer
 beavers
-bougar
+bougar 1
 burbles 1
 brewsterite
 barbacan
