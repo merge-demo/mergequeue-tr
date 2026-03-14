@@ -10995,7 +10995,7 @@ encyclopaedic
 eternalist
 estrade
 excipuliform
-endosarcous
+endosarcous 1
 eroses
 extravagant
 economic
