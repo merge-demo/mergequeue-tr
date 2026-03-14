@@ -8814,7 +8814,7 @@ florideous
 foreshorten
 fictious
 folia
-fleuron
+fleuron 1
 fotmal
 folkvang
 forum
