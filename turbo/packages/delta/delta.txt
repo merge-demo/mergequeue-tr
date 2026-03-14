@@ -3358,7 +3358,7 @@ deflector
 dichlorvos
 deflesh
 deflexibility
-denominationalize
+denominationalize 1
 dysgenics
 diversely
 deflocculant
