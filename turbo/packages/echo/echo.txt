@@ -1807,7 +1807,7 @@ essayists
 exhorters
 een
 erodium
-effetely
+effetely 1
 enamors
 eroding
 encroached
