@@ -13363,7 +13363,7 @@ epicorolline
 elegizing 1
 exposes
 encrustant
-envassalage
+envassalage 1
 encrownment
 emprent
 exsanguinity
