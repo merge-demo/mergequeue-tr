@@ -9142,7 +9142,7 @@ gooral
 gliss
 greenstick
 glavering
-glaucomas
+glaucomas 1
 gastrodiaphanoscopy
 gradine 1
 goniometrically
