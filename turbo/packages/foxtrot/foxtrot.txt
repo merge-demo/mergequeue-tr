@@ -6333,7 +6333,7 @@ ferriage 1
 fixup 1
 fluvio
 floppies
-fretten
+fretten 1
 fluoresceine
 flameless
 factionism 1
