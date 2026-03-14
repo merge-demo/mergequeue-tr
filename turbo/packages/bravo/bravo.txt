@@ -15144,7 +15144,7 @@ bushhammer
 beemaster
 breviradiate
 blithely
-bugeyed
+bugeyed 1
 brevit
 brevity
 broquineer
