@@ -1928,7 +1928,7 @@ anacardiaceous
 attentional
 acetylid
 acetylizable
-aversive
+aversive 1
 anamirtin
 acetylization
 ammonization
