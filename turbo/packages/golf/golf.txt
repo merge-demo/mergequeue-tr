@@ -4199,7 +4199,7 @@ gradometer
 galravitch
 ghostless
 generationism
-gypsuming
+gypsuming 1
 goniopholis
 gubbo
 gnu
