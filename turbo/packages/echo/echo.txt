@@ -10662,7 +10662,7 @@ expeditate
 excitory
 endocytosis
 easternism
-eugenically
+eugenically 1
 eugenie
 eugenism
 epikouros 1
