@@ -6084,7 +6084,7 @@ gjetosts
 gallivants
 glasgow
 gammarus
-gnosis
+gnosis 1
 galenist
 greenbacks
 gulper
