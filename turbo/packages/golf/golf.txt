@@ -4579,7 +4579,7 @@ grapeshot
 gustatorially
 gallup
 greenheart
-gyrating
+gyrating 1
 galvanise
 gorillaship
 goatbush
