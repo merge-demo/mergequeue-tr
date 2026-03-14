@@ -14334,7 +14334,7 @@ cocontractor
 caviler
 circumvallate
 circumvallated
-cliquishly
+cliquishly 1
 circumvallating
 corkwoods
 crepitant
