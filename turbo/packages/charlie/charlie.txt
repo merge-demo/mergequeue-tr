@@ -8798,7 +8798,7 @@ crouchingly
 coruler
 chara
 charabanc
-compensativeness
+compensativeness 1
 clitoridectomies
 characeae
 clabbered
