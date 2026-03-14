@@ -11223,7 +11223,7 @@ earnful
 endostraca
 emigre
 equinities
-enthronized
+enthronized 1
 earwort
 enchymatous
 epidictical
