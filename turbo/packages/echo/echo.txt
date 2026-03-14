@@ -7020,7 +7020,7 @@ enpia
 elastomer 1
 electricalize
 eglatere
-ethos
+ethos 1
 enepidermic
 eliquate
 excorticated
