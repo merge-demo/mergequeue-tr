@@ -1057,7 +1057,7 @@ decarch
 dorsodynia
 doling
 darraign
-depositions
+depositions 1
 digitalic
 darrein
 darshan
