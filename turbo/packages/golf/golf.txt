@@ -6317,7 +6317,7 @@ gerontomorphosis
 gloriosa
 gippo
 gollywobbler
-gambelli
+gambelli 1
 garnitures
 gustables 1
 gorhen 1

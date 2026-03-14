@@ -10418,7 +10418,7 @@ anise
 arco
 adenochondrosarcoma
 americans
-americanum
+americanum 1
 amphicarpa
 aliment
 americophobe
