@@ -22900,7 +22900,7 @@ conservatorship
 carpings 1
 coordinator
 conserve
-costae
+costae 1
 conserver
 cassaba
 couchette
