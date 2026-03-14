@@ -21582,7 +21582,7 @@ cathedrallike
 concussions
 concutient
 crepitacula
-condemn
+condemn 1
 convent
 condemnations
 clangour
