@@ -927,7 +927,7 @@ gyrocompass
 garnishable 1
 grittiness
 gemeinschaften
-guidership
+guidership 1
 gelsemiumia
 galt
 gametophoric
