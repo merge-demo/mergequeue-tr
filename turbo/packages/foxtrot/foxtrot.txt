@@ -11441,7 +11441,7 @@ founte 1
 fortunetell
 fallibleness 1
 formfeed
-fiducially
+fiducially 1
 fluviose
 falteringly
 furrily
