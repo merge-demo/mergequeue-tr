@@ -5389,7 +5389,7 @@ flyswat
 feridji 1
 figuration
 fittest
-fruittime
+fruittime 1
 forthbringer
 formable
 flecking
