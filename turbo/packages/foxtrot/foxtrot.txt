@@ -4017,7 +4017,7 @@ fissural
 frettiest 1
 feudalise
 fingram
-fossilisable
+fossilisable 1
 fiaunt
 feds
 fluxibly 1
