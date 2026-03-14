@@ -9164,7 +9164,7 @@ assortative
 accipitres
 ambulates
 acarodermatitis
-applejack
+applejack 1
 allwork
 antianarchic
 afrikaner
