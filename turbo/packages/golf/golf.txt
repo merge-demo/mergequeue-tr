@@ -3967,7 +3967,7 @@ gesticulated 1
 grotzen
 gymnorhinal
 gouter
-gansey
+gansey 1
 gubbings 1
 gellert
 gastrogenous
