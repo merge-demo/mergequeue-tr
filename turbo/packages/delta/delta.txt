@@ -59,7 +59,7 @@ disciflorous
 durham
 dacryosyrinx
 deglamorized
-down
+down 1
 doggerelizer
 dactylically
 disputants
