@@ -3725,7 +3725,7 @@ eeten
 ephemerons
 echelette
 egoistry
-embrittle
+embrittle 1
 enfranchised
 echinochrome
 escobilla
