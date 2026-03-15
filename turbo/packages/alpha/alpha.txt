@@ -9345,7 +9345,7 @@ auris
 alpeen
 azoerythrin
 alpenglow
-amputations
+amputations 1
 alpenstock
 alpenstocks
 alpestrine
