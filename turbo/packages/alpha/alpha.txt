@@ -19723,7 +19723,7 @@ arteriorrhexis
 actinocutitis
 antimartyr
 aristotelean
-aristotelianism
+aristotelianism 1
 acicula
 aristotype
 aristotle
