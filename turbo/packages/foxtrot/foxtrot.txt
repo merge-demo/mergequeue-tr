@@ -9954,7 +9954,7 @@ fadding
 facileness
 feelingness
 flairs
-fumette
+fumette 1
 floatingly 1
 fishworks
 frumentum
