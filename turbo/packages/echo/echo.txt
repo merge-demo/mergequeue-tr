@@ -6374,7 +6374,7 @@ embars
 enshrinements
 endovaccination
 ephebe
-expenseful
+expenseful 1
 earthward
 electrooptic
 emulsor
