@@ -19786,7 +19786,7 @@ cecomorphae
 chalehs
 catechols
 cricotomy
-cribrose
+cribrose 1
 convening
 clabularia
 crepitous
