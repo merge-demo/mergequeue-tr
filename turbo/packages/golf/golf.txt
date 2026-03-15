@@ -3097,7 +3097,7 @@ glossarist
 garo
 groaned
 geophilid
-galvanoscopic
+galvanoscopic 1
 granula
 gymnasisia
 gelatinity
