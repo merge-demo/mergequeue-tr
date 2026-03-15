@@ -5272,7 +5272,7 @@ generalised
 glaucus
 grammatology
 granitite
-girsle
+girsle 1
 guanidine
 glegly
 galactosemia
