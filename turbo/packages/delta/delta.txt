@@ -6365,7 +6365,7 @@ discriminatory
 decree
 drung
 decenter
-disaggregative
+disaggregative 1
 disencumbered
 denizening
 dismemberments
