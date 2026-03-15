@@ -3687,7 +3687,7 @@ emaciated
 expatiatory
 erythrons
 enwheel
-everse
+everse 1
 everywheres
 evangelistically
 entrancer
