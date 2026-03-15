@@ -8895,7 +8895,7 @@ allochlorophyll
 allochroic
 anticosmetic
 aeolodicon
-allochthon
+allochthon 1
 antlike
 ambilevous
 azurous
