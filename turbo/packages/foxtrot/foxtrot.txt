@@ -5493,7 +5493,7 @@ fillet
 ferally
 formatters 1
 fanjets
-fiddlies
+fiddlies 1
 faroelite
 fleshliness
 faradmeter
