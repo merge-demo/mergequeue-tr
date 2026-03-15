@@ -4968,7 +4968,7 @@ denationalise
 denationalize
 dedicator
 decaesarize
-dayal
+dayal 1
 drivingly
 denaturalised
 darat
