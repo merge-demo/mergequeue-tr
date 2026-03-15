@@ -10972,7 +10972,7 @@ duoliteral
 durindana
 dutifulness
 disagreeing
-disagreements
+disagreements 1
 dissevered
 deodorised
 disrelation
