@@ -3301,7 +3301,7 @@ caplins
 coherald
 capmaking 1
 choreographing
-counterturn
+counterturn 1
 capnoides
 clipping
 creaker
