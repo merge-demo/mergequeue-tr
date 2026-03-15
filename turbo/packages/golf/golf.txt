@@ -5525,7 +5525,7 @@ gesticulacious
 gelilah
 goutier
 glimed
-gantangs
+gantangs 1
 greenroom
 glucaemia
 gumming
