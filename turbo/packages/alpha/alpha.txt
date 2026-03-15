@@ -24307,7 +24307,7 @@ atalan
 autopoisonous
 acclimatize 1
 autopolar
-autopolyploid
+autopolyploid 1
 arbitrative
 autopolo
 anomalous

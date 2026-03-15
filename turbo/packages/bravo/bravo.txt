@@ -7370,7 +7370,7 @@ bannet
 bigly
 bugi
 bethesda
-bidialectal
+bidialectal 1
 bdellostoma
 beneplacit
 biangular
