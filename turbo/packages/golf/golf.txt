@@ -7993,7 +7993,7 @@ gouvernante
 glaucine
 gunstocking
 gastronomy
-gata
+gata 1
 goanna
 gunstock
 gossiper
