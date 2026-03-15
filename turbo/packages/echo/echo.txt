@@ -5305,7 +5305,7 @@ ergodicity
 eliminability
 endosclerite
 extrahepatic
-eurybathic
+eurybathic 1
 eucopepoda
 endogamy
 excudate
