@@ -8311,7 +8311,7 @@ fair
 foundling
 florulae
 fils
-furriner
+furriner 1
 flagellata 1
 feely
 forkedness
