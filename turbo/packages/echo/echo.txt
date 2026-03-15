@@ -14073,7 +14073,7 @@ echelonment
 exclude
 enquarter 1
 extracurriculum
-entablature
+entablature 1
 epilobiaceae
 encephalomata
 enfect
