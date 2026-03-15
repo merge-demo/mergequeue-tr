@@ -8996,7 +8996,7 @@ banghy
 bozzetto
 burnishment
 barberess
-balked
+balked 1
 biogases
 backwardation
 beliked
