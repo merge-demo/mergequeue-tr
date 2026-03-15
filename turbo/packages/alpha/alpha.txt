@@ -17979,7 +17979,7 @@ absolutes
 arsyl
 approvedly
 antiempirical
-anisodactyle
+anisodactyle 1
 allodialism
 anthropophysiography
 allothigene
