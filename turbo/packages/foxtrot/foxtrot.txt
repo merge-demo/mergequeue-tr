@@ -9977,7 +9977,7 @@ facias
 fragment 1
 formularizer
 forcers
-frigolabile
+frigolabile 1
 fumigate
 frisson
 feloniousness
