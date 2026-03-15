@@ -3033,7 +3033,7 @@ galvayning
 gaggler
 grammatical
 graspable
-glitteringly
+glitteringly 1
 gibbed
 gyrostatically
 giraffidae
