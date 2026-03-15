@@ -5535,7 +5535,7 @@ fol
 forestays
 favellae
 flexion
-foreclosable
+foreclosable 1
 ferdiad
 fleecer
 foraminiferous
