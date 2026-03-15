@@ -8390,7 +8390,7 @@ draftsmen
 disnaturing
 detentes
 displeasurably
-diallagic
+diallagic 1
 dogmaticalness
 diallagite
 dt
