@@ -5865,7 +5865,7 @@ fangas
 flinted
 ferrichloride
 flocculent
-flaxier
+flaxier 1
 flocker
 frogged
 furandi
