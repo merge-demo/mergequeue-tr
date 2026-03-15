@@ -2978,7 +2978,7 @@ addisoniana
 actinisms
 arginine
 anopias
-actiniums
+actiniums 1
 antiacid
 alisma
 actinobaccilli
