@@ -7286,7 +7286,7 @@ ganglion
 gyrostatic
 genet
 graves
-gutturally
+gutturally 1
 guze
 gravelling
 gangly
