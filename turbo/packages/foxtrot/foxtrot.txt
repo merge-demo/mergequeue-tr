@@ -10088,7 +10088,7 @@ friskingly
 frisks
 frondiform
 feudatary
-firster
+firster 1
 foredecree
 featous
 formalise
