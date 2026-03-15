@@ -156,7 +156,7 @@ daedaleous
 didromies
 doors
 degami 1
-daedalic
+daedalic 1
 diminish
 durns
 deedier
