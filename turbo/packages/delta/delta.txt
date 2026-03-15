@@ -10950,7 +10950,7 @@ dheri
 dictyosiphon
 disaffirmation
 decidedness
-defedation
+defedation 1
 dibbled
 dermococcus
 dayberry
