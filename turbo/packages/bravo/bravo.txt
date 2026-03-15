@@ -17915,7 +17915,7 @@ bekiss 1
 bluefin
 bushgrass 2
 bubbled
-botan
+botan 1
 bushy
 barton
 badly
