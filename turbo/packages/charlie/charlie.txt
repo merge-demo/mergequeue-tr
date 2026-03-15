@@ -19465,7 +19465,7 @@ crematoririums
 colourifics
 cisterna
 crociary
-corposant
+corposant 1
 colourist
 centure
 chilblain
