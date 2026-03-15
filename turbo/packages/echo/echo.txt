@@ -1071,7 +1071,7 @@ entailment
 expeditive
 embase
 embeddable
-echinology
+echinology 1
 elective
 edification
 exfigure 1
