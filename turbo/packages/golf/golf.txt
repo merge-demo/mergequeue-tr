@@ -1855,7 +1855,7 @@ gunfighting
 galerus
 gulinulae
 gummosity
-gateposts
+gateposts 1
 gatewaying
 griddlecakes
 gawain
