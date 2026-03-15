@@ -24065,7 +24065,7 @@ airman
 abdali
 autoecic 1
 autonavigators
-ayuyu
+ayuyu 1
 accumulations
 approximable
 autoecism
