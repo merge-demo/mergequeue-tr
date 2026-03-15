@@ -13470,7 +13470,7 @@ electrolyse
 ensuingly
 encopresis
 eatanswill
-elizabethanize
+elizabethanize 1
 expurgate 1
 equivocate
 ethionine 1
