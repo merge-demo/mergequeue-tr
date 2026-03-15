@@ -9466,7 +9466,7 @@ frazzling
 folkishness 1
 fentanyl
 forestress
-freaked
+freaked 1
 fart
 forechoir
 filicinian
