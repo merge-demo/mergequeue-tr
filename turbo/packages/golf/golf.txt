@@ -8622,7 +8622,7 @@ gests
 grizzliness
 groynes
 gapeseed
-greatness
+greatness 1
 greave
 gapers
 gavelet
