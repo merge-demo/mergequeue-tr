@@ -2713,7 +2713,7 @@ gilbertese
 genyplasty 1
 glashan
 globularness
-glandule
+glandule 1
 gravitons
 gusle
 grith
