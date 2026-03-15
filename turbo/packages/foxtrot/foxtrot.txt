@@ -7542,7 +7542,7 @@ filamented
 factual
 fleshquake
 ferrules
-forejudger 1
+forejudger 2
 foredefeated
 frankheartedness 1
 flightworthy
