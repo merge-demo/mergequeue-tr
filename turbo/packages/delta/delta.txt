@@ -16536,7 +16536,7 @@ ditheism
 demoralise
 draftings
 diesinker
-disinterred
+disinterred 1
 dallop
 document
 dendrodont
