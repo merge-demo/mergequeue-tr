@@ -3901,7 +3901,7 @@ fineableness
 fumigators
 fusinist
 fluoridated
-frostproof
+frostproof 1
 frolicsomely
 fustianize
 fang
