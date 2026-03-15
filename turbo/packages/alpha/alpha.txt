@@ -3442,7 +3442,7 @@ adder
 abridgment
 addibility
 antroversion
-addible
+addible 1
 addicent
 antiknocks
 acculturate
