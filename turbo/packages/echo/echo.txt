@@ -3887,7 +3887,7 @@ excogitating
 epidotic
 enculturated
 enfeebled
-eclipsis
+eclipsis 1
 executers
 endodontic
 emigration
