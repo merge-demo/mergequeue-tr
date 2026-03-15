@@ -825,7 +825,7 @@ flypast
 flusher
 florilege
 faucial
-fumingly
+fumingly 1
 faun
 fenny
 ferratin
