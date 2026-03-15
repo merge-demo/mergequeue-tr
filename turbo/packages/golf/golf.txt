@@ -6109,7 +6109,7 @@ generalizing
 gyre 1
 groucho
 grommet
-garters 1
+garters 2
 gadfly
 glutelins
 gunation
