@@ -25008,7 +25008,7 @@ carroms
 conventing
 clavial
 cordiality
-cordialities
+cordialities 1
 crimini
 cnibophore
 cheskeys
