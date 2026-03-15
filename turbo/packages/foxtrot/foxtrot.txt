@@ -4126,7 +4126,7 @@ floscule
 firca
 foisted
 ferrosilicon
-freeheartedly
+freeheartedly 1
 fireback
 fumeuses 1
 frogleaf
