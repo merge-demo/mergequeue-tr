@@ -2526,7 +2526,7 @@ ethnobotanic 1
 enounce
 endopterygote
 emancipators
-enwheeling
+enwheeling 1
 entering
 embraceably
 extratribal
