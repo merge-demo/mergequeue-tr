@@ -7499,7 +7499,7 @@ gloomfully
 glitch
 glottalized
 gat
-governed
+governed 1
 gotten
 graecizing
 governesses
