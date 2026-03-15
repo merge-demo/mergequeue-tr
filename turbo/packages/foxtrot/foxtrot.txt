@@ -3444,7 +3444,7 @@ fiftieth
 formicariae
 flinders
 figeater
-floriate
+floriate 1
 fascisti
 feringi
 freesp 1
