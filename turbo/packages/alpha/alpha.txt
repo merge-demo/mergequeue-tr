@@ -4811,7 +4811,7 @@ acrotrophoneurosis 1
 awakener
 autocross
 aerobiosis
-addleheaded
+addleheaded 1
 allotypy
 allophylic
 aramayoite
