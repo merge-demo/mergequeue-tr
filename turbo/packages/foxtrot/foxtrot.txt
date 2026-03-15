@@ -7408,7 +7408,7 @@ freemen 1
 forcipation
 flutelike
 forcipressure
-foy
+foy 1
 fossick
 feminine
 frumpier
