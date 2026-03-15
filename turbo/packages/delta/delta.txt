@@ -5971,7 +5971,7 @@ dolesomeness
 desterilize
 desmotrope
 deflates
-discriminately
+discriminately 1
 dripple
 dismaw
 divorces
