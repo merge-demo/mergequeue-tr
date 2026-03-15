@@ -17386,7 +17386,7 @@ assembly
 adiabatically
 airmobile
 apostrophus
-apotactic
+apotactic 1
 apotactici
 agriculturalist
 astuciously
