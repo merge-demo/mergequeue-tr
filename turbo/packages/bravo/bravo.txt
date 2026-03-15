@@ -10712,7 +10712,7 @@ bleaks
 browd
 bichlorides
 bewash 1
-belt
+belt 1
 bouleuteria
 blearyeyedness
 bevel
