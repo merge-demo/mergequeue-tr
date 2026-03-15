@@ -3261,7 +3261,7 @@ dejecture
 demyelination
 dizz
 definedly 2
-deflects
+deflects 1
 disconsolation
 daintihood
 distributors
