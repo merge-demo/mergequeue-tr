@@ -6659,7 +6659,7 @@ grattage
 gewgawed
 grittle
 gardenize 1
-goosey
+goosey 1
 gypsine
 gassings
 gonion
