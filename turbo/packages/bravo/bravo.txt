@@ -1698,7 +1698,7 @@ barchan
 buqsha
 bitterest
 brilliantness
-bungalow
+bungalow 1
 bawdyhouse
 bagnios
 besottingly
