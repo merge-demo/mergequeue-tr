@@ -5951,7 +5951,7 @@ fanwright
 fomites
 ferguson
 favism
-firkin
+firkin 1
 fawn
 forecasters
 footscald
