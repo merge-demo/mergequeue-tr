@@ -7169,7 +7169,7 @@ flaccid
 fiscalized
 forfeits
 frizzlers
-faenas
+faenas 1
 footpaces
 fifer
 factionaries
