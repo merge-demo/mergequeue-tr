@@ -4591,7 +4591,7 @@ demurring
 demisuit
 dezincs
 dumminess
-dithyrambos
+dithyrambos 1
 denoted
 dimissory
 disproved
