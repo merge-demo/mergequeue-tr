@@ -14023,7 +14023,7 @@ anteact
 acajou 1
 achloropsia
 anteater
-astrologian
+astrologian 1
 achronychous
 antebaptismal
 albigenses
