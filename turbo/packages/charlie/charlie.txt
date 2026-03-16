@@ -14709,7 +14709,7 @@ culler
 coursy
 cityfied
 countermands
-citifying
+citifying 1
 cityfolk
 churned
 citigradae
