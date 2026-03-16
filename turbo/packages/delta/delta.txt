@@ -3090,7 +3090,7 @@ delicious
 dihydrite
 diazid 1
 distoclusion
-disability
+disability 1
 domesticity
 duringly
 defaulted
