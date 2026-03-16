@@ -12812,7 +12812,7 @@ exostra
 ebullition
 elementary 1
 exostrae
-exoteric
+exoteric 1
 exoterica
 elementalistically
 excitomotor
