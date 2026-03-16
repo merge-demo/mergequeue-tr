@@ -5539,7 +5539,7 @@ enfeoffment
 exestuate
 exhaustedly
 ethions
-enophthalmos
+enophthalmos 1
 expandability
 episcopality
 ecphrasis

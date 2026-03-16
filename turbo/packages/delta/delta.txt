@@ -17749,7 +17749,7 @@ doyenne
 dubitatingly
 duboisin
 duboisine 1
-duc
+duc 1
 dibutyrin
 dispelling
 ducally
