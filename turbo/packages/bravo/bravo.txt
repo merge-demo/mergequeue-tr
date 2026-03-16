@@ -13145,7 +13145,7 @@ borning
 bornite
 baksheesh
 bestirs
-bornites
+bornites 1
 bornitic 1
 berob
 borofluohydric
