@@ -11058,7 +11058,7 @@ fermented
 fumuli
 fungated
 fascias
-funambulator
+funambulator 1
 feels
 faon
 faunological
