@@ -2390,7 +2390,7 @@ esterling
 embiid
 epepophysis
 epigastric 1
-eyeflap
+eyeflap 1
 envassal
 edda
 excusively
