@@ -7488,7 +7488,7 @@ deuteranope
 deuteration
 denucleate
 demarcator
-desulfurized
+desulfurized 1
 digitalizing
 disenchain
 dittos
