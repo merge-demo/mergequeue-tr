@@ -5898,7 +5898,7 @@ fermis
 foeticidal
 fluviovolcanic
 flybane 1
-foveola
+foveola 1
 freyr
 factitude
 familic
