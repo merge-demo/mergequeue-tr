@@ -8056,7 +8056,7 @@ earthworks
 eveners
 epineural
 euphrasy
-exosporal
+exosporal 1
 empeopled
 emerize
 encoop
