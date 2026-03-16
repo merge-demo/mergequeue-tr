@@ -24435,7 +24435,7 @@ autotelism
 appendiculariidae
 antiutilitarianism
 autoanticomplement
-anacrustic
+anacrustic 1
 acropora
 autotetraploid
 assistanted
