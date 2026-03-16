@@ -17027,7 +17027,7 @@ drengage
 drepanidae
 ductibility
 defray
-debullition
+debullition 1
 drepaniform
 disarmingly
 destructory 1
