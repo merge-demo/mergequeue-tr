@@ -1462,7 +1462,7 @@ decator
 disinherison
 dipropellant
 deuteroplasm
-dories
+dories 1
 dispulp
 deckhouses
 dazes
