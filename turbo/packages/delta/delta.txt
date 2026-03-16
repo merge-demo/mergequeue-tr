@@ -1075,7 +1075,7 @@ defuses
 decanoyl
 downpour
 dysoxidizable
-depolarization
+depolarization 1
 defluxion
 datiscaceae
 dhyal 1
