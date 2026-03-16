@@ -2286,7 +2286,7 @@ glazily
 gonofs 1
 greengage
 gadoid
-geyserish
+geyserish 1
 gastrohepatic
 genettes
 globelike
