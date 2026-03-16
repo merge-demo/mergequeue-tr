@@ -3320,7 +3320,7 @@ gerundial
 gentlewomanlike
 germier
 givenness
-goatsfoot
+goatsfoot 1
 gaetulian 1
 gomorrean
 gaging

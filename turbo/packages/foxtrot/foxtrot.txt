@@ -7147,7 +7147,7 @@ footie
 footier
 frontwise
 fleerer 1
-frore
+frore 1
 formedon
 faecalith
 flites
