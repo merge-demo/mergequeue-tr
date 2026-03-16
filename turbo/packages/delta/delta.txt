@@ -14917,7 +14917,7 @@ dodecarch
 decadi
 dodecasyllable 1
 discretionarily
-dix
+dix 1
 disparagements
 demonising
 dichromat
