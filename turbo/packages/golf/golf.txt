@@ -10739,7 +10739,7 @@ geocentrically
 galewort
 glyphograph
 glunching
-gedackt
+gedackt 1
 geckotoid
 gye
 globulin
