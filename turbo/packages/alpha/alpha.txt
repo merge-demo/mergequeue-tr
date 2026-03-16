@@ -17804,7 +17804,7 @@ ablaze
 aristogenetic
 apport
 apportionable 1
-ampule
+ampule 1
 apportioner
 antiquitarian
 antiproductionist
