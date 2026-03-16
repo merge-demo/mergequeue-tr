@@ -3784,7 +3784,7 @@ gorblimey
 glamorous
 genealogies
 geodaesia
-gorger
+gorger 1
 girosol
 gaveller
 gonapophysal
