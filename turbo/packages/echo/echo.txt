@@ -5616,7 +5616,7 @@ ectocarpous
 encitadel
 enlisters
 enflagellate
-enfigure
+enfigure 1
 excitable
 egalitarianism
 ensconcing
