@@ -2436,7 +2436,7 @@ fibrously
 foh
 fingu
 foreproduct
-floretty
+floretty 1
 fermentable
 fermentativeness
 faradize
