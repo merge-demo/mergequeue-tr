@@ -5381,7 +5381,7 @@ dibutyrate
 deoppilant
 deceives
 detectably
-deoppilate
+deoppilate 1
 dep
 doss
 deorganization
