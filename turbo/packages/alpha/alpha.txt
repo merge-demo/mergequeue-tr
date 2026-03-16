@@ -15027,7 +15027,7 @@ antioptimistical
 alleviates
 achyrodes
 anticrisis
-anticritic
+anticritic 1
 agglomerations
 anaglyptics
 anticritical
