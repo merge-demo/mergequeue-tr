@@ -6504,7 +6504,7 @@ funereal
 foretack
 feudalization
 flamless
-furrings
+furrings 1
 flibbertigibbets
 flysches
 flattened 1
