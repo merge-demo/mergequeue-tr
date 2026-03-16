@@ -10640,7 +10640,7 @@ distrito 1
 decapitates
 disilicate
 diplopteryga
-deprecates
+deprecates 1
 dioti
 disaccordance
 delegati
