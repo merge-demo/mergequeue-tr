@@ -1716,7 +1716,7 @@ embolon
 epidosite
 exomorphism
 employ
-epistilbite
+epistilbite 1
 ejective
 epileptic
 evang
