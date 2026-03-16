@@ -11622,7 +11622,7 @@ enddamaged
 eavesdropping 1
 eutechnic
 exactable
-exactas
+exactas 1
 ergastoplasm
 elaterite
 epileptogenic
