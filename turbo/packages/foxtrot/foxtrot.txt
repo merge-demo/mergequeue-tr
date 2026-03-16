@@ -11000,7 +11000,7 @@ fumatoria
 flob
 focusses
 frontispiecing
-fumbled
+fumbled 1
 farde 1
 fausen
 frostiest
