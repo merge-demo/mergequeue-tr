@@ -10412,7 +10412,7 @@ granitelike
 gigot
 geejee
 glareworm
-gimirrai
+gimirrai 1
 guidecraft 1
 gutturalness
 guttier
