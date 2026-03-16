@@ -10178,7 +10178,7 @@ ambrosiaceae
 adoptabilities
 aface
 argine
-affords
+affords 1
 altarwise
 ambrosine
 ambsace
