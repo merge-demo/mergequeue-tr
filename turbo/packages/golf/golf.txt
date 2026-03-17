@@ -2560,7 +2560,7 @@ gynecium
 gurle
 gomeisa
 gonochorism
-galenites
+galenites 1
 grosses
 giveaways
 goldenrods
