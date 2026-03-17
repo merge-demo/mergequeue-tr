@@ -6803,7 +6803,7 @@ foliary
 frescoers
 format
 favoringly
-favourableness
+favourableness 1
 facemaking
 friarhood
 fistiness
