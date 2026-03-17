@@ -18773,7 +18773,7 @@ coleoptera 1
 chalcedonic
 cardiotoxic
 coleopterist
-coleopterology
+coleopterology 1
 catteries
 comediettas
 coleopteron
