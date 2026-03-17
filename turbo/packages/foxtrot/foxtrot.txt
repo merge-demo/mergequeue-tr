@@ -5375,7 +5375,7 @@ ferrelled
 flutists
 fleche
 folliculate
-flechettes
+flechettes 1
 flecked
 forkhead
 fleckering
