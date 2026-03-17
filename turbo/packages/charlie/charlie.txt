@@ -15894,7 +15894,7 @@ contorniate
 clepsine
 condemnatory
 charybdis
-cogitantly
+cogitantly 1
 cleptobioses
 conics
 coadministration
