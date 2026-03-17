@@ -6245,7 +6245,7 @@ gulps
 glaucescent 1
 goolde
 ginzoes
-gerahs
+gerahs 1
 genistein
 gullable 1
 goosing
