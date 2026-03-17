@@ -3004,7 +3004,7 @@ guitermanite 1
 goatherdess
 guildsmen
 geomancy
-garnered
+garnered 1
 glosser
 gushingness
 gauchest
