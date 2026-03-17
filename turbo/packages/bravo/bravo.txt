@@ -15949,7 +15949,7 @@ bromoauric 1
 betrothing
 brazilianite
 broaching
-bruising
+bruising 1
 bullhide
 bromomania
 buncal
