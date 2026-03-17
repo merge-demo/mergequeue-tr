@@ -5666,7 +5666,7 @@ exordiums
 exposable 1
 eligibly
 erysiphaceae
-ectocelic
+ectocelic 1
 extranatural
 everbearing
 elephanta
