@@ -5801,7 +5801,7 @@ degradingness
 dregless
 dirk
 depreciable
-dysspermatism
+dysspermatism 1
 depreciate
 deponents
 despots
