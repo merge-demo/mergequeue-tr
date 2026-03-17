@@ -31581,7 +31581,7 @@ curtein
 cinquains
 chilion
 curteous
-curter
+curter 1
 curtesies
 curtilage
 curtsied
