@@ -4423,7 +4423,7 @@ graveyard
 giddyhead
 gepoun
 gugu
-galtonian
+galtonian 1
 gypsyfy 1
 greedsome 2
 gunshot
