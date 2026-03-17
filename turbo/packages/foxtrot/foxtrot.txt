@@ -11687,7 +11687,7 @@ flibustier
 furcates
 frailties
 festoons
-flocculate
+flocculate 1
 frigorific
 floodgate
 feru
