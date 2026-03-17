@@ -12880,7 +12880,7 @@ ensynopticity
 eburneoid
 evacuators 1
 expandable
-escropulo
+escropulo 1
 exobiologists
 erethisms
 exsert
