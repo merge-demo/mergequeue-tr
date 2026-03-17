@@ -14249,7 +14249,7 @@ anterooms
 anteroparietal
 anencephalous
 alchochoden
-ancipitous
+ancipitous 1
 assortive
 afflatuses
 acerathere
