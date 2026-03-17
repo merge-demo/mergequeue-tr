@@ -13810,7 +13810,7 @@ dirndls
 dissuasively
 detruncate
 drayed
-dengues
+dengues 1
 dissuit
 derogatorily
 dispauperize
