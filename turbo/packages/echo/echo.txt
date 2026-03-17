@@ -13570,7 +13570,7 @@ embroidery
 exsibilation
 evadable
 exsiccant 1
-exsiccatae
+exsiccatae 1
 elucidate
 exsiccating
 ergusia
