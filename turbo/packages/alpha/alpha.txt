@@ -4077,7 +4077,7 @@ anisosthenic
 aldrin
 admits
 australopithecine
-admittance
+admittance 1
 admitted
 agitpunkt
 ardoise
