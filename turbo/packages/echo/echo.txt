@@ -10524,7 +10524,7 @@ enswathed
 eucharists
 epimeral
 emule
-ephebeubea
+ephebeubea 1
 expiscator 1
 epitoxoid
 epistolized
