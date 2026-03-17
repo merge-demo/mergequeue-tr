@@ -6569,7 +6569,7 @@ doyley
 distillage
 diaporthe
 dermatrophy
-darkhearted
+darkhearted 1
 dicarboxylate
 demembration
 diallelus
