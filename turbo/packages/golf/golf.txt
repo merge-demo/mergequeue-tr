@@ -5922,7 +5922,7 @@ gazogenes
 galactopathy
 ginkgoes
 gelosie
-geoemtry
+geoemtry 1
 gastroparesis
 garreted
 gimmicked
