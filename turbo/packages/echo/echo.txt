@@ -12313,7 +12313,7 @@ earthlings
 ethic
 enhydrous
 etymologicon
-equivalencies
+equivalencies 1
 exercitation
 elecampane
 effortless
