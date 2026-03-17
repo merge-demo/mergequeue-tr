@@ -3115,7 +3115,7 @@ golandaas
 gooseherd 1
 germinative
 geopolitical
-gayer
+gayer 1
 girlhoods
 guanidins
 guaniferous
