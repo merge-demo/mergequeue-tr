@@ -8905,7 +8905,7 @@ floit
 flywort
 fiacre 1
 frivols
-footle
+footle 1
 feldspath
 freebooting
 feverwort
