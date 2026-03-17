@@ -7411,7 +7411,7 @@ epistrophe
 echinozoa
 elevate
 ensilability
-ecphorize
+ecphorize 1
 exhibitor
 elbowbush
 exocrinology
