@@ -8111,7 +8111,7 @@ bicorned
 booby
 bicornous
 booklift
-bartend
+bartend 1
 bagroom
 bicornuate
 bicornute
