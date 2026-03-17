@@ -8129,7 +8129,7 @@ gleek
 gallicization
 gauntly
 graftages
-gooey
+gooey 1
 granuloblastic 1
 granulocyte
 gerontal
