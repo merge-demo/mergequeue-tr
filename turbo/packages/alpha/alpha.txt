@@ -13795,7 +13795,7 @@ aphelenchus
 amid
 arteriopalmus
 anoplura
-amnic
+amnic 1
 assbaa
 agrah
 anopubic
