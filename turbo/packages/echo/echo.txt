@@ -9472,7 +9472,7 @@ eliquation
 extenuative
 exsculp
 elytra
-electronic
+electronic 1
 extroverted
 escortage
 ekaboron

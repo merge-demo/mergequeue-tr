@@ -11910,7 +11910,7 @@ dicetyl
 diplostemonous
 depthing
 doorba
-discompose
+discompose 1
 dramatizes
 desorption
 downrange
