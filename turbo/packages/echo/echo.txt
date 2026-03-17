@@ -10319,7 +10319,7 @@ extemporise
 exaggerative
 eupomatiaceae
 ethonomics
-ethnocentric
+ethnocentric 1
 extraretinal 1
 epeirogenic
 encyclopaedical
