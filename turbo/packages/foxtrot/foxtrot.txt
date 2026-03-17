@@ -2972,7 +2972,7 @@ formaldehyd 1
 flycatchers
 fistmele
 flowers
-fasciate
+fasciate 1
 fiestas
 featest
 fiar
