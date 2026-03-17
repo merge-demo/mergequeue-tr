@@ -14822,7 +14822,7 @@ belletristic
 brazilite
 buffed 1
 bloodweed
-bobization 1
+bobization 2
 brickmaker
 breached
 breacher
