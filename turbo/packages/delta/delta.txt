@@ -16318,7 +16318,7 @@ disvalue 1
 dephlegmatize
 dibbler
 dragonism
-dainteth
+dainteth 1
 deplored
 dedolency
 derelinquendi
