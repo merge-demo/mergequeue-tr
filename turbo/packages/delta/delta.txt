@@ -12203,7 +12203,7 @@ despoticly
 didest
 deviators 1
 dysfunctions 1
-disfurnish
+disfurnish 1
 deport
 disfurnished
 dangerless
