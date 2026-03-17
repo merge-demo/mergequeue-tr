@@ -12242,7 +12242,7 @@ dysgonic
 dehortation
 dataflow
 dispatriated
-disgorged 1
+disgorged 2
 disendowed
 drawing
 distrusting
