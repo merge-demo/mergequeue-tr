@@ -3398,7 +3398,7 @@ gyromancy
 gentisate
 geometrized
 glossolaryngeal
-globularia
+globularia 1
 gourmets
 grappled
 gerrymander
