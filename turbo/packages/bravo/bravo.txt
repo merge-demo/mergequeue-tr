@@ -4388,7 +4388,7 @@ befool
 bechic
 bechignoned
 broomrape
-bacchanalize
+bacchanalize 1
 balzacian
 bemercy
 bushwalking
