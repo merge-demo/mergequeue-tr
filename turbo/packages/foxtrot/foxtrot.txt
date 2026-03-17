@@ -3040,7 +3040,7 @@ fluorin
 floruit 1
 filmizing
 forehoof
-frounceless
+frounceless 1
 freend
 flopping
 fibrillating
