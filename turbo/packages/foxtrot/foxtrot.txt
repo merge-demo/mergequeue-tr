@@ -2437,7 +2437,7 @@ foh
 fingu
 foreproduct
 floretty 1
-fermentable
+fermentable 1
 fermentativeness
 faradize
 footbridges
