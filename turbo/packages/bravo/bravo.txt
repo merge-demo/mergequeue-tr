@@ -15012,7 +15012,7 @@ breccial
 boatly
 breccias
 brecham 1
-barnacling
+barnacling 1
 brechams
 brechans
 breakfaster
