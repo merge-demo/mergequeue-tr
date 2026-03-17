@@ -146,7 +146,7 @@ deiparous
 demounted
 dadoxylon
 desireful
-diestocks
+diestocks 1
 dressage 1
 delicates
 doweral
