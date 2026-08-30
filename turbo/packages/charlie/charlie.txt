@@ -7917,7 +7917,7 @@ catheter
 cetraric
 celeriacs
 cetrarin
-coenoecial
+coenoecial 1
 cacotrichia
 cetus
 coattailed
